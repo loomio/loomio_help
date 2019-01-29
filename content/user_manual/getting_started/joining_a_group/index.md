@@ -29,14 +29,14 @@ You can be emailed about all activity, only important activity, or keep up to da
 
 Visit the [email settings](https://www.loomio.org/email_preferences) to configure the email settings to suit your preferences. This page is linked from the sidebar.
 
-<iframe width="100%" src="https://www.youtube.com/embed/OUF4p1JNalY" frameborder="0" allowfullscreen></iframe>
+<iframe width="100%" height="380px" src="https://www.youtube.com/embed/OUF4p1JNalY" frameborder="0" allowfullscreen></iframe>
 
 
 ## Is anyone missing?
 
 Check the members list on your Loomio group page. Are people missing? Click “invite people” to add them. Give them a phone call or an email to make sure they got their invitation.
 
-<iframe width="100%" src="https://www.youtube.com/embed/xwE0IM1k64E" frameborder="0" allowfullscreen></iframe>
+<iframe width="100%" height="380px" src="https://www.youtube.com/embed/xwE0IM1k64E" frameborder="0" allowfullscreen></iframe>
 
 ## Say “Hello”
 Every Loomio group starts off with an Introductions thread. This is a place where you can say hello. Share why you've joined the group, and tell people something about yourself so they can understand you a bit better.

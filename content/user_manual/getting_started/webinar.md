@@ -5,6 +5,7 @@ weight: 10
 menu:
   main:
     parent: getting_started
+    weight: 100
 ---
 
 We now offer a free introductory and training webinar for people who want to learn more about what Loomio can do to help their group!

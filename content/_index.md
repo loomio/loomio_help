@@ -1,18 +1,13 @@
 ---
 title: Loomio Help
 ---
-
 # Loomio Help
 
 ## Learn how to use Loomio, do great online facilitation and grow a collaborative culture.
 
-[Loomio](https://www.loomio.org) is an online tool used by thousands of groups around the world to increase transparency and inclusion, decrease meetings and emails, and make better decisions together.
+<!-- [Loomio](https://www.loomio.org) is an online tool used by thousands of groups around the world to increase transparency and inclusion, decrease meetings and emails, and make better decisions together. -->
 
-<iframe width="100%" losrc="https://www.youtube-nocookie.com/embed/JMda6WYx9jM?controls=0" frameborder="0" allowfullscreen></iframe>
-
-<div style="border: 2px solid #FFA726; border-radius: 8px; padding: 1em">
-<b>Learn Loomio from our friendly experts!</b> Join a free <a href="https://www.eventbrite.com/e/loomio-101-webinar-registration-52826513524">Loomio 101 webinar</a>.</div>
-
+***
 
 ## [Loomio User Manual](user_manual)
 Start here to learn how to use Loomio and introduce it to your group.

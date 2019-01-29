@@ -6,4 +6,4 @@ The Loomio newsletter is a great way to say updated about new features, help art
 
 We only send a 3 or 4 newsletter emails per year, so you can sign up with confidence that we won't flood your inbox.
 
-<iframe src="https://newsletter.loomio.org/subscription/V1Cbxj0yI" width="100%" height="800px"/></iframe>
+<iframe width="100%" height="380px" src="https://newsletter.loomio.org/subscription/V1Cbxj0yI" width="100%" height="800px"/></iframe>

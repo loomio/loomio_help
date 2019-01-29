@@ -31,7 +31,7 @@ You need a good understanding of how to use Loomio, so you can assist others.
 
 Make sure you understand the [group settings](https://loomio.gitbooks.io/manual/content/en/group_settings.html), especially privacy. Have a look through the menus and sections to familiarise yourself with the software.
 
-<iframe width="100%" src="https://www.youtube.com/embed/xwE0IM1k64E" frameborder="0" allowfullscreen></iframe>
+<iframe width="100%" height="380px" src="https://www.youtube.com/embed/xwE0IM1k64E" frameborder="0" allowfullscreen></iframe>
 
 
 ## Update your group description
@@ -40,7 +40,7 @@ With a clear purpose, people can make judgement calls about what's best for the 
 
 Your Loomio group page has a space for information. Update this field so that everyone can see it when they visit the group. If you're unsure, start a discussion with your group about what you want to achieve together and what information people want on the group page.
 
-<iframe width="100%" src="https://www.youtube.com/embed/asZEbbiHH-s" frameborder="0" allowfullscreen></iframe>
+<iframe width="100%" height="380px" src="https://www.youtube.com/embed/asZEbbiHH-s" frameborder="0" allowfullscreen></iframe>
 
 ## Upload a profile photo
 
@@ -52,9 +52,9 @@ Upload your profile photo before sending invitations to join the group, so that 
 
 Uploading a photo that has some meaning to your group significantly improves the sense of belonging. You can customise both the small square photo (eg, with a logo), and the big cover image (eg, with a group photo).
 
-<iframe width="100%" src="https://www.youtube.com/embed/8cdGR7FaGYg" frameborder="0" allowfullscreen></iframe>
+<iframe width="100%" height="380px" src="https://www.youtube.com/embed/8cdGR7FaGYg" frameborder="0" allowfullscreen></iframe>
 
-<iframe width="100%" src="https://www.youtube.com/embed/F2r2tKi3pxM" frameborder="0" allowfullscreen></iframe>
+<iframe width="100%" height="380px" src="https://www.youtube.com/embed/F2r2tKi3pxM" frameborder="0" allowfullscreen></iframe>
 
 ## Encourage Introductions
 
@@ -63,7 +63,7 @@ A round of introductions is a great way for people to get to know a bit about ea
 New groups start with an introductions thread automatically. We recommend you edit the thread to make it yours, with a prompt relevant to your group.
 
 To edit the introductions thread, click into it and select the edit option in the context box.
-<iframe width="100%" src="https://www.youtube.com/embed/CGUH3UJrxfQ" frameborder="0" allowfullscreen></iframe>
+<iframe width="100%" height="380px" src="https://www.youtube.com/embed/CGUH3UJrxfQ" frameborder="0" allowfullscreen></iframe>
 
 ## Invite people
 
@@ -80,7 +80,7 @@ If people join but don't introduce themselves, you might like to welcome them to
 
 > “Welcome to the group @Jane :) It's great to have you here! Would you saying a little bit about your work in this space?”
 
-<iframe width="100%" src="https://www.youtube.com/embed/nm9hoOofblw" frameborder="0" allowfullscreen></iframe>
+<iframe width="100%" height="380px" src="https://www.youtube.com/embed/nm9hoOofblw" frameborder="0" allowfullscreen></iframe>
 
 ## Champion the use of Loomio
 
