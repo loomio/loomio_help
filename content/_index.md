@@ -6,7 +6,7 @@ title: Loomio Help
 
 ## Learn how to use Loomio, do great online facilitation and grow a collaborative culture.
 
-[Loomio](https://www.loomio.org) is an online tool used by thousands of groups around the world to increase transparency and inclusion, decrease meetings and emails, and make better decisions together. Watch this short video to see how it works:
+[Loomio](https://www.loomio.org) is an online tool used by thousands of groups around the world to increase transparency and inclusion, decrease meetings and emails, and make better decisions together.
 
 <iframe width="100%" losrc="https://www.youtube-nocookie.com/embed/JMda6WYx9jM?controls=0" frameborder="0" allowfullscreen></iframe>
 
