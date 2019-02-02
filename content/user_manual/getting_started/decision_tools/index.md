@@ -1,6 +1,6 @@
 ---
 title: Making decisions
-description: Use Loomio's decision tools to move discussion to shared understanding.
+description: Use Loomio's decision tools to move discussion to clear outcomes.
 weight: 60
 menu:
   main:
