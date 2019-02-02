@@ -9,7 +9,7 @@ menu:
 
 <iframe width="100%" height="380px" src="https://www.youtube-nocookie.com/embed/ePILBTxgkmE?controls=0" frameborder="0" allowfullscreen></iframe>
 
-Loomio does not make decisions for you. Rather, the tool is designed to:
+Loomio does not make decisions for you; rather, the tool is designed to:
 
 * communicate what decision is being made
 * make it easy to participate
