@@ -9,7 +9,7 @@ menu:
 
 Loomio is a simple, user-friendly online tool for collaborative decision-making. Loomio lets you host discussions online, invite the right people to participate, come to timely decisions and transform deliberation into real-world action.
 
-<iframe width="100%" height="380px" src="https://www.youtube-nocookie.com/embed/JMda6WYx9jM?controls=0" frameborder="0" allowfullscreen></iframe>
+<iframe width="100%" height="380px" src="https://www.youtube-nocookie.com/embed/JMda6WYx9jM" frameborder="0" allowfullscreen></iframe>
 
 ## How it works in four steps
 
