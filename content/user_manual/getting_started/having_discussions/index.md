@@ -59,7 +59,11 @@ A direct way of asking for someone's attention. Use the `@` symbol and select th
 
 **Replying**
 
-Replies to another users comment will notify that user; this means you don't have to `@`mention them.
+_Replies_ to another users comment will notify that user; this means you don't have to `@`mention them.
+
+**Reacting**
+
+Use the smiley face `😃` button to _react_ to comments and contexts (threads). You might use a reaction when you want to share how you feel, a brief opinion, or indicate that you have seen the comment. _Reactions_ are helpful because they are less disruptive than mentions, replies, or comments.
 
 **Invite to Thread**
 
