@@ -57,6 +57,16 @@ When you start a discussion, you can choose to select all members of a group, or
 
 A direct way of asking for someone's attention. Use the `@` symbol and select the person's name. It's generally expected that you will respond when someone _mentions_ you.
 
+**Replying**
+
+Replies to another users comment will notify that user; this means you don't have to `@`mention them.
+
+**Invite to Thread**
+
+When you start a thread, your whole group can access it immediately. If you want more people's participation, or want their participation sooner, you can additionally send them an alert through _Invite to thread_, in your right-hand column.
+
+_Invite to thread_ also enables you to invite people outside of your group; see "Invite non-members to a discussion", below, for details.
+
 **Start a decision**
 
 The most powerful way to get attention from your group. Ensure that you have a clear decision description so people know how to participate. Loomio will notify everyone you choose (the whole group, everyone in the thread, or selected individuals) about new decisions. Loomio will also remind participants, and those you invite to the decision, before the closing deadline.
@@ -73,7 +83,11 @@ Bring group members into a specific discussion by mentioning them: type “@” 
 
 High quality decisions come from gathering the right inputs. Are there other people the decision affects, who have not shared an opinion? Are there experts in the field that you could bring into the room?
 
-Remember to look out for those people who are usually quiet. Don't just call them out, but consider how best to bring their perspective in, and why they might be hanging back.
+**Invite non-members to a discussion**
+You can invite people from outside of your group to a specific thread by using the _Invite to thread_ panel. They will have access to this thread alone and to no other part of your group. This can be useful if you have contracted an expert (e.g., a lawyer) and you would like to make the conversation accessible to your group. It helps you keep tidy records, saving you time and effort copying and pasting communications that have occurred outside of Loomio.
+
+**Inviting diverse participation**
+Remember to look out for those people who tend to be quiet. Don't just call them out, but consider how best to bring their perspective in, and why they might be participating or vocalizing less than others.
 
 ## Keep discussion on Loomio
 
