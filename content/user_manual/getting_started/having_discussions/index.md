@@ -67,7 +67,9 @@ Use the smiley face `😃` button to _react_ to comments and contexts (threads).
 
 **Invite to Thread**
 
-When you start a thread, your whole group can access it immediately. If you want more people's participation, or want their participation sooner, you can additionally send them an alert through _Invite to thread_, in your right-hand column.
+When you start a thread, your whole group can access it immediately. If you want more people's participation, or want their participation sooner, you can additionally send them an alert using _Invite to thread_, which you will find in the Thread Members panel of your right-hand column.
+
+![Invite to thread panel in context](invite_to_thread.png)
 
 _Invite to thread_ also enables you to invite people outside of your group; see "Invite non-members to a discussion", below, for details.
 
@@ -89,7 +91,7 @@ High quality decisions come from gathering the right inputs. Are there other peo
 
 **Invite non-members to a discussion**
 
-You can invite people from outside of your group to a specific thread by using the _Invite to thread_ panel. They will have access to this thread alone and to no other part of your group. This can be useful if you have contracted an expert (e.g., a lawyer) and you would like to make the conversation accessible to your group. It helps you keep tidy records, saving you time and effort copying and pasting communications that have occurred outside of Loomio.
+You can invite people from outside of your group to a specific thread by using _Invite to thread_ in the Thread Members panel, as depicted above. They will have access to this thread alone and to no other part of your group. This can be useful if you have contracted an expert (e.g., a lawyer) and you would like to make the conversation accessible to your group. It helps you keep tidy records, saving you time and effort copying and pasting communications that have occurred outside of Loomio.
 
 **Inviting diverse participation**
 
