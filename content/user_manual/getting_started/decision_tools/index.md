@@ -19,7 +19,7 @@ Decisions happen in *threads*. Loomio does not make decisions for you; rather, t
 
 It's up to each group to decide how to interpret the results. For instance, [here's the decision-making protocol for the Enspiral community](https://handbook.enspiral.com/agreements/decisions.html). They have defined specific criteria for three different types of decision, e.g. how long the decision must be open for input, and what percentage of the group must participate to make a binding decision.
 
-Loomio provides a range of tools to support your group decision-making. You can start using them right away by visiting the [New Decision page](https://www.loomio.org/p/new/).
+Loomio provides a range of tools to support your group decision-making - keep reading for a summary of what's available!
 
 ![](decision-types.png)
 
