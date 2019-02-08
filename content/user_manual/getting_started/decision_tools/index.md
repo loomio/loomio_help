@@ -9,7 +9,7 @@ menu:
 
 <iframe width="100%" height="380px" src="https://www.youtube-nocookie.com/embed/ePILBTxgkmE" frameborder="0" allowfullscreen></iframe>
 
-Loomio does not make decisions for you; rather, the tool is designed to:
+Decisions happen in *threads*. Loomio does not make decisions for you; rather, the tool is designed to:
 
 * communicate what decision is being made
 * make it easy to participate
@@ -25,8 +25,8 @@ Loomio provides a range of tools to support your group decision-making. You can 
 
 ## All Loomio decisions follow a common pattern
 
-1. Somebody starts a discussion thread, and invites participants. At any point, any participant can propose a decision
-2. Author sets up the decision with title, details and options
+1. Author starts a discussion thread, and invites members. At any point, a member can start a decision, using any of the available Loomio decision tools
+2. Member sets up the decision with title, details and options
 3. People participate
 4. People can change their minds as understanding develops
 5. A reminder is sent out the day before closing
