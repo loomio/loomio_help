@@ -1,13 +1,13 @@
 ---
 title: Joining a group
 weight: 30
-description: You've just been invited to a Loomio group, here's what you need to know.
+description: You've just been invited to a Loomio group! Here's what you need to know.
 menu:
   main:
     parent: getting_started
 ---
 
-Someone has invited you to join a Loomio group! Here are the essential things you can do to get off to a good start.
+Here are the essential things you can do to get off to a good start.
 
 If you're not sure what Loomio is, check out ["What is Loomio?"](overview.md).
 
@@ -17,19 +17,19 @@ Give yourself a tour by clicking around the app. Down the left is your *sidebar*
 ## Add your profile photo
 Reading text on a screen can be a bit impersonal. Make things friendlier by adding a profile photo to give a face to your name. (If you're not comfortable showing your face, pick any image to represent you.)
 
-To change your profile picture, click *"edit profile"* on the sidebar.
+To change your profile picture, click on your initials or profile picture in the top right corner and then click *"edit profile"*.
 
 ## Configure your email settings
 
 Email notifications are the main way Loomio keeps you updated on what's happening in your group.
 
+<iframe width="100%" height="380px" src="https://www.youtube-nocookie.com/embed/np02ObWLpJM" frameborder="0" allowfullscreen></iframe>
+
 By default, we email you most of the activity on Loomio as it happens. This helps to keep people engaged in the early stages of a group, but can get overwhelming if there is a lot of activity.
 
 You can be emailed about all activity, only important activity, or keep up to date with daily summary emails. Or you can turn off emails entirely. It's up to you.
 
-Visit the [email settings](https://www.loomio.org/email_preferences) to configure the email settings to suit your preferences. This page is linked from the sidebar.
-
-<iframe width="100%" height="380px" src="https://www.youtube.com/embed/OUF4p1JNalY" frameborder="0" allowfullscreen></iframe>
+Go to your [email settings](https://www.loomio.org/email_preferences) to configure them to suit your preferences. This page is found by clicking on your picture, or initials, in the top right corner of Loomio.
 
 
 ## Is anyone missing?
