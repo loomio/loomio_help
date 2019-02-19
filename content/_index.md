@@ -21,6 +21,8 @@ Guides to using Loomio in various situations. Stories from our users and more.
 ## [Open source](dev_manual)
 Want to run your own Loomio instance, translate Loomio into another language, or develop your own features?
 
+## [About Us](about_us)
+
 ***
 
 ## Can't find what you're looking for?
