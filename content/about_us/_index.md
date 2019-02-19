@@ -82,7 +82,7 @@ We’re a passionate team with deep expertise in group process facilitation, soc
       <p>Senior developer, DevOps, architecture. Thinks up ideas and writes them into software</p>
     </td>
     <td>
-      <img src="jody.jpg" />
+      <img src="jody.png" />
     </td>
     <td style="width: 50%;">
       <strong>Jody Connor</strong>
@@ -91,14 +91,14 @@ We’re a passionate team with deep expertise in group process facilitation, soc
   </tr>
   <tr style="border-bottom: 15px solid transparent; border-top: 15px solid transparent;">
     <td>
-      <img src="iain.jpg" />
+      <img src="iain.png" />
     </td>
     <td style="width: 50%;">
       <strong>Iain Kirkpatrick</strong>
       <p>Software developer, old cartographer, new systems dreamer, basketball fanatic</p>
     </td>
     <td>
-      <img src="kathleen.jpeg" />
+      <img src="kathleen.png" />
     </td>
     <td style="width: 50%;">
       <strong>Kathleen Wright</strong>
@@ -107,7 +107,7 @@ We’re a passionate team with deep expertise in group process facilitation, soc
   </tr>
   <tr style="border-bottom: 15px solid transparent; border-top: 15px solid transparent;">
     <td>
-      <img src="greg.jpg" />
+      <img src="greg.png" />
     </td>
     <td style="width: 50%;">
       <strong>Greg Kan</strong>
