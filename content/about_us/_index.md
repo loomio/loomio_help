@@ -27,14 +27,14 @@ We’re a passionate team with deep expertise in group process facilitation, soc
 <table>
   <tr style="border-bottom: 15px solid transparent; border-top: 15px solid transparent;">
     <td>
-      <img src="mary.png" style="max-width: 100px; margin-right: 30px;" />
+      <img src="mary.png" />
     </td>
     <td style="width: 50%;">
       <strong>Mary O'Keeffe</strong>
       <p>Organisational wrangler, collaborator, team coach, pot luck hoster, star gazer</p>
     </td>
     <td>
-      <img src="matthew.png" style="max-width: 100px; margin-right: 30px;" />
+      <img src="matthew.png" />
     </td>
     <td style="width: 50%;">
       <strong>Matthew Bartlett</strong>
@@ -43,14 +43,14 @@ We’re a passionate team with deep expertise in group process facilitation, soc
   </tr>
   <tr style="border-bottom: 15px solid transparent; border-top: 15px solid transparent;">
     <td>
-      <img src="michael.png" style="max-width: 100px; margin-right: 30px;" />
+      <img src="michael.png" />
     </td>
     <td style="width: 50%;">
       <strong>Michael Elwood-Smith</strong>
       <p>Director, business and customer development, coordinator, startup coach, motorcyclist</p>
     </td>
     <td>
-      <img src="mj.png" style="max-width: 100px; margin-right: 30px;" />
+      <img src="mj.png" />
     </td>
     <td style="width: 50%;">
       <strong>MJ Kaplan</strong>
@@ -59,14 +59,14 @@ We’re a passionate team with deep expertise in group process facilitation, soc
   </tr>
   <tr style="border-bottom: 15px solid transparent; border-top: 15px solid transparent;">
     <td>
-      <img src="nati.png" style="max-width: 100px; margin-right: 30px;" />
+      <img src="nati.png" />
     </td>
     <td style="width: 50%;">
       <strong>Natalia Lombardo</strong>
       <p>Translations coordinator, user support, activist</p>
     </td>
     <td>
-      <img src="rich.png" style="max-width: 100px; margin-right: 30px;" />
+      <img src="rich.png" />
     </td>
     <td style="width: 50%;">
       <strong>Richard Bartlett</strong>
@@ -75,14 +75,14 @@ We’re a passionate team with deep expertise in group process facilitation, soc
   </tr>
   <tr style="border-bottom: 15px solid transparent; border-top: 15px solid transparent;">
     <td>
-      <img src="rob.png" style="max-width: 100px; margin-right: 30px;" />
+      <img src="rob.png" />
     </td>
     <td style="width: 50%;">
       <strong>Robert Guthrie</strong>
       <p>Senior developer, DevOps, architecture. Thinks up ideas and writes them into software</p>
     </td>
     <td>
-      <img src="jody.jpg" style="max-width: 100px; margin-right: 30px;" />
+      <img src="jody.jpg" />
     </td>
     <td style="width: 50%;">
       <strong>Jody Connor</strong>
@@ -91,14 +91,14 @@ We’re a passionate team with deep expertise in group process facilitation, soc
   </tr>
   <tr style="border-bottom: 15px solid transparent; border-top: 15px solid transparent;">
     <td>
-      <img src="iain.jpg" style="max-width: 100px; margin-right: 30px;" />
+      <img src="iain.jpg" />
     </td>
     <td style="width: 50%;">
       <strong>Iain Kirkpatrick</strong>
       <p>Software developer, old cartographer, new systems dreamer, basketball fanatic</p>
     </td>
     <td>
-      <img src="kathleen.jpeg" style="max-width: 100px; margin-right: 30px;" />
+      <img src="kathleen.jpeg" />
     </td>
     <td style="width: 50%;">
       <strong>Kathleen Wright</strong>
@@ -107,14 +107,14 @@ We’re a passionate team with deep expertise in group process facilitation, soc
   </tr>
   <tr style="border-bottom: 15px solid transparent; border-top: 15px solid transparent;">
     <td>
-      <img src="greg.jpg" style="max-width: 100px; margin-right: 30px;" />
+      <img src="greg.jpg" />
     </td>
     <td style="width: 50%;">
       <strong>Greg Kan</strong>
       <p>Developer, poet, theorist, threshold winnower</p>
     </td>
     <td>
-      <img src="john.jpg" style="max-width: 100px; margin-right: 30px;" />
+      <img src="john.png" />
     </td>
     <td style="width: 50%;">
       <strong>John Gieryn</strong>
@@ -130,14 +130,14 @@ We’re backed by an Advisory Council with some of the brightest minds in democr
 <table>
   <tr style="border-bottom: 15px solid transparent; border-top: 15px solid transparent;">
     <td>
-      <img src="round-sascha.png" style="max-width: 100px; margin-right: 30px;" />
+      <img src="round-sascha.png" />
     </td>
     <td style="width: 50%;">
       <strong>Sascha Meinrath</strong>
       <p>Founder of X-Lab & Open Technology Institute</p>
     </td>
     <td>
-      <img src="round-katherine.png" style="max-width: 100px; margin-right: 30px;" />
+      <img src="round-katherine.png" />
     </td>
     <td style="width: 50%;">
       <strong>Katherine Borsecnik</strong>
@@ -146,14 +146,14 @@ We’re backed by an Advisory Council with some of the brightest minds in democr
   </tr>
   <tr style="border-bottom: 15px solid transparent; border-top: 15px solid transparent;">
     <td>
-      <img src="round-joi.png" style="max-width: 100px; margin-right: 30px;" />
+      <img src="round-joi.png" />
     </td>
     <td style="width: 50%;">
       <strong>Joi Ito</strong>
       <p>Director of MIT Media Lab, Co-founder Creative Commons, Board of Mozilla Foundation</p>
     </td>
     <td>
-      <img src="round-rushkoff.png" style="max-width: 100px; margin-right: 30px;" />
+      <img src="round-rushkoff.png" />
     </td>
     <td style="width: 50%;">
       <strong>Douglas Rushkoff</strong>
@@ -162,7 +162,7 @@ We’re backed by an Advisory Council with some of the brightest minds in democr
   </tr>
   <tr style="border-bottom: 15px solid transparent; border-top: 15px solid transparent;">
     <td>
-      <img src="round-monahans.png" style="max-width: 100px; margin-right: 30px;" />
+      <img src="round-monahans.png" />
     </td>
     <td style="width: 50%;">
       <strong>Matthew & Brian Monahan</strong>
