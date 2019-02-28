@@ -1,7 +1,7 @@
 ---
 title: Governance
 weight: 10
-description: Step-by-step workflows to simplify your efforts in your board or in many 'formal' or 'structured' group settings.
+description: How to simplify your work and get more effective and efficient—for boards or committees.
 menu:
   main:
     parent: process_guides
