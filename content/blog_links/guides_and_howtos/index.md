@@ -1,10 +1,23 @@
 ---
 title: Guides & How to's
-description: Practical examples of collaborative decision making.
+description: Practical examples and How to guides for better outcomes with less time and effort.
 menu:
   main:
     parent: guides_and_inspiration
 ---
+
+## Step-by-step guides
+### Governance
+Simplify your board or committee's work with these easy processes:
+<iframe width="100%" height="380px" src="https://www.youtube-nocookie.com/embed/FITqrhLuh8I" frameborder="0" allowfullscreen></iframe>
+<center>_You can find this [video's script here](https://docs.google.com/document/d/1Ez92Oi1dmFQhsGcVxkZTSRikEYthRGa2uTBYilsNePM/edit?usp=sharing)_</center>
+
+Key workflows covered:
+- Ratify or approve meeting minutes: this can save a lot of time in your meetings
+- Better prepare for the meeting (checks if group has read materials and reminds them to do so)
+- Make a decision between meetings (especially time sensitive ones)
+
+## Practical examples of collaborative decision making
 
 * [10 tips for making great decisions with Loomio](https://blog.loomio.org/2015/09/10/10-tips-for-making-great-decisions-with-loomio/)
 * [9 ways to use a Loomio proposal to turn a conversation into action](https://blog.loomio.org/2015/09/18/9-ways-to-use-a-loomio-proposal-to-turn-a-conversation-into-action/)
