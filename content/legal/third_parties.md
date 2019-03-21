@@ -1,8 +1,8 @@
 ---
-title: Loomio data processors and third parties
+title: Loomio data sub-processors and third parties
 ---
 
-This page describes which companies, services and other parties store, process or exchange data in order to provide you with either loomio.org or a private Loomio service managed by Loomio Cooperative.
+This page describes which companies, services and other parties store, process or exchange data in order to provide you a service managed by Loomio Cooperative Limited.
 
 We describe what data is exchanged, when and why. We also link to relevant policy documents including GDPR compliance statements and privacy policies.
 
@@ -39,27 +39,16 @@ We use [Chargify](https://chargify.com) to manage subscriptions and process cred
 [Heroku Security Privacy and Compliance page] (https://devcenter.heroku.com/articles/security-privacy-compliance)
 
 #### Cloudflare
-
-We use Cloudflare for
-
-- DNS hosting
-- DDOS protection
-- Request caching for www.loomio.org.
-
-This helps to protect the system from malicious attacks and provides performance improvements.
+Cloudflare helps to protect our systems from malicious attacks and provides performance improvements.
 
 [GDPR compliance](https://www.cloudflare.com/gdpr/introduction/)
 [Privacy & Security Policy](https://www.cloudflare.com/security-policy/)
 
 ### Amazon Web Services
+AWS provide cloud computing services upon which Loomio runs.
 
-We use AWS for
-
-- private managed host Loomio servers
-- file storage on loomio.org with S3
+- file storage with S3
 - outbound email via SES
-
-"All AWS Services GDPR ready" - Amazon.
 
 [GDPR statement](https://aws.amazon.com/compliance/gdpr-center/)
 [Privacy Policy](https://aws.amazon.com/privacy/)
@@ -67,7 +56,7 @@ We use AWS for
 #### Digital Ocean
 We use [DigitalOcean](https://digitalocean.com) for
 
-- Inbound email for loomio.org
+- Inbound email servers
 - Metrics, analytics and reporting
 - Error/Exception reporting
 - Testing and staging servers

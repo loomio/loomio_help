@@ -2,30 +2,35 @@
 title: Loomio GDPR compliance
 ---
 
-Loomio has undertaken a full internal review of how we handle personal data in the context of the EU GDPR. We only use or share personal data where users have given permission to do so, and we have verified all the third parties and Data Processors that we engage with are also committed to compliance with the GDPR.
+The EU General Data Protection Regulation (GDPR) came into effect on May 25, 2018. Loomio is GDPR compliant.
 
-We're delighted that the GDPR has come into effect and we support the shift to a more privacy respecting industry.
+## What rights to EU based Loomio users have under the GDPR?
 
-Loomio users under the GDPR have:
+Under the GDPR, EU based Loomio users have:
 
 - The right to be [informed](privacy).
-- The right to [access your data](personal_data).
-- The right to [correct your data](/profile).
-- The right to transfer your data to another service. Loomio is [open source software](https://github.com/loomio/loomio). You can run your own Loomio instance. Group data export functionality is currently in beta. We'd be delighted to provide you with your group data, so please [contact us](contact) to get access.
-- The right to [restrict processing](/profile). (See deactivation).
-- The right to [erasure](/profile). (See delete account).
-- The right to object. Please [contact us](/contact) immediately if you have a concern.
+- The right to [access and correct your data](../user_manual/users/user_profile/).
+- The right to [transfer your data](../user_manual/groups/data_export/) to another service. (Loomio is [open source software](https://github.com/loomio/loomio) and you can host it yourself)
+- The right to [restrict processing](../user_manual/users/user_profile/#deactivating-your-account).
+- The right to [erasure](../user_manual/users/deleting_your_account/).
+- The right to object. Please [contact us](/contact) immediately if you have a concern with how we're processing personal data.
 
-## Loomio Cooperative is a Data Controller
+## How does the GDPR affect Loomio group owners?
 
-The Loomio Cooperative Limited operates www.loomio.org as well as a number of private hosts for our clients, these are each known as Loomio _instances_.
+If you have any EU personal data (such as names, email addresses, ID numbers) in your Loomio group, you are a Controller of personal data under the GDPR.
 
-Loomio is software for people to have discussions and to make decisions together. Personal data is collected and processed to serve this purpose. You may refer to our [terms of service](terms_of_service) and [privacy policy](privacy) for more information.
+## Loomio Cooperative Limited is a Data Processor
 
-Additionally, Loomio is open source software, freely available from the Github repository. There are many independent instances of the Loomio software running where Loomio Cooperative is not the data controller and bears no responsibility.
+Processing EU personal data must be governed by a [GDPR-compliant contract](https://gdpr-info.eu/art-28-gdpr/).
 
-"Each instance of the Loomio is a separate system. Consent to store and process personal data is handled instance by instance, under control of the respective data controller.
+We provide a standard [Data Processing Addendum]() (DPA) to extend GDPR privacy principles, rights, and obligations everywhere personal data is processed.
+
+## Third party data processors
+
+Loomio uses third parties such as cloud computing services and customer support software to provide our services.
+
+We enter into GDPR-compliant data processing agreements with each party, and require the same of them. [Third party data processors used by Loomio](third_parties)
 
 ## Data Protection Officer
 
-Loomio has appointed Robert Guthrie as the DPO for Loomio Cooperative. Enquiries and requests can be made via email: dpo@loomio.org.
+Loomio has appointed Robert Guthrie as the DPO for Loomio Cooperative. Enquiries can be made via email: [dpo@loomio.org](mailto:dpo@loomio.org).
