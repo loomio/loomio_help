@@ -5,15 +5,15 @@ hidesidenav: true
 
 The following terms and conditions govern all use of the Loomio Application Service (the “Service”) and all content, services and products available at or through loomio.org (the “Site”). The Service is owned and operated by the Loomio Co-operative Ltd (“Loomio”). The Service is offered subject to your acceptance without modification of all of the terms and conditions contained herein and all other operating rules, policies (including, without limitation, Loomio’s [Privacy Policy](privacy)) and procedures that may be published from time to time on this Site by Loomio (collectively, the “Agreement”).
 
-If you are entering into this agreement on behalf of a company or other legal entity, you represent that you have the authority to bind such entity, its affiliates and all users who access our services through your account to these terms and conditions, in which case the terms "you" or "your" shall refer to such entity, its affiliates and users associated with it. If you do not have such authority, or if you do not agree with these terms and conditions, you must not accept this agreement and may not use the services.
+If you are entering into this agreement on behalf of a company or other legal entity, you represent that you have the authority to bind such entity, its affiliates and all users who access our services through your account to these terms and conditions, in which case the terms "you" or "your" shall refer to such entity, its affiliates and users associated with it. If you do not have such authority, or if you do not agree with these terms and conditions, you must not accept this agreement and may not use the Service.
 
-Please read this Agreement carefully before accessing or using the Service. By accessing or using any part of the Site, you agree to become bound by the terms and conditions of this agreement. If you do not agree to all the terms and conditions of this agreement, then you may not access the Service. If these terms and conditions are considered an offer by Loomio, acceptance is expressly limited to these terms.
+Please read this Agreement carefully before accessing or using the Service. By accessing or using any part of the Site, you agree to become bound by the terms and conditions of this Agreement. If you do not agree to all the terms and conditions of this Agreement, then you may not access the Service. If these terms and conditions are considered an offer by Loomio, acceptance is expressly limited to these terms.
 
 ## General Account Terms
 
 You must be a human. Accounts registered by "bots" or other automated methods are not permitted. You do not have to provide your legal name (except for subscribing group coordinators for billing purposes) and you can use the service with a pseudonym.
 
-You are responsible for maintaining the security of your account and password. Loomio cannot and will not be liable for any loss or damage from your failure to comply with this security obligation. You are fully responsible for all activities that occur under the account and any other actions taken in connection with the account. You must immediately notify Loomio of any unauthorized uses of your account, or any other breaches of security. Loomio will not be liable for any acts or omissions by You, including any damages of any kind incurred as a result of such acts or omissions. You may not use the Service for any illegal or unauthorized purpose. You must not, in the use of the Service, violate any laws in your jurisdiction (including but not limited to copyright or trademark laws).
+You are responsible for maintaining the security of your account and password. Loomio cannot and will not be liable for any loss or damage from your failure to comply with this security obligation. You are fully responsible for all activities that occur under the account and any other actions taken in connection with the account. You must immediately notify Loomio of any unauthorized uses of your account, or any other breaches of security. Loomio will not be liable for any acts or omissions by you, including any damages of any kind incurred as a result of such acts or omissions. You may not use the Service for any illegal or unauthorized purpose. You must not, in the use of the Service, violate any laws in your jurisdiction (including but not limited to copyright or trademark laws).
 
 
 ## Content
@@ -32,10 +32,10 @@ By making Content available, you represent and warrant that:
 * your group is not named in a manner that misleads your readers into thinking that you are another person or company. For example, your group’s name is not the name of a company other than your own;
 * and you have, in the case of Content that includes computer code, accurately categorized and/or described the type, nature, uses and effects of the materials, whether requested to do so by Loomio or otherwise.
 
-Without limiting any of those representations or warranties, Loomio has the right (though not the obligation) to, in Loomio’s sole discretion
+Without limiting any of those representations or warranties, Loomio has the right (though not the obligation) to, in Loomio’s sole discretion:
 
 1. refuse or remove any content that, in Loomio’s reasonable opinion, violates any Loomio policy or is in any way harmful or objectionable, or
-2. terminate or deny access to and use of the Service to any individual or entity for any reason, in Loomio’s sole discretion. Loomio will have no obligation to provide a refund of any amounts previously paid.
+2. terminate or deny access to and use of the Service to any individual or entity for any reason. Loomio will have no obligation to provide a refund of any amounts previously paid.
 
 As a user, you may deactivate your account at any time. Personally identifying information such as your name, username and profile photo will no longer be associated with content you have posted. However, the content itself will remain, in order to preserve the integrity of group discussions and decisions.
 
@@ -47,11 +47,11 @@ By selecting a subscription you agree to pay Loomio the monthly subscription fee
 
 ### Automatic Renewal
 
-Unless you notify Loomio before the end of the applicable subscription period that you want to cancel a subscription, your subscription will automatically renew and you authorize us to collect the then-applicable subscription fee for such subscription (as well as any taxes) using any credit card or other payment mechanism we have on record for you. Subscriptions can be canceled at any time by contacting the payment provider or emailing accounts@loomio.org.
+Unless you notify Loomio before the end of the applicable subscription period that you want to cancel a subscription, your subscription will automatically renew and you authorize us to collect the then-applicable fee for such subscription (as well as any taxes) using any credit card or other payment mechanism we have on record for you. Subscriptions can be canceled at any time by contacting the payment provider or emailing accounts@loomio.org.
 
 ## Changes
 
-We reserve the right to modify these Terms at any time and modified terms are effective upon posting to this website. We will make every effort to inform you of these changes via email or through the Service. Your continued use of or access to the Service following the posting of any changes to this Agreement constitutes acceptance of those changes. Loomio may also, in the future, offer new services and/or features (including, the release of new tools and resources). Such new features and/or services shall be subject to the terms and conditions of this Agreement.
+We reserve the right to modify these terms at any time and modified terms are in effect upon posting to this website. We will make every effort to inform you of these changes via email or through the Service. Your continued use of or access to the Service following the posting of any changes to this Agreement constitutes acceptance of those changes. Loomio may also, in the future, offer new services and/or features including the release of new tools and resources. Such new features and/or services shall be subject to the terms and conditions of this Agreement.
 
 ## Data
 
@@ -63,16 +63,16 @@ Loomio may terminate your access to all or any part of the Service at any time, 
 
 ## Disclaimer of Warranties
 
-The Sevice is provided “as is”. Loomio and its suppliers and licensors hereby disclaim all warranties of any kind, express or implied, including, without limitation, the warranties of merchantability, fitness for a particular purpose and non-infringement. Neither Loomio nor its suppliers and licensors, makes any warranty that the App will be error free or that access thereto will be continuous or uninterrupted. You understand that you download from, or otherwise obtain content or services through, the Service at your own discretion and risk.
+The Sevice is provided “as is”. Loomio and its suppliers and licensors hereby disclaim all warranties of any kind, express or implied, including, without limitation, the warranties of merchantability, fitness for a particular purpose and non-infringement. Neither Loomio nor its suppliers and licensors, make any warranty that the App will be error free or that access thereto will be continuous or uninterrupted. You understand that you download from, or otherwise obtain content or services through, the Service at your own discretion and risk.
 
 ## Limitation of Liability
 
-In no event will Loomio, or its suppliers or licensors, be liable with respect to any subject matter of this agreement under any contract, negligence, strict liability or other legal or equitable theory for:
+In no event will Loomio, or its suppliers or licensors, be liable with respect to any subject matter of this Agreement under any contract, negligence, strict liability or other legal or equitable theory for:
 
 1. any special, incidental or consequential damages;
 2. the cost of procurement for substitute products or services;
-3. for interruption of use or loss or corruption of data; or
-4. for any amounts that exceed the fees paid by you to Loomio under this agreement during the twelve (12) month period prior to the cause of action. Loomio shall have no liability for any failure or delay due to matters beyond their reasonable control. The foregoing shall not apply to the extent prohibited by applicable law.
+3. for interruption of use, loss or corruption of data; or
+4. for any amounts that exceed the fees paid by you to Loomio under this Agreement during the twelve (12) month period prior to the cause of action. Loomio shall have no liability for any failure or delay due to matters beyond their reasonable control. The foregoing shall not apply to the extent prohibited by applicable law.
 
 
 ## General Representation and Warranty
@@ -88,7 +88,7 @@ You agree to indemnify and hold harmless Loomio, its contractors, and its licens
 
 ## Disputes and choice of law
 
-This Agreement constitutes the entire agreement between Loomio and You concerning the subject matter hereof, and they may only be modified by a written amendment signed by a Loomio Cooperative member, or by the posting by Loomio of a revised version. Any and all disputes arising of this agreement, termination, or our relationship with you shall be determined by binding arbitration under the Arbitration Act 1996 in Wellington, New Zealand, by one arbitrator who shall be a lawyer knowledgeable in relevant technology matters appointed by the President for the time being of the Arbitrators and Mediators Institute of New Zealand Incorporated (AMINZ) on a request by either You or Loomio. Notice must be given to apply for any interim measure in the arbitration proceeding.
+This Agreement constitutes the entire agreement between Loomio and you concerning the subject matter hereof, and they may only be modified by a written amendment signed by a Loomio Cooperative member, or by the posting by Loomio of a revised version. Any and all disputes arising of this agreement, termination, or our relationship with you shall be determined by binding arbitration under the Arbitration Act 1996 in Wellington, New Zealand, by one arbitrator who shall be a lawyer knowledgeable in relevant technology matters appointed by the President for the time being of the Arbitrators and Mediators Institute of New Zealand Incorporated (AMINZ) on a request by either you or Loomio. Notice must be given to apply for any interim measure in the arbitration proceeding.
 
 1. The arbitration proceeding will commence when a request is made to AMINZ to appoint an arbitrator.
 2. The arbitration shall be in English. The Arbitrator in his or her discretion may permit the parties and witnesses to appear by video-conference.
