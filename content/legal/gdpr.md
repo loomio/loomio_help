@@ -13,7 +13,7 @@ If you have any EU personal data (such as names, email addresses, ID numbers) in
 
 Processing EU personal data must be governed by a [GDPR-compliant contract](https://gdpr-info.eu/art-28-gdpr/).
 
-We provide a standard [Data Processing Addendum](../LOOMIO_EU_DATA_PROCESSING_ADDENDUM.pdf) (DPA) to extend GDPR privacy principles, rights, and obligations everywhere personal data is processed.
+We provide a standard [Data Processing Addendum](/legal/LOOMIO_EU_DATA_PROCESSING_ADDENDUM.pdf) (DPA) to extend GDPR privacy principles, rights, and obligations everywhere personal data is processed.
 
 ## Third party data processors
 
