@@ -9,7 +9,7 @@ The EU General Data Protection Regulation (GDPR) came into effect on May 25, 201
 
 If you have any EU personal data (such as names, email addresses, ID numbers) in your Loomio group, you are a Controller of personal data under the GDPR.
 
-## Loomio Cooperative Limited is a data processor
+## Loomio Co-operative Limited is a data processor
 
 Processing EU personal data must be governed by a [GDPR-compliant contract](https://gdpr-info.eu/art-28-gdpr/).
 
@@ -21,9 +21,9 @@ Loomio uses third parties subprocessors such as cloud computing services to prov
 
 We enter into GDPR-compliant data processing agreements with each party. [Data subprocessors used by Loomio](../third_parties)
 
-## What rights to EU based Loomio users have under the GDPR?
+## What rights to EU-based Loomio users have under the GDPR?
 
-Under the GDPR, EU based Loomio users have:
+Under the GDPR, EU-based Loomio users have:
 
 - The right to be [informed](../privacy).
 - The right to [access and correct your data](../user_manual/users/user_profile/).
@@ -34,4 +34,4 @@ Under the GDPR, EU based Loomio users have:
 
 ## Data Protection Officer
 
-Loomio has appointed Robert Guthrie as the DPO for Loomio Cooperative. Enquiries can should be directed to [dpo@loomio.org](mailto:dpo@loomio.org).
+Loomio has appointed Robert Guthrie as the DPO for Loomio Cooperative. Enquiries can be sent to [dpo@loomio.org](mailto:dpo@loomio.org).
