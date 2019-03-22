@@ -16,7 +16,7 @@ We enter into GDPR compliant data processing agreements with all our data subpro
 
 - [DigitalOcean](https://www.digitalocean.com/security/gdpr/) - Cloud computing services
 
-- [Google Cloud](https://cloud.google.com/security/gdpr/) - Cloud computing services, including:
+- [Google Cloud](https://cloud.google.com/security/gdpr/) for:
   - Google Cloud Translate
   - Google reCAPTCHA
 
