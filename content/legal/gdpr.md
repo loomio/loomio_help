@@ -17,11 +17,11 @@ We provide a standard [Data Processing Addendum](/legal/LOOMIO_EU_DATA_PROCESSIN
 
 ## Third party data processors
 
-Loomio uses third parties subprocessors such as cloud computing services to provide our services.
+Loomio uses third party subprocessors such as cloud computing services to provide our services.
 
 We enter into GDPR-compliant data processing agreements with each party. [Data subprocessors used by Loomio](../third_parties)
 
-## What rights to EU-based Loomio users have under the GDPR?
+## What rights do EU-based Loomio users have under the GDPR?
 
 Under the GDPR, EU-based Loomio users have:
 
