@@ -1,5 +1,6 @@
 ---
 title: Loomio Terms of Service
+hidesidenav: true
 ---
 
 The following terms and conditions govern all use of the Loomio Application Service (the “Service”) and all content, services and products available at or through loomio.org (the “Site”). The Service is owned and operated by the Loomio Co-operative Ltd (“Loomio”). The Service is offered subject to your acceptance without modification of all of the terms and conditions contained herein and all other operating rules, policies (including, without limitation, Loomio’s [Privacy Policy](privacy)) and procedures that may be published from time to time on this Site by Loomio (collectively, the “Agreement”).

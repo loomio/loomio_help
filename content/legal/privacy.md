@@ -1,16 +1,13 @@
 ---
 title: Loomio Privacy Policy
+hidesidenav: true
 ---
 
 Updated: 2019-03-21
 
-The Loomio Co-operative exists to create a world where it’s easy for anyone to participate in decisions that affect them.
+This privacy policy outlines our practices for the information Loomio gathers, how we use it, with whom we share it, and the notices and choices affected individuals can expect regarding the information.
 
-Use of our software (Loomio) will often involve the exchange of personal data and personally identifying data.
-
-Our overriding principle is that we will not sell or rent any information you share with us, nor will we place advertising within Loomio. We only share personal data where practically necessary to provide our service to you.
-
-This privacy policy outlines our practices for the types of information Loomio gathers, how we use it, with whom we share it, and the notices and choices affected individuals can expect regarding the information.
+The privacy of your data is our top priority. We will never sell your data or use it for advertising purposes. We only share personal data where necessary to provide our service.
 
 ## Non-personally identifiable information
 
@@ -20,57 +17,53 @@ Like most website operators, Loomio collects non-personally-identifying informat
 
 Cookies are text files stored on your computer. We store cookies in your browser to identify you when you are using Loomio. We also use cookies to analyse how our website is used and to provide our customer support services. We do not put advertising or social media cookies into Loomio.
 
-## Potentially personally-identifying: IP addresses
+## IP addresses
 
-Loomio IP addresses we collect as they are stored within our database. System logs with unmasked IP addresses are kept for a short amount of time for maintenance and security purposes, but are deleted automatically when they are no longer of use.
+Loomio stores user IP addresses to implement security processes necessary to protect your account.
 
 ## User Content and Personally Identifiable Information
 
-As a decision-making platform, Loomio stores and processes discussions, comments, proposals, outcomes, etc - “user generated content”.
+As a discussion and decision-making platform, Loomio stores and processes discussions, comments, proposals, outcomes, etc - “user generated content”.
 
 We also store and process your name, email address, profile photo, etc - "your user profile". This information usually makes a user personally identifiable, although you are welcome to use a pseudonym and anonymous email address to prevent this.
 
-When you are a member of a group on Loomio your content including your user profile will be shared with the members of that group, however your email address will only be available to the group's coordinators.
+As a member of a Loomio group, your content including your user profile will be shared with the members of that group, however your email address will only be available to the group's coordinators.
 
 Content including your user profile will be public on the internet if you participate in a public discussion or join a public group.
 
-You may view or export your personal information at any time via the edit profile page within Loomio.
+You may view or correct your personal information at any time via the edit profile page within Loomio.
 
-As a user, you may _deactivate_ your account. Personally identifying information such as your name, username and profile photo will no longer be associated with content you have posted and Loomio will not contact you again. You are able to reactivate your account at a later date if you wish.
+You may _deactivate_ your user account. Personally identifying information such as your name, username and profile photo will no longer be associated with content you have posted and Loomio will not contact you again. You are able to reactivate your account at a later date if you wish.
 
-If you wish to _delete_ your user account, you will not be able to reactivate your account at a later date. Your profile information will be permanently deleted from our system. Deletion of your user content will be at the discretion of the Data Protection Officer who will consider legal obligations, issues of personal safety, and the integrity of the discussions and groups the content belongs to.
+If you wish to _delete_ your user account, you will not be able to reactivate your account at a later date. Your profile information will be permanently deleted from our system.
 
-You can deactivate or delete your user account from the "edit profile" link on the user menu in the top right corner of the app.
+## Data ownership and deletion of data
 
-User content deletion requests may be made to the Data Protection Officer via the email address dpo@loomio.org.
+Loomio is software used by groups of people to communicate with each other. Over time the record of these communications is an important aspect of Loomio functionality.
+
+If you choose to delete your Loomio user account, we will remove your user profile including your user id, name, email address, profile photo and other known personally identifying information. However, communication history (such as comments and votes) will be kept to preserve the integrity of discussions and decisions within groups you belonged to.
+
+If (as a group administrator) you delete a Loomio group, all user data within the group will be deleted.
+
+If you wish to have comments or other data deleted from a group that you are not an administrator of, you should first contact the group administrator and request deletion of that data.
+
+Data deletion requests may be made to the data protection officer via email (dpo@loomio.org). Loomio may delete user data at the request of law enforcement or if personal safety is at risk.
 
 ## Data Security, Integrity and Access
 
 Loomio will not sell or rent any information you share with us. Access to your content and personally identifiable information is tightly controlled internally. Loomio takes all reasonable steps to protect your content from loss, misuse and unauthorized access, disclosure, alteration and destruction.
 
-Content entered into the platform is distributed to the appropriate members of your groups via secure connections where possible and sent via email in the normal course of operation. Your content is only as secure as the personal devices, email services, ISP's, and actions of the members of your group.
+Content entered into the platform is distributed to the appropriate members of your groups via secure connections where possible and sent via email in the normal course of operation.
 
-From time to time, Loomio team members may access your email address to send you information about Loomio, services provided by Loomio’s partners, or ask for feedback either personally or through an email provider. If you do not wish to receive these emails please respond with a request to be taken off the contact list, or unsubscribe by clicking the unsubscribe link at the bottom of the email.
+From time to time, Loomio team members may access your contact details to send you information about Loomio, services provided by Loomio’s partners, or ask for feedback. If you do not wish to receive these emails please respond with a request to be taken off the contact list, or unsubscribe by clicking the unsubscribe link at the bottom of the email.
 
 Loomio Cooperative Limited has GDPR compliant data processing agreements in place with all data processors used to provide our services.
 
-To learn more about the data processors used in the course of providing Loomio please see our [GDPR](gdpr) page.
-
-## Third Parties
-
-To provide some of Loomio’s functionality and a high level of service, Loomio engages other companies ("third parties") and in some cases shares personally identifying data with them.
-
-We keep the number of third parties used to a minimum and we only share personally identifying information with third parties where it is necessary to provide our service, eg: with our payment provider (Chargify) and customer support tool (Intercom). These third parties adhere to industry best practices and comply with the EU GDPR, meaning that they in turn will not sell or share any data shared with them.
-
-It is possible that these services may be compelled by court order to share the information they have with law enforcement.
-
-To learn about our third parties and what data is shared with them, see our [Third parties](third_parties).
-
-If you are concerned about the use of any third parties, we encourage you to use a Loomio private host service or to install your own instance of Loomio so you have complete control of how your data is managed.
+To learn more about the data processors used in the course of providing Loomio please see our [GDPR](../gdpr) page.
 
 ## Loomio Terms of Service and Service Level Agreements
 
-Our standard terms of service are not offered as an SLA (Service Level Agreement) at this time, and are governed by the [Terms of Service](terms_of_service).
+Our standard terms of service are not offered as an SLA (Service Level Agreement) at this time, and are governed by the [Terms of Service](../terms_of_service).
 
 Under these terms, Loomio makes no guarantee of availability. Loomio’s standard service is for general use. Loomio software can be set up on a separate private installation and a Service Level Agreement established if required by a customer, at an additional charge. Customers requiring enterprise-level service managed under an SLA are encouraged to [contact us](https://www.loomio.org/contact) to explore further.
 
