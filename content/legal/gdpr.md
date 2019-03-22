@@ -30,7 +30,7 @@ Under the GDPR, EU-based Loomio users have:
 - The right to [transfer your data](../user_manual/groups/data_export/) to another service. (Loomio is [open source software](https://github.com/loomio/loomio) and you can host your data yourself)
 - The right to [restrict processing](../user_manual/users/user_profile/#deactivating-your-account).
 - The right to [erasure](../user_manual/users/deleting_your_account/).
-- The right to object. Please [contact us](https://www.loomio.org/contact) immediately if you have a concern with how we're processing personal data.
+- The right to object. Please [contact us](https://www.loomio.org/contact) immediately if you are concerned about how we're processing personal data.
 
 ## Data Protection Officer
 
