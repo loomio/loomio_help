@@ -29,3 +29,7 @@ Board members will arrive at this page and indicate their position and their rea
 Once closed, Loomio enables you to set an outcome for each process, so that everyone is clear on what’s going to happen, and we have a record we can return to
 
 There are a number of other decision tools that formal groups and boards may find useful, such as time polls to pick meeting times, but I’ll leave you with those two processes so you can get started saving your group precious hours and increasing productivity. Happy collaborating.
+
+---
+
+See more step-by-step instructions by visiting our [Guides and How to's](/blog_links/guides_and_how_tos).

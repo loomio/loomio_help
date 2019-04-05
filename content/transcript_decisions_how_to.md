@@ -27,3 +27,7 @@ There are several more decision tools which I invite you to explore; use this li
 Once a proposal closes I can set an outcome so the group knows what’s next and can look back at it later. If it closed too early, I can always re-open it. In my navigation panel I can find active and previous decisions, or I can look at the current or previous decisions within a group or a thread.
 
 That’s the 101 on Loomio’s decisions tools. For advanced features or more guidance, see our comprehensive Help, online. Want to practice on a decision with your group right now? Try proposing something simple, like “I’m happy with the actions we determined in our last conversation”. Happy collaborating.
+
+---
+
+Learn more about these features, in context, by reading our [Making decisions](/user_manual/getting_started/decision_tools/) article.

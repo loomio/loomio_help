@@ -25,3 +25,7 @@ When I want to move towards a clear outcome, I can use a decision tool to help; 
 My group members and I can always see this thread’s active decisions here in this column, and this thread’s previous decisions below.
 
 That’s the basics of threads; see our help resource for advanced features. I invite you to try starting a discussion thread in your group; if you’re just starting with Loomio you could start a conversation entitled, “Should we use Loomio? If so, how?”. Happy collaborating.
+
+---
+
+Learn more about this feature, in context, on our [Having discussions](/en/user_manual/getting_started/having_discussions) or [Threads](/en/user_manual/threads) articles.

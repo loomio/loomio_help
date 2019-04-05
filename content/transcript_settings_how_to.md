@@ -23,3 +23,7 @@ Every thread has a mute button. If I mute a thread, I won’t receive emails unl
 If you want to remove a thread from view for the whole group, you can go to thread options and “Close” it. This thread will not appear in the Recent threads page, nor in the group page, unless you use the “closed” toggle on the discussion list.
 
 That’s all you should need to manage your emails, notifications, and settings, and support your group members to do the same. You can always access our comprehensive Help online, and feel free to contact us for more support. Happy collaborating.
+
+---
+
+Learn more about notifications and personal settings in our [User](/en/user_manual/users/) articles.

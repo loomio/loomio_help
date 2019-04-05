@@ -8,6 +8,7 @@ menu:
 ---
 
 <iframe width="100%" height="380px" src="https://www.youtube-nocookie.com/embed/ePILBTxgkmE" frameborder="0" allowfullscreen></iframe>
+<center>*You can find this [video's script here](/en/transcript_decisions_how_to)*</center>
 
 Decisions happen in *threads*. Loomio does not make decisions for you; rather, the tool is designed to:
 

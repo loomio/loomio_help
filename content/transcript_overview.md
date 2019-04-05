@@ -16,8 +16,12 @@ Loomio supports lots of other kinds of decisions, including finding a time to me
 
 Decisions happen in threads, where we go to discuss topics and share relevant files, decisions, and comments.  As we go, we can add any new clarity or questions to the thread context, which always remains at the top, so people joining the conversation later can quickly engage in it.
 
-Groups or sub-groups help ensure the right people are invited every time. When I go to my overarching group, I can see its threads and threads from its sub-groups I’m in, all our documents and assets, and I can access all of my sub-groups. Ill return to this sub-group to see its specific threads or decisions, both active and previous ones.
+Groups or sub-groups help ensure the right people are invited every time. When I go to my overarching group, I can see its threads and threads from its sub-groups I’m in, all our documents and assets, and I can access all of my sub-groups. I'll return to this sub-group to see its specific threads or decisions, both active and previous ones.
 
 At the top of every group there is a description. Just like the context of a thread, group descriptions are a place to store all of the information, links, and files that everyone in the group needs, so everything is easily accessible and the group is clear about its purpose.
 
 If you’re trying to improve collaboration for your whole company, your teams, or your project, you can trust Loomio to support better outcomes with less time and effort. You can start a free group for evaluation from our website, and there is comprehensive Help online; feel free to contact us for more support. Happy collaborating.
+
+---
+
+Learn more about Loomio on our [website](https://loomio.org/?frontpage), and see it in action—groups putting it to good use—on our [blog](https://blog.loomio.org).
