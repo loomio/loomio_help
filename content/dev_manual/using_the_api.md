@@ -28,10 +28,6 @@ Data in public discussions is freely available via the Loomio API. Certain endpo
   curl /discussions.json
 ```
 
-## Getting an OAuth application set up
-
-Need access to private user data? You'll need to set up an OAuth application to authenticate yourself. Have a look at [Creating an OAuth Application](TODO) for further instructions.
-
 ## API Response Information
 
 #### Side loading
