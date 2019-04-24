@@ -2,6 +2,13 @@
 title: Creating a plugin for Loomio
 description: A guide to writing a Loomio plugin to add new functionality.
 ---
+
+A word of warning. The Loomio Javascript client is currently being rewritten in a new framework, and the plugin architecture as described below is going to be retired in the near future.
+
+We'll be using the standard Rails engines approach to extending the server and it's unclear how we'll support plugins for the client right now.
+
+---
+
 Loomio’s recently released a plugin architecture, which will allow you to quickly and easily add functionality to Loomio on your own instance. There are some good docs in [the plugin README](https://github.com/loomio/loomio/blob/master/lib/plugins/README.md), but I thought it might be helpful to step through how we make plugins here.
 
 #### WHAT WE’LL BE MAKING:
@@ -36,14 +43,14 @@ First off, we’re going to create a local plugin, and initialize it with a git 
 
 First, create a new folder in the `/plugins` folder with the name of your plugin:
 ```
-mkdir plugins/loomio_tagging && cd plugins/loomio_tags
+mkdir plugins/dev/loomio_tagging && cd plugins/dev/loomio_tags
 ```
 
 Then, update the `.gitignore` file to let it know you want to see your new plugin:
 
 ```
 # .gitignore
-!plugins/loomio_tags
+!plugins/dev/loomio_tags
 ```
 
 Now, make a `plugin.rb` file in the `plugins/loomio_tags` directory, and fill it with the following template:

@@ -54,6 +54,19 @@ Click on the three dots next to the person you want to make a coordinator, and t
 
 We recommend that you share the coordinator permission with everyone who is trusted to look after the group.
 
+## Coordinating subgroups
+If you are the Coordinator of a parent group, you have additional permissions with regards to any __closed__ subgroups.
+
+You will be able to join any closed subgroup by clicking the "Join Group" button at the top-right of the subgroup page.
+
+![](join_group_button.png)
+
+Once you have joined the subgroup, you will also be able to make yourself the Coordinator of that subgroup, by choosing the "Make coordinator" option from the "Group members" panel.
+
+![](make_coordinator_button.png)
+
+*N.B. these permissions do not extend to secret subgroups.*
+
 ## Removing group members
 On the **Members** page, next to every member there is a **Remove from group** option.
 
