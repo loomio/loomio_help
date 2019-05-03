@@ -1,5 +1,5 @@
 ---
-title: Subscription Pricing
+title: Subscription pricing
 description: How we price Loomio to make it available to everyone
 ---
 
