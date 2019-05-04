@@ -38,21 +38,19 @@ The billing system also issues an alert via email when your credit card is neari
 
 Card payment problems are sometimes caused by bank restrictions. Please make sure "international payments" and "internet transactions" are enabled on your card.
 
-## Alternate Payment Options
+## Alternate payment options
 Alternate payment options are only available for annual subscriptions.
 
-### Bank Transfer payment
+### Bank transfer payment
 We accept payment via bank transfer for payment within 20 days of invoice.
 
-### Manual Invoices
+### Manual invoices
 There is a 10% administration charge for manual invoice and purchase order processing.
 
-### Other Currencies
+### Other currencies
 Invoices raised in currencies other than in USD are converted at the daily Telegraphic Transfer rate plus 5%.
 
-## Managing Subscription
-
-### Upgrade plan
+## Upgrade your plan
 To upgrade from a trial or free plan, [visit the upgrade page](https://www.loomio.org/upgrade).
 
 You will see a list of all the groups you belong to.
@@ -75,7 +73,7 @@ Confirm details and click the ‘Place my order’ button.
 The subscription is activated immediately and your group automatically upgraded.  You will receive a tax invoice/statement confirming successful payment.
 ![Small annual chargify](small-annual-chargify.png)
 
-### Change plan
+## Change your plan
 
 [Click here to change your plan.](https://www.loomio.org/upgrade/)
 
@@ -87,7 +85,7 @@ This link takes you to the Loomio billing portal operated by Chargify.  Here you
 
 Check the details of plan, price and payment frequency in the Plan Summary table are correct.
 
-### Cancel plan
+## Cancel your plan
 If you would like to cancel your Loomio subscription, you can do this via your billing portal. A link to this portal is included at the bottom of your Loomio invoice/statements called ‘Account management’.
 
 Follow that link to the billing portal, then:
