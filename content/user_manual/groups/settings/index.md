@@ -45,6 +45,15 @@ NB: If you have a **Secret** group and change it to **Open**, all threads will b
 
 Coordinators set the group permissions to configure what members can do in their group.
 
+[Note to add to Group settings page: Subgroups
+
+## Allow members of parent group to see threads
+
+_Only subgroups have this setting._
+
+Allows members of the parent group to see discussions within the subgroup.
+For example a Closed subgroup includes the permission - "Members of [parent group] can see private threads".  The default setting for this permission is 'off'.]
+
 ## Allow public threads
 
 In **Closed** groups, you can use this option to allow public and private threads in your group. When you start a thread, you can decide whether it will be public or private.
