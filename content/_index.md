@@ -3,9 +3,7 @@ title: Loomio Help
 ---
 # Loomio Help
 
-<!-- ## Learn online facilitation and grow a collaborative culture. -->
-
-[Loomio](https://www.loomio.org) is an online tool used by thousands of groups around the world to increase transparency and inclusion, decrease meetings and emails, and make better decisions together.
+<div class="subtitle">Loomio is an online tool used by thousands of groups around the world to increase transparency and inclusion, decrease meetings and emails, and make better decisions together.</div>
 
 ***
 
