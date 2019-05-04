@@ -16,6 +16,9 @@ Applying key concepts of Facilitation in the online space.
 ## [Guides & Inspiration](blog_links)
 Guides to using Loomio in various situations. Stories from our users and more.
 
+## [Pricing and subscriptions](subscriptions)
+How our pricing works and how to update, modify or cancel a subscription.
+
 ## [Open source](dev_manual)
 Want to run your own Loomio instance, translate Loomio into another language, or develop your own features?
 
