@@ -15,7 +15,6 @@ Prices are based on debit/credit card payment via the Loomio automated billing p
 
 When setting up a subscription, you can use a coupon code if applicable.
 
-
 ## Upgrading your group
 If your group grows beyond the plan limit, you will be asked to upgrade to the next plan to continue using Loomio. For example if your group is on Small plan and you wish to invite more than 50 people into the group you will be asked to upgrade to the Medium plan.
 
