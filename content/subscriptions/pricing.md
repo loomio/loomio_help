@@ -90,9 +90,11 @@ Funds are provided by members or donations, no paid full-time staff or commercia
 To access these special rates, apply to our [Volunteer organization application form](https://forms.gle/yg2HpRZkmYmGEyBq7). At completion, you will receive the coupon codes for the plans.
 
 ### Unfunded community groups
-No bank account, no one is paid, no income. E.g. activists, hobby groups, classroom education, families and friends.
-
 We provide Loomio for __free__ to unfunded groups.
+
+E.g. activists, hobby groups, classroom education, families and friends.
+
+Unfunded community groups and organizations do not have any funds or bank account.
 
 Please complete our [Community application form](https://goo.gl/forms/07y18PLA7ykcgbhJ2) to apply to use Loomio for Free.
 
