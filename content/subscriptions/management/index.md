@@ -89,9 +89,9 @@ If you would like to cancel your Loomio subscription, you can do this via your b
 
 Follow that link to the billing portal, then:
 
-1. Under ‘Plan Details’, click on ‘Change Plan’ (on the right)
-2. Choose a new plan ![](choose-plan-chargify.png)
-3. Confirm changes.
+1. Under ‘Plan Details’, click on ‘Cancel’ (on the right)
+2. Tell us why you are canceling the plan ![](cancel-plan-chargify.png)
+3. Choose 'Cancel Now' or 'Cancel At End of Period'.
 
 If you’re having issues finding your billing portal link, please contact us.
 
