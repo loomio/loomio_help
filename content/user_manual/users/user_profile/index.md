@@ -1,9 +1,10 @@
 ---
-title: User Profile
+title: Your Profile
 description: Configuring your online appearance and profile in Loomio.
+weight: 20
 menu:
   main:
-    name: Profile
+    name: Your Profile
     parent: users
 ---
 Your profile page lets you customise your Loomio identity. To visit your profile page select the **Edit profile** option in the user menu, at the top-right of your screen.

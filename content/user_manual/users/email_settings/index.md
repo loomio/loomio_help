@@ -1,9 +1,11 @@
 ---
-title: Email settings
+title: Notifications
 description: How to configure your email notification settings.
+weight: 30
 menu:
   main:
     parent: users
+    name: Notifications
 ---
 
 Loomio sends emails to keep you updated on the activity in your groups. The default settings assume that you don't have a habit of using Loomio regularly so are designed to ensure you can stay up to date by checking your emails.

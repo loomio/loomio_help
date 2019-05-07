@@ -1,10 +1,7 @@
 ---
 title: Discussion threads
-weight: 30
+weight: 40
 description: A detailed guide to the features of Loomio discussion threads.
-menu:
-  main:
-    parent: user_manual
 ---
 
 Discussion threads (usually just called _threads_) are where your group can discuss a topic, exchange information and make decisions together.

@@ -1,7 +1,7 @@
 ---
 title: Groups
 description: A detailed look at group settings and membership.
-weight: 20
+weight: 30
 menu:
   main:
     identifier: groups

@@ -1,6 +1,7 @@
 ---
 title: Navigating Loomio
 description: How to find what you're looking for in Loomio.
+weight: 40
 menu:
   main:
     name: Navigation

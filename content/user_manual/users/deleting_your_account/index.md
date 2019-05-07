@@ -1,6 +1,7 @@
 ---
 title: Deleting your Loomio account
 description: How to delete your user account.
+weight: 100
 ---
 ## To delete your account entirely:
 

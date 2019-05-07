@@ -7,9 +7,7 @@ menu:
     parent: getting_started
 ---
 
-
 Getting started on Loomio means getting everyone signed up, familiar with the tool, and comfortable making decisions together. When done well, the group will come to life as people take the initiative to start discussions and raise proposals.
-
 
 Most Loomio groups need a champion to help them get going, and then they build their own momentum. If you're reading this, that champion is probably you!
 
@@ -25,22 +23,37 @@ Have a discussion with your group about using Loomio.
 
 Some people will be apprehensive about adopting a new piece of software for online decision-making. Talk to people in your group to work through any concerns.
 
-## Have a look around
+# Starting a new group
 
-You need a good understanding of how to use Loomio, so you can assist others.
+The first thing to do is enter a name and a description for your group.
 
-Make sure you understand the [group settings](https://loomio.gitbooks.io/manual/content/en/group_settings.html), especially privacy. Have a look through the menus and sections to familiarise yourself with the software.
+## Group name and description
 
-<iframe width="100%" height="380px" src="https://www.youtube.com/embed/xwE0IM1k64E" frameborder="0" allowfullscreen></iframe>
+It's best to keep your group name short and concise.
 
+The description should give members a clear understanding of what that group is for or intends to do. Some examples:
 
-## Update your group description
+"_A public group for us to approve requests for use of the gallery space_"
+
+"_The space for our board members to consider budget proposals_"
 
 With a clear purpose, people can make judgement calls about what's best for the group. Understanding group context helps people get oriented.
 
-Your Loomio group page has a space for information. Update this field so that everyone can see it when they visit the group. If you're unsure, start a discussion with your group about what you want to achieve together and what information people want on the group page.
+Your Loomio group page is also a place to store all of the information, links, and files that everyone in your group needs. Update the Group description field and attach files from your computer or from the cloud. This is a great place to also include reasons why you are using Loomio. Loomio is simple to learn, but it still may be a new tool for your group members and therefore take a small effort for them to get into a habit use it well. Sharing the reasons why you're using Loomio can help motivate people to adopt it.
 
 <iframe width="100%" height="380px" src="https://www.youtube.com/embed/asZEbbiHH-s" frameborder="0" allowfullscreen></iframe>
+
+## Privacy
+
+Your privacy settings determine who can find your group, who can see the threads in your group, and how people join.
+
+The default privacy setting for new groups is **Closed**. This means people can find your group and ask to join, but the content of your discussions and decisions is private, unless you allow specifc threads to be public (explained in the **Group permissions** section below).
+
+If you want the content of your discussions and decisions to be public, change your group privacy to **Open**. The members list will only be visible to other members.
+
+If you want to hide your group, set your group privacy to **Secret**. This will mean only invited members will be able to see the group name, description, members list, and threads.
+
+NB: If you have a **Secret** group and change it to **Open**, all threads will become public. Changing an **Open** group to **Secret** will make all threads private.
 
 ## Upload a profile photo
 

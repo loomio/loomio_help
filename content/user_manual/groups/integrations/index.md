@@ -1,9 +1,10 @@
 ---
 title: Integrations
+weight: 40
 menu:
   main:
     name: Integrations
-    parent: 'groups'
+    parent: groups
 ---
 
 ## Slack integration

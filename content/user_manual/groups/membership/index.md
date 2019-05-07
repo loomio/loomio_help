@@ -1,6 +1,7 @@
 ---
-title: Invitations and membership
+title: Managing members
 description: How to invite people and manage memberships.
+weight: 10
 menu:
   main:
     parent: groups

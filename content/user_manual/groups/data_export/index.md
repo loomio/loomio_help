@@ -1,10 +1,11 @@
 ---
 title: Group data export
 description: How to export your group data
+weight: 60
 menu:
   main:
     name: Data export
-    parent: 'groups'
+    parent: groups
 ---
 
 ## Export
