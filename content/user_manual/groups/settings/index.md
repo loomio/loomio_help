@@ -45,6 +45,15 @@ NB: If you have a **Secret** group and change it to **Open**, all threads will b
 
 Coordinators set the group permissions to configure what members can do in their group.
 
+[Note to add to Group settings page: Subgroups
+
+## Allow members of parent group to see threads
+
+_Only subgroups have this setting._
+
+Allows members of the parent group to see discussions within the subgroup.
+For example a Closed subgroup includes the permission - "Members of [parent group] can see private threads".  The default setting for this permission is 'off'.]
+
 ## Allow public threads
 
 In **Closed** groups, you can use this option to allow public and private threads in your group. When you start a thread, you can decide whether it will be public or private.
@@ -79,4 +88,4 @@ This allows everyone in your group to state their position on proposals. When it
 
 # Deactivating/archiving a group
 
-Deactivating your group means that you and the rest of the group members will no longer be able to access the group. If you wish to deactivate your group you can do so by selecting **Deactivate Group** from the **Options** menu on the group page. To reactivate your deactivated group, contact the Loomio team by sending an email to [contact@loomio.org](mailto:contact@loomio.org).
+Deactivating your group means that you and the rest of the group members will no longer be able to access the group. If you wish to deactivate your group you can do so by selecting **Deactivate Group** from the **Options** menu on the group page. To reactivate your deactivated group, [contact Loomio support](https://www.loomio.org/contact).

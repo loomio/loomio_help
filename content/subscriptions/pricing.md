@@ -1,6 +1,11 @@
 ---
-title: Subscription Pricing
+title: Subscription pricing
 description: How we price Loomio to make it available to everyone
+menu:
+  main:
+    parent: subscriptions
+    name: Pricing
+    weight: 0
 ---
 
 ## Overview
@@ -51,9 +56,7 @@ Small plans are limited to 50 people and are typically used by working groups, t
 Medium plans are limited to 500 people and used by small to medium organizations, often collaborating in multiple subgroups and small networks. Many groups of this size also use Loomio for stakeholder engagement.
 
 ### Large
-Large plans are limited to 5000 people and used by large organizations and networks, and for online stakeholder engagement.
-
-If your organization or network is greater than 5000 people, contact us to discuss options.
+Large plans are used by large organizations and networks, and online stakeholder engagement.
 
 ## Subscription pricing
 
@@ -64,9 +67,9 @@ Business, government and other revenue-generating organizations.
 
 | Small           | Medium           | Large             |
 |:---------------:|:----------------:|:-----------------:|
-| up to 50 people | up to 500 people | up to 5000 people |
-|  $49 /month     | $149 /month      |   $449 /month     |
-|  or $490 /year  | or $1490 /year   |  or $4490 /year   |
+| up to 50 people | up to 500 people | more than 500 |
+|  $49 /month     | $149 /month      |   [contact us](https://www.loomio.org/contact) |
+|  or $490 /year  | or $1490 /year   |  |
 
 ### Funded non-profit organizations
 Legally recognized nonprofit organizations, typically paying staff salaries. E.g. NGOs, school boards, and trustee boards, political parties and religious organizations.
@@ -79,17 +82,19 @@ Funds are provided by members or donations, no paid full-time staff or commercia
 
 | Small           | Medium           | Large             |
 |:---------------:|:----------------:|:-----------------:|
-| up to 50 people | up to 500 people | up to 5000 people |
-| $99 / year     | $149 / year   | $249 year         |
+| up to 50 people | up to 500 people | more than 500     |
+| $99 / year      | $149 / year   | [contact us](https://www.loomio.org/contact)|
 
 *These rates are only available as annual payments.*
 
 To access these special rates, apply to our [Volunteer organization application form](https://forms.gle/yg2HpRZkmYmGEyBq7). At completion, you will receive the coupon codes for the plans.
 
 ### Unfunded community groups
-No bank account, no one is paid, no income. E.g. activists, hobby groups, classroom education, families and friends.
-
 We provide Loomio for __free__ to unfunded groups.
+
+E.g. activists, hobby groups, classroom education, families and friends.
+
+Unfunded community groups and organizations do not have any funds or bank account.
 
 Please complete our [Community application form](https://goo.gl/forms/07y18PLA7ykcgbhJ2) to apply to use Loomio for Free.
 
