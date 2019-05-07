@@ -3,7 +3,6 @@ title: Case studies & User Stories
 description: Stories from people using Loomio for everything from company governance, citizen engagement, event management, to grassroots political organising.
 menu:
   main:
-    name: Studies & Stories
     parent: guides_and_inspiration
 ---
 

@@ -2,9 +2,6 @@
 title: Ongoing Practice
 weight: 50
 description: Continuous Improvement, Distributed Facilitation / Self-facilitation, The Art of Being Facilitated, Culture Change.
-menu:
-  main:
-    parent: facilitators_guide
 ---
 
 ![](cover.jpg)

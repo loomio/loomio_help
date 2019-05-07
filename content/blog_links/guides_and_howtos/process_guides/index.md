@@ -1,9 +1,6 @@
 ---
 title: Governance
 description: Processes and workflows for boards and committees.
-menu:
-  main:
-    parent: guides_and_how_tos
 ---
 
 Simplify your board or committee's work with these easy processes:

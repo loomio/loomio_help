@@ -12,10 +12,7 @@ title: Loomio Help
 ## [Loomio User Manual](user_manual)
 Start here to learn how to use Loomio and introduce it to your group.
 
-## [The Facilitator's Guide to Loomio](facilitators_guide)
-Applying key concepts of Facilitation in the online space.
-
-## [Guides & Inspiration](blog_links)
+## [Guides & Inspiration](guides)
 Guides to using Loomio in various situations. Stories from our users and more.
 
 ## [Open source](dev_manual)

@@ -1,9 +1,6 @@
 ---
 title: Practical examples
 description: Best practices for better collaboration on Loomio.
-menu:
-  main:
-    parent: guides_and_how_tos
 ---
 
 We've tested and documented a number of methods you can use to move forward with your group.
