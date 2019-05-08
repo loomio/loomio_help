@@ -83,7 +83,7 @@ Funds are provided by members or donations, no paid full-time staff or commercia
 | Small           | Medium           | Large             |
 |:---------------:|:----------------:|:-----------------:|
 | up to 50 people | up to 500 people | more than 500     |
-| $99 / year      | $149 / year   | [contact us](https://www.loomio.org/contact)|
+| $98 / year      | $149 / year   | [contact us](https://www.loomio.org/contact)|
 
 *These rates are only available as annual payments.*
 
