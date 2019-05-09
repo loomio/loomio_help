@@ -1,6 +1,4 @@
----
-title: Todo
----
+**TODO**
 
 Tour of a group page.
 
