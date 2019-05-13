@@ -9,7 +9,7 @@ menu:
 
 Here are the essential things you can do to get off to a good start.
 
-If you're not sure what Loomio is, check out ["What is Loomio?"](overview.md).
+If you're not sure what Loomio is, check out ["What is Loomio?"](../what_is_loomio/).
 
 ## Have a look around
 Give yourself a tour by clicking around the app. Down the left is your *sidebar*, which gives you links to your groups, discussions, and decisions.
