@@ -1,6 +1,6 @@
 ---
 title: Subscription pricing
-description: How we price Loomio to make it available to everyone
+description: How we price Loomio to make it available to everyone.
 menu:
   main:
     parent: subscriptions

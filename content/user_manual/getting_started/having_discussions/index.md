@@ -125,4 +125,4 @@ If you have an area of collaboration requiring many threads and ongoing collabor
 
 ## Going in-depth on Facilitation
 
-See the [Facilitators Guide to Loomio](../../../facilitators_guide/) for information on all these topics and more.
+See the [Facilitators Guide to Loomio](../../../guides/facilitators_guide/) for information on all these topics and more.

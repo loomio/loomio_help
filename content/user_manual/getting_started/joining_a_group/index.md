@@ -1,7 +1,7 @@
 ---
 title: Joining a group
 weight: 30
-description: You've just been invited to a Loomio group! Here's what you need to know.
+description: You've just been invited to a group! Here's what you need to know.
 menu:
   main:
     parent: getting_started

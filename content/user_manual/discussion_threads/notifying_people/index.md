@@ -1,7 +1,7 @@
 ---
 title: Notifying people
 weight: 20
-description: Catalyse interactions. TODO
+description: Catalyse interactions.
 menu:
   main:
     parent: threads
@@ -17,6 +17,12 @@ If you want to get the attention of a specific person, type **@** followed by th
 ## Replies
 
 When you reply to a comment, the author of the original comment will be notified of your reply.
+
+## Reactions
+
+Reactions are for sharing how a comment made you feel, or acknowledging something someone has said, without writing a comment. React by clicking the **😃 emoji button** beneath any comment thread context. They're an unobtrusive, light-weight way to participate without interrupting the conversation. 
+
+Reactions send a notification within Loomio, but do not send an email.
 
 ## Invite to thread
 

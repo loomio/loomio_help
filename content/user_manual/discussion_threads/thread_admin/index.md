@@ -1,7 +1,7 @@
 ---
 title: Thread administration
 weight: 50
-description: TODO
+description: Manage your threads and the information therein.
 menu:
   main:
     parent: threads

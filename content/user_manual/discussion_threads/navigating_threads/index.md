@@ -1,7 +1,7 @@
 ---
 title: Navigating threads
 weight: 30
-description: TODO
+description: Find the discussions you need, when you need them.
 menu:
   main:
     parent: threads

@@ -1,6 +1,6 @@
 ---
 title: Types of decision tools
-description: TODO. TODO
+description: You can use several kinds of polls, including the 'proposal'.
 weight: 50
 menu:
   main:

@@ -1,29 +1,21 @@
 ---
 title: Engaging with threads
 weight: 40
-description: TODO
+description: Comments and tools such as thread translation and thread emails.
 menu:
   main:
     parent: threads
 ---
-## Decision tools
-![](decision_tools_card.png)
-There are a selection of "decision tools" available to you within the thread.
-- Proposals are there to help you see if there is agreement about a statement or course of action, and surface the disagreement if that's what needs to happen. Often, you can use proposals to bring the discussion to conclusion.
-- Polls are useful to understand preferences of the group.
-- Use a time poll if you need to get everyone together, and want to find the best time for that meeting to happen.
-
-Find out more about [decision tools](../getting_started/decision_tools).
 
 ## Comments and replies
-The most common activity in a thread is commenting and replying. The comment box is at the bottom of the thread page. Just write your comment in the box and press 'post' to have your say.
+The most common activity in a thread is commenting and replying. The comment box is at the bottom of the thread page. Just write your comment in the box and press **Post** to have your say.
 
 When you reply to a comment the author of the original comment will be notified of your reply.
 
 If Loomio has emailed you a comment (and says you can reply to the email), you can reply directly from your email and your message will appear in the thread.
 
 ## Formatting comments
-Loomio uses **Markdown** to format text and embed images. For more information on how to use Markdown, read [this guide](https://www.loomio.org/markdown).
+Loomio uses _Markdown_ to format text and embed images. For more information on how to use Markdown, read [this guide](https://www.loomio.org/markdown).
 
 ## Attaching files
 You can attach files to comments using the attachment button next to the **Post** button on the comment form. You will be prompted to select a file from your device.
@@ -53,6 +45,15 @@ Reactions are for sharing how a comment made you feel, or acknowledging somethin
 </video>
 
 Loomio can translate a comment from one language into another automatically (with the help of Google Translate). If the author of a comment uses a language other than yours, a translate button will show up; Just click to see the translation.
+
+## Decision tools
+![](decision_tools_card.png)
+There are a selection of "decision tools" available to you within the thread.
+- Proposals are there to help you see if there is agreement about a statement or course of action, and surface the disagreement if that's what needs to happen. Often, you can use proposals to bring the discussion to conclusion.
+- Polls are useful to understand preferences of the group.
+- Use a time poll if you need to get everyone together, and want to find the best time for that meeting to happen.
+
+Find out more about [decision tools](../getting_started/decision_tools).
 
 ## Email notifications
 By default you'll be subscribed to receive email notifications about activity in threads in which you are participating. If you don't want email notifications, [edit your preferences](https://www.loomio.org/email_preferences) and turn off "Subscribe on participation".

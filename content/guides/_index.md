@@ -6,5 +6,3 @@ menu:
   main:
     identifier: guides
 ---
-
-[The Facilitator's Guide to Loomio](facilitators_guide) - Applying key concepts of Facilitation in the online space.
