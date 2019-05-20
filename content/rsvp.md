@@ -1,9 +1,7 @@
 ---
 title: RSVP for Loomio 101 Webinar
-description: Select a time and register.
+description: Select a time and register through Eventbrite by clicking a link.
 ---
-Use the links below to register through Eventbrite.
-
 ___Wednesday, the 22nd of May___
 
 - [Option 1](https://www.eventbrite.com/e/loomio-101-webinar-registration-59869051946) | 1AM (PT) / 4AM (ET) / 9AM (BST) / 10AM (CET) / 6PM (AET) / 8PM (NZT)
