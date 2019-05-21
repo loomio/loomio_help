@@ -6,8 +6,10 @@ menu:
     parent: guides
 ---
 
-Simplify your board or committee's work with these easy processes:<br>
-<iframe width="100%" height="380px" src="https://www.youtube-nocookie.com/embed/FITqrhLuh8I&list=PLfeqYbxvuD2-yKR3Ghtq3hVachzUDx_yM&index=5" frameborder="0" allowfullscreen></iframe>
+Simplify your board or committee's work with these easy processes:
+<br>
+
+<iframe width="100%" height="380px" src="https://www.youtube-nocookie.com/embed/FITqrhLuh8I" frameborder="0" allowfullscreen></iframe>
 <center>*You can find this [video's script here](/en/transcript_board_processes)*</center>
 
 The above video covers these key workflows:
