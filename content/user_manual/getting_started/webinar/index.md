@@ -2,6 +2,7 @@
 title: Free Training Webinar
 description: Learn to use Loomio from a friendly expert.
 weight: 10
+hidetoc: true
 menu:
   main:
     parent: getting_started
