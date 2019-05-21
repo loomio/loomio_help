@@ -2,6 +2,10 @@
 title: Preparation
 weight: 10
 description: Understand Purpose, Rearrange the Furniture, Supplies, Tools, Materials, Design the Experience, Contextualise the Moment, The Role of the Facilitator.
+menu:
+  main:
+    parent: facilitators_guide
+    weight: 10
 ---
 ![](cover.jpg)
 
