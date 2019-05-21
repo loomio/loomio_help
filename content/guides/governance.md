@@ -6,7 +6,8 @@ menu:
     parent: guides
 ---
 
-Simplify your board or committee's work with these easy processes:
+If you are using Loomio for governance in your board, committee or trust—or in many 'formal' or 'structured' group settings—here are some simple processes you can use to improve communication and make timely decisions.
+
 <br>
 
 <iframe width="100%" height="380px" src="https://www.youtube-nocookie.com/embed/FITqrhLuh8I" frameborder="0" allowfullscreen></iframe>
