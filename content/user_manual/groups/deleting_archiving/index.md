@@ -1,5 +1,5 @@
 ---
-title: Deleting and archiving groups
+title: Deleting and archiving
 weight: 70
 description: How to deactivate your group.
 menu:

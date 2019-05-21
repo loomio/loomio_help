@@ -1,5 +1,5 @@
 ---
-title: The Facilitator's Guide to Loomio
+title: The Facilitator's Guide
 description: |
   An in-depth guide to applying key facilitation concepts in the online space.
 menu:

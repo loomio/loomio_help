@@ -1,5 +1,5 @@
 ---
-title: Starting proposals and polls
+title: Starting proposals or polls
 description: Basics, tips, and tricks for writing and using decision tools.
 weight: 10
 menu:
