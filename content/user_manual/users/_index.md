@@ -7,3 +7,5 @@ menu:
     identifier: users
     parent: user_manual
 ---
+
+<iframe width="100%" height="380px" src="https://www.youtube-nocookie.com/embed/np02ObWLpJM" frameborder="0" allowfullscreen></iframe>
