@@ -7,6 +7,8 @@ menu:
     parent: polls
 ---
 
+<iframe width="100%" height="380px" src="https://www.youtube-nocookie.com/embed/ePILBTxgkmE" frameborder="0" allowfullscreen></iframe>
+
 ## Title and Details
 
 **Writing proposals**
