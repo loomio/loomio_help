@@ -1,6 +1,7 @@
 ---
 title: Making decisions
 description: Use Loomio's decision tools to move discussion to clear outcomes.
+hidetoc: true
 weight: 60
 menu:
   main:
@@ -33,4 +34,4 @@ Loomio provides a range of tools to support your group decision-making.
 6. The poll closes, and everyone is informed of the results
 7. The author sets an outcome, notifying everyone of what will happen next.
 
-See the [Decision Tool article](../decision_tools) to learn more.
+See the [Decision Tools articles](/en/user_manual/polls) to learn more.
