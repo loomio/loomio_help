@@ -93,7 +93,9 @@ If people join but don't introduce themselves, you might like to welcome them to
 
 > “Welcome to the group @Jane :) It's great to have you here! Would you saying a little bit about your work in this space?”
 
-<iframe width="100%" height="380px" src="https://www.youtube.com/embed/nm9hoOofblw" frameborder="0" allowfullscreen></iframe>
+<video width="600" height="400" playsinline muted loop controls>
+<source src="invite_to_group.mp4" type="video/mp4">
+</video>
 
 ## Champion the use of Loomio
 
