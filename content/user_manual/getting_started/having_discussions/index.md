@@ -21,7 +21,7 @@ Making the thread title and context clear and engaging is the best way to ensure
 - Over what time frame will the discussion take place?
 - Will a decision be made within the thread?
 
-As the person who started the thread, people will be expecting you to host the discussion and keep things on track as it progresses.
+As the person who started the thread, people may be expecting you to host the discussion and keep things on track as it progresses.
 
 ## Maintain a safe environment
 
@@ -107,7 +107,7 @@ If a topic progresses offline, update the Loomio thread with the new information
 
 ## Keep the title and context relevant
 
-Loomio threads are designed to evolve with a discussion, which is why the title and context box are editable. Make it easy for people to catch up by updating the thread context and title with the latest info. This also helps you later if you want to refer back to a previous discussion and quicky remind yourself what happened.
+Loomio threads are designed to evolve with a discussion, which is why the title and context box are editable. The thread context always remains at the top of the thread in order to frame and guide the conversation or decision. Make it easy for people have a clear, shared understanding of where things are at, or to catch up, by updating the thread context and title with the latest info. This also helps you later if you want to refer back to a previous discussion and quickly remind yourself what happened.
 
 ![Edit button for thread context within the app](edit_context.png)
 
