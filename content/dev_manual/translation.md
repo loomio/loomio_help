@@ -5,7 +5,7 @@ weight: 10
 ---
 You're here because you want to learn how to translate Loomio. Yay!
 
-If you have questions, join the [Loomio Community - Translation](https://www.loomio.org/g/cpaM3Hsv/loomio-community-translation) group.
+If you have questions, please join the [Loomio Community - Translation](https://www.loomio.org/g/cpaM3Hsv/loomio-community-translation) group.
 
 ## We use Transifex
 
@@ -33,6 +33,8 @@ Visit the [Loomio Transifex page](https://www.transifex.com/projects/p/loomio-1/
 - read the english text
 - enter your translation
 - save and repeat
+
+Please use the informal or personal form if your language has the option.
 
 ## How to correctly translate code:
 
