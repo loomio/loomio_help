@@ -113,9 +113,9 @@ Loomio threads are designed to evolve with a discussion, which is why the title 
 
 Here's an example in which the facilitator is notifying the group what has happened as a result of their agenda suggestions.
 
-![Edit thread box showing the following text added to the top of a thread inviting agenda suggestions for an upcoming board meeting: "UPDATE: The agenda has been finalised; please take a look if you want to prepare for next week's meeting. Thankful for the useful conversation we had to prioritize amongst the number of great suggestions."](update_context.png)
+![Edit thread box showing the following text added to the top of a thread inviting agenda suggestions for an upcoming board meeting: "UPDATE: Thanks for your contributions, our agenda is now ready. See you at the meeting."](update_context.png)
 
-The facilitator let group members know what is next, and acknowledged what happened with input that was acted upon as well as suggestions that were not used.
+Updating the context with an outcome lets group members know what is next.
 
 ## Break down complex issues
 
