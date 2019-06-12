@@ -109,6 +109,8 @@ If a topic progresses offline, update the Loomio thread with the new information
 
 Loomio threads are designed to evolve with a discussion, which is why the title and context box are editable. The thread context always remains at the top of the thread in order to frame and guide the conversation or decision. Make it easy for people have a clear, shared understanding of where things are at, or to catch up, by updating the thread context and title with the latest info. This also helps you later if you want to refer back to a previous discussion and quickly remind yourself what happened.
 
+The pencil icon is the quickest way to edit a thread context and title.
+
 ![Edit button for thread context within the app](edit_context.png)
 
 Here's an example in which the facilitator is notifying the group what has happened as a result of their agenda suggestions.
