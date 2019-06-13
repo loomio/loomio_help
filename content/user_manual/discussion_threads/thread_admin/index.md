@@ -6,15 +6,10 @@ menu:
   main:
     parent: threads
 ---
-## Thread members and roles
-Everyone who's participated in the thread, or has been invited specicially to participate will show up in the members panel.
 
-![](thread_members_card.png)
+Administering your thread is primarily done from the page of the thread in question using the thread's drop-down menu options.
 
-To highlight your role within the discussion, or to let people know why you're here, you can update your _title_ from the members card. The title will display next to your name wherever it appears within the thread.
-
-![](thread_members_dropdown_menu.png)
-![](set_thread_member_title.png)
+![](thread_options.png)
 
 ## Deleting comments and threads
 You can delete your own comments at any time. If you're the coordinator of a group you can delete any thread—or comments in any of the threads—in the group. If you started a thread, you can delete that thread, or any comments within it.
@@ -43,3 +38,13 @@ To keep the list of discussions on your group page relevant, you can close threa
 You can list all the closed threads. Just click the "x Closed" label at the top of the threads list on your group page.
 
 ![](closed_threads_button.png)
+
+## Thread members and roles
+Everyone who's participated in the thread, or has been invited specicially to participate will show up in the members panel.
+
+![](thread_members_card.png)
+
+To highlight your role within the discussion, or to let people know why you're here, you can update your _title_ from the members card. The title will display next to your name wherever it appears within the thread.
+
+![](thread_members_dropdown_menu.png)
+![](set_thread_member_title.png)
