@@ -16,8 +16,8 @@ To highlight your role within the discussion, or to let people know why you're h
 ![](thread_members_dropdown_menu.png)
 ![](set_thread_member_title.png)
 
-## Deleting comments
-You can delete your own comments at any time. If you're the coordinator of a group you can delete any comments in any of the threads in the group. If you started a thread, you can delete that thread, or any comments within it.
+## Deleting comments and threads
+You can delete your own comments at any time. If you're the coordinator of a group you can delete any thread—or comments in any of the threads—in the group. If you started a thread, you can delete that thread, or any comments within it.
 
 ![](delete_comment.png)
 ![](delete_comment_modal.png)
