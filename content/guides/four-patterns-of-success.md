@@ -10,6 +10,7 @@ hidetoc: true
 menu:
   main:
     parent: guides
+    name: 4 patterns of success
 ---
 
 Why do some groups succeed, while others fail? This is the underlying question group coordinators and facilitators grapple with as they seek to help people do better work together.
