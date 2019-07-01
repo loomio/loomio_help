@@ -23,7 +23,7 @@ All successful groups share a common purpose that unites members in their contri
 
 #### Group spotlight
 
-*For over 30 years, [Co-operative Assistance Network (CAN)](https://blog.loomio.org/2019/03/27/helping-uk-cooperatives-thrive/?utm_campaign=guide&utm_term=help)’s purpose remained the same – helping people work better together through principles of democracy, autonomy, and concern for the community. CAN use Loomio to make collective decisions and to unite the group in their mission.*
+*For over 30 years, [Co-operative Assistance Network (CAN)](https://blog.loomio.org/2019/03/27/helping-uk-cooperatives-thrive/?utm_campaign=guide&utm_term=help)’s purpose remained the same – helping people work better together through principles of democracy, autonomy, and concern for the community. CAN use Loomio to make collective decisions and to unite the group in their mission. [Read more…](https://blog.loomio.org/2019/03/27/helping-uk-cooperatives-thrive/?utm_campaign=guide&utm_term=help)*
 
 ## 2. They share the same vision
 
@@ -39,7 +39,7 @@ Great groups are intentional in their actions. They know exactly what work they 
 
 #### Group spotlight
 
-*[mondora](https://blog.loomio.org/2019/02/13/leading-italy-into-the-future-of-work/?utm_campaign=guide&utm_term=help), a cloud software development company practices a culture of openness and transparency,  supporting every employee to fully participate in all aspects of the business. Mondora use Loomio to involve all employees in making decisions that affect the company.*
+*[mondora](https://blog.loomio.org/2019/02/13/leading-italy-into-the-future-of-work/?utm_campaign=guide&utm_term=help), a cloud software development company practices a culture of openness and transparency,  supporting every employee to fully participate in all aspects of the business. Mondora use Loomio to involve all employees in making decisions that affect the company. [Read more…](https://blog.loomio.org/2019/02/13/leading-italy-into-the-future-of-work/?utm_campaign=guide&utm_term=help)*
 
 ## 4. They work on working well together
 
@@ -53,7 +53,7 @@ They do regular check-ins to make sure that everyone is on the same page and fee
 
 #### Group spotlight
 
-*[3SG](https://blog.loomio.org/2019/05/09/uniting-charities-for-a-common-cause/?utm_campaign=guide&utm_term=help) built a community of 200 people in the nonprofit sector, who collaborate on charitable projects. The 3SG team recently used Loomio to engage more members and include the voices of people who would otherwise be too shy to speak up. “It’s more democratic”.*
+*[3SG](https://blog.loomio.org/2019/05/09/uniting-charities-for-a-common-cause/?utm_campaign=guide&utm_term=help) built a community of 200 people in the nonprofit sector, who collaborate on charitable projects. The 3SG team recently used Loomio to engage more members and include the voices of people who would otherwise be too shy to speak up. “It’s more democratic”. [Read more…](https://blog.loomio.org/2019/05/09/uniting-charities-for-a-common-cause/?utm_campaign=guide&utm_term=help)*
 
 ## Work better together with Loomio
 
