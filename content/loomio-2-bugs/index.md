@@ -171,3 +171,7 @@ Towards the latter I've included an example of how Facebook's mobile app does it
 28/ I wonder if we changed "Powered by Loomio" to just "Loomio", we could get that footer onto one line? Or, could we just remove the frontpage link? Though I vaguely remember Michael reporting some customer feedback that made us include that in the first place... hm...
 
 ![](4.png)
+
+---
+
+29/ I don't think I've seen the loading bar working across mobile or desktop
