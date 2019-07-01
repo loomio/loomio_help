@@ -17,6 +17,15 @@ You can delete your own comments at any time. If you're the coordinator of a gro
 ![](delete_comment.png)
 ![](delete_comment_modal.png)
 
+## Pinning threads
+If you are a coordinator, you can pin comments to order them and make them easier to find. Pinned threads will appear above your other threads and will be ordered alphanumerically within the group (and, if applicable, also the subgroup) to which they belong. You can easily pin or unpin threads by clicking the pin icon from the discussion thread's page.
+
+![](pin_thread.png)
+
+Or, use the pin option from the thread menu.
+
+![](pin_thread_from_menu.png)
+
 ## Moving comments to a new thread (Forking)
 <video width="600" height="400" playsinline muted loop controls>
 <source src="forking_comments.mp4" type="video/mp4">
