@@ -21,8 +21,6 @@ So that you can arrange calls with people in other parts of the world, Loomio ad
 
 If the times don't work, participants can suggest alternatives using the message field. You can then update the poll with new times.
 
-[Try our live demo of the time poll here](https://www.loomio.org/p/example/meeting)
-
 ## Check
 
 _Request or track participation_
@@ -42,8 +40,6 @@ Examples:
 
 A benefit of Check is that it automatically notifies those people who forget to participate, giving people a little encouragement to get the job done.
 
-[Try our live demo of the check here](https://www.loomio.org/p/example/count)
-
 ## Poll
 
 _Measure popularity or offer a choice_
@@ -60,8 +56,6 @@ Examples:
 * Which catering company should we use?
 * What size t-shirt would you like?
 * If we ran a workshop, how likely are you to attend?
-
-[Try our live demo of the poll here](https://www.loomio.org/p/example/poll)
 
 ## Score poll
 
@@ -81,8 +75,6 @@ Examples:
 * How important is each of these principles to you when considering our team vision?
 * How much would you like to see each of the following speakers at the next conference?
 
-[Try our live demo of the score poll here](https://www.loomio.org/p/example/score)
-
 ## Dot vote
 
 _Prioritise options together_
@@ -96,8 +88,6 @@ Examples:
 * You're given $100 to spend on the business; how would you spend it?
 
 See [dotmocracy.org](http://dotmocracy.org/) for more tips and resources about this voting method.
-
-[Try our live demo of the dot vote here](https://www.loomio.org/p/example/dot_vote)
 
 ## Ranked choice
 
@@ -113,8 +103,6 @@ Examples:
 
 * What would you like to eat at the company summer party?
 * Who should be our next deputy mayor?
-
-[Try our live demo of the ranked choice here](https://www.loomio.org/p/example/ranked_choice)
 
 ## Proposal
 
@@ -133,5 +121,3 @@ Don't hesitate to start a proposal just because you're not sure everyone will ag
 You may be surprised by getting quick consensus on something you thought was going to be complicated.
 
 For more guidance in making proposals, see the [Starting proposals](../starting_proposals) article, especially the section under [ways of doing proposals](../starting_proposals/#ways-of-using-proposals).
-
-[Try our live demo of the proposal here](https://www.loomio.org/p/example/proposal)
