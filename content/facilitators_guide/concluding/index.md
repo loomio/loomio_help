@@ -1,7 +1,7 @@
 ---
 title: Concluding
 weight: 40
-description: Outcomes & Next Steps, Reporting & Harvesting, Turning Discussion into Action, It Ain’t Over Til It’s Over
+description:
 menu:
   main:
     parent: facilitators_guide

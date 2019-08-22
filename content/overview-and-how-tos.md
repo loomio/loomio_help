@@ -18,3 +18,5 @@ hidetoc: true
 
 ## Supercharge your meetings: Simplify work
 <iframe width="100%" height="380px" src="https://www.youtube-nocookie.com/embed/FITqrhLuh8I" frameborder="0" allowfullscreen></iframe>  
+
+Any kind of group may benefit from understanding these step-by-step workflows in further depth; [click here for the guide](/en/guides/governance).

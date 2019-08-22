@@ -41,3 +41,7 @@ Enter the webhook URL and select which events you'd like to see mentioned within
 ![](markdown-img-paste-20190125133709837.png)
 
 You'll receive a success message in Loomio as well as a message within Teams saying you're connected.
+
+---
+
+_Loomio is not created by, affiliated with, or supported by Slack Technologies Inc., Microsoft Corporation, nor OneLogin._
