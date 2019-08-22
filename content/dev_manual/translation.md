@@ -36,6 +36,14 @@ Visit the [Loomio Transifex page](https://www.transifex.com/projects/p/loomio-1/
 
 Please use the informal or personal form if your language has the option.
 
+## Guidelines
+
+If your language distinguishes between personal and impersonal, use the more personal!
+
+Make sure that you understand the different type of polls and activities that groups can do and that these are translated in way that is logical in your language.
+
+Bear in mind the hyperlinks! The can be moved depending on the sentence structure of your language, so put them in place where you think it makes sense, not where they are placed in English.
+
 ## How to correctly translate code:
 
 When you combine a translation string with some personal data you get something the user will understand. To make this work there are little bits of code within translation strings. It' takes a little practice to learn how to work with them.
