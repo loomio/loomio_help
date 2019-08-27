@@ -11,38 +11,44 @@ menu:
 ---
 ![](/en/user_manual/getting_started/webinar/people_poll.png)
 
-## Loomio 101 Webinar
+Want to better understand how Loomio can support better outcomes for your group?
 
-Want to better understand how Loomio can support your group to work better together? Want to learn how to use it or how to introduce it to your group? We're here to help.
+Want to learn how to use it, or how to introduce it to your group?
 
-This live webinar will teach you the basics of Loomio and support you and your group to quickly make progress with Loomio.
+We're here to help.
 
-Groups tell us our trainings have quickly improved their ability to coordinate, communicate, or make decisions with Loomio; a recent participant shared it was "very, very helpful".
+## All the basics in under 15 minutes
 
-### [Register here](/en/rsvp).
+We now have a powerful way to get your hands around everything you and your group needs to get started:
 
-In this webinar we will cover a number of best practices and the basics, namely...
+<center>[**Watch our 'Overview and How-tos' series**](/en/overview-and-how-tos/)</center>
 
-- Groups and their privacy settings
+These five short videos will support your group to quickly make progress with Loomio. In it you'll learn to…
 
-- How to set up your group
+- set up your group
 
-- Discussion threads
+- have discussions (threads)
 
- - Getting people's attention (mentions, replies, reactions)
+ - get people's attention (mentions, replies, reactions)
 
- - Inviting guests and experts to your threads
+ - invite guests and experts to your threads
 
-- Decision tools
+- make decisions (and facilitate conversations to clear outcomes)
 
-- Navigating Loomio
+- navigate Loomio and
 
-- Notification settings
+- take advantage of your group's settings (and notifications).
+
+## Prefer a longer format?
+
+If you prefer an experience that includes a few more examples and a little more depth, [watch our pre-recorded webinar](https://newsletter.loomio.org/subscription/Y0Fc9mAjg). The 'Overview and How-tos' contain much of the same content but you'll additionally learn…
 
 - Member management
 
-- How to best invite your group
+- How to invite people
 
-- Tips and tricks for implementation
+- A few tips and tricks for implementation
 
-We look forward to supporting you and your group. Click [here](/en/rsvp) to register.
+## Live support
+
+Hoping to connect, live, with a human at Loomio? Let us know if you'd like to request a call, webinar, or training by [contacting us](https://loomio.org/contact).
