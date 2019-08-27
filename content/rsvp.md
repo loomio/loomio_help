@@ -3,17 +3,12 @@ title: RSVP for Loomio 101 Webinar
 description: Select a time and register through Eventbrite by clicking a link.
 ---
 
-___Wednesday, the 21st of August___
+There are no webinars currently scheduled.
 
-- <a href="https://www.eventbrite.com/e/loomio-101-webinar-registration-63836634091" target="_blank">Option 1</a> – 1am PT / 4am ET / 9am BST / 10am CET / 6pm AET / 8pm NZT
+Check out our ['Overview and How-to' video playlist, here](https://help.loomio.org/en/overview-and-how-tos); it shares nearly all the same content, but more quickly and in smaller bites.
 
-- <a href="https://www.eventbrite.com/e/loomio-101-webinar-registration-63836765484" target="_blank">Option 2</a> – 2pm PT / 5pm ET / 10pm BST / 11pm CET
- - _Thursday the 22nd_ – <a href="https://www.eventbrite.com/e/loomio-101-webinar-registration-63836765484" target="_blank">Option 2</a> – 7am AET / 9am NZT
-
-Convert to other time zones: <a href="https://www.timeanddate.com/worldclock/converter.html?iso=20190821T080000&p1=tz_nzst" target="_blank">option 1</a> | <a href="https://www.timeanddate.com/worldclock/converter.html?iso=20190821T210000&p1=tz_nzst" target="_blank">option 2</a>
+Or if you prefer a longer format with a little bit more depth, [watch our pre-recorded webinar](https://newsletter.loomio.org/subscription/Y0Fc9mAjg).
 
 ---
 
-**None of these times work for you?**
-
-[Click here for our 'Overview and How-to' video playlist](https://newsletter.loomio.org/subscription/Hi7nWl90b), nearly all the same content in smaller bites, or let us know if you'd like to request another time by [contacting us](https://loomio.org/contact).
+If you're really hoping to connect with a human at Loomio, let us know if you'd like to request a call, webinar, or training by [contacting us](https://loomio.org/contact).
