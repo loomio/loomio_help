@@ -11,4 +11,4 @@ Or if you prefer a longer format with a little bit more depth, [watch our pre-re
 
 ---
 
-If you're really hoping to connect with a human at Loomio, let us know if you'd like to request a call, webinar, or training by [contacting us](https://loomio.org/contact).
+Hoping to connect, live, with a human at Loomio? Let us know if you'd like to request a call, webinar, or training by [contacting us](https://loomio.org/contact).
