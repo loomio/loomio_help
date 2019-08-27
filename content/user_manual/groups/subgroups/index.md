@@ -8,7 +8,12 @@ menu:
     parent: groups
 ---
 
-Subgroups help groups organize their communications and members so that the right people get what they need just in time.
+Subgroups help you organize your communications and members so that the right people are engaged in their work together.
+
+For example, you can use subgroups for your organization's…
+- governance board
+- working team or a project working group
+- a topic (such as 'strategy' or 'learning')
 
 Subgroups work just like groups do, but are located within your group/organization, which we call the "parent group". Most of the features and settings are the same as what you encounter in your parent group.
 
@@ -53,5 +58,5 @@ If you answered yes, then you probably will find subgroups useful.
 Subgroups help if you want to…
 
 - Keep a conversation private to a smaller number of people in your group
-- Keep people from being bothered by conversations that don't pertain to them; _bonus: subgroups have their own notification settings_
-- Make sure to notify all the people related to a specific topic, project, expertise… every time
+- Keep people from being bothered by conversations that don't matter to them; _bonus: subgroups have their own notification settings_
+- Make sure to notify _all_ the people related to a specific topic, project, expertise… _every_ time
