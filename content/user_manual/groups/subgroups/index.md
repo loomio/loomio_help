@@ -15,6 +15,8 @@ For example, you can use subgroups for your organization's…
 - working team or a project working group
 - a topic (such as 'strategy' or 'learning')
 
+Unlike tags, subgroups create a separate space for a group of people. [Tags](/en/user_manual/threads/thread_admin/#using-category-tags) are a way to organize your threads. Subgroups allows you to change the permissions, notifications, and more for a set of threads and people.
+
 Subgroups work just like groups do, but are located within your group/organization, which we call the "parent group". Most of the features and settings are the same as what you encounter in your parent group.
 
 ## Add a subgroup
@@ -45,9 +47,17 @@ Otherwise, the privacy settings are the same as those for groups; [learn anythin
 
 ![arrow pointing to the option for "Members of [Group name] can see private threads"](members_view_private_subgroup.png)
 
-### Deactivate a subgroup (and other group options)
+### Invitations
 
-Coordinators can deactivate a subgroup in the same way they would a group. Learn [how to deactivate groups](/en/user_manual/groups/deleting_archiving). Export data, set up your Slack integration, and in all other ways use this subgroup just like you would a group; check our [help articles on _groups_ for more](/en/user_manual/groups/).
+Invite people just like you would invite them into a group. If they're already in your parent group you can just type their name. You can also quickly select everyone from the parent group.
+
+### Deactivate a subgroup
+
+Coordinators can deactivate a subgroup in the same way they would a group. Learn [how to deactivate groups](/en/user_manual/groups/deleting_archiving).
+
+### Other group options
+
+Export data, set up your Slack integration, and in all other ways use this subgroup just like you would a group; check our [help articles on _groups_ for more](/en/user_manual/groups/).
 
 ## Are subgroups for my organization?
 
