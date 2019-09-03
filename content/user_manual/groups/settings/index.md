@@ -22,7 +22,7 @@ To set the group permissions and configure what members can do in their group, g
 
 ## Privacy
 
-Group's [basic privacy settings are described here](/en/user_manual/getting_started/starting_a_group/), as you can make your group _open_, _closed_, or _secret_ without visiting _Advanced Settings_ (unlike the following options).
+Group's [basic privacy settings are described here](/en/user_manual/getting_started/starting_a_group/#privacy), as you can make your group _open_, _closed_, or _secret_ without visiting _Advanced Settings_ (unlike the following options).
 
 ### Anyone can join (Open groups)
 
