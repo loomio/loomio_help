@@ -40,7 +40,7 @@ If you select this option, rather than letting people walk in the door voluntari
 
 In **Closed** groups, you can use this option to allow public and private threads in your group. When you start a thread, you can decide whether it will be public or private.
 
-### Allow members of parent group to see threads
+### Allow members of parent group to see threads (in Subgroup)
 
 In **Subgroups**, you can allow members of the parent group to see discussions within the subgroup.
 Select, _Members of [parent group] can see private threads_ to enable this feature. This feature is off by default. For more on subgroups [see here](../subgroups).
