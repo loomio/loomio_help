@@ -152,8 +152,6 @@ We’re backed by an Advisory Council with some of the brightest minds in democr
       <strong>Douglas Rushkoff</strong>
       <p>Bestselling author, CNN commentator, media theorist</p>
     </td>
-  </tr>
-  <tr style="border-bottom: 15px solid transparent; border-top: 15px solid transparent;">
     <td>
       <img src="round-monahans.png" />
     </td>
