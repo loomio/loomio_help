@@ -146,13 +146,6 @@ We’re backed by an Advisory Council with some of the brightest minds in democr
   </tr>
   <tr style="border-bottom: 15px solid transparent; border-top: 15px solid transparent;">
     <td>
-      <img src="round-joi.png" />
-    </td>
-    <td style="width: 50%;">
-      <strong>Joi Ito</strong>
-      <p>Director of MIT Media Lab, Co-founder Creative Commons, Board of Mozilla Foundation</p>
-    </td>
-    <td>
       <img src="round-rushkoff.png" />
     </td>
     <td style="width: 50%;">
