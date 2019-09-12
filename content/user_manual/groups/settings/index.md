@@ -18,26 +18,36 @@ To learn how to edit the basics such as your Group description or Cover photo, s
 
 # Advanced settings
 
-Coordinators set the group permissions to configure what members can do in their group.
+To set the group permissions and configure what members can do in their group, go to _Group Settings_ and click _Advanced Settings_.
 
-[Note to add to Group settings page: Subgroups
+## Privacy
 
-## Allow members of parent group to see threads
+Group's [basic privacy settings are described here](/en/user_manual/getting_started/starting_a_group/#privacy), as you can make your group _open_, _closed_, or _secret_ without visiting _Advanced Settings_ (unlike the following options).
 
-_Only subgroups have this setting._
+### Anyone can join (Open groups)
 
-Allows members of the parent group to see discussions within the subgroup.
-For example a Closed subgroup includes the permission - "Members of [parent group] can see private threads".  The default setting for this permission is 'off'.]
+In **Open** groups you can use this option, _Anyone can join_ if you want the public to be able to join without any action by any member of the group.
 
-## Allow public threads
+### Requiring approval of membership requests (in Open groups)
+
+If you select this option, rather than letting people walk in the door voluntarily, then coordinators will have the option to approve or ignore people's requests to join.
+
+- You can also give group _members_ the permission to approve requests, also via the _Advanced settings_.
+
+### Allow public threads (in Closed groups)
 
 In **Closed** groups, you can use this option to allow public and private threads in your group. When you start a thread, you can decide whether it will be public or private.
+
+### Allow members of parent group to see threads (in Subgroup)
+
+In **Subgroups**, you can allow members of the parent group to see discussions within the subgroup.
+Select, _Members of [parent group] can see private threads_ to enable this feature. This feature is off by default. For more on subgroups [see here](../subgroups).
 
 ## Invite and approve new members
 
 This allows everyone in your group to invite new people in, and approve any membership requests. When it is deselected only group coordinators will be able to invite and approve new members.
 
-## Create sub-groups
+## Create subgroups
 
 This allows everyone in your group to create subgroups. When it is deselected only group coordinators will be able to create subgroups.
 
