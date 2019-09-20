@@ -1,10 +1,12 @@
 ---
 title: Better decisions
-description: Integrative Consent (a consent process by Round Sky) improves decisions offline or online.
+description: Making better decisions by Integrative Consent
 menu:
   main:
     parent: guides
 ---
+
+_This article is co-produced by Loomio and Round Sky Collaborative, who initially designed the Integrative Consent process._
 
 Our world grows more complex, with higher stakes and increasing feelings of scarcity, by the day.  Time is of the essence, the relevance of our actions more vital, and our ability to work together to transform Goliath challenges more pressing than ever.
 
