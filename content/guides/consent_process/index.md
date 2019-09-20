@@ -82,17 +82,17 @@ Another example might be that I’ve just had a better idea. Better ideas in gen
 
 And the third way in which objections are not valid is that they are based on predictive concerns for which we have no current data. Are we afraid our customers hate red or do we have actual market research? Predictive concerns can frankly just be wrong, and we can end up spending lots of team resources trying to integrate predictive concerns, especially if we have no relevant experience that supports our concerns.
 
-### 4. Integration – from objections to completion
+## 4. Integration – from objections to completion
 
 Once all objections have been surfaced then we can complete integration. This includes understanding the concerns and checking that each objection meets the validation criteria. Your facilitator should pick one objection at a time and integrate it via open discussion to create an amended version of the proposal. It’s important that the proposal in its changed form still resolves the proposer’s tension. In other words, it would be pointless to change the proposal so that it no longer addresses the need that put it on the table in the first place, though how that need gets met may be different than the way the proposer initially conceived. This process is repeated for all valid objections, remembering that new objections may be raised as we change the proposal. When there are no further objections, the proposal has passed.
 
 As we mentioned, there’s a number of benefits from doing some of your consent processes online.
 
-## Integrative Consent online
+# Integrative Consent online
 
 <iframe src="//www.slideshare.net/slideshow/embed_code/key/wOxlElLfkChauk?startSlide=3" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px">
 
-### Key Pitfalls
+## Key Pitfalls
 
 There are a few key pitfalls to avoid as you learn to use this process.
 
@@ -120,7 +120,7 @@ Cheers! Happy world-changing to you and your groups!
 
 ---
 
-### Glossary:
+## Glossary:
 
 ¹ Open Discussion: a discussion style where all members of the team contribute as they have something to offer in a popcorn style.
 
