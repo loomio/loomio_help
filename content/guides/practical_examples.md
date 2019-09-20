@@ -1,5 +1,5 @@
 ---
-title: Practical examples
+title: Other practical examples
 description: Best practices for better collaboration on Loomio.
 menu:
   main:
