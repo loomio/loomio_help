@@ -1,7 +1,6 @@
 ---
 title: Better decisions
 description: Integrative Consent (a consent process by Round Sky) improves decisions offline or online.
-hidetoc: true
 menu:
   main:
     parent: guides
@@ -53,9 +52,11 @@ Integrative Consent is an evolution upon Sociocracy’s (and Holacracy’s) deci
 
 ![](integrative_consent_steps.png)
 
-## Integrative Consent, step by step
+# Integrative Consent, step by step
 
-<span style="font-size:150%"><b>1.</b></span> The first step of Integrative Consent is ‘propose’. This is done through two different possible options:
+## 1. Proposal
+
+First is the **proposal**. There are two ways this happens:
 
 - **A proposal surfacing process**, via *open discussion*[ ¹](#glossary) by the team, until the person who brought the item forward (the *proposer*[ ²](#glossary)) has heard enough to craft a proposal out of the team input.
 
@@ -65,11 +66,17 @@ Either way, the proposer gets something in writing as the initial proposal for s
 
 > As facilitators of this process it’s really important to remember that it is not your choice as facilitator which option to take in step one, that choice belongs to the proposer. As facilitator it’s your job to help them do that efficiently, by thinking with them and checking back with them to see if they have enough information to craft that proposal. Once we have a proposal in writing, however rough, we can move to step two.
 
-<span style="font-size:150%"><b>2.</b></span> Step two is a round for questions and comments. This can include clarifying questions, sharing points of information, making any desired responses, including better ideas for the proposal on the table. If there are questions, it is the proposer who gets to answer them or delegate them to whoever they would like to answer that question. During this step it’s very important for the proposer to be listening carefully and paying close attention to what’s being shared for anything that they would like to change about their proposal, which is the third step. If you are facilitating this process synchronously, it’s important to keep this as a *round*[ ³](#glossary) and not open discussion.
+## 2. Questions and Comments
+
+This round can include clarifying questions, sharing points of information, making any desired responses, including better ideas for the proposal on the table. If there are questions, it is the proposer who gets to answer them or delegate them to whoever they would like to answer that question. During this step it’s very important for the proposer to be listening carefully and paying close attention to what’s being shared for anything that they would like to change about their proposal, which is the third step. If you are facilitating this process synchronously, it’s important to keep this as a *round*[ ³](#glossary) and not open discussion.
+
+## 3. Amendment
 
 <span style="font-size:150%"><b>3.</b></span> Step three, *amend*, is where the proposer makes changes at their discretion to their proposal based on the input they received in step two. The proposer doesn’t have to amend anything or respond to everything shared in step two. Their job is to change what they feel would be best **on behalf of the whole team**, not just their, or anyone else’s, personal preferences. Once we have an amended proposal, then we move into step four, integrate.
 
-<span style="font-size:150%"><b>4.</b></span> **Integration** is where things get interesting. During this phase, all team members are invited to present any objections they have, with objections being defined as what “**might cause harm to the team or organization**”. Now, how do we know if it might cause harm? This question can sometimes open a can of worms if there is not a clear agreement about what is a valid objection. At the very least, we recommend that an objection needs to have a reasoned case that can be made explicit. If the ‘why’ of the objection is unclear, it may be impossible to integrate and waste a lot of time. Beyond that, there are a number of other basic questions your group could ask of each objection to ensure that they will not just cause the team to go round and round in circles. We call these validation criteria. Your group will likely want to agree on the criteria that work best for you, but we think you might find these basic ones useful to get started:
+## 4. Integration - objections
+
+**Integration** is where things get interesting. During this phase, all team members are invited to present any objections they have, with objections being defined as what “**might cause harm to the team or organization**”. Now, how do we know if it might cause harm? This question can sometimes open a can of worms if there is not a clear agreement about what is a valid objection. At the very least, we recommend that an objection needs to have a reasoned case that can be made explicit. If the ‘why’ of the objection is unclear, it may be impossible to integrate and waste a lot of time. Beyond that, there are a number of other basic questions your group could ask of each objection to ensure that they will not just cause the team to go round and round in circles. We call these validation criteria. Your group will likely want to agree on the criteria that work best for you, but we think you might find these basic ones useful to get started:
 
 ![](valid_objections_guide.png)
 
@@ -79,7 +86,7 @@ Another example might be that I’ve just had a better idea. Better ideas in gen
 
 And the third way in which objections are not valid is that they are based on predictive concerns for which we have no current data. Are we afraid our customers hate red or do we have actual market research? Predictive concerns can frankly just be wrong, and we can end up spending lots of team resources trying to integrate predictive concerns, especially if we have no relevant experience that supports our concerns.
 
-### Completing Step 4: Integrating objections
+### 4. Integration – from objections to completion
 
 Once all objections have been surfaced then we can complete integration. This includes understanding the concerns and checking that each objection meets the validation criteria. Your facilitator should pick one objection at a time and integrate it via open discussion to create an amended version of the proposal. It’s important that the proposal in its changed form still resolves the proposer’s tension. In other words, it would be pointless to change the proposal so that it no longer addresses the need that put it on the table in the first place, though how that need gets met may be different than the way the proposer initially conceived. This process is repeated for all valid objections, remembering that new objections may be raised as we change the proposal. When there are no further objections, the proposal has passed.
 
@@ -89,7 +96,9 @@ As we mentioned, there’s a number of benefits from doing some of your consent 
 
 <iframe src="//www.slideshare.net/slideshow/embed_code/key/wOxlElLfkChauk?startSlide=3" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px">
 
-### There are a few key pitfalls to avoid as you learn to use this process.
+### Key Pitfalls
+
+There are a few key pitfalls to avoid as you learn to use this process.
 
 Pitfall 1: Getting sidetracked because the team or facilitator is lost in the process, for example, not knowing who is in charge of the proposal at which step in the process.  
 
