@@ -120,7 +120,7 @@ Cheers! Happy world-changing to you and your groups!
 
 ---
 
-## Glossary:
+## Glossary
 
 ¹ Open Discussion: a discussion style where all members of the team contribute as they have something to offer in a popcorn style.
 
