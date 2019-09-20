@@ -24,11 +24,7 @@ Given that we are currently emerging out of a long history of top down leadershi
 
 - Groups can try to make decisions around EVERYTHING instead of what really needs collective time and energy.
 
-- Conversely, fluid ad-hoc styles of communication can fail to include the people impacted by the decision in the process of making the decision, leading to harmful or ineffective actions:
-
- - including poor implementation and disengagement
-
- - _studies show this leads to weaker performance_
+- On the other hand, lack of process can lead to harmful or ineffective actions by neglecting to include/involve those impacted by the decision, which can ultimately lead to _poor implementation_ and _disengagement_
 
 - Decisions can fail to be made or take way too long.
 
