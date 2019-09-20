@@ -54,9 +54,9 @@ Integrative Consent is an evolution upon Sociocracy’s (and Holacracy’s) deci
 
 First is the **proposal**. There are two ways this happens:
 
-- **A proposal surfacing process**, via *open discussion*[ ¹](#glossary) by the team, until the person who brought the item forward (the *proposer*[ ²](#glossary)) has heard enough to craft a proposal out of the team input.
+- A proposal surfacing within an **open discussion**[ ¹](#glossary) – it's often best if the person who raised it with the group continues as the **proposer**[ ²](#glossary), crafting a proposal out of everyone's input.
 
-- **The proposer has an idea** that they put in writing to start the process.
+- The proposer has an idea – and puts it in writing to start the process.
 
 Either way, the proposer gets something in writing as the initial proposal for step one.
 
