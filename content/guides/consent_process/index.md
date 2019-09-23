@@ -70,7 +70,7 @@ This round can include clarifying questions, sharing points of information, maki
 
 ## 3. Amendment
 
-<span style="font-size:150%"><b>3.</b></span> Step three, *amend*, is where the proposer makes changes at their discretion to their proposal based on the input they received in step two. The proposer doesn’t have to amend anything or respond to everything shared in step two. Their job is to change what they feel would be best **on behalf of the whole team**, not just their, or anyone else’s, personal preferences. Once we have an amended proposal, then we move into step four, integrate.
+Step three, *amend*, is where the proposer makes changes at their discretion to their proposal based on the input they received in step two. The proposer doesn’t have to amend anything or respond to everything shared in step two. Their job is to change what they feel would be best **on behalf of the whole team**, not just their, or anyone else’s, personal preferences. Once we have an amended proposal, then we move into step four, integrate.
 
 ## 4. Integration - objections
 
@@ -84,7 +84,7 @@ Another example might be that I’ve just had a better idea. Better ideas in gen
 
 And the third way in which objections are not valid is that they are based on predictive concerns for which we have no current data. Are we afraid our customers hate red or do we have actual market research? Predictive concerns can frankly just be wrong, and we can end up spending lots of team resources trying to integrate predictive concerns, especially if we have no relevant experience that supports our concerns.
 
-## 4. Integration – from objections to completion
+## 4. Integration – objections to completion
 
 Once all objections have been surfaced then we can complete integration. This includes understanding the concerns and checking that each objection meets the validation criteria. Your facilitator should pick one objection at a time and integrate it via open discussion to create an amended version of the proposal. It’s important that the proposal in its changed form still resolves the proposer’s tension. In other words, it would be pointless to change the proposal so that it no longer addresses the need that put it on the table in the first place, though how that need gets met may be different than the way the proposer initially conceived. This process is repeated for all valid objections, remembering that new objections may be raised as we change the proposal. When there are no further objections, the proposal has passed.
 
