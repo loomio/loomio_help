@@ -12,9 +12,9 @@ Our world grows more complex, with higher stakes and increasing feelings of scar
 
 Yet our ability to collectively make effective and efficient decisions, and then collaboratively and consistently enact them, remains elusive... sometimes there and sometimes not. If we can better our practice of collaboration, not only can we improve participation and engagement, but we can gain momentum in bringing about a more beautiful world.
 
-Part of effective collaboration is around decision making, both individual and collective, including who makes which decisions, by which methods, and when. In this article, we begin a tutorial series on collaboration processes by sharing a simple step-by-step for better collective decision making in any group, and especially with groups working across space.
-
 ![A workshop space with many hands and materials](better_collaboration.png)
+
+Part of effective collaboration is around decision making, both individual and collective, including who makes which decisions, by which methods, and when. In this article, we begin a tutorial series on collaboration processes by sharing a simple step-by-step for better collective decision making in any group, and especially with groups working across space.
 
 Given that we are currently emerging out of a long history of top down leadership as the dominant way of leading, collective decision making faces some common challenges:
 
