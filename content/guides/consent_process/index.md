@@ -1,6 +1,6 @@
 ---
-title: Consent decision making with Loomio & Round Sky
-description: A simple how to for group decision making with Integrative Consent
+title: Consent decision making with Round Sky
+description: A simple 'how to' for groups to use Integrative Consent on & off Loomio
 menu:
   main:
     parent: guides
