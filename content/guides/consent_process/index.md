@@ -116,7 +116,7 @@ Pitfall 3: Getting stuck with validating and integrating objections.
 
 To learn what to do to resolve these common pitfalls, check out [Round Sky’s website](https://roundskysolutions.com).
 
-The most important thing to remember is that in using Integrative Consent, we’re aiming for decisions that are _safe to try_. You don’t have to get either the process or the decision that comes out of it perfectly right for it to work and make a big difference for you and your team. You can muddle about a bit and see what happens, what questions emerge, and what’s next for your team’s collaboration needs. So get started today by sharing this article with your group and [giving it a try (free!) on Loomio](https://loomio.org/?frontpage/?utm_campaign=consent-process-guide-help&utm_term=help).
+The most important thing to remember is that in using Integrative Consent, we’re aiming for decisions that are _safe to try_. You don’t have to get either the process or the decision that comes out of it perfectly right for it to work and make a big difference for you and your team. You can muddle about a bit and see what happens, what questions emerge, and what’s next for your team’s collaboration needs. So get started today by sharing this article with your group and [**give it a try (free!) on Loomio**](https://loomio.org/?frontpage/?utm_campaign=consent-process-guide-help&utm_term=help).
 
 For more information on Integrative Consent, a demo video of the proces in action, or a Cooperative Decision-Making Toolkit with more tips and tricks to support you and your team’s meaningful and efficient collaboration [get in touch with Round Sky](https://www.roundskysolutions.com/contact/).
 
