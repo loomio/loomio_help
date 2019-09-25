@@ -7,19 +7,17 @@ title: Loomio Help
 
 ***
 
-## [Loomio User Manual](user_manual)
+## [Getting Started Guide](user_manual/getting_started)
 Start here to learn how to use Loomio and introduce it to your group.
+
+## [Loomio User Manual](user_manual)
+In depth explanations of all the features and all other troubleshooting.
 
 ## [Guides & Inspiration](guides)
 Guides to using Loomio in various situations. Stories from our users and more.
 
 ## [Pricing and subscriptions](subscriptions)
 How our pricing works and how to update, modify or cancel a subscription.
-
-## [Open source](dev_manual)
-Want to run your own Loomio instance, translate Loomio into another language, or develop your own features?
-
-## [About Us](about)
 
 ***
 
