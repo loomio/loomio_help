@@ -52,7 +52,7 @@ Integrative Consent is an evolution upon Sociocracy’s (and Holacracy’s) deci
 
 ![Integrative Consent steps: 1.  Proposal 2.  Questions and Comments 3.  Amendment 4.  Integration (Objections → Validate → Integrate …repeat until no objections remain)](integrative_consent_steps.png)
 
-# Integrative Consent, step by step
+# Steps of Integrative Consent
 
 ## 1. Proposal
 
