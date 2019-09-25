@@ -1,6 +1,6 @@
 ---
-title: Better decisions
-description: Making better decisions by Integrative Consent
+title: Consent decision making with Loomio & Round Sky
+description: A simple how to for group decision making with Integrative Consent
 menu:
   main:
     parent: guides
@@ -14,7 +14,7 @@ Yet our ability to collectively make effective and efficient decisions, and then
 
 Part of effective collaboration is around decision making, both individual and collective, including who makes which decisions, by which methods, and when. In this article, we begin a tutorial series on collaboration processes by sharing a simple step-by-step for better collective decision making in any group, and especially with groups working across space.
 
-![](better_collaboration.png)
+![A workshop space with many hands and materials](better_collaboration.png)
 
 Given that we are currently emerging out of a long history of top down leadership as the dominant way of leading, collective decision making faces some common challenges:
 
@@ -36,6 +36,8 @@ Given that we are currently emerging out of a long history of top down leadershi
 
 One of the best ways we’ve found to overcome these obstacles is to make decisions using **consent-based decision making**, or just **consent**. There are, of course, many different kinds of collective decision-making processes, including different versions of consent, but we’ve found **Integrative Consent** – a model developed by Round Sky Solutions – to be a simple and effective starting place for a team wanting to learn a consent process. We hope you’ll use this as a template, iterate variations on it that fit your unique team, and pass what you learn back to us!
 
+![Decision-making types: Autocratic (and Delegation) | Advice (or Consultative) | Consent (or Consensus)](decision_making_types.png)
+
 The steps you’ll learn in Integrative Consent are useful whether in person or online. And we believe all teams have something to gain by moving some decisions online. In particular, online, asynchronous decision making can:
 
 - Alleviate the time pressure in meetings, leaving more time in meetings for important conversations.
@@ -48,7 +50,7 @@ The steps you’ll learn in Integrative Consent are useful whether in person or 
 
 Integrative Consent is an evolution upon Sociocracy’s (and Holacracy’s) decision making processes which evolved out of consensus. All of these bring great value to the world, but each have some limitations which Integrative Consent transcends. The intent with Integrative Consent is to match a clear process with what seems to be working well when humans are engaged in collective decision making so that we can reliably replicate efficient and effective collaborative decision making anywhere and anytime we choose.
 
-![](integrative_consent_steps.png)
+![Integrative Consent steps: 1.  Proposal 2.  Questions and Comments 3.  Amendment 4.  Integration (Objections → Validate → Integrate …repeat until no objections remain)](integrative_consent_steps.png)
 
 # Integrative Consent, step by step
 
@@ -76,7 +78,7 @@ Step three, *amend*, is where the proposer makes changes at their discretion to 
 
 **Integration** is where things get interesting. During this phase, all team members are invited to present any objections they have, with objections being defined as what “**might cause harm to the team or organization**”. Now, how do we know if it might cause harm? This question can sometimes open a can of worms if there is not a clear agreement about what is a valid objection. At the very least, we recommend that an objection needs to have a reasoned case that can be made explicit. If the ‘why’ of the objection is unclear, it may be impossible to integrate and waste a lot of time. Beyond that, there are a number of other basic questions your group could ask of each objection to ensure that they will not just cause the team to go round and round in circles. We call these validation criteria. Your group will likely want to agree on the criteria that work best for you, but we think you might find these basic ones useful to get started:
 
-![](valid_objections_guide.png)
+![Objections  are that which might cause harm to the team or organization: ‘Minimum viable criteria’ for useful objections: explicit  -  I can make a reasoned case | impersonal  -  It’s not just a personal preference | evidenced  -  Not predictive; based in experience | not ‘safe to fail’  -  It’s not that I have a ‘better idea’](valid_objections_guide.png)
 
 So, a few examples of why we wouldn’t want to consider every reasoned objection valid. Maybe my objection is a personal reason why I don’t like the particular proposal. Perhaps we’re deciding on our brand colors and maybe I personally don’t like red, but market research shows that our customers actually love red. My objection that I don’t like red doesn’t constitute harm to the whole, it’s a reflection of my personal wishes.
 
