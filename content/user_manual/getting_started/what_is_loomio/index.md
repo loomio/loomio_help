@@ -7,49 +7,27 @@ menu:
     parent: getting_started
 ---
 
-Loomio is a simple, user-friendly online tool for collaborative decision-making. Loomio lets you host discussions online, invite the right people to participate, come to timely decisions and transform deliberation into real-world action.
+Loomio makes is easy for groups of all shapes and sizes to collaborate and make decisions across time and space. Simple to use and easy to get started with, Loomio can save you hundreds of hours and thousands of dollars, supporting your group to be more effective in your decision-making and collaboration with our simple, online tool.
 
 <iframe width="100%" height="380px" src="https://www.youtube-nocookie.com/embed/JMda6WYx9jM" frameborder="0" allowfullscreen></iframe>
 
-## How it works in four steps
+## The big picture
 
-### 1. Gather
+To start using Loomio well, you just need to understand four main elements.
 
-![](gather.png)
+![Group → Thread → Proposal → Outcome](loomio_app_ia.png)
 
-A Loomio **group** is an online place for people to have **discussions** and make **decisions** together.
+**Groups** hold everything in one place for a specific set of people.
 
+Discussion **threads** are where you go to discuss topics and make decisions, using tools such as the **proposal** – or other **polls** – which help you visualize where the group is at on a given proposal, question, or topic.
 
-### 2. Discuss
+Finally, you'll use an **outcome** to share what's going to happen next so everyone has a clear understanding and there's a useful record.
 
+At its most basic, Loomio is a forum with tools that help you facilitate conversations and decisions, helping you start and hold conversations that move to clear outcomes.
 
-![](discuss.png)
+**Ready to take the next step on your collaboration journey?**
 
-
-Anyone in the group can start a **discussion**. Everyone in the group is able to participate.
-
-### 3. Propose
-
-![](propose.png)
-
-**Proposals** are the defining feature of Loomio. Use a proposal to move a discussion towards **conclusion**. If you're wondering how to move a conversation forward, the answer is almost always to **start a proposal**!
-
-### 4. Decide & Act
-
-![](decide.png)
-
-While a **proposal** is open, everyone in the group can state their **position**:
-
-* **Agree** if you’re happy with the proposal.
-* **Abstain** if you’re ok for the group to decide without you.
-* **Disagree** if you believe there might be a better alternative.
-* **Block** if you’ve got serious objections.
-
-When you select your position, you can also enter a short **statement** to explain why. This creates a succinct **summary** of what everyone thinks.
-
-When the proposal closes, you can post an **outcome** so everyone knows what the **result** was and the **next steps**.
-
-Over time you'll build a **history of decisions** you can refer to.
+Let's [start your group](../starting_a_group)!
 
 ---
 

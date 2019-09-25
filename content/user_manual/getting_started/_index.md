@@ -1,6 +1,6 @@
 ---
 title: Getting Started with Loomio
-description: A practical guide to welcoming people into their first Loomio group.
+description: All you need to get your group going in six quick lessons.
 weight: 10
 menu:
   main:
