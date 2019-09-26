@@ -1,8 +1,8 @@
 ---
-title: Making decisions
+title: 4. Making decisions
 description: Use Loomio's decision tools to move discussion to clear outcomes.
 hidetoc: true
-weight: 60
+weight: 40
 menu:
   main:
     parent: getting_started

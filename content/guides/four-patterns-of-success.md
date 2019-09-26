@@ -1,7 +1,7 @@
 ---
 title: Four patterns of high-functioning groups
 weight: 20
-description: How successful groups collaborate to achieve great outcomes
+description: How successful groups collaborate to achieve great outcomes.
 author: Michael Elwood-Smith
 categories:
   - Articles and Interviews

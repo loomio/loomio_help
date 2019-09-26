@@ -1,5 +1,5 @@
 ---
-title: What is Loomio?
+title: 1. What is Loomio?
 weight: 10
 description: An overview of Loomio and how it works.
 menu:
