@@ -1,6 +1,6 @@
 ---
-title: Using advice process (with Loomio)
-description: Step-by-step guidance to using consultative decision making on & off Loomio
+title: Advice process (on Loomio)
+description: Step-by-step how to use consultative decision making on & off Loomio
 menu:
   main:
     parent: guides
