@@ -62,7 +62,7 @@ _It’s less critical, but_ you’ll also notice that Sam explained what’s goi
 Before you move on: It’s not depicted just above, but there’s one other key element; **decision makers are accountable for their decisions.** If you can align power (and resources) with accountability (and support), you’ll get better results.
 
 ## **How it works** online
-<iframe src="//www.slideshare.net/slideshow/embed_code/key/wOxlElLfkChauk?startSlide=3" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px">
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/gtyG8KTL1Jme3s?startSlide=2" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe>
 
 ## Tips & Challenges
 ### Common challenges
