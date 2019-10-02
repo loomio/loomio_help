@@ -10,11 +10,11 @@ _By Loomio and Round Sky Solutions—creators of the Integrative Consent process
 
 Our world grows more complex, with higher stakes and feelings of scarcity increasing by the day. Time is of the essence, the relevance of our actions more vital, and our ability to work together to transform Goliath challenges more pressing than ever.
 
-Yet, our ability to collectively make effective and efficient decisions – and then collaboratively and consistently enact them – remains elusive, sometimes there and sometimes not. If we can better collaborate, we can improve participation and engagement _and_ gain momentum in bringing about a more beautiful world.
+Yet our ability to collectively make effective and efficient decisions – and then collaboratively and consistently enact them – remains elusive, sometimes there and sometimes not. If we can better collaborate, we can improve participation and engagement _and_ gain momentum in bringing about a more beautiful world.
 
 ![A workshop space with many hands and materials](better_collaboration.png)
 
-Part of effective collaboration is around decision making, both individual and collective, including who makes which decisions, by which methods, and when. In this article, we begin a series of simple step-by-step guides for better collaboration and collective decision making in any group, and especially with groups working across space.
+Decision making is a key part of effective collaboration, both individual and collective, including who makes which decisions, by which methods, and when. In this article, we begin a series of simple step-by-step guides for better collaboration and collective decision making in any group, and especially with groups working across space and time.
 
 Given that we are currently emerging out of a long history of top down leadership as the dominant way of leading, collective decision making faces some challenges:
 
@@ -126,7 +126,7 @@ To learn what to do to resolve these common pitfalls, check out [Round Sky’s w
 
 ## Safe to try
 
-The most important thing to remember when you are using Integrative Consent, is that you should be aiming for decisions that are _safe to try_. It is unlikely that your team will make the perfect decision every time but by opening the door for your entire team to weigh in you will maximize your brainpower and arrive at a workable solution faster than you could have alone.
+The most important thing to remember when you are using Integrative Consent is that you should be aiming for decisions that are _safe to try_. It is unlikely that your team will make the perfect decision every time but by opening the door for your entire team to weigh in you will maximize your brainpower and arrive at a workable solution faster than you could have alone.
 
 If you think this could help, share it with your team and [try it for free on Loomio](https://loomio.org/?frontpage/?utm_campaign=consent-process-guide-help&utm_term=help). We hope to play a part in your team’s next step towards better collaborative decision making.
 
@@ -138,10 +138,12 @@ Cheers! Happy world-changing to you and your groups!
 
 ## Glossary
 
-¹ Open Discussion: a discussion style where all members of the team contribute as they have something to offer in a popcorn style.
+**Open Discussion:** a discussion style where all members of the team contribute as they have something to offer in a popcorn style.
 
-² Proposer: the individual who raises an item for consideration which requires a decision
+**Proposer:** the individual who raises an item for consideration which requires a decision
 
-³ Round: a discussion style where one person shares at a time as requested by the facilitator
+**Round:** a discussion style where one person shares at a time as requested by the facilitator
 
-Facilitator: someone who can help the proposer do their job efficiently. For example, in step 1, they might check in with them to see if they have enough information to craft and refine their proposal.
+**Facilitator:** someone who can help the proposer do their job efficiently. For example, in step 1, they might check in with them to see if they have enough information to craft and refine their proposal.
+
+**Objection:** what might cause harm to the team or organization
