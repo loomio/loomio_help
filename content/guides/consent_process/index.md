@@ -6,17 +6,17 @@ menu:
     parent: guides
 ---
 
-_This article is co-produced by Loomio and Round Sky Solutions, who initially designed the Integrative Consent process._
+_By Loomio and Round Sky Solutions—creators of the Integrative Consent process._
 
-Our world grows more complex, with higher stakes and increasing feelings of scarcity, by the day.  Time is of the essence, the relevance of our actions more vital, and our ability to work together to transform Goliath challenges more pressing than ever.
+Our world grows more complex, with higher stakes and feelings of scarcity increasing by the day. Time is of the essence, the relevance of our actions more vital, and our ability to work together to transform Goliath challenges more pressing than ever.
 
-Yet our ability to collectively make effective and efficient decisions, and then collaboratively and consistently enact them, remains elusive... sometimes there and sometimes not. If we can better our practice of collaboration, not only can we improve participation and engagement, but we can gain momentum in bringing about a more beautiful world.
+Yet, our ability to collectively make effective and efficient decisions – and then collaboratively and consistently enact them – remains elusive, sometimes there and sometimes not. If we can better collaborate, we can improve participation and engagement _and_ gain momentum in bringing about a more beautiful world.
 
 ![A workshop space with many hands and materials](better_collaboration.png)
 
-Part of effective collaboration is around decision making, both individual and collective, including who makes which decisions, by which methods, and when. In this article, we begin a tutorial series on collaboration processes by sharing a simple step-by-step for better collective decision making in any group, and especially with groups working across space.
+Part of effective collaboration is around decision making, both individual and collective, including who makes which decisions, by which methods, and when. In this article, we begin a series of simple step-by-step guides for better collaboration and collective decision making in any group, and especially with groups working across space.
 
-Given that we are currently emerging out of a long history of top down leadership as the dominant way of leading, collective decision making faces some common challenges:
+Given that we are currently emerging out of a long history of top down leadership as the dominant way of leading, collective decision making faces some challenges:
 
 - Lack of clear process can leave people confused and unable to meaningfully participate, e.g., _‘what are we deciding?’_ or _‘how will this go?’_  and _'how does my voice matter?'_
 
@@ -34,9 +34,13 @@ Given that we are currently emerging out of a long history of top down leadershi
 
 - No record of the decisions means we are creating the potential for conflict which we will then have to resolve… again.
 
+## Rewriting the rules
+
 One of the best ways we’ve found to overcome these obstacles is to make decisions using **consent-based decision making**, or just **consent**. There are, of course, many different kinds of collective decision-making processes, including different versions of consent, but we’ve found **Integrative Consent** – a model developed by Round Sky Solutions – to be a simple and effective starting place for a team wanting to learn a consent process. We hope you’ll use this as a template, iterate variations on it that fit your unique team, and pass what you learn back to us!
 
 ![Decision-making types: Autocratic (and Delegation) | Advice (or Consultative) | Consent (or Consensus)](decision_making_types.png)
+
+## Face to face or Online?
 
 The steps you’ll learn in Integrative Consent are useful whether in person or online. And we believe all teams have something to gain by moving some decisions online. In particular, online, asynchronous decision making can:
 
@@ -48,33 +52,37 @@ The steps you’ll learn in Integrative Consent are useful whether in person or 
 
 - Make the process easier to learn by making the process visible and accessible to varied learning styles.
 
+## Consent-based decision making
+
 Integrative Consent is an evolution upon Sociocracy’s (and Holacracy’s) decision making processes which evolved out of consensus. All of these bring great value to the world, but each have some limitations which Integrative Consent transcends. The intent with Integrative Consent is to match a clear process with what seems to be working well when humans are engaged in collective decision making so that we can reliably replicate efficient and effective collaborative decision making anywhere and anytime we choose.
 
 ![Integrative Consent steps: 1.  Proposal 2.  Questions and Comments 3.  Amendment 4.  Integration (Objections → Validate → Integrate …repeat until no objections remain)](integrative_consent_steps.png)
 
-# Steps of Integrative Consent
+# Integrative Consent
 
-## 1. Proposal
+## STEP 1: Proposal
 
-First is the **proposal**. There are two ways this happens:
+First is the **proposal**. This step is best done in writing so that there is no ambiguity and it’s easier to keep the details of the proposed idea in mind. There are two ways this happens:
 
-- A proposal surfacing within an **open discussion**[ ¹](#glossary) – it's often best if the person who raised it with the group continues as the **proposer**[ ²](#glossary), crafting a proposal out of everyone's input.
+**1.**  A proposal surfacing within an **open discussion**[ ¹](#glossary)
 
-- The proposer has an idea – and puts it in writing to start the process.
+It's often best if the person who raised it with the group continues as the **proposer**[ ²](#glossary), crafting a proposal out of everyone's input.
 
-Either way, the proposer gets something in writing as the initial proposal for step one.
+**2.**  The proposer has an idea – and puts it in writing to start the process.
 
-> As facilitators of this process it’s really important to remember that it is not your choice as facilitator which option to take in step one, that choice belongs to the proposer. As facilitator it’s your job to help them do that efficiently, by thinking with them and checking back with them to see if they have enough information to craft that proposal. Once we have a proposal in writing, however rough, we can move to step two.
+It’s also a good idea to set someone up as a **facilitator** who can help the proposer do their job efficiently, checking in with them to see if they have enough information to craft and refine their proposal. Either way, the proposer gets something in writing as the initial proposal for step one.
 
-## 2. Questions and Comments
+<p style="margin-left:2em;margin-right:2em;margin-top:2em;margin-bottom:2em"><i><b>Facilitators:</b> it is important to remember that it is not your choice which option to take in step one; that choice belongs to the proposer.</i></p>
+
+## STEP 2: Questions and Comments
 
 This round can include clarifying questions, sharing points of information, making any desired responses, including better ideas for the proposal on the table. If there are questions, it is the proposer who gets to answer them or delegate them to whoever they would like to answer that question. During this step it’s very important for the proposer to be listening carefully and paying close attention to what’s being shared for anything that they would like to change about their proposal, which is the third step. If you are facilitating this process synchronously, it’s important to keep this as a *round*[ ³](#glossary) and not open discussion.
 
-## 3. Amendment
+## STEP 3: Amendment
 
 Step three, *amend*, is where the proposer makes changes at their discretion to their proposal based on the input they received in step two. The proposer doesn’t have to amend anything or respond to everything shared in step two. Their job is to change what they feel would be best **on behalf of the whole team**, not just their, or anyone else’s, personal preferences. Once we have an amended proposal, then we move into step four, integrate.
 
-## 4. Integration - objections
+## STEP 4: Integration, objections
 
 **Integration** is where things get interesting. During this phase, all team members are invited to present any objections they have, with objections being defined as what “**might cause harm to the team or organization**”. Now, how do we know if it might cause harm? This question can sometimes open a can of worms if there is not a clear agreement about what is a valid objection. At the very least, we recommend that an objection needs to have a reasoned case that can be made explicit. If the ‘why’ of the objection is unclear, it may be impossible to integrate and waste a lot of time. Beyond that, there are a number of other basic questions your group could ask of each objection to ensure that they will not just cause the team to go round and round in circles. We call these validation criteria. Your group will likely want to agree on the criteria that work best for you, but we think you might find these basic ones useful to get started:
 
@@ -86,39 +94,43 @@ Another example might be that I’ve just had a better idea. Better ideas in gen
 
 And the third way in which objections are not valid is that they are based on predictive concerns for which we have no current data. Are we afraid our customers hate red or do we have actual market research? Predictive concerns can frankly just be wrong, and we can end up spending lots of team resources trying to integrate predictive concerns, especially if we have no relevant experience that supports our concerns.
 
-## 4. Integration – objections to completion
+### Integration, objections to completion
 
 Once all objections have been surfaced then we can complete integration. This includes understanding the concerns and checking that each objection meets the validation criteria. Your facilitator should pick one objection at a time and integrate it via open discussion to create an amended version of the proposal. It’s important that the proposal in its changed form still resolves the proposer’s tension. In other words, it would be pointless to change the proposal so that it no longer addresses the need that put it on the table in the first place, though how that need gets met may be different than the way the proposer initially conceived. This process is repeated for all valid objections, remembering that new objections may be raised as we change the proposal. When there are no further objections, the proposal has passed.
 
-As we mentioned, there’s a number of benefits from doing some of your consent processes online.
-
 # Integrative Consent online
 
-<iframe src="//www.slideshare.net/slideshow/embed_code/key/wOxlElLfkChauk?startSlide=3" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px">
+As we mentioned, there’s a number of benefits from doing some of your consent processes online.
+
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTpQ3Eja7bwuZGB2vL16PHGRFLk15TqiH9Fbmpn0ztRLOYthxi6YC2gaF1ivmhTe5UHLoG65c-satE3/embed?start=false&loop=false&delayms=30000/#slide=id.g63800a1f03_0_0" frameborder="0" width="600" height="370" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 ## Key Pitfalls
 
 There are a few key pitfalls to avoid as you learn to use this process.
 
-Pitfall 1: Getting sidetracked because the team or facilitator is lost in the process, for example, not knowing who is in charge of the proposal at which step in the process.  
+PITFALL 1: Getting sidetracked because the team or facilitator is lost in the process, for example, not knowing who is in charge of the proposal at which step in the process.  
 
 
-<p style="margin-left:2em;margin-right:2em;margin-top:2em;margin-bottom:2em"><i>Example:</i>  A meeting where you’ve gone in circles for far too long, because people have a million questions and comments and no one feels bold enough to end that particular step of the process.</p>
+<p style="margin-left:2em;margin-right:2em;margin-top:2em;margin-bottom:2em"><i><b>Example:</b> A meeting where you’ve gone in circles for far too long, because people have a million questions and comments and no one feels bold enough to end that particular step of the process.</i></p>
 
 
-Pitfall 2: Trying to get the best, most perfect idea that everyone loves… great goal, but it is not often attainable (or real) and is not necessary for effective collaboration!  
+PITFALL 2: Trying to get the best, most perfect idea that everyone loves… great goal, but it is not often attainable (or real) and is not necessary for effective collaboration!  
 
-<p style="margin-left:2em;margin-right:2em;margin-top:2em;margin-bottom:2em"><i>Example:</i> The proposer has heard many different possible changes to their initial proposal and wants to please everyone, so has taken a lot of group time to wordsmith their proposal during amend to try to get it perfect. Then in objections someone raises a concern regarding a specific term which isn’t actually something that causes harm, just a personal preference, but the facilitator then tries to integrate it and finds someone else raises an objection about the new term, and so on until the team has run out of time to act.</p>
+<p style="margin-left:2em;margin-right:2em;margin-top:2em;margin-bottom:2em"><i><b>Example:</b> The proposer has heard many different possible changes to their initial proposal and wants to please everyone, so has taken a lot of group time to wordsmith their proposal during amend to try to get it perfect. Then in objections someone raises a concern regarding a specific term which isn’t actually something that causes harm, just a personal preference, but the facilitator then tries to integrate it and finds someone else raises an objection about the new term, and so on until the team has run out of time to act.</i></p>
 
-Pitfall 3: Getting stuck with validating and integrating objections.
+PITFALL 3: Getting stuck with validating and integrating objections.
 
-<p style="margin-left:2em;margin-right:2em;margin-top:2em;margin-bottom:2em"><i>Example:</i> Someone strongly and emotionally objects to a proposal but can’t say much more than they really don’t like the proposal and won’t stand behind it.</p>
+<p style="margin-left:2em;margin-right:2em;margin-top:2em;margin-bottom:2em"><i><b>Example:</b> Someone strongly and emotionally objects to a proposal but can’t say much more than they really don’t like the proposal and won’t stand behind it.</i></p>
 
 To learn what to do to resolve these common pitfalls, check out [Round Sky’s website](https://roundskysolutions.com).
 
-The most important thing to remember is that in using Integrative Consent, we’re aiming for decisions that are _safe to try_. You don’t have to get either the process or the decision that comes out of it perfectly right for it to work and make a big difference for you and your team. You can muddle about a bit and see what happens, what questions emerge, and what’s next for your team’s collaboration needs. So get started today by sharing this article with your group and [**give it a try (free!) on Loomio**](https://loomio.org/?frontpage/?utm_campaign=consent-process-guide-help&utm_term=help).
+## Safe to try
 
-For more information on Integrative Consent, a demo video of the proces in action, or a Cooperative Decision-Making Toolkit with more tips and tricks to support you and your team’s meaningful and efficient collaboration [get in touch with Round Sky](https://www.roundskysolutions.com/contact/).
+The most important thing to remember when you are using Integrative Consent, is that you should be aiming for decisions that are _safe to try_. It is unlikely that your team will make the perfect decision every time but by opening the door for your entire team to weigh in you will maximize your brainpower and arrive at a workable solution faster than you could have alone.
+
+If you think this could help, share it with your team and [try it for free on Loomio](https://loomio.org/?frontpage/?utm_campaign=consent-process-guide-help&utm_term=help). We hope to play a part in your team’s next step towards better collaborative decision making.
+
+Want more on Integrative Consent or a demo video of the process in action? Head on over to [Round Sky Solutions](https://www.roundskysolutions.com/) for more info and a comprehensive Cooperative Decision-Making Toolkit.
 
 Cheers! Happy world-changing to you and your groups!
 
@@ -131,3 +143,5 @@ Cheers! Happy world-changing to you and your groups!
 ² Proposer: the individual who raises an item for consideration which requires a decision
 
 ³ Round: a discussion style where one person shares at a time as requested by the facilitator
+
+Facilitator: someone who can help the proposer do their job efficiently. For example, in step 1, they might check in with them to see if they have enough information to craft and refine their proposal.
