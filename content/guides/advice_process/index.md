@@ -1,6 +1,6 @@
 ---
-title: Advice process (on Loomio)
-description: Step-by-step how to use consultative decision making on & off Loomio
+title: Advice process
+description: Step-by-step guide to consultative decision making on & off Loomio
 menu:
   main:
     parent: guides
@@ -11,7 +11,7 @@ menu:
 
 Today I want to show you how to make decisions that receive  more engagement (and, thus, better performance), build team confidence and alignment, and – when done well – increase interpersonal trust and motivation, all while maintaining **efficiency**. Trusting those closest to the problem to own the decision and be responsible for their own work – while simultaneously taking advantage of input and expertise within the organization – is possible, and can be done without sacrificing the ability to respond and adapt quickly.
 
-This way of decision making improves accountability, will lead to more motivation and better work from everyone in your group and – ultimately – produce the clear outcomes your group needs.<img class="alignright" src="advice_consent_decision_types.png" alt="An equilateral triangle with points reading, from top to bottom, “Advice, Top-down (autocratic), Group (Consent, consensus)”"/> While a lot of processes also address some of these obstacles (for example, Consent) many teams prefer to use a technique like _“advice process”_ often modeled after the one popularized by _Reinventing Organizations._
+This way of decision making improves accountability, will lead to more motivation and better work from everyone in your group and – ultimately – produce the clear outcomes your group needs.<img src="advice_consent_decision_types.png" align="right" alt="An equilateral triangle with points reading, from top to bottom, “Advice, Top-down (autocratic), Group (Consent, consensus)”"/> While a lot of processes also address some of these obstacles (for example, Consent) many teams prefer to use a technique like _“advice process”_ often modeled after the one popularized by _Reinventing Organizations._
 
 ## **How it works** anywhere
 In one sentence, using Advice Process means
