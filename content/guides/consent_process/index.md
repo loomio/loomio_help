@@ -102,7 +102,7 @@ Once all objections have been surfaced then we can complete integration. This in
 
 As we mentioned, there’s a number of benefits from doing some of your consent processes online.
 
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTpQ3Eja7bwuZGB2vL16PHGRFLk15TqiH9Fbmpn0ztRLOYthxi6YC2gaF1ivmhTe5UHLoG65c-satE3/embed?start=false&loop=false&delayms=30000/#slide=id.g63800a1f03_0_0" frameborder="0" width="600" height="370" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTpQ3Eja7bwuZGB2vL16PHGRFLk15TqiH9Fbmpn0ztRLOYthxi6YC2gaF1ivmhTe5UHLoG65c-satE3/embed?start=false&loop=false&delayms=30000" frameborder="0" width="600" height="370" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 ## Key Pitfalls
 
