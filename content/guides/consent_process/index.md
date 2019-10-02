@@ -4,6 +4,7 @@ description: A simple 'how to' for groups to use Integrative Consent on & off Lo
 menu:
   main:
     parent: guides
+    name: Consent decision making
 ---
 
 _By Loomio and Round Sky Solutions—creators of the Integrative Consent process._
