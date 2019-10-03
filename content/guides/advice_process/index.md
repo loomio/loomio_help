@@ -1,6 +1,6 @@
 ---
 title: Advice process
-description: Step-by-step guide to consultative decision making on & off Loomio
+description: A simple guide to consultative decision making on & off Loomio
 menu:
   main:
     parent: guides
@@ -61,7 +61,7 @@ You’ll notice that Sam has made a decision that calls for others to execute th
 <p style="margin-left:2em;margin-right:2em;margin-top:2em;margin-bottom:2em"><i><b>Tip:</b> Ideally (not depicted above) Sam has explained why she made the choice, for the record and for team learning. </i></p>
 
 ## **How it works** online
-<iframe src="//www.slideshare.net/slideshow/embed_code/key/gtyG8KTL1Jme3s?startSlide=2" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRrNZXdX1mbQht4YBJMups2bNYm05AgQSDQ2JdZ5KUr5wMrbsr1ak9yc5Z_j23BdzyEB8zq6Oepmpq3/embed?start=false&loop=false&delayms=30000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 ## Tips & Challenges
 ### Common challenges
