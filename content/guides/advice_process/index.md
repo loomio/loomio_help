@@ -18,25 +18,25 @@ In one sentence, using Advice Process means
 
 ![*Anybody* can make a decision if they have *all the advice they need* to make a good decision for the business; this includes *asking those impacted or with expertise.*¹](advice_process_one_liner.png)
 
-For example, Sam needs to decide if the new product website can be publicized.
+For example: Sam’s got a website for a newly developed product, and wants the marketing team to start promoting it.
 
 Here’s how the Advice Process went for Sam:
 
 ![Sam’s cartoon face with speech bubble, “The website I made is ready to be promoted (?)”](sam_uses_advice_process1.png)
 
-Sam asks for feedback from the marketing director and the product lead.
+Sam asks for feedback from the marketing director and the products director.
 
 ![Sam’s cartoon face with two ↔ between them and two of their colleagues](sam_uses_advice_process2.png)
 
-The marketing director reminds her it’s still the holidays across the pond.
+The marketing director advises that it’s still the holidays across the pond.
 
 ![One of the colleagues and Sam, where the colleague’s speech bubble reads, “It’s still some folks’ holidays”](sam_uses_advice_process3.png)
 
-Sam is quick on her feet.
+Sam is a quick problem solver.
 
 ![One of the colleagues and Sam, where Sam’s speech bubble reads, “Could Marketing promote it next week?”](sam_uses_advice_process4.png)
 
-Confident that she got sufficient feedback and resolved the marketing director’s feedback by amending her intention (push it _next week,_ not _immediately_), Sam publishes the website and schedules it for promotion, alerting the marketing team of their responsibility.
+Confident that there was sufficient feedback and that the marketing director’s tension was resolved – amending the intention (push it _next week,_ not _immediately_), Sam publishes the website and schedules it for promotion, alerting the marketing team of their responsibility.
 
 ![Sam next to a computer depicting a webpage with a green check emoji overlapping it.](sam_uses_advice_process5.png)
 
@@ -44,7 +44,7 @@ Sam documents the decision…
 
 ![Sam with a keyboard and an arrow connecting keyboard → three other people ](sam_uses_advice_process6.png)
 
-…putting it somewhere her peers can see it.
+…putting it somewhere the team could see it.
 
 ![A computer-like text box, where the keyboard had been, reads, “Marketing to promote the site starting Monday; thanks!” The text, “the site” is hyperlinked. The other three people can see the text box.](sam_uses_advice_process7.png)
 
@@ -52,11 +52,11 @@ Here’s the steps that Sam took:
 
 1. She **stated an intention**
 2. She **collected feedback**
- - She **responded to objections** (and tensions)
+ - She **responded to concerns** (and tensions)
 3. She **made the decision**
  - and communicated and **recorded it** adequately.
 
-You’ll notice that Sam has made a decision that calls for others to execute the work. To get all the benefits of advice process, decisions made by advice process need to be considered the decision _of the team_ or organization. You don’t have to make advice process available for _every_ decision, but encourage everyone to stand behind those you do. That said, it’s important to note that **decision makers are accountable for their decisions,** even if there are other people responsible for completing any tasks that are called for. In most cases, aligning power with accountability will get you better results.
+You’ll notice that Sam has made a decision that calls for others to execute the work. To get all the benefits, decisions made by advice process need to be considered the decision _of the team_ or organization. You don’t have to make advice process available for every kind of decision, but encourage everyone to stand behind those you do. That said, it’s important to note that **decision makers are accountable for their decisions,** even if there are other people responsible for completing any tasks that are called for. In most cases, aligning power with accountability will get you better results.
 
 <p style="margin-left:2em;margin-right:2em;margin-top:2em;margin-bottom:2em"><i><b>Tip:</b> Ideally (not depicted above) Sam has explained why she made the choice, for the record and for team learning. </i></p>
 
