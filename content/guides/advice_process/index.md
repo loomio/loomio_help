@@ -67,15 +67,15 @@ You’ll notice that Sam has made a decision that calls for others to execute th
 ### Common challenges
 **Feedback is hard.** I can think of plenty of times when I just wanted to keep moving forward on a project when I knew it would be better to invite a colleague into conversation. _What if addressing their comments slows down my progress? What if I need to start over? Do their comments mean my work isn’t valuable?_ All of these hypothetical worries tend to keep us from reaching out for feedback about something, especially something that didn’t go well. EFeedback is critical to improving outcomes, and it doesn’t have to be hard; there are frameworks that can make it easier (eg, **ASK:** feedback is best when it’s **A**ctionable, **S**pecific, and **K**ind).
 
-**Giving feedback is a responsibility:** If someone from your organization asks you for feedback and you don’t provide input, you are still accountable for the decision. So, if you have something valuable to add, there's an expectation that you say it.
+**Giving feedback is a responsibility:** If someone from your organization asks you for feedback and you don’t provide needed input, you also have accountability for the outcome. So, if you have something valuable to add, there's an expectation that you say it.
 
-**Receiving feedback can be hard,** but it’s easier if your team has worked on the capacity to suspend judgement: setting aside personal opinions to examine suggestions or critiques from others while and assuming positive intent – that they’re trying to improve the effort.
+**Receiving feedback can be hard,** but it’s easier if your team has worked on the capacity to **suspend judgement**: setting aside personal opinions to examine suggestions or critiques from others while assuming positive intent – i.e., that they’re trying to improve the effort.
 
 <p style="margin-left:1em;margin-right:1em;margin-top:2em;margin-bottom:2em"><span style="font-size:130%">Efficiency and effectiveness are directly related to the capacity for open, honest, and direct communication.</span></p>
 
 **Accountability can get left out.** Decision makers may not become aware of any poor outcomes, losing the opportunity to learn or to fix significant issues; _the buck has to stop somewhere._ This makes feedback, and systems for regular reflection, even more critical.
 
-**Communication is hard,** but advice process can actually be a step towards improving communications for your team. If your group is considering adopting advice process, that means you’re somewhere on your journey towards being a more collaborative organization. It can be of great value to pick up advice process early on and to practice it with specific kinds of decisions. Your organization may decide to try it out in one team, or just for picking meeting dates, to get started.
+**Communication is hard,** but advice process can actually be a step towards improving communications for your team. If your group is considering adopting it, that means you’re somewhere on your journey towards being a more collaborative organization. It can be of great value to pick up advice process early on and to practice it with specific kinds of decisions. Your organization may decide to try it out in one team (or just for picking meeting dates, etc.) as you get started.
 
 ### Your first experiment (checklist)
 For your first advice process experiment, you might want to check that the people who need to be involved or aware of it can answer the following:
