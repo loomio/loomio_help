@@ -54,7 +54,7 @@ Here’s the steps that Sam took:
 2. She **collected feedback**
  - She **responded to concerns** (and tensions)
 3. She **made the decision**
- - and communicated and **recorded it** adequately.
+4. and communicated and **recorded it** adequately.
 
 You’ll notice that Sam has made a decision that calls for others to execute the work. To get all the benefits, decisions made by advice process need to be considered the decision _of the team_ or organization. You don’t have to make advice process available for every kind of decision, but encourage everyone to stand behind those you do. That said, it’s important to note that **decision makers are accountable for their decisions,** even if there are other people responsible for completing any tasks that are called for. In most cases, aligning power with accountability will get you better results.
 
