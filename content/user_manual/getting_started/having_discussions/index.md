@@ -1,6 +1,6 @@
 ---
-title: Having discussions
-weight: 50
+title: 3. Having discussions
+weight: 30
 description: Tips for inclusive and effective discussions on Loomio.
 menu:
   main:
