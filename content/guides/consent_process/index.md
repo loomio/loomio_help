@@ -123,7 +123,7 @@ PITFALL 3: Getting stuck with validating and integrating objections.
 
 <p style="margin-left:2em;margin-right:2em;margin-top:2em;margin-bottom:2em"><i><b>Example:</b> Someone strongly and emotionally objects to a proposal but can’t say much more than they really don’t like the proposal and won’t stand behind it.</i></p>
 
-To learn what to do to resolve these common pitfalls, check out [Round Sky’s website](https://roundskysolutions.com).
+To learn what to do to resolve these common pitfalls, check out [Round Sky’s Decision Making Toolkit](https://www.roundskysolutions.com/decisionmakingtoolkit/?utm_source=Loomio&utm_medium=partners&utm_campaign=DecisionMakingToolkit2019).
 
 ## Safe to try
 
@@ -131,7 +131,7 @@ The most important thing to remember when you are using Integrative Consent is t
 
 If you think this could help, share it with your team and [try it for free on Loomio](https://loomio.org/?frontpage/?utm_campaign=consent-process-guide-help&utm_term=help). We hope to play a part in your team’s next step towards better collaborative decision making.
 
-Want more on Integrative Consent or a demo video of the process in action? Head on over to [Round Sky Solutions](https://www.roundskysolutions.com/) for more info and a comprehensive Cooperative Decision-Making Toolkit.
+Want more on Integrative Consent or a demo video of the process in action? Head on over to Round Sky Solutions for more info and a free, comprehensive [Cooperative Decision-Making Toolkit](https://www.roundskysolutions.com/decisionmakingtoolkit/?utm_source=Loomio&utm_medium=partners&utm_campaign=DecisionMakingToolkit2019).
 
 Cheers! Happy world-changing to you and your groups!
 
