@@ -83,7 +83,7 @@ This round can include clarifying questions, sharing points of information, maki
 
 Step three, *amend*, is where the proposer makes changes at their discretion to their proposal based on the input they received in step two. The proposer doesn’t have to amend anything or respond to everything shared in step two. Their job is to change what they feel would be best **on behalf of the whole team**, not just their, or anyone else’s, personal preferences. Once we have an amended proposal, then we move into step four, integrate.
 
-## STEP 4: Integration, objections
+## STEP 4: Integration (objections)
 
 **Integration** is where things get interesting. During this phase, all team members are invited to present any objections they have, with objections being defined as what “**might cause harm to the team or organization**”. Now, how do we know if it might cause harm? This question can sometimes open a can of worms if there is not a clear agreement about what is a valid objection. At the very least, we recommend that an objection needs to have a reasoned case that can be made explicit. If the ‘why’ of the objection is unclear, it may be impossible to integrate and waste a lot of time. Beyond that, there are a number of other basic questions your group could ask of each objection to ensure that they will not just cause the team to go round and round in circles. We call these validation criteria. Your group will likely want to agree on the criteria that work best for you, but we think you might find these basic ones useful to get started:
 
@@ -95,15 +95,15 @@ Another example might be that I’ve just had a better idea. Better ideas in gen
 
 And the third way in which objections are not valid is that they are based on predictive concerns for which we have no current data. Are we afraid our customers hate red or do we have actual market research? Predictive concerns can frankly just be wrong, and we can end up spending lots of team resources trying to integrate predictive concerns, especially if we have no relevant experience that supports our concerns.
 
-### Integration, objections to completion
+### Integration (objections to completion)
 
 Once all objections have been surfaced then we can complete integration. This includes understanding the concerns and checking that each objection meets the validation criteria. Your facilitator should pick one objection at a time and integrate it via open discussion to create an amended version of the proposal. It’s important that the proposal in its changed form still resolves the proposer’s tension. In other words, it would be pointless to change the proposal so that it no longer addresses the need that put it on the table in the first place, though how that need gets met may be different than the way the proposer initially conceived. This process is repeated for all valid objections, remembering that new objections may be raised as we change the proposal. When there are no further objections, the proposal has passed.
 
 # Integrative Consent online
 
-As we mentioned, there’s a number of benefits from doing some of your consent processes online.
+As we mentioned, there’s a number of benefits from doing some of your consent processes online. Here's how (on Loomio):
 
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTpQ3Eja7bwuZGB2vL16PHGRFLk15TqiH9Fbmpn0ztRLOYthxi6YC2gaF1ivmhTe5UHLoG65c-satE3/embed?start=false&loop=false&delayms=30000" frameborder="0" width="600" height="370" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<iframe width="100%" height="380px" src="https://www.youtube-nocookie.com/embed/1sc425MNZ9I" frameborder="0" allowfullscreen></iframe>
 
 ## Key Pitfalls
 
@@ -123,7 +123,7 @@ PITFALL 3: Getting stuck with validating and integrating objections.
 
 <p style="margin-left:2em;margin-right:2em;margin-top:2em;margin-bottom:2em"><i><b>Example:</b> Someone strongly and emotionally objects to a proposal but can’t say much more than they really don’t like the proposal and won’t stand behind it.</i></p>
 
-To learn what to do to resolve these common pitfalls, check out [Round Sky’s Decision Making Toolkit](https://www.roundskysolutions.com/decisionmakingtoolkit/?utm_source=Loomio&utm_medium=partners&utm_campaign=DecisionMakingToolkit2019).
+To learn what to do to resolve these common pitfalls, check out Round Sky’s Decision Making Toolkit below.
 
 ## Safe to try
 
