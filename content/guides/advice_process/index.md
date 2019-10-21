@@ -105,7 +105,7 @@ For your first advice process experiment, you might want to check that the peopl
 Let us know if you want any specifics on overcoming challenges and succeeding with Advice process online, with or without Loomio.
 
 ## Not just a tool
-Advice process, as a tool, makes **good business sense**, and it can deliver even more than that. How would it feel if you knew you had full support of your team the next time you needed to make an important decision? Advice process – and, moreover, a _culture of advice process_ – may be used to transform an organization’s philosophy or overall governance and operations. Some teams have significantly grown their capacity by adopting it more deeply. If you want to explore stepping beyond, we can connect you with one of our consultant partners.
+Advice process, as a tool, makes **good business sense**, and it can deliver even more than that. How would it feel if you knew you had full support of your team the next time you needed to make an important decision? Advice process – and, moreover, a _culture of advice process_ – may be used to transform an organization’s philosophy or overall governance and operations. Some teams have significantly grown their capacity by adopting it more deeply.
 
 ![Steps of Advice Process: 1. Propose, 2. Ask for feedback, 3. Decide, 4. Share the outcome](advice_process_steps.png)
 
