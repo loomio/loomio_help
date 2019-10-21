@@ -22,80 +22,80 @@ Our goal is to provide Loomio to as many people as possible, while also developi
 
 To sustainably work towards our vision, we have structured our pricing based on the type of organization we serve.  
 
-We aim to provide a competitive price for commercial customers, an affordable price for volunteer organizations (member/donor-funded), as well as a free plan for unfunded community groups.
+We aim to offer a competitive price for enterprise organizations, an affordable price for self-service groups, and special rates for community and volunteer groups.
+
+Loomio is open source software, and you are free to set up your own instance of Loomio.
 
 
 ## Subscription plans
+A Loomio subscription is one price per group, calculated according to the total number of people in your group.
 
-To keep it simple, a Loomio subscription is one price per group.
- <!-- Individual users are not charged to use Loomio. -->
-
-<!-- A group coordinator can set up a subscription by clicking the Upgrade button, near the top right of the group page. -->
-
-All plans come with the full range of features including:
-
-- Unlimited threads and decisions
-- Slack and Microsoft Teams integration
-- 100 GB file storage
-- Subgroups and Tagging
-- Training webinar with a Loomio expert
-- Help desk – responsive support all year round
-- Data export as CSV and JSON
 
 ### Free trial
-All new groups start on a free trial, giving your group the opportunity to experience Loomio and see how it can support your needs.
+All new groups start on a free trial, providing the opportunity to experience Loomio with your group.
 
-Free trials are limited to 20 people and 10 threads. There is no time limit.
+Free trials are for 14 days, limited to 100 people and 10 threads.
 
-Contact us if you need a larger trial for any reason.
+[Contact usk](https://loomio.org/contact) if you need to extend your trial.
 
-### Small
-Small plans are limited to 50 people and are typically used by working groups, teams, governance boards, and small groups.
+At the end of the trial period you will be asked to upgrade to a paid subscription plan.
 
-### Medium
-Medium plans are limited to 500 people and used by small to medium organizations, often collaborating in multiple subgroups and small networks. Many groups of this size also use Loomio for stakeholder engagement.
+### Basic plan
+Loomio Basic plan will suit most people getting started, and will grow as you engage more people.
 
-### Large
-Large plans are used by large organizations and networks, and online stakeholder engagement.
+Price: $1.00 per month, per person. Paid in advance.
 
-## Subscription pricing
+Basic plan includes:
+- Unlimited threads and decisions
+- Enhanced facilitation tools
+- Slack integration
+- Email support
+- Data export
 
-<!-- We price Loomio according to the type of organization we support. This enables us to provide an inclusive service model that supports a diverse range of groups; businesses and government organizations, right through to non-profits, activist and volunteer groups. -->
+You can purchase monthly or annual plans. Pay yearly and get 2 months free.
 
-### Commercial and Government organizations
-Business, government and other revenue-generating organizations.
+Minimum price is $10.00 per month for monthly plans and $100.00 per year for annual plans.
 
-| Small           | Medium           | Large             |
-|:---------------:|:----------------:|:-----------------:|
-| up to 50 people | up to 500 people | more than 500 |
-|  $49 /month     | $149 /month      |   [contact us](https://www.loomio.org/contact) |
-|  or $490 /year  | or $1490 /year   |  |
+### Pro plan
+Loomio Pro plan is intended for organizations requiring priority support, setup and training. The Pro plan includes integration with your organization’s MS Teams and OneLogin services.
 
-### Funded non-profit organizations
-Legally recognized nonprofit organizations, typically paying staff salaries. E.g. NGOs, school boards, and trustee boards, political parties and religious organizations.
+Price: $4.00 per month, per person. Paid in advance.
 
-As a nonprofit, you are eligible to receive a 35% discount on all plans. Enter coupon code __NPLOOMIO__ at upgrade.
+Pro plan includes:
+- All Basic plan features
+- MS Teams integration
+- OneLogin integration
+- Priority support
+- Setup support
+- Training
 
-### Volunteer and member supported organizations
-<!-- Organizations supported by members giving their time to achieve the organization’s purpose.  -->
-Funds are provided by members or donations, no paid full-time staff or commercial income. E.g. Some activist organizations, co-housing groups, community groups, collectives, sports clubs, spiritual groups.
+You can purchase monthly or annual plans. Pay yearly and get 2 months free.
 
-| Small           | Medium           | Large             |
-|:---------------:|:----------------:|:-----------------:|
-| up to 50 people | up to 500 people | more than 500     |
-| $98 / year      | $149 / year   | [contact us](https://www.loomio.org/contact)|
+Minimum price is $40.00 per month for monthly plans and $400.00 per year for annual plans.
 
-*These rates are only available as annual payments.*
+Contact us to discuss pricing for your organization.
 
-To access these special rates, apply to our [Volunteer organization application form](https://forms.gle/yg2HpRZkmYmGEyBq7). At completion, you will receive the coupon codes for the plans.
+### Volunteer & Community Organizations
+Volunteer and community groups are supported by members to achieve a purpose. They do not have any paid staff, nor generate income.
 
-### Unfunded community groups
-We provide Loomio for __free__ to unfunded groups.
+Price: $1.00 per year, per person. Paid in advance.
 
-E.g. activists, hobby groups, classroom education, families and friends.
+Volunteer & Community plan includes:
+- Unlimited threads and decisions
+- Enhanced facilitation tools
+- Slack integration
+- Email support
+- Data export
 
-Unfunded community groups and organizations do not have any funds or bank account.
+These rates are only available as annual payments. Minimum price is $25.00 per year.
 
-Please complete our [Community application form](https://goo.gl/forms/07y18PLA7ykcgbhJ2) to apply to use Loomio for Free.
+To access these special rates, [apply for our Volunteer & Community plan](https://forms.gle/yg2HpRZkmYmGEyBq7). At completion, you can sign up for this plan.
 
-We aim to approve applications within 48 hours.
+### Variable Pricing
+When you invite new people into your group, you will be charged for the new people at a pro-rated amount for the current billing cycle. Payment will be drawn at the next billing renewal date. Loomio checks the number of people in your group daily.
+
+> **Example:** Mary has a Basic monthly plan for her group of 20 people, with billing of $20.00 due on the 1st of the month. On the 15th of the month (half-way through the current billing cycle), Mary invites 10 new people to her group. Mary’s account is charged 10 people x $1.00 x 15 days remaining / 30 days in current month = $5.00, payment to be drawn at next billing date. At the next monthly billing renewal date, Mary is charged $35.00 (total of 30 people x $1.00 for the next month + the pro-rated amount of $5.00 from the previous billing month) and payment is drawn from the credit card on file. Mary receives a statement detailing the charges processed.
+
+If the number of people in your group decreases, the price will reduce accordingly at the next billing cycle. All payments are in advance and no credit is provided.
+
+Annual plans operate in the same way.
