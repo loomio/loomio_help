@@ -94,7 +94,13 @@ To access these special rates, [apply for our Volunteer & Community plan](https:
 ### Variable Pricing
 When you invite new people into your group, you will be charged for the new people at a pro-rated amount for the current billing cycle. Payment will be drawn at the next billing renewal date. Loomio checks the number of people in your group daily.
 
-> **Example:** Mary has a Basic monthly plan for her group of 20 people, with billing of $20.00 due on the 1st of the month. On the 15th of the month (half-way through the current billing cycle), Mary invites 10 new people to her group. Mary’s account is charged 10 people x $1.00 x 15 days remaining / 30 days in current month = $5.00, payment to be drawn at next billing date. At the next monthly billing renewal date, Mary is charged $35.00 (total of 30 people x $1.00 for the next month + the pro-rated amount of $5.00 from the previous billing month) and payment is drawn from the credit card on file. Mary receives a statement detailing the charges processed.
+> **Example:** Mary has a Basic monthly plan for her group of 20 people, with billing of $20.00 due on the 1st of the month.
+
+> On the 15th of the month (half-way through the current billing cycle), Mary invites 10 new people to her group. Mary’s account is charged 10 people x $1.00 x 15 days remaining / 30 days in current month = $5.00, payment to be drawn at next billing date.
+
+> At the next monthly billing renewal date, Mary is charged $35.00 (total of 30 people x $1.00 for the next month + the pro-rated amount of $5.00 from the previous billing month) and payment is drawn from the credit card on file.
+
+> Mary receives a statement detailing the charges processed.
 
 If the number of people in your group decreases, the price will reduce accordingly at the next billing cycle. All payments are in advance and no credit is provided.
 
