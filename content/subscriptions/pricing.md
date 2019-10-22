@@ -36,7 +36,7 @@ All new groups start on a free trial, providing the opportunity to experience Lo
 
 Free trials are for 14 days, limited to 100 people and 10 threads.
 
-[Contact usk](https://loomio.org/contact) if you need to extend your trial.
+[Contact us](https://loomio.org/contact) if you need to extend your trial.
 
 At the end of the trial period you will be asked to upgrade to a paid subscription plan.
 
@@ -73,7 +73,7 @@ You can purchase monthly or annual plans. Pay yearly and get 2 months free.
 
 Minimum price is $40.00 per month for monthly plans and $400.00 per year for annual plans.
 
-Contact us to discuss pricing for your organization.
+[Contact us](https://loomio.org/contact) to discuss pricing for your organization.
 
 ### Volunteer & Community Organizations
 Volunteer and community groups are supported by members to achieve a purpose. They do not have any paid staff, nor generate income.
