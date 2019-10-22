@@ -89,7 +89,7 @@ Volunteer & Community plan includes:
 
 These rates are only available as annual payments. Minimum price is $25.00 per year.
 
-To access these special rates, [apply for our Volunteer & Community plan](https://forms.gle/yg2HpRZkmYmGEyBq7). At completion, you can sign up for this plan.
+To access these special rates, [apply for our Volunteer & Community plan](https://www.loomio.org/special_pricing). At completion, you can sign up for this plan.
 
 ### Variable Pricing
 When you invite new people into your group, you will be charged for the new people at a pro-rated amount for the current billing cycle. Payment will be drawn at the next billing renewal date. Loomio checks the number of people in your group daily.
