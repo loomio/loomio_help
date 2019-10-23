@@ -125,6 +125,10 @@ PITFALL 3: Getting stuck with validating and integrating objections.
 
 To learn what to do to resolve these common pitfalls, check out Round Sky’s Decision Making Toolkit below.
 
+## Video quick-guide
+
+<iframe width="100%" height="380px" src="https://www.youtube-nocookie.com/embed/4jSrVBhwPZM" frameborder="0" allowfullscreen></iframe>
+
 ## Safe to try
 
 The most important thing to remember when you are using Integrative Consent is that you should be aiming for decisions that are _safe to try_. It is unlikely that your team will make the perfect decision every time but by opening the door for your entire team to weigh in you will maximize your brainpower and arrive at a workable solution faster than you could have alone.
