@@ -125,7 +125,7 @@ PITFALL 3: Getting stuck with validating and integrating objections.
 
 To learn what to do to resolve these common pitfalls, check out Round Sky’s Decision Making Toolkit below.
 
-## Video quick-guide
+## VIDEO: quick guide
 
 <iframe width="100%" height="380px" src="https://www.youtube-nocookie.com/embed/4jSrVBhwPZM" frameborder="0" allowfullscreen></iframe>
 
