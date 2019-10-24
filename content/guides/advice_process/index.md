@@ -61,9 +61,10 @@ You’ll notice that Sam has made a decision that calls for others to execute th
 <p style="margin-left:2em;margin-right:2em;margin-top:2em;margin-bottom:2em"><i><b>Tip:</b> Ideally (not depicted above) Sam has explained why she made the choice, for the record and for team learning. </i></p>
 
 ## **How it works** online
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRrNZXdX1mbQht4YBJMups2bNYm05AgQSDQ2JdZ5KUr5wMrbsr1ak9yc5Z_j23BdzyEB8zq6Oepmpq3/embed?start=false&loop=false&delayms=30000" frameborder="0" width="600" height="370" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
-## Tips & Challenges
+<iframe width="100%" height="380px" src="https://www.youtube-nocookie.com/embed/_CYI45mDn5I" frameborder="0" allowfullscreen></iframe>
+
+## Tips and Challenges
 ### Common challenges
 **Feedback is hard.** I can think of plenty of times when I just wanted to keep moving forward on a project when I knew it would be better to invite a colleague into conversation. _What if addressing their comments slows down my progress? What if I need to start over? Do their comments mean my work isn’t valuable?_ All of these hypothetical worries tend to keep us from reaching out for feedback about something, especially something that didn’t go well. EFeedback is critical to improving outcomes, and it doesn’t have to be hard; there are frameworks that can make it easier (eg, **ASK:** feedback is best when it’s **A**ctionable, **S**pecific, and **K**ind).
 
@@ -117,8 +118,13 @@ Sound good? Share this video! Chat with your group about it… try it out and le
 
 Cheers! Happy world-changing to you and your groups!
 
+## Video companion
+We've turned this guide into a video!
+
+<iframe width="100%" height="380px" src="https://www.youtube-nocookie.com/embed/qfpHnyyiIU0" frameborder="0" allowfullscreen></iframe>
+
 ---
-### Credits
+## Credits
 
 <p style="font-size:70%">¹ Modified from <a href="https://granttree.co.uk" target="_blank">GrantTree</a></p>
 <p style="font-size:70%">² “A culture that is comfortable with healthy conflicts”  –James Bloementhal (Fitzii, now <a href="https://ianmartin.com" target="_blank">Ian Martin Group</a>)</p>
