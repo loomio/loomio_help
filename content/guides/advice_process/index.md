@@ -129,4 +129,4 @@ We've turned this guide into a video!
 <p style="font-size:70%">¹ Modified from <a href="https://granttree.co.uk" target="_blank">GrantTree</a></p>
 <p style="font-size:70%">² “A culture that is comfortable with healthy conflicts”  –James Bloementhal (Fitzii, now <a href="https://ianmartin.com" target="_blank">Ian Martin Group</a>)</p>
 <p style="font-size:70%">³ From Rich Bartlett’s article, “Out beyond consensus…” in <a href="https://betterworktogether.co" target="_blank">Better Work Together</a></p>
-<p style="font-size:70%">⁴ Thanks again to James Bloementhal (Fitzii, now Ian Martin Group)</p>
+<p style="font-size:70%">⁴ Thanks again to James Bloemendal (Fitzii, now Ian Martin Group)</p>
