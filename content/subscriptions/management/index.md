@@ -11,12 +11,10 @@ menu:
 ## Introduction
 Loomio uses the Chargify billing and subscription management service to manage subscription records, initiate payments, process upgrades and cancellations.
 
-Prices are based on debit/credit card payment via the Loomio automated billing portal.
-
-When setting up a subscription, you can use a coupon code if applicable.
+Prices are based on debit/credit card payment via an automated billing portal.
 
 ## Upgrading your group
-If your group grows beyond the plan limit, you will be asked to upgrade to the next plan to continue using Loomio. For example if your group is on Small plan and you wish to invite more than 50 people into the group you will be asked to upgrade to the Medium plan.
+To continue to use Loomio beyond your free trial, you can upgrade your group to Basic or Pro plans, or apply for special rates available for Community & Volunteer member groups. 
 
 You may upgrade your group at any time.
 
@@ -28,17 +26,17 @@ Groups moved to become subgroups retain all privacy and member permissions.
 ## Automatic payment and statement generation
 Payments via Chargify are automatic either monthly or annually, and a statement is issued on successful payment.
 
-You can update card and contact details at any time using the secure Account Management link to the billing portal. This is located at the bottom of the statement.
+You can update card and contact details at any time using the secure Account Management link to the billing portal. Look for the  'Account Management'  link at the bottom of the statement.
 
 ## Billing problems
 If Chargify is unable to process a payment to your card when due, an email notification will be sent to the email address we have on file, along with a link to the billing portal where you can update card details.   The billing system will continue to retry the payment once a week, and if payment is not successful after four (4) attempts, the subscription plan will be cancelled (day 28).
 
-The billing system also issues an alert via email when your credit card is nearing expiry.
+The billing system will issue an alert via email when your credit card is nearing expiry.
 
-Card payment problems are sometimes caused by bank restrictions. Please make sure "international payments" and "internet transactions" are enabled on your card.
+Card payment problems are sometimes caused by bank restrictions. Please make sure your credit or debit card is authorized for  "international payments" and "internet transactions" ("Prch" and "Auth"). 
 
 ## Alternate payment options
-Alternate payment options are only available for annual subscriptions.
+Alternate payment options are only available for annual Basic and Pro plan subscriptions.
 
 ### Bank transfer payment
 We accept payment via bank transfer for payment within 20 days of invoice.
@@ -50,16 +48,16 @@ There is a 10% administration charge for manual invoice and purchase order proce
 Invoices raised in currencies other than in USD are converted at the daily Telegraphic Transfer rate plus 5%.
 
 ## Upgrade your plan
-To upgrade from a trial or free plan, [visit the upgrade page](https://www.loomio.org/upgrade).
+To upgrade from trial, go to your group page and click the 'Upgrade' button or [visit the upgrade page](https://www.loomio.org/upgrade).
 
 You will see a list of all the groups you belong to.
 
 Find the group you wish to upgrade and click the Upgrade link.
 
-Select the subscription plan you wish to purchase and click ‘Pay monthly’ or ‘Pay annually’
+Select the subscription plan you wish to purchase and click ‘Pay monthly’ or ‘Pay yearly’
 This link takes you to the Loomio billing portal operated by Chargify.  Here you can set up your subscription.  Check the details of plan, price and payment frequency in the Plan Summary table are correct.
 
-Enter or paste in a coupon code if applicable and confirm that the price has been adjusted accordingly.
+Enter or copy/paste a coupon code if applicable and confirm that the price has been adjusted accordingly.
 
 Complete the required fields to set up your subscription, including:
 
@@ -70,7 +68,6 @@ Complete the required fields to set up your subscription, including:
 Confirm details and click the ‘Place my order’ button.
 
 The subscription is activated immediately and your group automatically upgraded.  You will receive a tax invoice/statement confirming successful payment.
-![Small annual chargify](small-annual-chargify.png)
 
 ## Change your plan
 
@@ -78,9 +75,11 @@ The subscription is activated immediately and your group automatically upgraded.
 
 You will see a list of all the groups you belong to.
 
-Find the group you wish to change and click the Change link.
+Find the group you wish to change and click the 'Change' link.
 
-This link takes you to the Loomio billing portal operated by Chargify.  Here you can change your subscription plan.  
+This link takes you to the Loomio billing portal operated by Chargify where you can change your subscription plan. You may need to enter your email address to receive a secure link to the portal.   
+
+Click on the 'Change Plan' link and select your new plan. 
 
 Check the details of plan, price and payment frequency in the Plan Summary table are correct.
 
@@ -89,8 +88,8 @@ If you would like to cancel your Loomio subscription, you can do this via your b
 
 Follow that link to the billing portal, then:
 
-1. Under ‘Plan Details’, click on ‘Cancel’ (on the right)
-2. Tell us why you are canceling the plan ![](cancel-plan-chargify.png)
+1. Find ‘Plan Details’, click on ‘Cancel’ (on the right).
+2. Tell us why you are canceling the plan. 
 3. Choose 'Cancel Now' or 'Cancel At End of Period'.
 
 If you’re having issues finding your billing portal link, please contact us.
@@ -102,6 +101,6 @@ Your group data and membership remain and you can continue to comment on existin
 You can reinstate the subscription at any time. If you no longer require the group, you may deactivate it.
 
 ## No refund policy
-Loomio will not provide any refund for any remaining prepaid subscription payment.
+Loomio does not provide refunds for subscription payments.
 
 If you believe a payment has been made in error, contact us with details and we will assess the situation on a case by case basis.
