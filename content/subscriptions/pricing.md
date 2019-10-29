@@ -87,7 +87,7 @@ Volunteer & Community plan includes:
 - Email support
 - Data export
 
-These rates are only available as annual payments. Minimum price is $25.00 per year.
+These rates are only available as annual payments. Minimum price is $10.00 per year.
 
 To access these special rates, [apply for our Volunteer & Community plan](https://www.loomio.org/special_pricing). At completion, you can sign up for this plan.
 
