@@ -3,7 +3,7 @@ title: Loomio Help
 ---
 # Loomio Help
 
-<div class="subtitle">Loomio is an online tool used by thousands of groups around the world to increase transparency and inclusion, decrease meetings and emails, and make better decisions together.</div>
+<div class="subtitle"><p>Loomio is an online tool used by thousands of groups around the world to increase transparency and inclusion, decrease meetings and emails, and make better decisions together.</p><p><a href="/en/user_manual/whats_new_loomio_2">See what's new in 2.0</a> as we progressively release it: <a href="https://loomio.org/beta/?utm_campaign=home_help&utm_term=help">turn Beta on/off</a></p></div>
 
 ***
 
