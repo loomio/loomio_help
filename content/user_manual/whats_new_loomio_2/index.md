@@ -21,7 +21,7 @@ With our new rich text editor, you’ll have all the editing options one click a
 
 ## Timeline
 
-Every part of Loomio's layout has been carefully reworked. One new feature we want to highlight is our new timeline bar inside the threads: an easy way to find the information you need and understand how a conversation evolved over time.
+Every part of Loomio's layout has been carefully reworked. One new feature we want to highlight is our new timeline inside the threads: an easy way to find the information you need and understand how a conversation evolved over time.
 
 ![b16](new_timeline.png)
 
