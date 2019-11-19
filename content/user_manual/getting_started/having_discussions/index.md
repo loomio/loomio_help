@@ -7,21 +7,29 @@ menu:
     parent: getting_started
 ---
 
-Use Loomio's _threads_ to have discussion that result in clear outcomes.
+Use Loomio's **threads** to have discussion that result in clear outcomes.
 
 <iframe width="100%" height="380px" src="https://www.youtube-nocookie.com/embed/MtpDOtmwXGI" frameborder="0" allowfullscreen></iframe>
 
-_Facilitation_ means “to make easier; help forward”. Discussions on Loomio always work best when there is a clearly identified _facilitator_, someone whose role is to help the discussion move forward. There are a lot of things you can do to help your group have productive discussions — and you don't have to be a pro - in fact, anyone in a group can make little acts of facilitation.
+**Facilitation** means “to make easier, to help forward." Discussions on Loomio always work best when there is a clearly identified **facilitator**, someone whose role is to help the discussion move forward to a clear outcome. You don't have to be a pro to help your group have productive discussions. In fact, anyone in a group can make little acts of facilitation. There are many ways to improve your online conversation or deliberations.
+
+## What makes up a thread
+
+At the top of the thread you can always find the **title** and **context**. The context is where you share all the information, links, and prompts that will support group members to interact productively with it. Sometimes it's useful to think of the context like an agenda that you would write up on the wall, or the handout that makes a certain conversation possible.
+
+Below these elements, you will find the comments, where most of the action will happen as people share their thoughts and feelings, alert one another, and use the facilitation tools such as the poll and proposal.
+
+You can always navigate back to your group or subgroup by clicking their names, the links above the thread's title.
 
 ## Keep the topic concise
 
 Making the thread title and context clear and engaging is the best way to ensure a productive discussion. Take a little time to consider what contribution you would like from the group. For example:
 
-- Are you calling for personal experiences or asking for thoughts about some information?
-- Over what time frame will the discussion take place?
 - Will a decision be made within the thread?
+- Over what time frame will the discussion take place?
+- Are you calling for personal experiences or asking for thoughts about some information?
 
-As the person who started the thread, people may be expecting you to host the discussion and keep things on track as it progresses.
+As the person who started the thread, people may be expecting you to host the discussion and keep things on track as it progresses. Not you? You may want to name who will be attending to the thread.
 
 ## Maintain a safe environment
 
@@ -29,19 +37,19 @@ As the person who started the thread, people may be expecting you to host the di
 
 Respectful disagreement is essential to finding the best solution for the group, but it can be challenging work. For real discussion to happen, you must hold space for differing opinions. Help people express themselves, in a way that allows others to express themselves too.
 
-If someone is distressed, being unconstructive, or is in a minority opinion they feel strongly about, it’s a good indication that a face-to-face or phone conversation might be helpful.
+**Raise the bandwidth:** If someone is distressed, being too disruptive, or is in a minority opinion they feel strongly about, it’s a good indication that a phone conversation – or, even better, a face-to-face – might help.
 
-For more guidance, see [Resolving conflict on Loomio](http://joshuavial.com/loomio-conflict/).
+For more guidance, see the section of our handbook on [conflict](https://loomio.coop/conflict_resolution.html/?utm_campaign=having-discussions-help-pg&utm_term=help).
 
 ## Use simple language
 
-Be careful with humour and avoid sarcasm. These don't translate through text well, and it's easy for people to mistake a funny comment as something mean.
+Be careful with humor and avoid sarcasm. These don't translate through text well, and it's easy for people to mistake a funny comment as something mean.
 
-Be expressive and say what is on your mind. Use an emoji to add colour, fun, and extra meaning to your comments. Images can also help communicate effectively.
+Be expressive and say what is on your mind. Use an emoji to add color, fun, and extra meaning to your comments. Images can be a huge enabler of effective communication.
 
-Long comments can be hard to follow. If you must write a long comment, divide it into paragraphs and add a summary to the top.
+Long comments can be hard to follow. If you must write a long comment, divide it into paragraphs and add a summary to the top (eg, **TL;DR**).
 
-If your comment is tangential to the discussion, start a new thread to avoid distraction from that topic.
+If your comment is tangential to the discussion, start a new thread to avoid distracting from the topic at hand.
 
 ## Getting attention
 
@@ -55,27 +63,33 @@ When you start a discussion, you can choose to select all members of a group, or
 
 **Mentioning**
 
-A direct way of asking for someone's attention. Use the `@` symbol and select the person's name. It's generally expected that you will respond when someone _mentions_ you.
+A direct way of asking for someone's attention. Use the `@` symbol and select the person's name. It's generally expected that you will respond when someone mentions you.
 
 **Replying**
 
-_Replies_ to another users comment will notify that user; this means you don't have to `@`mention them.
+` TODO: Loom of reply`
+
+Replies to another user's comment will notify that user; this means you don't have to `@`mention them.
+
+To reply, click the three dots on any comment, choose **reply**, and proceed just as you would to post a comment.
 
 **Reacting**
 
-Use the smiley face `😃` button to _react_ to comments and contexts (threads). You might use a reaction when you want to share how you feel, a brief opinion, or indicate that you have seen the comment. _Reactions_ are helpful because they are less disruptive than mentions, replies, or comments.
+On any comment or contexts (threads) you can click **react** to quickly respond with an apt emoji. You might use a reaction when you want to share how you feel, a brief opinion, or indicate that you have seen the comment. Reactions are helpful because they are less disruptive than mentions, replies, or comments.
 
-**Invite to Thread**
+**Invite people**
 
-When you start a thread, your whole group can access it immediately. If you want more people's participation, or want their participation sooner, you can additionally send them an alert using _Invite to thread_, which you will find in the Thread Members panel of your right-hand column.
+When you start a thread, your whole group can access it immediately. If you want more people's participation, or want their participation sooner, you can additionally send them an alert via the box that immediately appears when you start the thread. You can also alert people in this way later on; to do so, click **invite people** at the bottom of the thread context.
 
-![Invite to thread panel in context](invite_to_thread.png)
+` TODO: ![Invite to thread panel in context](invite_to_thread.png)`
 
-_Invite to thread_ also enables you to invite people outside of your group; see "Invite non-members to a discussion", below, for details.
+**Invite guest (or expert)**
+
+You can also use **invite people** to invite people outside of your group; see "Invite non-members to a discussion", below, for details.
 
 **Start a decision**
 
-The most powerful way to get attention from your group. Ensure that you have a clear decision description so people know how to participate. Loomio will notify everyone you choose (the whole group, everyone in the thread, or selected individuals) about new decisions. Loomio will also remind participants, and those you invite to the decision, before the closing deadline.
+The most powerful way to get attention from your group. Ensure that you have a clear decision description so people know how to participate. Loomio will notify everyone you choose (the whole group, everyone in the thread, or selected individuals) about new decisions, _although you can choose not to notify people and let them find it on their own time._ Loomio will also remind participants, and those you invite to the decision, before the closing deadline.
 
 **Disagreeing and Blocking**
 
@@ -91,7 +105,7 @@ High quality decisions come from gathering the right inputs. Are there other peo
 
 **Invite non-members to a discussion**
 
-You can invite people from outside of your group to a specific thread by using _Invite to thread_ in the Thread Members panel, as depicted above. They will have access to this thread alone and to no other part of your group. This can be useful if you have contracted an expert (e.g., a lawyer) and you would like to make the conversation accessible to your group. It helps you keep tidy records, saving you time and effort copying and pasting communications that have occurred outside of Loomio.
+You can invite people from outside of your group to a specific thread by using **invite people**, at the bottom of the thread's context, as depicted above. They will have access to this thread alone and to no other part of your group. This can be useful if you have contracted an expert (e.g., a lawyer) and you would like to make the conversation accessible to your group. It helps you keep tidy records, saving you time and effort copying and pasting communications that have occurred outside of Loomio.
 
 **Inviting diverse participation**
 
@@ -109,15 +123,11 @@ If a topic progresses offline, update the Loomio thread with the new information
 
 Loomio threads are designed to evolve with a discussion, which is why the title and context box are editable. The thread context always remains at the top of the thread in order to frame and guide the conversation or decision. Make it easy for people have a clear, shared understanding of where things are at, or to catch up, by updating the thread context and title with the latest info. This also helps you later if you want to refer back to a previous discussion and quickly remind yourself what happened.
 
-The pencil icon is the quickest way to edit a thread context and title.
+Double-clicking on the context is the quickest way to edit a thread context and title.
 
-![Edit button for thread context within the app](edit_context.png)
+` TODO: Loom? ![Edit button for thread context within the app](edit_context.png)`
 
-Here's an example in which the facilitator is notifying the group what has happened as a result of their agenda suggestions.
-
-![Edit thread box showing the following text added to the top of a thread inviting agenda suggestions for an upcoming board meeting: "UPDATE: Thanks for your contributions, our agenda is now ready. See you at the meeting."](update_context.png)
-
-Updating the context with an outcome lets group members know what is next.
+Here's an example in which the facilitator is` TODO update example`
 
 ## Break down complex issues
 
