@@ -10,6 +10,7 @@ menu:
 Loomio makes is easy for groups of all shapes and sizes to collaborate and make decisions across time and space. Simple to use and easy to get started with, Loomio can save you hundreds of hours and thousands of dollars, supporting your group to be more effective in your decision-making and collaboration with our simple, online tool.
 
 <iframe width="100%" height="380px" src="https://www.youtube-nocookie.com/embed/JMda6WYx9jM" frameborder="0" allowfullscreen></iframe>
+_Above shows an older Loomio, but it's still a great explainer. We'll upgrade it soon!_
 
 ## The big picture
 

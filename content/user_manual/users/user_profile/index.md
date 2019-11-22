@@ -19,32 +19,29 @@ When you first create a Loomio account, your initials will be the default image 
 
 You can update:
 
-* your name,
-* your username (your username is the name people will use to alert you with an @mention in threads),
-* your email address,
-* your introduction (a few lines to let other members know more about you),
-* your location (useful for distributed groups so people can get an idea of where others are)
+* **your name**
+* **your email address** - this email receives your Loomio notifications (on, by default)
+* **your username** - your username is a name people can use to alert you with an @mention in threads
+* **your introduction** - a few lines to let others in your group know more about you
+* **your location** - useful for distributed or remote groups so people can get an idea of where others are
 
 ## Language settings
 Loomio is developed in English, but [is translated by volunteers into many languages](https://www.loomio.org/g/cpaM3Hsv/loomio-community-translation).
 
 Loomio will detect your browser’s language settings, but you can manually set your preferred language from the profile page.
 
-<video width="600" height="400" playsinline muted loop controls>
-<source src="change_selected_locale.mp4" type="video/mp4">
-</video>
+<iframe width="100%" height="380px" src="https://www.youtube-nocookie.com/embed/s2ga4VMlERA" frameborder="0" allowfullscreen></iframe>
 
 ## Resetting your password
-You can change your password by visiting your profile page and clicking _Reset Password_.
+You can change your password by visiting your profile page and clicking **Reset Password**.
 
-<video width="600" height="400" playsinline muted loop controls>
-<source src="change_password.mp4" type="video/mp4">
-</video>
+![](reset_password.png)
 
 ## Deactivating your account
 If you no longer want to receive notifications from Loomio, but think that you may want to access your account again some time in the future, you can deactivate your account.
 
 To deactivate your account
+
 1. Login to loomio with the email address of the account you wish to deactivate
 2. Visit the "Edit profile" page from the user menu (top right corner of the screen).
 3. Scroll to the bottom of the page and click "Deactivate account"

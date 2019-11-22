@@ -8,9 +8,9 @@ menu:
     parent: users
 ---
 
-Creating a new user account and signing into an existing account both start from the sign in form:
+Creating a new user account and signing into an existing account both start from the sign-in form:
 
-![sign in form](sign_in_form.png)
+![sign-in form](sign_in_form.png)
 
 ## User accounts are identified by email address
 Loomio user accounts are identified by an email address. If you sign in via a third party such as Google, we'll use the email address of your Google account.
@@ -22,17 +22,22 @@ It's recommended to sign in via Google or Facebook (if you use those services) b
 
 If using a third party sign in isn't right for you, signing in via email is well supported too. Use the email address that you want to receive Loomio notifications with.
 
-![creating a user account via email](create_account_via_email.png)
-
-## Signing in via email
+## Sign in via email
 When you sign in via email, you'll be sent an email with a link (or a code) to sign in.
 
-![sign in email](sign_in_email.png)
+![sign-in email](sign_in_email.png)
+
+## Forgot your password?
+
+1. Go to the sign-in, put in your email address.
+2. Click "sign in with email"
+3. Retrieve the code that Loomio sends to your email (Subject, "Sign in to Loomio") and paste that into the form that appeared. **Now you're logged in. Change your password by…**
+4. Go to [edit profile](https://www.loomio.org/profile "open in new tab") and change your password; you can [follow these instructions](https://help.loomio.org/en/user_manual/getting_started/notifications_settings/#resetting-your-password).
 
 ## Tips for a better experience
 
 ### Set a password
-If you tire of checking your email to sign in, you can easily set a password. To do this, first sign in via the email link, then on the sign in confirmation screen you'll see a prompt to set a password.
+If you don't want to check your email to sign in, you can easily set a password. To do this, first sign in via the email link, then on the sign in confirmation screen you'll see a prompt to set a password.
 
 ![sign in via email then set password](sign_in_via_email_then_set_password.png)
 

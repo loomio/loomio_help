@@ -12,6 +12,7 @@ menu:
 Email notifications are an important way for Loomio to keep people updated on what's happening in your group.
 
 <iframe width="100%" height="380px" src="https://www.youtube-nocookie.com/embed/np02ObWLpJM" frameborder="0" allowfullscreen></iframe>
+_Above shows an older Loomio, but it's still a great explainer. We'll upgrade it soon!_
 
 When you (or your group members) start your account, by _default,_ Loomio will:
 
@@ -57,11 +58,11 @@ When you first create a Loomio account, your initials will be the default image 
 
 You can update:
 
-* your name
-* your username (your username is a name people can use to alert you with an @mention in threads)
-* your email address
-* your introduction (a few lines to let others in your group know more about you)
-* your location (useful for distributed or remote groups so people can get an idea of where others are)
+* **your name**
+* **your email address** - this email receives your Loomio notifications (on, by default)
+* **your username** - your username is a name people can use to alert you with an @mention in threads
+* **your introduction** - a few lines to let others in your group know more about you
+* **your location** - useful for distributed or remote groups so people can get an idea of where others are
 
 ## Language settings
 Loomio is developed in English, but [is translated by volunteers into many languages](https://www.loomio.org/g/cpaM3Hsv/loomio-community-translation).
