@@ -28,7 +28,7 @@ Some people will be apprehensive about adopting a new piece of software for onli
 
 # Starting a new group
 
-The first thing to do is enter a name and a description for your group.
+When you first start, you'll create a new **organization**. At this stage, organization is basically another way of saying "your group." The first thing to do is enter a name and a description for your group.
 
 ## Group name and description
 
@@ -44,9 +44,9 @@ With a clear purpose, people can make judgment calls about what's best for the g
 
 Your Loomio group page is also a place to store all of the information, links, and files that everyone in your group needs. Update the Group description field and attach files from your computer or from the cloud.
 
-` TODO: image from this link https://docs.google.com/presentation/d/1PSipTVyhP_7NsrDPjYyzq0ue1EsYQ_U30JtGpw9mTyA/edit#slide=id.g414ab54b45_1_10`
+![](group_description.png)
 
-**Tool tip:** Group descriptions are a great place to include reasons why you are using Loomio. Sharing why you're implementing Loomio can help motivate people to adopt it.
+**Tip:** Group descriptions are a great place to include reasons why you're using Loomio. Sharing why you're implementing Loomio can help motivate people to adopt it.
 
 ## Privacy
 
@@ -68,15 +68,15 @@ Upload your profile photo before sending invitations to join the group, so that 
 
 ## Upload a group photo
 
-Uploading a photo that has some meaning to your group significantly improves the sense of belonging. You can customise both the small square photo (eg, with a logo), and the big cover image (eg, with a group photo).
+Uploading a photo that has some meaning to your group significantly improves the sense of belonging. You can customize both the small square photo (eg, with a logo), and the big cover image (eg, with a group photo) by clicking on the placeholder images. _You can always change it again by going to Group Settings._
 
-` TODO: photo of group cover and logo`
+![](edit_group_photo.png)
 
 ## Encourage introductions
 
 A round of introductions is a great way for people to get to know a bit about each other and to feel more comfortable. Even if people are already acquainted, they can share more specifically about their role or perspective in the Loomio group or project at hand.
 
-` TODO: photo of check-in thread title & context`
+![](example_introduction_thread.png)
 
 ## Invite people
 
@@ -95,7 +95,9 @@ If people join but don't begin to participate right away, you might like to welc
 
 > “Welcome to the group @Jane :) It's great to have you here! Would you saying a little bit about your work in this space?”
 
-` TODO: Loom of Invitation process`
+<video width="600" height="400" playsinline muted loop controls>
+<source src="invite_to_group.mp4" type="video/mp4">
+</video>
 
 ## Champion the use of Loomio
 
@@ -122,4 +124,4 @@ It's good to name one or more reasons _why_ you're moving back to Loomio. A coup
 
 ## Next up
 
-We're on Loomio, but how to get those clear outcomes… [→ Having discussions](../having_discussions)
+Now that you're on Loomio, how to get those clear outcomes… [→ Having discussions](../having_discussions)

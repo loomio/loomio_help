@@ -25,9 +25,9 @@ Finally, you'll use an **outcome** to share what's going to happen next so every
 
 At its most basic, Loomio is a forum with tools that help you facilitate conversations and decisions, helping you start and hold conversations that move to clear outcomes.
 
-**Ready to take the next step on your collaboration journey?**
+## Next up
 
-Let's [start your group](../starting_a_group)!
+With the overview under your belt, it's time... [→ Start your group](../starting_a_group)
 
 ---
 

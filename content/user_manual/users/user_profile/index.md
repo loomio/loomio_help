@@ -10,10 +10,10 @@ menu:
 
 <iframe width="100%" height="380px" src="https://www.youtube-nocookie.com/embed/np02ObWLpJM" frameborder="0" allowfullscreen></iframe>
 
-Your profile page lets you customise your Loomio identity. To visit your profile page select the **Edit profile** option in the user menu, at the top-right of your screen.
+Your profile page lets you customize your Loomio identity. To visit your profile page select the **Edit profile** option in the user menu, which is found by clicking on your name in the top-left of the screen; _if it is closed, click on the menu icon (top-left) to open it._
 
 ## Uploading a profile photo
-When you first create a Loomio account, your initials will be the default image associated with your profile. You can upload a profile photo by clicking **Change picture** in the **Picture** section of your profile page. If you have a [Gravatar](https://en.gravatar.com/) you can set that as your profile picture by selecting **Use Gravatar**.
+When you first create a Loomio account, your initials will be the default image associated with your profile. You can upload a profile photo by clicking on your picture on the profile page. If you have a [Gravatar](https://en.gravatar.com/) you can set that as your profile picture by selecting **Use Gravatar**. You can also choose for Loomio to use the photo you use for other common platforms/tools.
 
 ## Update your personal info
 

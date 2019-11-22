@@ -11,8 +11,8 @@ menu:
 ## Step-by-step guides
 _To help you step forward towards achieving your purpose with less time and effort:_
 
-### [Consent decision making with Loomio ft. Round Sky](/en/guides/consent_process)
-A simple 'how to' for groups to use consent process on and off Loomio.
+### [Consent decision making with Loomio](/en/guides/consent_process)
+A simple 'how to' for groups to use consent process on and off Loomio, co-written by fellow decision-making experts RoundSky Solutions (also a co-op!).
 
 ### [Advice Process with Loomio](/en/guides/advice_process)
 Learn to use advice process on and off Loomio to make faster, quality decisions.

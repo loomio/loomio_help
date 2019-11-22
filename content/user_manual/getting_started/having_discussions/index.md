@@ -67,11 +67,9 @@ A direct way of asking for someone's attention. Use the `@` symbol and select th
 
 **Replying**
 
-` TODO: Loom of reply`
+If you choose **reply**, and proceed as you would to post a comment, you will notify the user you replied to; this means you don't have to `@`mention them.
 
-Replies to another user's comment will notify that user; this means you don't have to `@`mention them.
-
-To reply, click the three dots on any comment, choose **reply**, and proceed just as you would to post a comment.
+![](reply.png)
 
 **Reacting**
 
@@ -81,7 +79,7 @@ On any comment or contexts (threads) you can click **react** to quickly respond 
 
 When you start a thread, your whole group can access it immediately. If you want more people's participation, or want their participation sooner, you can additionally send them an alert via the box that immediately appears when you start the thread. You can also alert people in this way later on; to do so, click **invite people** at the bottom of the thread context.
 
-` TODO: ![Invite to thread panel in context](invite_to_thread.png)`
+!["Invite people" feature in thread context](invite_people.png)
 
 **Invite guest (or expert)**
 
@@ -125,9 +123,13 @@ Loomio threads are designed to evolve with a discussion, which is why the title 
 
 Double-clicking on the context is the quickest way to edit a thread context and title.
 
-` TODO: Loom? ![Edit button for thread context within the app](edit_context.png)`
+<video width="600" height="400" playsinline muted loop controls>
+<source src="edit_context.mp4" type="video/mp4">
+</video>
 
-Here's an example in which the facilitator is` TODO update example`
+Here’s an example in which the facilitator has made a note so that 1.) those coming late to this thread know that the agenda is basically finalized, and 2.) those who contributed understand what has happened as a result of their agenda suggestions.
+
+![](update_context.png)
 
 ## Break down complex issues
 
@@ -145,4 +147,8 @@ If you have an area of collaboration requiring many threads and ongoing collabor
 
 ## Going in-depth on Facilitation
 
-See the [Facilitators Guide to Loomio](../../../guides/facilitators_guide/) for information on all these topics and more.
+See the [Facilitators Guide to Loomio](../../../guides/facilitators_guide/) for more information on this topic and more.
+
+## Next up
+
+Having great conversations online is one thing, but how does Loomio help your group be agile & inclusive, effective & efficient... [→ Proposals and polls](../decision_tools)
