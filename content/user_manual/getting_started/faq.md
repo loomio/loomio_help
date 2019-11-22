@@ -24,4 +24,4 @@ To have your account reactivated, [contact us](https://loomio.org/contact "opens
 Deactivated groups can only be restored by a member of the Loomio team. [Contact us](https://loomio.org/contact "opens in new tab") to reactivate your group.
 
 ## My question is not here
-If you have any questions or issues that are not answered through this Help Manual, please [contact us](https://www.loomio.org/contact) and we'll do our best to answer your questions.
+If you have any questions or issues that are not answered through this Help Manual, please [contact us](https://www.loomio.org/contact "opens in new tab") and we'll do our best to answer your questions.

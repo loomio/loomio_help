@@ -123,9 +123,7 @@ Loomio threads are designed to evolve with a discussion, which is why the title 
 
 Double-clicking on the context is the quickest way to edit a thread context and title.
 
-<video width="600" height="400" playsinline muted loop controls>
-<source src="edit_context.mp4" type="video/mp4">
-</video>
+<iframe width="100%" height="380px" src="https://www.youtube-nocookie.com/embed/0A3XRLwibRs" frameborder="0" allowfullscreen></iframe>
 
 Here’s an example in which the facilitator has made a note so that 1.) those coming late to this thread know that the agenda is basically finalized, and 2.) those who contributed understand what has happened as a result of their agenda suggestions.
 
