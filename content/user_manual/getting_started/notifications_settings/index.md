@@ -75,12 +75,12 @@ You can change your password by visiting your profile page and clicking _Reset P
 
 ![](reset_password.png)
 
-## Next up
-
-Now that you have the basics under your belt... [→ Activate your group](../activating)
-
----
-
 ## Deactivating your account
 
 For more information on deactivating, or recovering, your account, go to the [Your Profile article](/en/user_manual/users/user_profile)
+
+---
+
+## Next up
+
+Now that you have the basics under your belt... [→ Activate your group](../activating)

@@ -1,10 +1,6 @@
----
-title: Text from 'Consent decision making' video (how to on Loomio)
----
+# Text from 'Consent decision making' video (how to on Loomio)
 
-Feel free to copy, improve, and share (with us and others) the template text that you can amend for your groups consent decision-making process.
-
-# Copy from the video
+The copy used in the Loomio threads, contexts, proposals, etc. of the Consent decision making 'how to' video:
 
 ## Start new thread
 

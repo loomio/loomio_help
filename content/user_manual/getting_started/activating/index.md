@@ -28,6 +28,9 @@ _To guide you if your team needs more clarity, a reboot, or some strong examples
 ### [Four keys to high-performing groups](/en/guides/four-patterns-of-success)
 How successful groups collaborate to achieve great outcomes.
 
+### [9 ways to use a proposal](https://blog.loomio.org/2015/09/18/9-ways-to-use-a-loomio-proposal-to-turn-a-conversation-into-action/)
+Proposals are a flexible tool to turn conversations into action; learn how.
+
 ---
 
 Have more questions on how to take the next step in your collaboration journey? Not sure how to best get the value out of moving some discussion or decisions online? [Get in touch](https://loomio.org/contact/?utm_campaign=getting_started_guide_help&utm_term=help)

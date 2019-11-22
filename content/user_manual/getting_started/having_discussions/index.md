@@ -29,7 +29,7 @@ Making the thread title and context clear and engaging is the best way to ensure
 - Over what time frame will the discussion take place?
 - Are you calling for personal experiences or asking for thoughts about some information?
 
-As the person who started the thread, people may be expecting you to host the discussion and keep things on track as it progresses. Not you? You may want to name who will be attending to the thread.
+Make an invitation of thread/group participants, letting them know the quickest way to engage and where it goes next.
 
 ## Maintain a safe environment
 
@@ -40,16 +40,6 @@ Respectful disagreement is essential to finding the best solution for the group,
 **Raise the bandwidth:** If someone is distressed, being too disruptive, or is in a minority opinion they feel strongly about, it’s a good indication that a phone conversation – or, even better, a face-to-face – might help.
 
 For more guidance, see the section of our handbook on [conflict](https://loomio.coop/conflict_resolution.html/?utm_campaign=having-discussions-help-pg&utm_term=help).
-
-## Use simple language
-
-Be careful with humor and avoid sarcasm. These don't translate through text well, and it's easy for people to mistake a funny comment as something mean.
-
-Be expressive and say what is on your mind. Use an emoji to add color, fun, and extra meaning to your comments. Images can be a huge enabler of effective communication.
-
-Long comments can be hard to follow. If you must write a long comment, divide it into paragraphs and add a summary to the top (eg, **TL;DR**).
-
-If your comment is tangential to the discussion, start a new thread to avoid distracting from the topic at hand.
 
 ## Getting attention
 
@@ -108,14 +98,6 @@ You can invite people from outside of your group to a specific thread by using *
 **Inviting diverse participation**
 
 Remember to look out for those people who tend to be quiet. Don't just call them out, but consider how best to bring their perspective in, and why they might be participating or vocalizing less than others.
-
-## Keep discussion on Loomio
-
-The same topic being discussed in multiple locations at once can quickly get messy. If you've decided to use Loomio, but people are reverting to email, consistently remind people to move the discussion to Loomio.
-
-It takes time to build new habits, so be patient and consistent. It's helpful to take the intiative to start a Loomio thread and copy in the discussion so far, and reply to emails with the link, so people can jump straight in.
-
-If a topic progresses offline, update the Loomio thread with the new information, so later you have all the context in one place.
 
 ## Keep the title and context relevant
 
