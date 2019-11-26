@@ -11,11 +11,18 @@ menu:
 There are 4 top level navigation tools within Loomio.
 
 - Sidebar
+- User menu
 - Notifications
 - Search
-- User menu
 
 TODO: gif of the ui with the user opening each of the navigation tools.
+
+## Search
+The search field is easy to find above the list of threads on most pages. It will display threads containing your keyword(s) in their context, comments or decisions.
+
+**From the Recent Threads page:** When you first arrive to the app you are viewing your Recent Threads. Enter one or more key words to find the information you're looking for from any group.
+
+**From a group page:** If you are on your group or subgroup's page, you can search _within_ that group. The search will exclude results from other groups or subgroups.
 
 ## Notifications
 
@@ -32,11 +39,6 @@ If you have unread notifications we'll display the number that are unread over t
 If you just want to do the minimum as a Loomio user, just watch and follow up on your notifications.
 
 TODO: link to @mention section and notifications section of threads page.
-
-## Search
-The search field appears when you click on the magnifying glass in the top navigation bar. It will display threads containing your keyword(s), in context, comments or decisions.
-
-You can find a thread by entering key words from its title or context into the search field.
 
 ## User menu
 The user menu is where you can access your user profile page, change your email preferences, find a link to this help manual, and sign out.
