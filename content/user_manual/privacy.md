@@ -66,10 +66,10 @@ New Zealand Cloud Security and Compliance information is available [here](https:
 
 ## Third Party Security Assessment and Approval
 
-Loomio software and service has been assessed and approved by:
+Loomio software and service has been assessed by:
 
 - eHealth Systems, SA Health, Government of South Australia - Security Scan (by IBM Security AppScan Standard 9.0.3, December 2018)
-- New Zealand Government Department of Internal Affairs - Context security assessment
+- New Zealand Government Marketplace: Loomio currently holds Tier 3 security status.  For more information, see [Marketplace.govt.nz - Cloud services security risk and assurance](https://marketplace.govt.nz/suppliers/apply-to-be-a-supplier-2/cloud-services-security-risk-and-assurance/)
 - New Zealand Government Ministry of Social Development - Cloud Computing User Assessment
 - NZTA Security Scan by Aura Information Security.
 
