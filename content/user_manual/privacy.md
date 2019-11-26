@@ -64,7 +64,7 @@ govt.loomio.nz is an instance of Loomio running on Amazon Web Services (AWS) dat
 
 New Zealand Cloud Security and Compliance information is available [here](https://aws.amazon.com/compliance/new-zealand-data-protection/).
 
-## Third Party Security Assessment and Approval
+## Third Party Security Assessment
 
 Loomio software and service has been assessed by:
 
