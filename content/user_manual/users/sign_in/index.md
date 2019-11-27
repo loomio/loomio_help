@@ -37,9 +37,7 @@ When you sign in via email, you'll be sent an email with a link (or a code) to s
 ## Tips for a better experience
 
 ### Set a password
-If you don't want to check your email to sign in, you can easily set a password. To do this, first sign in via the email link, then on the sign in confirmation screen you'll see a prompt to set a password.
-
-![sign in via email then set password](sign_in_via_email_then_set_password.png)
+If you don't want to check your email to sign in, you can easily set a password. To do this, take the same steps you would to [change your password](../user_profile/#resetting-your-password).
 
 ### Use the code if you check your email on another device
 You may want sign into Loomio on your laptop but you check your email with your phone (or vice versa). In these cases, using the sign in link will leave you signed into Loomio on the wrong device. This is why we include a code to login. Just enter the code from your phone into the login screen on your laptop.

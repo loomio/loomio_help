@@ -8,6 +8,8 @@ menu:
     parent: users
 ---
 
+## Top level
+
 There are 4 top level navigation tools within Loomio.
 
 - Sidebar
@@ -15,7 +17,7 @@ There are 4 top level navigation tools within Loomio.
 - Notifications
 - Search
 
-TODO: gif of the ui with the user opening each of the navigation tools.
+<iframe width="100%" height="380px" src="https://www.youtube-nocookie.com/embed/_ibK52gAc7w" frameborder="0" allowfullscreen></iframe>
 
 ## Search
 The search field is easy to find above the list of threads on most pages. It will display threads containing your keyword(s) in their context, comments or decisions.
@@ -26,22 +28,14 @@ The search field is easy to find above the list of threads on most pages. It wil
 
 ## Notifications
 
-In the navigation bar at the top of the page, the Bell icon will show all activities in threads you've started or participated in and all @mentions. Just click on one of them to see details or participate.
+The 🔔 bell icon, which lives on the top-right, will show all activities in threads you've started or participated in and all @mentions. Just click on one of them to see details or participate.
 
-<video width="600" height="400" playsinline muted loop controls>
-<source src="checking_notifications.mp4" type="video/mp4">
-</video>
-
-When someone wants to get your attention, they'll send you a notification. This could be via an @mention or an invitation to participate in a thread or poll.
+When someone wants to get your attention, they'll send you a notification. This could be via an @mention or an invitation to participate in a thread or poll. [More on _notifying people_ here](http://localhost:1313/en/user_manual/threads/notifying_people/).
 
 If you have unread notifications we'll display the number that are unread over the top of the bell-shaped notifications menu button.
 
-If you just want to do the minimum as a Loomio user, just watch and follow up on your notifications.
-
-TODO: link to @mention section and notifications section of threads page.
-
 ## User menu
-The user menu is where you can access your user profile page, change your email preferences, find a link to this help manual, and sign out.
+The user menu is where you can access your user profile page, change your email preferences, find a link to this help manual, and sign out. Find it by clicking your name in the sidebar (see [video above](#top-level) for reference, you may have to first open the sidebar by clicking the ☰ icon in the top-left).
 
 - You can view and update your user profile via **Edit profile**. Read the [User profile](../user_profile) page for more information.
 
@@ -52,19 +46,22 @@ The user menu is where you can access your user profile page, change your email 
 - You can log out of Loomio, which is recommended if you're not using a personal device to access it.
 
 ## Sidebar
-The sidebar is where you find your discussions and your groups. It is displayed by default on large screens, and collapsed by default on small screens (such as smartphones), but can be toggled via the _3 horizontal bars_ icon in the top left of the screen.
+The sidebar is where you find your discussions and your groups. It is displayed by default on large screens, and collapsed by default on small screens (such as smartphones), but can be opened or closed via the using the ☰ horizontal bars icon in the top-left of the screen.
 
-## Recent Threads
+### Pin sidebar
+If you pin the sidebar, then it will be open when you first arrive to any Loomio page, and will reopen (if you have closed it) upon navigation to any other page or tab.
 
-The **Recent Threads** page gives you an overview of the most recent activity happening in your groups. You can access this page via the **Recent** option in the sidebar. If you are a member of multiple groups the **Recent Threads** page will be your landing page when you sign into Loomio.
+## Recent threads
+
+The **Recent threads** page gives you an overview of the most recent activity happening in your groups. You can access this page via the sidebar. If you are a member of multiple groups, the **Recent Threads** page will be your landing page when you sign into Loomio.
 
 The **Recent Threads** page displays content from your groups in a prioritised list. Open proposals are at the top, followed by all of the threads from your groups, sorted by most recent activity; **Today**, **Yesterday**, **This month**, **Older than a month**.
 
 If a thread or proposal title is **bold** then new activity has taken place since you last visited. Numbers in parentheses reflect how many new comments or votes have been posted since you last visited a particular thread. Decisions will show a graphic representation (a pie graph for proposals, bar charts for other poll types), with your position on the proposal superimposed on the graph. If you haven’t yet stated a position, there will be a question mark.
 
-## Unread Threads
+## Unread threads
 
-The **Unread Threads** page shows all threads and proposals that have new content since you last visited, sorted by group. You can access this page via the **Unread** option in the sidebar. You can clear unread items without reading them by hovering over the thread preview and clicking **Dismiss**.
+The **Unread threads** page shows all threads and proposals that have new content since you last visited, sorted by group. You can access this page via the sidebar. You can clear unread items without reading them by hovering over the thread preview and clicking **Dismiss**.
 
 ## Muted
 
