@@ -49,7 +49,7 @@ NOTE: You will still receive notifications if you are directly mentioned, replie
 
 To apply a tag to a thread, go into the thread's options and choose Category tags. Select the desired tag(s) from the dropdown list of tags that your group already uses, or type in a new tag and press the enter key. Finally, click **Save**.
 
-<iframe width="100%" height="380px" src="https://www.youtube-nocookie.com/embed/kF37Wxt4et0&loop=1" frameborder="0" allowfullscreen></iframe>
+<iframe width="100%" height="380px" src="https://www.youtube-nocookie.com/embed/kF37Wxt4et0" frameborder="0" allowfullscreen></iframe>
 
 ---
 
@@ -94,7 +94,7 @@ You can delete your own comments at any time.
 
 Again, admin can delete any comment.
 
-<iframe width="100%" height="380px" src="https://www.youtube-nocookie.com/embed/4Krf2w7VtmQ&loop=1" frameborder="0" allowfullscreen></iframe>
+<iframe width="100%" height="380px" src="https://www.youtube-nocookie.com/embed/4Krf2w7VtmQ" frameborder="0" allowfullscreen></iframe>
 
 # Options from within a thread
 
