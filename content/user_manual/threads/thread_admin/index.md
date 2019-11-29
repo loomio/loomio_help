@@ -53,7 +53,7 @@ To apply a tag to a thread, go into the thread's options and choose Category tag
 
 ---
 
-`The rest of this article, below, has not been updated for 2.0's release yet. It may, however, still be instructive if you're stuck; otherwise just email contact@loomio.org with any pressing questions`
+`The rest of this article, below, is not fully updated for 2.0's release yet. It may, however, still be instructive if you're stuck; otherwise just reach out at loomio.org/contact with any pressing questions`
 
 ## Close thread
 
@@ -100,7 +100,7 @@ Again, admin can delete any comment.
 
 The following administrative actions are taken by first navigating to the page of the thread in question and then using the options at the bottom of the thread's context. _The_ **⋯** _three horizontal dots at the bottom-right will reveal more options._
 
-` TODO: screenshot with red box`
+![](in_thread_context_options.png)
 
 ## Moving comments to a new thread (Forking)
 <video width="600" height="400" playsinline muted loop controls>

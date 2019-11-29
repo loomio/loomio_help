@@ -10,6 +10,7 @@ menu:
 Use Loomio's **threads** to have discussion that result in clear outcomes.
 
 <iframe width="100%" height="380px" src="https://www.youtube-nocookie.com/embed/MtpDOtmwXGI" frameborder="0" allowfullscreen></iframe>
+
 _Above shows an older Loomio, but it's still a great explainer. We'll upgrade it soon!_
 
 **Facilitation** means “to make easier, to help forward." Discussions on Loomio always work best when there is a clearly identified **facilitator**, someone whose role is to help the discussion move forward to a clear outcome. You don't have to be a pro to help your group have productive discussions. In fact, anyone in a group can make little acts of facilitation. There are many ways to improve your online conversation or deliberations.
