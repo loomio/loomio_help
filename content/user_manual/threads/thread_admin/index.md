@@ -35,7 +35,7 @@ It shows
 
 You can access a number of options by selecting the **⋯** three horizontal dots to the right of a thread's title. The following administrative actions are taken from pages that list threads.
 
-## Mute
+### Mute
 
 Mute threads that you do not wish to receive email notifications nor see in your Unread or Recent threads pages.
 
@@ -43,19 +43,7 @@ To mute a thread, you must first navigate to the Unread threads or Recent thread
 
 NOTE: You will still receive notifications if you are directly mentioned, replied to, or invited to participate in a thread, poll, or proposal.
 
-## Category tags
-
-**Category tags** (or just "tags") let you group any number of threads by categories that you define. You can use them to make it easy to find threads of a certain type or topic.
-
-To apply a tag to a thread, go into the thread's options and choose Category tags. Select the desired tag(s) from the dropdown list of tags that your group already uses, or type in a new tag and press the enter key. Finally, click **Save**.
-
-<iframe width="100%" height="380px" src="https://www.youtube-nocookie.com/embed/X40wuMaZ-8E" frameborder="0" allowfullscreen></iframe>
-
----
-
-`The rest of this article, below, is not fully updated for 2.0's release yet. It may, however, still be instructive if you're stuck; otherwise just reach out at loomio.org/contact with any pressing questions`
-
-## Close thread
+### Close thread
 
 To keep the list of discussions on your group page relevant, you can close threads which people don't need to see.
 
@@ -69,53 +57,100 @@ Choose "closed" to view all your closed threads in the thread filter.
 
 ![](closed_threads.png)
 
-## Pin thread
+### Pin thread
 If you are a coordinator, you can pin comments to order them and make them easier to find. Pinned threads will appear above your other threads and will be ordered alphanumerically within their group and organization.
 
 You can easily  **pin** or **un-pin** from the thread preview options, but **only from the Group page**.
 
 ![](pin_thread.png)
 
-# Options from the thread context
+# Options within threads
 
-The following administrative actions may be taken from within the thread, and in some cases from the Group page (thread preview options). To find these options, click on the thread's title (or "view it on Loomio," from a related email) and use the **⋯** three horizontal dots to the right of the basic thread actions at the bottom of the context.
+## Organizing threads
+
+The following administrative actions may be taken from within the thread, and in some cases from pages that list threads (thread preview options). To find these options, go to the page of the thread in question and use the **⋯** three horizontal dots to the right of the basic thread actions at the bottom of the context.
 
 ![](options_from_thread_context.png)
 
-## Move thread
+### Category tags
+
+**Category tags** (or just "tags") let you group any number of threads by categories that you define. You can use them to make it easy to find threads of a certain type or topic.
+
+To apply a tag to a thread, go into the thread's options and choose Category tags. Select the desired tag(s) from the dropdown list of tags that your group already uses, or type in a new tag and press the enter key. Finally, click **Save**.
+
+<iframe width="100%" height="380px" src="https://www.youtube-nocookie.com/embed/X40wuMaZ-8E" frameborder="0" allowfullscreen></iframe>
+
+### Move thread
 
 You may want to move threads between groups and subgroups to keep things organised. To do this, select **move to group** from the additional options
 
 <iframe width="100%" height="380px" src="https://www.youtube-nocookie.com/embed/59T3xCK-jys" frameborder="0" allowfullscreen></iframe>
 
-## Delete thread
+### Delete thread
 
-If you're the admin of a group you can delete any thread – or comments in any of the threads – in the group. If you started a thread, you can delete that thread, or any comments within it.
+If you're the admin of a group you can delete any thread – or comments in any of the threads – in the group.
+
+If you started a thread, you can delete that thread, but only your comments within it.
+
+## Administering comments and decisions
+
+The following are achieved from any comment by first clicking on the **⋯** three horizontal dots at the bottom-right of the comment, proposal, or poll in question.
 
 ### Deleting comments
 You can delete your own comments at any time.
 
-Again, admin can delete any comment.
+Again, an admin can delete any comment.
+
+Select **delete** from the comment's options (**⋯**).
 
 <iframe width="100%" height="380px" src="https://www.youtube-nocookie.com/embed/cGc8_1zWrzE" frameborder="0" allowfullscreen></iframe>
 
-## Other admin within the thread
+### Moving comments
+Sometimes a comment is useful, but off-topic for the thread; _it may be a short conversation took place that would have been better held in another thread or subgroup._ In this case you will want to **move** comment(s) by selecting this option in the comment's options (**⋯**). If the topic of these comments does not pertain to a current thread, then you may wish to first start a new thread and _then_ move the comment(s).
 
-## Moving comments
-<iframe width="100%" height="380px" src="https://www.youtube-nocookie.com/embed/cGc8_1zWrzE" frameborder="0" allowfullscreen></iframe>
+<iframe width="100%" height="380px" src="https://www.youtube-nocookie.com/embed/qaaQkA2myRc" frameborder="0" allowfullscreen></iframe>
 
-Sometimes a comment is useful, but off topic for the thread. In this case you can start a new discussion (forking), selecting the comments you want to take into it from the original thread.
+### Pin to timeline
 
-## Printing threads
+The timeline helps you and your group to quickly access content (conversations, questions, decisions…). It is a visual, interactive history of key events, processes, or milestones that helps your group to understand how a conversation evolved over time or to review how a given outcome came about.
 
-Select _Print thread_ in the thread options to create or print a PDF with all of the thread's contents.
+![timeline with key meetup dates by month](https://help.loomio.org/en/user_manual/whats_new_loomio_2/new_timeline.png)
 
-## Thread members and roles
-Everyone who's participated in the thread, or has been invited specicially to participate will show up in the members panel.
+To facilitate this, comments with headers, proposals, and polls are automatically added to the timeline as links. Clicking these links take you directly to this item in the thread.
 
-![](thread_members_card.png)
+#### Add, remove, or edit timeline items
 
-To highlight your role within the discussion, or to let people know why you're here, you can update your _title_ from the members card. The title will display next to your name wherever it appears within the thread.
+To add, remove, or edit timeline items, either click the word **pin** or **unpin** at the bottom-right of any comment, proposal, or poll.
 
-![](thread_members_dropdown_menu.png)
-![](set_thread_member_title.png)
+To edit the words used in the timeline: unpin and then pin it again; this will give you the opportunity to reword the text that appears as a link in the timeline.
+
+> **Tip:** Highlight the words that you would like to use as the text in the timeline
+
+<iframe width="100%" height="380px" src="https://www.youtube-nocookie.com/embed/Dy8Hi_QM-Gw" frameborder="0" allowfullscreen></iframe>
+
+## Tracking engagement
+
+### Seen by
+
+Just under the thread title you can click **Seen by** to see who has or has not seen the thread.
+
+![](seen_by.png)
+
+### Notification history
+
+When you notify or invite specific people to threads or decisions, or @mention them in comments or anywhere else, you can now check if 1.) they have been sent a notification, and 2.) if they have opened that notification.
+
+
+#### For comments and threads
+**Notification history** in the extra options you find from the three horizontal dots (**⋯**).
+
+<iframe width="100%" height="380px" src="https://www.youtube-nocookie.com/embed/rk1r7bkuiMo" frameborder="0" allowfullscreen></iframe>
+
+#### For proposals and polls
+Click on **invite people to vote** under the Results section of your proposal or poll, and then click **History** to see who has been invited to – and who has viewed the notification of – your proposal or poll.
+
+<iframe width="100%" height="380px" src="https://www.youtube-nocookie.com/embed/0fR3TAeBS6I" frameborder="0" allowfullscreen></iframe>
+
+Here's how it looks if you sent some notifications:
+
+![](https://miro.medium.com/max/2000/0*-fhId7QsU-rFM982.jpg)

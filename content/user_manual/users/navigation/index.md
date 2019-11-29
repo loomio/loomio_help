@@ -94,5 +94,9 @@ Subgroups will not have a logo, but will appear directly under the organization,
 
 To help you stay on top of everything, the thread preview gives you the most important context for the thread; learn more… [→ Thread administration](/en/user_manual/threads/thread_admin/).
 
+## Navigating threads
+
+There's a number of features that can help you in… [→ Engaging with threads](/en/user_manual/threads/engaging_with_threads)
+
 # Exploring public groups
 You can explore, and request membership to, public Loomio groups by visiting the **Explore groups** page; click on this option in the sidebar to get involved.
