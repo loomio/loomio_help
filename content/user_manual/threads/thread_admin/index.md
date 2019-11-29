@@ -142,7 +142,7 @@ When you notify or invite specific people to threads or decisions, or @mention t
 
 
 #### For comments and threads
-**Notification history** in the extra options you find from the three horizontal dots (**⋯**).
+In the extra options you find from the three horizontal dots (**⋯**), click **Notification history**.
 
 <iframe width="100%" height="380px" src="https://www.youtube-nocookie.com/embed/rk1r7bkuiMo" frameborder="0" allowfullscreen></iframe>
 
