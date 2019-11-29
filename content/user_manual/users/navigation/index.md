@@ -17,7 +17,7 @@ There are 4 top level navigation tools within Loomio.
 - Sidebar
 - User menu
 
-<iframe width="100%" height="380px" src="https://www.youtube-nocookie.com/embed/_ibK52gAc7w" frameborder="0" allowfullscreen></iframe>
+<iframe width="100%" height="380px" src="https://www.youtube-nocookie.com/embed/Q7L9NiG79gM" frameborder="0" allowfullscreen></iframe>
 
 When you first arrive or log in you will arrive to your **Group page**, or – if you are a member of multiple groups or subgroups – you will arrive to the **Recent threads** page described below.
 

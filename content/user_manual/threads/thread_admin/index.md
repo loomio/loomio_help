@@ -13,7 +13,7 @@ While some of these actions are taken from _within_ threads, we'll start outside
 
 ## Understanding thread previews
 
-To help you stay on top of everything, the thread preview is a quick glance at the some important details about a thread.
+To help you stay on top of everything, the thread preview is a quick glance at the some important details about a thread. Thread previews appear on any page that lists threads.
 
 ![](thread_preview.png)
 
@@ -33,7 +33,7 @@ It shows
 
 # Top-level options
 
-You can access a number of options by selecting the ⋯ three horizontal dots to the right of a thread's title. The following administrative actions are taken from pages that list threads.
+You can access a number of options by selecting the **⋯** three horizontal dots to the right of a thread's title. The following administrative actions are taken from pages that list threads.
 
 ## Mute
 
@@ -49,7 +49,7 @@ NOTE: You will still receive notifications if you are directly mentioned, replie
 
 To apply a tag to a thread, go into the thread's options and choose Category tags. Select the desired tag(s) from the dropdown list of tags that your group already uses, or type in a new tag and press the enter key. Finally, click **Save**.
 
-<iframe width="100%" height="380px" src="https://www.youtube-nocookie.com/embed/kF37Wxt4et0" frameborder="0" allowfullscreen></iframe>
+<iframe width="100%" height="380px" src="https://www.youtube-nocookie.com/embed/X40wuMaZ-8E" frameborder="0" allowfullscreen></iframe>
 
 ---
 
@@ -59,31 +59,34 @@ To apply a tag to a thread, go into the thread's options and choose Category tag
 
 To keep the list of discussions on your group page relevant, you can close threads which people don't need to see.
 
-![](close_button.png)
+![](close_thread.png)
 
-You can list all the closed threads. Just click the "x Closed" label at the top of the threads list on your group page.
+To view closed threads, first navigate to the relevant **group page**. You will need to use the drop-down just under the Threads tab to change the thread filter from its default of **open**.
 
-![](closed_threads_button.png)
+![](sort_threads_on_group_page.png)
 
-# Group page options
+Choose "closed" to view all your closed threads in the thread filter.
 
-There are several thread options only accessible from the Group to which the thread belongs.
+![](closed_threads.png)
 
 ## Pin thread
-If you are a coordinator, you can pin comments to order them and make them easier to find. Pinned threads will appear above your other threads and will be ordered alphanumerically within the group (and, if applicable, also the subgroup) to which they belong. You can easily pin or unpin threads by clicking the pin icon from the discussion thread's page.
+If you are a coordinator, you can pin comments to order them and make them easier to find. Pinned threads will appear above your other threads and will be ordered alphanumerically within their group and organization.
+
+You can easily  **pin** or **un-pin** from the thread preview options, but **only from the Group page**.
 
 ![](pin_thread.png)
 
-Or, use the pin option from the thread menu.
+# Options from the thread context
 
-![](pin_thread_from_menu.png)
+The following administrative actions may be taken from within the thread, and in some cases from the Group page (thread preview options). To find these options, click on the thread's title (or "view it on Loomio," from a related email) and use the **⋯** three horizontal dots to the right of the basic thread actions at the bottom of the context.
+
+![](options_from_thread_context.png)
 
 ## Move thread
 
-You may want to move threads between groups and subgroups to keep things organised. To do this, select _Move_ from the thread options.
+You may want to move threads between groups and subgroups to keep things organised. To do this, select **move to group** from the additional options
 
-![](move_thread.png)
-![](move_thread_modal.png)
+<iframe width="100%" height="380px" src="https://www.youtube-nocookie.com/embed/59T3xCK-jys" frameborder="0" allowfullscreen></iframe>
 
 ## Delete thread
 
@@ -94,18 +97,12 @@ You can delete your own comments at any time.
 
 Again, admin can delete any comment.
 
-<iframe width="100%" height="380px" src="https://www.youtube-nocookie.com/embed/4Krf2w7VtmQ" frameborder="0" allowfullscreen></iframe>
+<iframe width="100%" height="380px" src="https://www.youtube-nocookie.com/embed/cGc8_1zWrzE" frameborder="0" allowfullscreen></iframe>
 
-# Options from within a thread
+## Other admin within the thread
 
-The following administrative actions are taken by first navigating to the page of the thread in question and then using the options at the bottom of the thread's context. _The_ **⋯** _three horizontal dots at the bottom-right will reveal more options._
-
-![](in_thread_context_options.png)
-
-## Moving comments to a new thread (Forking)
-<video width="600" height="400" playsinline muted loop controls>
-<source src="forking_comments.mp4" type="video/mp4">
-</video>
+## Moving comments
+<iframe width="100%" height="380px" src="https://www.youtube-nocookie.com/embed/cGc8_1zWrzE" frameborder="0" allowfullscreen></iframe>
 
 Sometimes a comment is useful, but off topic for the thread. In this case you can start a new discussion (forking), selecting the comments you want to take into it from the original thread.
 
