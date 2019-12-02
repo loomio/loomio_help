@@ -1,5 +1,5 @@
 ---
-title: 5. Email and User Settings
+title: 5. Email and User settings
 weight: 50
 description: Set your basic profile and email notification preferences.
 menu:

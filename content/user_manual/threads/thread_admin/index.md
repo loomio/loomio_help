@@ -33,7 +33,7 @@ It shows
 
 # Top-level options
 
-You can access a number of options by selecting the **⋯** three horizontal dots to the right of a thread's title. The following administrative actions are taken from pages that list threads.
+You can access a number of options by selecting the three horizontal dots (**⋯**) to the right of a thread's title. The following administrative actions are taken from pages that list threads.
 
 ### Mute
 
