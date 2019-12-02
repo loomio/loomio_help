@@ -143,6 +143,8 @@ Cheers! Happy world-changing to you and your groups!
 
 ## Glossary
 
+**Consent-based decision making**, or consent process, is a broad class of group decision-making processes that include Consensus (at its best) and other forms of proposal-based decision making where those participating are empowered to block the proposal if they can articulate a reason the proposal might cause harm. There are a variety of methods or flavors, such as Integrative Consent (described in this article) and also Generative Decision Making which draws more attention to whether the proposal is "ripe" among other nuanced distinctions.
+
 **Open Discussion:** a discussion style where all members of the team contribute as they have something to offer in a popcorn style.
 
 **Proposer:** the individual who raises an item for consideration which requires a decision
