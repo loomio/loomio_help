@@ -6,11 +6,14 @@ menu:
   main:
     parent: threads
 ---
-## Context panel
-![](context_panel.png)
-The context panel has special status within a thread. It's always at the top, and it's always visible on the page. Like a comment, you can format your text and attach files or images. Unlike a comment, anyone in the group can update the context (and the title of the thread). This means anyone can jump into the role of helping keep things easy to understand and easy to find.
+## Context
+The thread **context** has special status within a thread. It's always at the top, and it's always visible on the page.
 
-When you start the thread you should use the context to introduce the topic and kick off the discussion. As the thread grows, update the context with key understandings and information so new people can catch up and participate easily. Think of it as a summary or shared notes area.
+![](context_panel.png)
+
+Like a comment, you can format your text and attach files or images. Unlike a comment, the admin can allow for anyone in the group to update the context (and the title of the thread). This means you can enable anyone to pitch in and help keep things easy to understand and easy to find.
+
+When you start the thread you should use the context to introduce the topic and kick off the discussion. As the thread grows, update the context with key understandings and information so new people can catch up and participate easily. Think of it like you would the whiteboard where you write the agenda or take group notes.
 
 ## Navigating activity
 ![](thread_nav.png)

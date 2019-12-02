@@ -33,15 +33,7 @@ It shows
 
 # Top-level options
 
-You can access a number of options by selecting the three horizontal dots (**⋯**) to the right of a thread's title. The following administrative actions are taken from pages that list threads.
-
-### Mute
-
-Mute threads that you do not wish to receive email notifications nor see in your Unread or Recent threads pages.
-
-To mute a thread, you must first navigate to the Unread threads or Recent threads page. Mute is not available when you are on your group page (unlike other top-level options for threads).
-
-NOTE: You will still receive notifications if you are directly mentioned, replied to, or invited to participate in a thread, poll, or proposal.
+You can access a number of options by selecting the three horizontal dots (**⋯**) to the right of a thread's title , opening the **thread preview options**. The following administrative actions are taken from those options (only on pages that list threads).
 
 ### Close thread
 
@@ -65,6 +57,14 @@ You can easily  **pin** or **un-pin** from the thread preview options, but **onl
 ![](pin_thread.png)
 
 # Options within threads
+
+## Thread context
+
+Threads are easily updated and edited by those with permission to by clicking **edit**.
+
+> **Tip:** Double-clicking a thread context also opens the context editor.
+
+Learn more about thread contexts [here](../navigating_threads).
 
 ## Organizing threads
 
