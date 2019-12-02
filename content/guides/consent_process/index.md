@@ -71,13 +71,13 @@ It's often best if the person who raised it with the group continues as the **pr
 
 **2.**  The proposer has an idea – and puts it in writing to start the process.
 
-It’s also a good idea to set someone up as a **facilitator** who can help the proposer do their job efficiently, checking in with them to see if they have enough information to craft and refine their proposal. Either way, the proposer gets something in writing as the initial proposal for step one.
+It’s also a good idea to set someone up as a **facilitator**[ ³](#glossary) who can help the proposer do their job efficiently, checking in with them to see if they have enough information to craft and refine their proposal. Either way, the proposer gets something in writing as the initial proposal for step one.
 
 <p style="margin-left:2em;margin-right:2em;margin-top:2em;margin-bottom:2em"><i><b>Facilitators:</b> it is important to remember that it is not your choice which option to take in step one; that choice belongs to the proposer.</i></p>
 
 ## STEP 2: Questions and Comments
 
-This round can include clarifying questions, sharing points of information, making any desired responses, including better ideas for the proposal on the table. If there are questions, it is the proposer who gets to answer them or delegate them to whoever they would like to answer that question. During this step it’s very important for the proposer to be listening carefully and paying close attention to what’s being shared for anything that they would like to change about their proposal, which is the third step. If you are facilitating this process synchronously, it’s important to keep this as a *round*[ ³](#glossary) and not open discussion.
+This **round**[ ⁴](#glossary) can include clarifying questions, sharing points of information, making any desired responses, including better ideas for the proposal on the table. If there are questions, it is the proposer who gets to answer them or delegate them to whoever they would like to answer that question. During this step it’s very important for the proposer to be listening carefully and paying close attention to what’s being shared for anything that they would like to change about their proposal, which is the third step. If you are facilitating this process synchronously, it’s important to keep this as a *round*[ ³](#glossary) and not open discussion.
 
 ## STEP 3: Amendment
 
@@ -85,7 +85,7 @@ Step three, *amend*, is where the proposer makes changes at their discretion to 
 
 ## STEP 4: Integration (objections)
 
-**Integration** is where things get interesting. During this phase, all team members are invited to present any objections they have, with objections being defined as what “**might cause harm to the team or organization**”. Now, how do we know if it might cause harm? This question can sometimes open a can of worms if there is not a clear agreement about what is a valid objection. At the very least, we recommend that an objection needs to have a reasoned case that can be made explicit. If the ‘why’ of the objection is unclear, it may be impossible to integrate and waste a lot of time. Beyond that, there are a number of other basic questions your group could ask of each objection to ensure that they will not just cause the team to go round and round in circles. We call these validation criteria. Your group will likely want to agree on the criteria that work best for you, but we think you might find these basic ones useful to get started:
+**Integration** is where things get interesting. During this phase, all team members are invited to present any **objections** they have, with objections being defined as what “**might cause harm to the team or organization**”. Now, how do we know if it might cause harm? This question can sometimes open a can of worms if there is not a clear agreement about what is a valid objection. At the very least, we recommend that an objection needs to have a reasoned case that can be made explicit. If the ‘why’ of the objection is unclear, it may be impossible to integrate and waste a lot of time. Beyond that, there are a number of other basic questions your group could ask of each objection to ensure that they will not just cause the team to go round and round in circles. We call these validation criteria. Your group will likely want to agree on the criteria that work best for you, but we think you might find these basic ones useful to get started:
 
 ![Objections  are that which might cause harm to the team or organization: ‘Minimum viable criteria’ for useful objections: explicit  -  I can make a reasoned case | impersonal  -  It’s not just a personal preference | evidenced  -  Not predictive; based in experience | not ‘safe to fail’  -  It’s not that I have a ‘better idea’](valid_objections_guide.png)
 
@@ -143,14 +143,14 @@ Cheers! Happy world-changing to you and your groups!
 
 ## Glossary
 
-**Consent-based decision making**, or consent process, is a broad class of group decision-making processes that include Consensus (at its best) and other forms of proposal-based decision making where those participating are empowered to block the proposal if they can articulate a reason the proposal might cause harm. There are a variety of methods or flavors, such as Integrative Consent (described in this article) and also Generative Decision Making which draws more attention to whether the proposal is "ripe" among other nuanced distinctions.
-
 **Open Discussion:** a discussion style where all members of the team contribute as they have something to offer in a popcorn style.
 
-**Proposer:** the individual who raises an item for consideration which requires a decision
-
-**Round:** a discussion style where one person shares at a time as requested by the facilitator
+**Proposer:** the individual who raises an item for consideration which requires a decision.
 
 **Facilitator:** someone who can help the proposer do their job efficiently. For example, in step 1, they might check in with them to see if they have enough information to craft and refine their proposal.
 
-**Objection:** what might cause harm to the team or organization
+**Round:** a discussion style where one person shares at a time as requested by the facilitator.
+
+**Objection:** what might cause harm to the team or organization.
+
+**Consent-based decision making**, or consent process, is a broad class of group decision-making processes that include Consensus (at its best) and other forms of proposal-based decision making where those participating are empowered to block the proposal if they can articulate a reason the proposal might cause harm. There are a variety of methods or flavors, such as Integrative Consent (described in this article) and also Generative Decision Making which draws more attention to whether the proposal is "ripe" among other nuanced distinctions.
