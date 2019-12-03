@@ -15,7 +15,15 @@ Like a comment, you can format your text and attach files or images. Unlike a co
 
 > **Tip:** As the thread grows, update the context with key understandings and information so new people can catch up and participate easily.
 
-The context is like the whiteboard in your meeting room, where you write the agenda (the hopeful outcome and how you aim to get there) and take group notes. _Learn more about preparing your threads [in our Facilitator's Guide](/en/facilitators_guide)._
+The context is like the whiteboard in your meeting room, where you write the agenda (the hopeful outcome and how you aim to get there) and take group notes. *Learn more about preparing (your threads) for success [in our Facilitator's Guide](/en/facilitators_guide).*
+
+### Edit context
+
+You can click **edit** at the bottom of the context to edit it if you started thread or are an admin of the group to which the thread belongs.
+
+> **Tip:** Double click on the thread context to quickly access the editor!
+
+Some groups choose [permissions](/en/user_manual/groups/settings/) that allow any group member to edit the context, so that anyone can clarify the top-most information, instructions, or framing to help people jump right in (eg, someone late to the discussion).
 
 ## Timeline
 
