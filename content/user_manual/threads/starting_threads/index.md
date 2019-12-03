@@ -23,4 +23,4 @@ If your group privacy is **Closed** or **Secret** then your threads will be **pr
 
 ![](edit_thread_privacy_modal.png)
 
-If your group is "Open" then all your threads will be public, meaning that anyone with the URL can view the thread.
+If your group is "Open" then all your threads will be public, meaning that anyone with the URL can view the thread. For more on this subject… [→ Group privacy](/en/user_manual/getting_started/starting_a_group/#privacy)

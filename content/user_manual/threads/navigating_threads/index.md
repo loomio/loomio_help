@@ -1,7 +1,7 @@
 ---
 title: Navigating threads
 weight: 30
-description: Find the discussions you need, when you need them.
+description: Find what you need, when you need it.
 menu:
   main:
     parent: threads
@@ -13,20 +13,43 @@ The thread **context** has special status within a thread. It's always at the to
 
 Like a comment, you can format your text and attach files or images. Unlike a comment, the admin can allow for anyone in the group to update the context (and the title of the thread). This means you can enable anyone to pitch in and help keep things easy to understand and easy to find.
 
-When you start the thread you should use the context to introduce the topic and kick off the discussion. As the thread grows, update the context with key understandings and information so new people can catch up and participate easily. Think of it like you would the whiteboard where you write the agenda or take group notes.
+> **Tip:** As the thread grows, update the context with key understandings and information so new people can catch up and participate easily.
 
-## Navigating activity
-![](thread_nav.png)
+The context is like the whiteboard in your meeting room, where you write the agenda (the hopeful outcome and how you aim to get there) and take group notes. _Learn more about preparing your threads [in our Facilitator's Guide](/en/facilitators_guide)._
 
-Activity is comprised of all the comments, replies, proposals, polls, votes and other notable things that happen within the thread.
+## Timeline
 
-By default activity is nested, so a reply comment (or a vote on a proposal) will be displayed just under the comment to which it belongs.
+The timeline helps you and your group to quickly access content (conversations, questions, decisions…). It is a visual, interactive history of key events, processes, or milestones that helps your group to understand how a conversation evolved over time or to review how a given outcome came about.
 
-You can also view the thread chronologically, where all activity is displayed in the order that it happened.
+![timeline with key meetup dates by month](https://help.loomio.org/en/user_manual/whats_new_loomio_2/new_timeline.png)
 
-![](thread_nav_open.png)
+To facilitate this, comments with headers, proposals, and polls are automatically added to the timeline as links. Clicking these links take you directly to this item in the thread. Learn how to edit thread items… [→ Thread administration](../thread_admin).
 
-By default you'll be shown activity you have not seen before, and activity you have already seen will be collapsed under a "Load previous" button. If you want to go to the start of the activity you can click "Beginning". To jump to the first 'new-to-you' activity, click "Unread", and you can jump to the most recent activity by selecting "Latest".
+The date of the earliest thread activity, and the latest, are not blue but **can be clicked to quickly navigate, too!** They, and "Context" can be clicked to navigate to the earliest or latest comment or to the top (the context).
+
+## Navigating activity and Thread format
+
+Thread **activity** is comprised of all the comments, replies, proposals, polls, votes and other notable things that happen within the thread. There are two ways you can alter how that activity is displayed in order to optimize the experience given a specific thread's purpose:
+
+### Oldest or Newest first
+
+By default, this activity is 1.) listed with the oldest activity nearest the top, or **oldest first**, and 2.) nested, which means a reply will be displayed just under the comment to which it is responding and the proposals and polls will result in a nice list of responses/positions directly under the area where folks engage with them.
+
+The grey text just under the context will indicate in which order the activity is being listed, along with the number of replies.
+
+To change this setting, click that grey text, choose your preference, and save. _This changes the layout for everyone, not just you._
+
+> **Tip:** Long threads, for example your organization's 'wall' for off-topic sharing, often benefit from the setting **newest first**
+
+### How replies are displayed
+
+The thread can also be set to display chronologically, as a **flat list**, where all activity is displayed in the order that it happened. _Again, this setting is for all thread members as threads are viewed in the same way by everyone._
+
+!["7 replies" and "oldest first" displayed just under the thread context and above the thread activity](thread_format_button.png)
+
+Similar to switching oldest for newest first, change how replies are displayed by clicking the grey text under the context to first open **Thread layout** options, select your preference, and save.
+
+![](thread_format.png)
 
 ## Unread activity
-When activity items are displayed on your screen, Loomio will mark them as having been read. Unread content is displayed with a highlight down the left side and threads with unread content display bold within thread lists.
+When you open a thread on Loomio you will first be taken to unread (or unseen) activity. When activity items are displayed on your screen, Loomio will take note that they have been read, _just like if you see the activity via an email._ Unread content is displayed with a yellow stripe on the left side and threads with unread content display bold within thread lists.

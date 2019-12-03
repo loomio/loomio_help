@@ -8,17 +8,27 @@ menu:
 ---
 
 ## Comments and replies
-The most common activity in a thread is commenting and replying. The comment box is at the bottom of the thread page. Just write your comment in the box and press **Post** to have your say.
+The most common activity in a thread is commenting. First look for **Comment** and your user photo/initials.
 
-When you reply to a comment the author of the original comment will be notified of your reply.
+![](comments_and_facilitation_box.png)
+_Make sure that Comment is highlighted, not Proposal or Poll._
 
-If Loomio has emailed you a comment (and says you can reply to the email), you can reply directly from your email and your message will appear in the thread.
+Write your comment and press **Post** to have your say.
+
+Replies are like comments except in that the author of the original comment will be notified of your reply. Click **reply** on the comment you would like to associate your comment with, as it will be nested underneath theirs by default.
+
+If Loomio has emailed you a comment and says you can reply to the email, you can reply directly from your email and your message will appear in the thread.
 
 ## Formatting comments
-Loomio uses _Markdown_ to format text and embed images. For more information on how to use Markdown, read [this guide](https://www.loomio.org/markdown).
 
-## Attaching files
-You can attach files to comments using the attachment button next to the **Post** button on the comment form. You will be prompted to select a file from your device.
+Use the formatting tools underneath the space in which you write. Hover the mouse/cursor over each item to know what it is. You can
+
+- stylize (bold, italics, code block…)
+- create lists (eg, check-lists)
+- turn text into hyperlinks - _links icon_
+- add attachments (from your device) - _paper clip icon_
+- embed video - _play button icon_
+- create and modify tables - _icon with four squares_.
 
 ## Editing comments
 ![](edit_comment_button.png)
