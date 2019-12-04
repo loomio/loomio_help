@@ -31,13 +31,11 @@ Use the formatting tools underneath the space in which you write. Hover the mous
 - create and modify tables - _icon with four squares_.
 
 ## Editing comments
-![](edit_comment_button.png)
+If you've made a typo, or want to add a bit more information to your comment shortly after you've posted it, click **edit** on your comment. Editing does not take anyone else's attention with notifications nor unread signals.
 
-If you've made a typo, or want to add a bit more information to your comment shortly after you've posted it, you can edit your comment. Editing does not grab any attention, IE: No notifications will be sent, and your comment will not be marked as unread again.
+![](edit_comment.png)
 
-![](edit_comment_modal.png)
-
-Changes you've made will be visible via the "history" button, so you can see what people have changed in their comment.
+Changes you've made will be visible _to others_ via the **edited** button, so you can see what people have changed in their comment.
 
 ![](comment_history_button.png)
 
@@ -47,18 +45,17 @@ If you have new information or are coming back after an extended period of time,
 
 ## Reactions
 ![](reactions.png)
-Reactions are for sharing how a comment made you feel, or acknowledging something someone has said, without writing a comment. They're an unobtrusive, light-weight way to participate without interrupting the conversation.
+Click **react** on any thread context or comment to share how a comment made you feel, or acknowledge something someone has said, without writing a comment. They're a light-weight way to participate without interrupting the conversation, and they only send a notification within the app (not by email).
 
 ## Automatic translation
-<video width="600" height="400" playsinline muted loop controls>
-<source src="inline_translation.mp4" type="video/mp4">
-</video>
+<iframe width="100%" height="380px" src="https://www.youtube-nocookie.com/embed/ZI_ZxJKoiy0" frameborder="0" allowfullscreen></iframe>
 
-Loomio can translate a comment from one language into another automatically (with the help of Google Translate). If the author of a comment uses a language other than yours, a translate button will show up; Just click to see the translation.
+Loomio can translate a comment from one language into another automatically (with the help of Google Translate). If the author of a comment uses a language other than yours, **Translate comment** will be available in the drop-down options of the comment in question, from the three horizontal dots (**⋯**).
 
-## Decision tools
-![](decision_tools_card.png)
-There are a selection of "decision tools" available to you within the thread.
+## Facilitation and Decision tools
+![](facilitation_tools_tabs.png)
+There are a selection of **facilitation tools** and **decision tools** available to you from within the thread.
+
 - Proposals are there to help you see if there is agreement about a statement or course of action, and surface the disagreement if that's what needs to happen. Often, you can use proposals to bring the discussion to conclusion.
 - Polls are useful to understand preferences of the group.
 - Use a time poll if you need to get everyone together, and want to find the best time for that meeting to happen.
@@ -66,14 +63,14 @@ There are a selection of "decision tools" available to you within the thread.
 Find out more about [decision tools](../getting_started/decision_tools).
 
 ## Email notifications
-By default you'll be subscribed to receive email notifications about activity in threads in which you are participating. If you don't want email notifications, [edit your preferences](https://www.loomio.org/email_preferences) and turn off "Subscribe on participation".
+By default
 
-![](subscribe_on_participation_off.png)
+- you will receive an email with everything you missed the day before as a daily digest
+- you will receive immediately emails for all activity in threads in which you have participated
 
-If you're already subscribed to a thread, you'll need to turn off emails for it, because "subscribe on participation" only takes effect for threads you participate in after changing the setting.
+To change these defaults and more… [→ Notifications](/en/user_manual/users/email_settings)
 
-![](email_settings_in_thread_dropdown.png)
+### Setting email notifications for individual threads
+You can adjust your email settings per thread, so that you can mute conversations that will never matter to you and get all activity immediately for those critical to you (and everything in between).
 
-The default setting is "Announcements", which means you'll get an email notification when someone wants to notify you about a decision, but you won't get an email about comments unless you're mentioned or someone replies to one of your comments.
-
-![](thread_email_settings_modal.png)
+To do this, use the **subscribe** button at the bottom of the thread's context. If you want to see this or learn more about email settings… [→ Thread email settings & Subscribe](/en/user_manual/users/email_settings/#thread-email-settings-subscribe)
