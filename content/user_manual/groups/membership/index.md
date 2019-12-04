@@ -43,24 +43,25 @@ There is a limit to the number of invitation emails you can send. Any person can
 > For example: At first, you can send 100 invitations. After 50 people accept their invitations, you can send another 50 invitations.
 
 ## Managing invitations
-![](invitations_panel.png)
+
+To manage invitations, open the filter/ drop down from the Members tab of your Group page and select **invitations**; choose the three dots (**⋯**) to the right of the invitation/ person in question.
+
+<iframe width="100%" height="380px" src="https://www.youtube-nocookie.com/embed/BH0x494sZlU" frameborder="0" allowfullscreen></iframe>
 
 You can also make people coordinators or set their title (eg, "IT Support") within the group before they accept their invitation.
 
 ## Cancelling invitations
-If you entered the wrong email address, or have changed your mind about inviting someone, you can cancel an invitation. Select **Cancel Invitation** from the dropdown menu on the invitations panel.
+If you entered the wrong email address, or have changed your mind about inviting someone, you can cancel an invitation from the Members tab on your Group page. Select **Cancel Invitation** from the same drop down (**⋯**) as demonstrated [just above](/#managing-invitations).
 
 ## Managing memberships
-![](members_panel.png)
+![](remove_from_group.png)
 
-You will find the "Group members" management panel in the right column of your group or subroup. Click on the three dots to adjust group members' settings and permissions as described below.
+Managing members is easy form the Members tab on your Group page. Just click on the three dots (**⋯**) to the right of the group member you wish to remove, promote or demote from **admin**, or assign a title.
 
-## Coordinators
-Also known as "Admin" status. Group coordinators can add and remove members, grant and remove coordinator permissions and modify group settings.
+## Admin
+Admin are those with the _most_ permissions in a group; they were formerly referred to as the "Coordinator". Group coordinators can add and remove members, grant and remove coordinator permissions and modify group settings.
 
-You can grant or remove coordinator permission **Group Members** panel, which is on the top right-hand side of your Group page.
-
-Click on the three dots next to the person you want to make a coordinator, and then choose 'Make Coordinator'. You will now see that the person's avatar has an orange ring around it. Everyone with an orange ring is a coordinator.
+Click on the three dots (**⋯**) next to the person you want to make a coordinator, and then choose 'Make Coordinator'. You will now see that the person's avatar has an orange ring around it. Everyone with an orange ring is a coordinator.
 
 We recommend that you share the coordinator permission with everyone who is trusted to look after the group.
 
@@ -82,7 +83,7 @@ On the **Members** page, next to every member there is a **Remove from group** o
 
 When you click **Remove from group** you'll see a confirmation box explaining what removal will mean.
 
-![](remove_member.png)
+![](remove_from_group.png)
 
 ## Leaving a group
 To leave a group click the _options_ button next to your group name on the group page.

@@ -94,7 +94,7 @@ If you started a thread, you can delete that thread, but only your comments with
 
 ## Administering comments and decisions
 
-The following are achieved from any comment by first clicking on the **⋯** three horizontal dots at the bottom-right of the comment, proposal, or poll in question.
+The following are achieved from any comment by first clicking on the three horizontal dots (**⋯**) at the bottom-right of the comment, proposal, or poll in question.
 
 ### Deleting comments
 You can delete your own comments at any time.
