@@ -89,13 +89,13 @@ You're ready to invite people into the group! Loomio is a group collaboration to
 * **Invite people:** If you have their email addresses, you can send invitations to each member of your group.
 * **Shareable link:** Or you can share the invitation link via email or however your team communicates.
 
+<iframe width="100%" height="380px" src="https://www.youtube-nocookie.com/embed/EZzTe6jJL7c" frameborder="0" allowfullscreen></iframe>
+
 Follow up on people who don't make it into the group and give them a nudge. You don't want to leave people out of key conversations or decisions. You can see pending invitations – when people have yet to accept the invitation you sent – by clicking the drop down that reads  **everyone** by default, and then click **invitations**.
 
 If people join but don't begin to participate right away, you might like to welcome them to the group with an @mention, for example:
 
 > “Welcome to the group @Jane :) It's great to have you here! Would you saying a little bit about your work in this space?”
-
-<iframe width="100%" height="380px" src="https://www.youtube-nocookie.com/embed/fO7dMb_e-Rc" frameborder="0" allowfullscreen></iframe>
 
 ## Champion the use of Loomio
 
