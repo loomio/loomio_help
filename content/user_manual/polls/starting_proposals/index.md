@@ -43,13 +43,7 @@ It's good to let people know when you're taking a poll or a vote. After you star
 
 ### Invite guests or experts
 
-Similar to the ___Invite to thread___ feature, if you input the email of someone outside your group in the ___Invite to vote___ form, they will be given access to only that proposal or poll, and that alone. They will be able to see the decision title, details, and attachments; vote; and see other votes, but they will not have access to the thread or its comments, or anything else in the group.
-
-#### No sign in needed
-
-The same applies if you check **Anyone with the link can participate** and give that link to someone outside your group.
-
-This means anyone can vote without signing in. They just enter their name, email address and vote all at the same time.
+Similar to the **invite people** feature, if you input the email of someone outside your group in the **invite people to vote** form they will be given permission to participate in _only_ that proposal or poll; _however_, they will be able to see the _whole_ thread in which their participation has been invited (but _not_ any of the group's content beyond that). They will not be able to comment or participate in other proposals or polls even though they can see those that are in the same thread.
 
 ## Step-by-step for all decision tools
 
