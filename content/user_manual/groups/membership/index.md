@@ -20,6 +20,12 @@ To add members to your group
 
 <iframe width="100%" height="380px" src="https://www.youtube-nocookie.com/embed/EZzTe6jJL7c" frameborder="0" allowfullscreen></iframe>
 
+### Invite people to subgroups
+
+You will follow the same process above.
+
+You can invite people to an organization, or parent group, and one or more subgroups simultaneously when you invite them with the **Invite people** button. Tick the boxes next to the subgroups you want them to immediately be a part of when they join the group. See it demonstrated in the video clip [just above](#inviting-people).
+
 ### Getting people on board
 
 Follow up on people who don't make it into the group and give them a nudge. You don't want to leave people out of key conversations or decisions. You can see pending invitations – when people have yet to accept the invitation you sent – by clicking the drop down that reads  **everyone** by default, and then click **invitations**.
@@ -44,7 +50,7 @@ There is a limit to the number of invitation emails you can send. Any person can
 
 ## Managing invitations
 
-To manage invitations, open the filter/ drop down from the Members tab of your Group page and select **invitations**; choose the three dots (**⋮**) to the right of the invitation/ person in question.
+To manage invitations, open the filter/ drop down from the Members tab of your Group page and select **invitations**; choose the three dots to the right of the invitation/ person in question.
 
 <iframe width="100%" height="380px" src="https://www.youtube-nocookie.com/embed/BH0x494sZlU" frameborder="0" allowfullscreen></iframe>
 
