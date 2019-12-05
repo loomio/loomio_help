@@ -32,21 +32,17 @@ Group's [basic privacy settings are described here](/en/user_manual/getting_star
 
 ### Anyone can join (Open groups)
 
-In **Open** groups you can use this option, **Anyone can join**, in order for the public to be able to join without any action by any member of the group.
+In _open groups_ you can use the option, **Anyone can join**, in order for the public to be able to join without any action by any member of the group.
 
-### Requiring approval of membership requests (in Open groups)
+### Requiring approval of membership requests (Open groups)
 
 If you select this option, rather than letting people walk in the door voluntarily, then admin will have the option to approve or ignore people's requests to join.
 
-- You can also give group **members** the permission to approve requests, also via the **Advanced settings**.
+- You can also give group members the permission to approve requests, also via the **Advanced settings**.
 
-### Allow public threads (in Closed groups)
+### Allow members of parent group to see threads
 
-In **Closed** groups, you can use this option to allow public and private threads in your group. When you start a thread, you can decide whether it will be public or private.
-
-### Allow members of parent group to see threads (in Closed subgroup)
-
-In **subgroups** that are **closed**, you can allow members of the parent group to see discussions within the subgroup.
+In _closed subgroups_ you can allow members of the parent group to see discussions within the subgroup.
 Select, **Members of [parent group] can see private threads** to enable this feature. This feature is off by default. For more on subgroups, [see here](../subgroups).
 
 ## Invite and approve new members
