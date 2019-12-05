@@ -8,56 +8,62 @@ menu:
     parent: 'groups'
 ---
 
-# Coordinators
+# Admin
 
-Only group coordinators can edit group settings.
+Only a group's admin can edit group settings.
 
-As a coordinator of a Loomio group you’re responsible for guiding your group through the process of learning how to use a new piece of software, as well as learning new processes for collaborating more effectively and making good decisions together. The tasks outlined below can only be performed by group coordinators.
+As an admin of a Loomio group, you are responsible for guiding your group through the process of learning how to use a new piece of software, as well as learning new processes for collaborating more effectively and making good decisions together. The tasks outlined below can only be performed by group admin.
 
 To learn how to edit the basics such as your Group description or Cover photo, see [starting a group](/en/user_manual/getting_started/starting_a_group).
 
 # Advanced settings
 
-To set the group permissions and configure what members can do in their group, go to _Group Settings_ and click _Advanced Settings_.
+Admin can change group permissions and configure what members can do in their group (and/or subgroups) by
+
+1. navigating to the **Settings** tab of your group's page
+2. selecting **Edit Group Settings**
+3. clicking a tab (**Privacy** or **Permissions** options are described below)
+
+<iframe width="100%" height="380px" src="https://www.youtube-nocookie.com/embed/ye08QEnP1_A" frameborder="0" allowfullscreen></iframe>
 
 ## Privacy
 
-Group's [basic privacy settings are described here](/en/user_manual/getting_started/starting_a_group/#privacy), as you can make your group _open_, _closed_, or _secret_ without visiting _Advanced Settings_ (unlike the following options).
+Group's [basic privacy settings are described here](/en/user_manual/getting_started/starting_a_group/#privacy), as you can make your group **open**, **closed**, or **secret** without visiting **Advanced settings** (unlike the following options).
 
 ### Anyone can join (Open groups)
 
-In **Open** groups you can use this option, _Anyone can join_ if you want the public to be able to join without any action by any member of the group.
+In **Open** groups you can use this option, **Anyone can join**, in order for the public to be able to join without any action by any member of the group.
 
 ### Requiring approval of membership requests (in Open groups)
 
-If you select this option, rather than letting people walk in the door voluntarily, then coordinators will have the option to approve or ignore people's requests to join.
+If you select this option, rather than letting people walk in the door voluntarily, then admin will have the option to approve or ignore people's requests to join.
 
-- You can also give group _members_ the permission to approve requests, also via the _Advanced settings_.
+- You can also give group **members** the permission to approve requests, also via the **Advanced settings**.
 
 ### Allow public threads (in Closed groups)
 
 In **Closed** groups, you can use this option to allow public and private threads in your group. When you start a thread, you can decide whether it will be public or private.
 
-### Allow members of parent group to see threads (in Subgroup)
+### Allow members of parent group to see threads (in Closed subgroup)
 
-In **Subgroups**, you can allow members of the parent group to see discussions within the subgroup.
-Select, _Members of [parent group] can see private threads_ to enable this feature. This feature is off by default. For more on subgroups [see here](../subgroups).
+In **subgroups** that are **closed**, you can allow members of the parent group to see discussions within the subgroup.
+Select, **Members of [parent group] can see private threads** to enable this feature. This feature is off by default. For more on subgroups, [see here](../subgroups).
 
 ## Invite and approve new members
 
-This allows everyone in your group to invite new people in, and approve any membership requests. When it is deselected only group coordinators will be able to invite and approve new members.
+This allows everyone in your group to invite new people in, and approve any membership requests. When it is deselected only group admin will be able to invite and approve new members.
 
 ## Create subgroups
 
-This allows everyone in your group to create subgroups. When it is deselected only group coordinators will be able to create subgroups.
+This allows everyone in your group to create subgroups. When it is deselected only group admin will be able to create subgroups.
 
 ## Start threads
 
-This allows everyone in your group to start new threads. When it is deselected only group coordinators will be able to start discussions.
+This allows everyone in your group to start new threads. When it is deselected only group admin will be able to start discussions.
 
 ## Edit the context of any thread in the group
 
-This allows everyone in your group to edit the context of any thread. When it is deselected only group coordinators and the thread author will be able to edit the thread context.
+This allows everyone in your group to edit the context of any thread. When it is deselected only group admin and the thread author will be able to edit the thread context.
 
 ## Edit their comments at any time
 
@@ -65,11 +71,11 @@ This allows everyone in your group to [edit their comments](../../threads/#editi
 
 ## Raise proposals
 
-This allows anyone in your group to start a proposal within a thread. When this box is deselected only group coordinators will be able to raise proposals.
+This allows anyone in your group to start a proposal within a thread. When this box is deselected only group admin will be able to raise proposals.
 
 ## Vote on proposals
 
-This allows everyone in your group to state their position on proposals. When it is deselected only group coordinators will be able to state their position on proposals.
+This allows everyone in your group to state their position on proposals. When it is deselected only group admin will be able to state their position on proposals.
 
 # Deactivating/archiving a group
 

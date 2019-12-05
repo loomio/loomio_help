@@ -97,7 +97,7 @@ You can name the role someone has within the group, or identify which organisati
 
 ## Membership requests
 
-If your group's [advanced settings](../settings/#privacy) allow people to join your group **by request**, an admin will need to approve each membership request. Group coordinators will receive an email each time there is a new membership request. The link in the notification email will take you to the **Requests** page, where you can approve or decline the request.
+If your group's [advanced settings](../settings/#advanced-settings) allow people to join your group **by request**, an admin will need to approve each membership request. Group coordinators will receive an email each time there is a new membership request. The link in the notification email will take you to the **Requests** page, where you can approve or decline the request.
 
 To find pending requests for memberships, navigate to the Members tab of your Group page and click the **Requests** button on the right.
 
