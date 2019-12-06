@@ -9,7 +9,7 @@ menu:
 
 Use Loomio's **threads** to have discussion that result in clear outcomes.
 
-<iframe width="100%" height="380px" src="https://www.youtube-nocookie.com/embed/MtpDOtmwXGI" frameborder="0" allowfullscreen></iframe>
+<iframe width="100%" height="380px" src="https://www.youtube-nocookie.com/embed/eD4NyVJEjB0" frameborder="0" allowfullscreen></iframe>
 
 _Above shows an older Loomio, but it's still a great explainer. We'll upgrade it soon!_
 
