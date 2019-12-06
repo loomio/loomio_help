@@ -33,4 +33,4 @@ After you select **Share outcome**, you will have the ability to alert group mem
 
  <center><img src="share_outcome_notification.png" alt="" width="80%"></center>
 
- You can always hit the **X**, or press escape, if you are happy for people to encounter the outcome on their own time. Outcomes, like comments, will cause a thread to indicate it is unread.
+ You can always click on the **X**, if you are happy for people to encounter the outcome on their own time. Outcomes, like comments, will cause a thread to indicate it is unread.

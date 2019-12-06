@@ -1,23 +1,37 @@
 ---
-title: Types of decision tools
-description: You can use several kinds of polls, including the 'proposal'.
+title: Types of facilitation tools
+description: You can use several kinds of polls or proposals to get group outcomes.
 weight: 50
 menu:
   main:
     parent: polls
 ---
 
+# Polls and Proposals
+
+Loomio's unique advantage over other tools is our facilitation and decision-making tools, our **proposals** and **polls**. These are used within discussion threads in order to move conversations, and your group, to clear, shared outcomes.
+
+There are a number of different types of polls. Below the thread context, switch from the **Comment** box to the **Poll** to see the variety of unique ways to get your group's input and/or visualise where the group stands on a given topic or question.
+
+![](https://i.imgur.com/3l100CM.jpg)
+
+The **Proposal** tool also has a variety of options that allow you to run a number of distinct processes (eg, a 'questions & comments round'), as covered [below](#proposals).
+
 ## Time poll
 
 _Find a time to meet_
 
-![](time-poll.png)
+![](https://i.imgur.com/cmde9LX.jpg)
 
 Time poll makes it easy to identify when is the best time to meet.
 
 Enter a selection of times and share the poll with the people involved. Participants tick the times they can attend and the result is a table showing who is available when, so you're able to pick the best time for the group.
 
 So that you can arrange calls with people in other parts of the world, Loomio adjusts times so they are correct when displayed for each participant.
+
+When you are selecting your times, Loomio will display your team’s most used time zones so you can quickly propose times that suit most members.
+
+![](https://i.imgur.com/M9L6byc.jpg)
 
 If the times don't work, participants can suggest alternatives using the message field. You can then update the poll with new times.
 
@@ -110,9 +124,7 @@ Examples:
 * What would you like to eat at the company summer party?
 * Who should be our next deputy mayor?
 
-## Proposal
-
-**The below is not yet updated for Loomio 2.0. [Contact us](https://loomio.org/contact/?utm_campaign=loomio2_transition_help&utm_term=help) if you need any help.**
+## Proposals
 
 _Seek collective agreement_
 
@@ -122,10 +134,48 @@ Proposals are great for bringing a discussion to a clear outcome, developing or 
 
 With good participation, a proposal creates support within the group to take action.
 
-Participants can agree, abstain, disagree or block - and give a statement to explain their position.
+Participants can indicate their **position** and give a statement to explain why they chose it.
+
+### Change which positions can be submitted
+
+You can change the positions, or options, that proposal participants will have to choose from. There are several configurations for you to choose from.
+
+![](/en/user_manual/whats_new_loomio_2/flexible_proposals1.png)
+
+_For example,_ you might decide to take a period of time for 'questions & comments' before you ask people to respond to the final proposal. In this case, you may even choose to have **No voting**. While you could invite questions & comments without a proposal, the proposal can be a useful way to create a very clear time box and invitation to comment on _this_ proposal. Using a proposal for questions & comments can also help remind people to participate with the notification sends 24 hours before the poll closes.
+
+_Another example:_ If your group doesn't use a variant of [consent-based decision making](/en/guides/consent_process/#glossary) then you may choose to use a configuration without the "block" or "objection".
+
+### Ways of using proposals
 
 Don't hesitate to start a proposal just because you're not sure everyone will agree - proposals are not only for when you have consensus, they're designed to surface issues that need resolving and are useful for clarifying disagreements.
 
-You may be surprised by getting quick consensus on something you thought was going to be complicated.
+#### Uncover the controversy
 
-For more guidance in making proposals, see the [Starting proposals](../starting_proposals) article, especially the section under [ways of doing proposals](../starting_proposals/#ways-of-using-proposals).
+_E.g. Let's put a bike stand next to the front desk_
+
+If there are two or more competing ideas, propose supporting one. Controversial topics might require a series of proposals to build shared understanding.
+
+#### Series of small Yes's
+
+_E.g. We host the conference; dates and venue to be confirmed later_
+
+Break down a complex issue into smaller parts and agree on them piece by piece.
+
+#### Polarising Minority
+
+_E.g. Share our pay rates publicly_
+
+Sometimes loud voices can seem like they are representing more of the group than they really are. Raise a proposal to put their views in perspective.
+
+#### Temperature Check
+
+_E.g. Temperature Check: we should change the privacy policy_
+
+A temperature check is a way to test how the group feels without concluding a fully realized proposal. Use it when you want to survey opinions, or test a hunch, rather than advocate for a particular position.
+
+#### On disagreement
+
+'Disagree' and 'block' are often controversial positions to take. We encourage you to see them as opportunities to understand where communication has been inadequate, points of view are under-represented, or as a source of valuable insight.
+
+If things feel tense on a personal level, we recommend that you talk one on one with the person to hear their concerns.
