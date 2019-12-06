@@ -11,7 +11,7 @@ If you are using Loomio for governance in your board, committee or trust—or in
 <br>
 
 <iframe width="100%" height="380px" src="https://www.youtube-nocookie.com/embed/FITqrhLuh8I" frameborder="0" allowfullscreen></iframe>
-<center>*You can find this [video's script here](/en/transcript_board_processes)*</center>
+<center>*Above shows an older Loomio, but it's still a great explainer. We'll upgrade it soon!*<br />*You can find this [video's script here](/en/transcript_board_processes)*</center>
 
 The above video covers these key workflows:
 

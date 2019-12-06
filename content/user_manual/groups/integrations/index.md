@@ -8,31 +8,26 @@ menu:
     parent: groups
 ---
 
-**This page is not yet updated for Loomio 2.0. [Contact us](https://loomio.org/contact/?utm_campaign=loomio2_transition_help&utm_term=help) if you need any help.**
-
 ## Slack integration
-
-LoomioBot is publishes activity from your Loomio group into your Slack channel so people can participate directly from Slack.
+LoomioBot publishes activity from your Loomio group into your Slack channel so people can participate directly from Slack.
 
 ### Set up Slack integration
-From your group page, click "Setup slack" and follow the prompts as shown in this video in order to connect the LoomioBot Slack integration to your Slack channel.
+From your group page's **Settings** tab, click **Integrate Slack** and follow the prompts in order to connect the LoomioBot Slack integration to your Slack team.
 
-<video width="600" height="400" playsinline muted loop controls>
-<source src="setup_slack_integration.mov" type="video/mp4">
-</video>
+<iframe width="100%" height="380px" src="https://www.youtube-nocookie.com/embed/ZwZD4ecfaM4" frameborder="0" allowfullscreen></iframe>
+*Setting up my first Slack integration.*
 
-### Remove Slack integration
-If you want to change the channel that your Loomio slack integration is connected to, remove the integration as shown in this video:
+This associates the chosen Slack team with your user account.
 
-<video width="600" height="400" playsinline muted loop controls>
-<source src="remove_slack_integration.mov" type="video/mp4">
-</video>
+Only one Slack team may be associated to any given user account. If you wish to associate two or more Loomio groups with channels in two or more distinct Slack teams, you will need to arrange for different users (or user accounts) for each distinct Slack team that has channels with which you want your groups to be integrated.
 
-...and then follow the prompts above in the Set up Slack integration.
+Once you have it installed, **it's easy to associate additional groups** or subgroups to different channels of your Slack team.
+
+<iframe width="100%" height="380px" src="https://www.youtube-nocookie.com/embed/u2H3HEsvTAQ" frameborder="0" allowfullscreen></iframe>
 
 ## Microsoft Teams
 
-Find the "Microsoft teams" card in your group sidebar.
+Navigate to your group's Settings tab (similar to the above [video clip](#set-up-slack-integration)) and click **Integrate Microsoft Teams**
 ![](markdown-img-paste-20190125133608957.png)
 
 From Microsoft teams you need to add a new connector. See [this page](https://kb.itglue.com/hc/en-us/articles/115001798191-Setting-up-Microsoft-Teams-webhook-notifications) for help with that.
