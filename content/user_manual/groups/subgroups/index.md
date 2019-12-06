@@ -21,19 +21,23 @@ Subgroups work just like groups do, but are located within your group/organizati
 
 ## Add a subgroup
 
-To add a subgroup in your group:
+To add a subgroup in your group, go to the **Subgroups** tab.
 
-![Arrow point to the subgroup panel on the right column of the group page](subgroup_panel.png)
+![](subgroups_tab.png)
 
-1. access your group page
-2. scroll down and find, on the right, "Add subgroup", in the Subgroup card
-3. name the subgroup, adjust any settings, and then invite people in just like you would in a group
+Click the **New subgroup** button, give it a meaningful title and decide on the desired [privacy](/en/user_manual/getting_started/starting_a_group/#privacy)) setting, and click **Start subgroup**. You can now start threads and invite people in.
+
+However, similar to [starting a group](/en/user_manual/getting_started/starting_a_group), you may want to 'prepare the space,' so to speak, for those you will soon invite. A group description, and adjusting any settings including the banner image, can help people feel comfortable in the Loomio group and with the others who will be participating here. Again, this supports psychological safety – proven to improve performance.
+
+<iframe width="100%" height="380px" src="https://www.youtube-nocookie.com/embed/U4qmHlEMq8E" frameborder="0" allowfullscreen></iframe>
+
+[Invite people](/en/user_manual/getting_started/starting_a_group/#invite-people) just like you would in a group.
 
 ## Manage your subgroups
 
 ### Permissions
 
-Subgroups can operate independently of the main group. For example, if the subgroup privacy setting is set to _Secret_, then only invited members can find this subgroup, see who is in it, and see threads. More on privacy below.
+Subgroups can operate independently of the main group. For example, if the subgroup privacy setting is set to **Secret**, then only invited members can find this subgroup, see who is in it, and see threads. More on privacy below.
 
 Subgroups can have their own coordinators, and, thus, the coordinators of a subgroup may not be the same as the coordinators of the parent group.
 
@@ -41,11 +45,11 @@ Any coordinator of the parent group may independently make themselves coordinato
 
 ### Privacy
 
-_Closed_ subgroups have an additional "Advanced setting" that allow members of its parent group to see private threads, or not.
+**Closed** subgroups have an additional **Advanced setting** that allow members of its parent group to see private threads, or not.
 
 Otherwise, the privacy settings are the same as those for groups; [learn anything else you need to know here](/en/user_manual/getting_started/starting_a_group/#privacy).
 
-![arrow pointing to the option for "Members of [Group name] can see private threads"](members_view_private_subgroup.png)
+![arrow pointing to the option for "Members of [Group name] can see private threads"](parent_group_can_see_private_threads.png)
 
 ### Invitations
 
@@ -57,7 +61,7 @@ Coordinators can deactivate a subgroup in the same way they would a group. Learn
 
 ### Other group options
 
-Export data, set up your Slack integration, and in all other ways use this subgroup just like you would a group; check our [help articles on _groups_ for more](/en/user_manual/groups/).
+Export data, set up your Slack integration, and in all other ways use this subgroup just like you would a group; check our [help articles on **groups** for more](/en/user_manual/groups/).
 
 ## Are subgroups for my organization?
 
@@ -68,5 +72,5 @@ If you answered yes, then you probably will find subgroups useful.
 Subgroups help if you want to…
 
 - Keep a conversation private to a smaller number of people in your group
-- Keep people from being bothered by conversations that don't matter to them; _bonus: subgroups have their own notification settings_
+- Keep people from being bothered by conversations that don't matter to them; *bonus: subgroups have their own [notification settings](/en/user_manual/users/email_settings)*
 - Make sure to notify _all_ the people related to a specific topic, project, expertise… _every_ time

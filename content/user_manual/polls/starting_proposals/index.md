@@ -8,6 +8,7 @@ menu:
 ---
 
 <iframe width="100%" height="380px" src="https://www.youtube-nocookie.com/embed/ePILBTxgkmE" frameborder="0" allowfullscreen></iframe>
+_Above shows an older Loomio, but it's still a great explainer. We'll upgrade it soon!_
 
 ## Title and Details
 
@@ -23,23 +24,23 @@ You might want to explore a few [ways of using proposals](#ways-of-using-proposa
 
 ## Attachments
 
-You can attach files to decisions using the **📎 attachment button** just underneath the details form on the right. You will be prompted to select a file from your device or a link from the cloud (e.g., the URL of a file, or sharing link, from Drive or Dropbox).
+You can attach files to decisions using the paperclip icon, just underneath the details form. You will be prompted to select a file from your device.
 
 ## Dates and Duration
 
-**Closing time**
+When you choose a **Closing time**, Loomio will let you know the length of time in which participants will be able to participate in the proposal or poll. During this window, people can submit their position or choice and leave a reason, and they can also edit these if they think on it again or receive new information or ideas, perhaps from others' votes.
 
 Consider how the proposal closing time will affect engagement from your group members, and choose accordingly. You might want to time the proposal so it closes before a meeting, or avoid closing over a weekend.
 
-Beyond considerations of inclusion (enough time) and urgency (deadlines), you may want to give additional consideration to the date and time the poll closes, as Loomio will send a reminder 24 hours before it closes. You can sometimes improve engagement if your group members receive this at a time when they can respond right away.
+Beyond considerations of inclusion (enough time) and urgency (deadlines), you may want to give additional consideration to the date and time the poll closes, as Loomio will send a reminder `24 hours` before it closes. You can sometimes improve engagement if your group members receive this at a time when they can respond right away.
 
 You can extend the deadline of an open proposal. This can be a good idea if engagement is active and people are working through the issue, or if engagement has been sparse and you'd like to prompt more participation before concluding. To do so, edit the poll or proposal to change the closing time.
 
 ## Invite Members
 
-It's good to let people know when you're taking a poll or a vote. After you start your proposal you will see a box allowing you to ___Invite to vote___, where you will have the opportunity to select **Members of group** or **Members of thread**, or input the names of some of your group. You can select all and then remove some people from the list. This will send a notification to all those listed.
+It's good to let people know when you're taking a poll or a vote. After you start your proposal you will see a box allowing you to **Invite to vote**, where you will have the opportunity to select **Members of group** or **Members of thread**, or input the names of some of your group. You can select all and then remove some people from the list. This will send a notification to all those listed.
 
-![](invite_to_vote_modal.png)
+![](invite_people_to_vote_modal.png)
 
 ### Invite guests or experts
 
@@ -47,12 +48,13 @@ Similar to the **invite people** feature, if you input the email of someone outs
 
 ## Step-by-step for all decision tools
 
-1. Author starts a discussion thread, and invites members. At any point, a member can start a decision, using any of the available Loomio decision tools
-2. Member sets up the decision with title, details and options
-3. People participate
-4. People can change their minds as understanding develops
+1. You choose to use a poll or proposal (within a thread)
+2. You name it, describe the question or proposal it represents, and set its duration
+3. You notify group members (typically all, but you may select none or specific...)
+3. Group members participate and share a tweet-length message with their selection
+4. They can change their minds as understanding develops; live results are available
 5. A reminder is sent out the day before closing
-6. The poll closes, and everyone is informed of the results
+6. The poll closes, and everyone can see the results
 7. The author sets an outcome, notifying everyone of what will happen next.
 
 ## Ways of using proposals

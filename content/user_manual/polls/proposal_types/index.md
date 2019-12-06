@@ -21,24 +21,28 @@ So that you can arrange calls with people in other parts of the world, Loomio ad
 
 If the times don't work, participants can suggest alternatives using the message field. You can then update the poll with new times.
 
-## Check
+## Count
 
-_Request or track participation_
+_Count how many people have completed a task, or ask for volunteers_
 
 ![](check.png)
 
-Make an offer or ask people to take some action. Think of it as the online equilavent of asking a room of people "Please raise your hand if you…".
+Make an offer or ask people to take some action. Think of it as the online equivalent of asking a room of people "Please raise your hand if you…".
 
-There are many ways you can use a check, but only two ways to respond: a Tick \(✔\), meaning affirmative, or an X mark \(✘\) meaning no or unsure.
+There are many ways you can use a check, but only one or two ways to respond: a Tick \(✔\), meaning affirmative, or an X mark \(✘\) meaning no or unsure.
 
-Examples:
+You can choose to use just one or the other if that makes more sense; _eg, it may not help to receive_ ***No*** _responses for an opt-in or volunteer opportunity, in which case you will select the_ ***Yes*** _option only_
+
+<iframe width="100%" height="380px" src="https://www.youtube-nocookie.com/embed/b28F7mciATA" frameborder="0" allowfullscreen></iframe>
+
+Other examples:
 
 * I've checked my contact details are correct
 * I've read the document and left my feedback
 * I'm coming to the event
 * I'll join the working group.
 
-A benefit of Check is that it automatically notifies those people who forget to participate, giving people a little encouragement to get the job done.
+A benefit of Count is that it automatically notifies those people who forget to participate, giving people a little encouragement to get the job done.
 
 ## Poll
 
@@ -61,7 +65,7 @@ Examples:
 
 _Express the degree of preference for each option_
 
-![](score_poll_form.png)
+![](https://i.imgur.com/kLXKujG.jpg)
 
 The score poll is commonly used for general surveys or 'temperature checks', in which electing a single 'winning' option is not necessarily the point.
 
@@ -75,9 +79,11 @@ Examples:
 * How important is each of these principles to you when considering our team vision?
 * How much would you like to see each of the following speakers at the next conference?
 
-## Dot vote
+## Allocate
 
-_Prioritise options together_
+_Prioritise options together by allocating a 'budget' of points_
+
+Also called dot voting, this style of poll is useful for groups trying to allocate a limited resource (even time) to a number of options (eg, agenda items, or budget line-items)
 
 ![](dot-vote.png)
 
@@ -93,7 +99,7 @@ See [dotmocracy.org](http://dotmocracy.org/) for more tips and resources about t
 
 _Rank options in the order of preference._
 
-![](ranked-choice.png)
+![](https://i.imgur.com/4zU6t7Z.jpg)
 
 Offers a series of options for people to vote in their preferred order. You can choose the number of votes people can give and rank. This decision-making type allows people to express their opinion in more detail than traditional polls.
 
@@ -105,6 +111,8 @@ Examples:
 * Who should be our next deputy mayor?
 
 ## Proposal
+
+**The below is not yet updated for Loomio 2.0. [Contact us](https://loomio.org/contact/?utm_campaign=loomio2_transition_help&utm_term=help) if you need any help.**
 
 _Seek collective agreement_
 

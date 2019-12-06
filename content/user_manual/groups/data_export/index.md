@@ -10,9 +10,9 @@ menu:
 
 ## Export
 
-Open the _Options_ menu on the group page and select _Export Group Data_.
+Open the **Settings** tab on the group page and select **Export Group Data**.
 
-![](group_data_export.png)
+![](settings_tab.png)
 
 ### Export group data as CSV
 

@@ -8,6 +8,8 @@ menu:
     parent: groups
 ---
 
+**This page is not yet updated for Loomio 2.0. [Contact us](https://loomio.org/contact/?utm_campaign=loomio2_transition_help&utm_term=help) if you need any help.**
+
 ## Slack integration
 
 LoomioBot is publishes activity from your Loomio group into your Slack channel so people can participate directly from Slack.
