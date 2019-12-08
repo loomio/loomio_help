@@ -30,7 +30,7 @@ Loomio is developed in English, but [is translated by volunteers into many langu
 
 Loomio will detect your browser’s language settings, but you can manually set your preferred language from the profile page.
 
-<iframe width="100%" height="380px" src="https://www.youtube-nocookie.com/embed/s2ga4VMlERA" frameborder="0" allowfullscreen></iframe>
+<iframe width="100%" height="380px" src="https://www.youtube-nocookie.com/embed/0llDGzowrXU" frameborder="0" allowfullscreen></iframe>
 
 ## Resetting your password
 You can change your password by visiting your profile page and clicking **Reset Password**.
