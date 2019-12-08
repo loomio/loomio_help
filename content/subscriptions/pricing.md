@@ -34,7 +34,7 @@ A Loomio subscription is one price per group, calculated according to the total 
 ### Free trial
 All new groups start on a free trial, providing the opportunity to experience Loomio with your group.
 
-Free trials are for 14 days, limited to 100 people and 10 threads.
+Free trials are for 14 days, limited to 20 people and 20 threads.
 
 [Contact us](https://loomio.org/contact) if you need to extend your trial.
 
@@ -75,8 +75,8 @@ Minimum price is $40.00 per month for monthly plans and $400.00 per year for ann
 
 [Contact us](https://loomio.org/contact) to discuss pricing for your organization.
 
-### Volunteer & Community Organizations
-Volunteer and community groups are supported by members to achieve a purpose. They do not have any paid staff, nor generate income.
+### Volunteer & Community groups
+Volunteer and community groups are supported by members to achieve a purpose. They do not have full-time paid staff.
 
 Price: $1.00 per year, per person. Paid in advance.
 
@@ -89,19 +89,26 @@ Volunteer & Community plan includes:
 
 These rates are only available as annual payments. Minimum price is $10.00 per year.
 
-To access these special rates, [apply for our Volunteer & Community plan](https://www.loomio.org/special_pricing). At completion, you can sign up for this plan.
+To access these special rates, [apply for our Volunteer & Community plan](https://www.loomio.org/special_pricing). 
+
+When you have completed the form, you may purchase the special rates plan immediately.  You do not need to wait for a response from us. We will contact you if we need to query your application.
 
 ### Variable Pricing
-When you invite new people into your group, you will be charged for the new people at a pro-rated amount for the current billing cycle. Payment will be drawn at the next billing renewal date. Loomio checks the number of people in your group daily.
+When you invite new people into your group, you will be charged for the new people at a pro-rated amount for the current billing cycle. Payment will be drawn at the next billing renewal date. 
+
+Loomio checks the number of people in your group daily for monthly plans, and weekly for annual plans. 
 
 > **Example:** Mary has a Basic monthly plan for her group of 20 people, with billing of $20.00 due on the 1st of the month.
 
-> On the 15th of the month (half-way through the current billing cycle), Mary invites 10 new people to her group. Mary’s account is charged 10 people x $1.00 x 15 days remaining / 30 days in current month = $5.00, payment to be drawn at next billing date.
+> On the 15th of the month (half-way through the current billing cycle), 10 new people join Mary's group. Mary’s account is charged 10 people x $1.00 x 15 days remaining / 30 days in current month = $5.00. Payment is drawn from the card on file immediately.
 
-> At the next monthly billing renewal date, Mary is charged $35.00 (total of 30 people x $1.00 for the next month + the pro-rated amount of $5.00 from the previous billing month) and payment is drawn from the credit card on file.
+> At the next monthly billing renewal date, Mary is charged $30.00 (total of 30 people x $1.00 for the next month).
 
-> Mary receives a statement detailing the charges processed.
+> Mary receives a monthly statement detailing the charges processed.
 
-If the number of people in your group decreases, the price will reduce accordingly at the next billing cycle. All payments are in advance and no credit is provided.
+If the number of people in your group decreases, the price will reduce accordingly at the next billing cycle (monthly or annually). All payments are in advance and no credit is provided.
 
-Annual plans operate in the same way.
+Annual plans operate in a similar way. Loomio checks for new people in the group weekly and automatically charges the card on file.
+
+### 25% discount for annual plans if upgrade during free trial period
+The 25% discount for annual plans applies at the time of upgrade, and then for each new member joining your group throughout the first year of subscription. 
