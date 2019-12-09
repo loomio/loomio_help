@@ -138,8 +138,7 @@ Just under the thread title you can click **Seen by** to see who has or has not 
 
 ### Notification history
 
-When you notify or invite specific people to threads or decisions, or @mention them in comments or anywhere else, you can now check if 1.) they have been sent a notification, and 2.) if they have opened that notification.
-
+You can check if someone has been sent an email notification about a thread, decision, or comment. Additionally, you can see if they have _opened_ this notification email or if they saw it on Loomio.
 
 #### For comments and threads
 In the extra options you find from the three horizontal dots (**⋯**), click **Notification history**.
