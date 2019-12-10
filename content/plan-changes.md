@@ -15,7 +15,7 @@ Our goal is to continue providing you with an excellent service, while also deve
 
 We have recently released Loomio 2.0 and hope you are enjoying this new experience.  We are currently working on a Loomio mobile-app and hope to have this in your hands soon.
 
-As you can imagine, there are real costs to hosting, supporting and developing Loomio software.  So that we can continue development and support for Loomio, we have implemented [new pricing plans](loomio.org/pricing).
+As you can imagine, there are real costs to hosting, supporting and developing Loomio software.  So that we can continue development and support for Loomio, we have implemented [new pricing plans](https://www.loomio.org/pricing).
 
 As a social enterprise and worker cooperative – paid subscriptions are our lifeblood and help us sponsor community and volunteer groups with special rates.
 
