@@ -74,3 +74,11 @@ Subgroups help if you want to…
 - Keep a conversation private to a smaller number of people in your group
 - Keep people from being bothered by conversations that don't matter to them; *bonus: subgroups have their own [notification settings](/en/user_manual/users/email_settings)*
 - Make sure to notify _all_ the people related to a specific topic, project, expertise… _every_ time
+
+## Group page shows subgroup threads
+
+By default, when you go to your parent group you will see a list of its threads and the threads of its subgroups _that you are in_.
+
+If you wish to see _only_ threads that were started or belong to the parent group, click the **Subgroups** tab and select the first option (**…without subgroups**).
+
+![](parent_group_without_subgroups.png)
