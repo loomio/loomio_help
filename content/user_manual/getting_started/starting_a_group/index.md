@@ -52,7 +52,7 @@ Your Loomio group page is also a place to store all of the information, links, a
 
 Your privacy settings determine who can find your group, who can see the threads in your group, and how people join.
 
-The default privacy setting for new groups is **Closed**. This means people can find your group and ask to join, but the content of your discussions and decisions is private, unless you allow specific threads to be public, _as explained in the_ ***Group permissions*** _section below._
+The recommended privacy setting for new groups is **Closed**. This means people can find your group and ask to join, but the content of your discussions and decisions is private.
 
 If you want the content of your discussions and decisions to be public, change your group privacy to **Open**. The members list will only be visible to other members.
 
