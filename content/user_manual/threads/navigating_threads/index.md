@@ -25,6 +25,10 @@ You can click **edit** at the bottom of the context to edit it if you started th
 
 Some groups choose [permissions](/en/user_manual/groups/settings/) that allow any group member to edit the context, so that anyone can clarify the top-most information, instructions, or framing to help people jump right in (eg, someone late to the discussion).
 
+#### Remove attachments
+
+While editing the context, click the **X** to the right of the attachment's name.
+
 ## Timeline
 
 The timeline helps you and your group to quickly access content (conversations, questions, decisions…). It is a visual, interactive history of key events, processes, or milestones that helps your group to understand how a conversation evolved over time or to review how a given outcome came about.
