@@ -20,7 +20,7 @@ Avoid combining a range of ideas in one proposal, because people might agree to 
 
 When making a proposal, state your expectations and describe the impact the proposal will have if adopted. If it's a formal or binding proposal it's often worth describing what a 'disagree' or 'block' means.
 
-You might want to explore a few [ways of using proposals](#ways-of-using-proposals), below, for some guidance and inspiration.
+You might want to explore a few [ways of using proposals](../proposal_types/#ways-of-using-proposals), for some guidance and inspiration.
 
 ## Attachments
 
