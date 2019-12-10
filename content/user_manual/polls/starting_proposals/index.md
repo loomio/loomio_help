@@ -1,5 +1,5 @@
 ---
-title: Starting proposals or polls
+title: Using proposals or polls
 description: Basics, tips, and tricks for writing and using decision tools.
 weight: 10
 menu:
@@ -36,6 +36,12 @@ Beyond considerations of inclusion (enough time) and urgency (deadlines), you ma
 
 You can extend the deadline of an open proposal. This can be a good idea if engagement is active and people are working through the issue, or if engagement has been sparse and you'd like to prompt more participation before concluding. To do so, edit the poll or proposal to change the closing time.
 
+### Reopen
+
+If a poll closes earlier than what is ideal for your group arriving to a clear shared outcome, you might want to **reopen** it, setting a new closing time.
+
+![](reopen.png)
+
 ## Invite Members
 
 It's good to let people know when you're taking a poll or a vote. After you start your proposal you will see a box allowing you to **Invite to vote**, where you will have the opportunity to select **Members of group** or **Members of thread**, or input the names of some of your group. You can select all and then remove some people from the list. This will send a notification to all those listed.
@@ -56,6 +62,32 @@ Similar to the **invite people** feature, if you input the email of someone outs
 5. A reminder is sent out the day before closing
 6. The poll closes, and everyone can see the results
 7. The author sets an outcome, notifying everyone of what will happen next.
+
+## Proposal options
+
+There are some universal options that apply to most of the proposals and polls that Loomio offers. If you're interested in a specific tool's options (eg, the time poll's **if need be** option) see the section on the relevant tool… [→ Types of facilitation tools](../proposal_types)
+
+### Anonymous voting
+
+If you tick the **Anonymous voters** box, participant info will not be shown with each response. This means that you will not know who chose which positions or shared which responses.
+
+You can be certain the box was ticked by you, or the person who started it, when you see the text, "**Votes will be anonymous**".
+
+> **You will see your own name by your vote**; it's not visible to others if Anonymous voters was selected! This is so you can edit your own response, just like in any poll or proposal. Again, others will **not** be able to see **other participants' user names** nor **user photos** next to votes that are not their own.
+
+Upon choosing this option, an additional option becomes available, **Reveal voters after close**. When your poll or proposal closes, the data (photos and names) associated with each response will be visible to group members as with non-anonymous votes.
+
+![](reveal_voters_after_close.png)
+
+### Notify me when people participate
+
+When selected, you will be notified whenever someone participates – within the app, and by email (by default).
+
+### Voters may add options
+
+For all polls except the **Count**. When selected, participants may add their own options when voting.
+
+When users add options the person who created the poll will be notified.
 
 ## Proposals can help in many situations
 

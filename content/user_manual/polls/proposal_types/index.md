@@ -75,6 +75,10 @@ Examples:
 * What size t-shirt would you like?
 * If we ran a workshop, how likely are you to attend?
 
+### Multiple choice
+
+Select the tick box, **Multiple choice**, if you wish for people to be able to choose multiple options rather than just a single choice off of the list of options.
+
 ## Score poll
 
 _Express the degree of preference for each option_
@@ -178,4 +182,4 @@ A temperature check is a way to test how the group feels without concluding a fu
 
 'Disagree' and 'block' are often controversial positions to take. We encourage you to see them as opportunities to understand where communication has been inadequate, points of view are under-represented, or as a source of valuable insight.
 
-If things feel tense on a personal level, we recommend that you talk one on one with the person to hear their concerns.
+If things feel tense on a personal level, we recommend that you talk (one-on-one) with the person to hear their concerns.
