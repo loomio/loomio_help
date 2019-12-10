@@ -42,6 +42,10 @@ If a poll closes earlier than what is ideal for your group arriving to a clear s
 
 ![](reopen.png)
 
+### Close
+
+Similarly, if you no longer need to let the poll or proposal continue, you can choose **close** to end it before its closing date. Don't forget to [set an outcome](../outcomes) so everyone is clear on where you got to and/or what's next!
+
 ## Invite Members
 
 It's good to let people know when you're taking a poll or a vote. After you start your proposal you will see a box allowing you to **Invite to vote**, where you will have the opportunity to select **Members of group** or **Members of thread**, or input the names of some of your group. You can select all and then remove some people from the list. This will send a notification to all those listed.
