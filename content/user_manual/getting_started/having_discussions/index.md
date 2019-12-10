@@ -49,41 +49,41 @@ Effective use of Loomio means knowing how and when to get attention from the gro
 
 If you ask for attention when it's really important, and avoid it when it's not, people will keep paying attention.
 
-**Start a discussion**
+### Start a discussion
 
 When you start a discussion, you can choose to select all members of a group, or a select number of them. When you select the whole group, you can assume it will get everyone's attention.
 
-**Mentioning**
+### Mentioning
 
 A direct way of asking for someone's attention. Use the `@` symbol and select the person's name. It's generally expected that you will respond when someone mentions you.
 
-**Replying**
+### Replying
 
 If you choose **reply**, and proceed as you would to post a comment, you will notify the user you replied to; this means you don't have to `@`mention them.
 
 ![](reply.png)
 
-**Reacting**
+### Reacting
 
 On any comment or contexts (threads) you can click **react** to quickly respond with an apt emoji. You might use a reaction when you want to share how you feel, a brief opinion, or indicate that you have seen the comment. Reactions are helpful because they are less disruptive than mentions, replies, or comments.
 
-**Invite people**
+### Invite people
 
 When you start a thread, your whole group can access it immediately. If you want more people's participation, or want their participation sooner, you can additionally send them an alert via the box that immediately appears when you start the thread. You can also alert people in this way later on; to do so, click **invite people** at the bottom of the thread context.
 
 !["Invite people" feature in thread context](invite_people.png)
 
-**Invite guest (or expert)**
+#### Invite guest (or expert)
 
 You can also use **invite people** to invite people outside of your group; see "Invite non-members to a discussion", below, for details.
 
-**Start a decision**
+### Start a decision
 
-The most powerful way to get attention from your group. Ensure that you have a clear decision description so people know how to participate. Loomio will notify everyone you choose (the whole group, everyone in the thread, or selected individuals) about new decisions, _although you can choose not to notify people and let them find it on their own time._ Loomio will also remind participants, and those you invite to the decision, before the closing deadline.
+The most powerful way to get attention from your group. Ensure that you have a clear decision description so people know how to participate. Loomio will notify everyone you choose (the whole group, everyone in the thread, or selected individuals) about new decisions, _although you can choose not to notify people and let them find it on their own time._ Loomio will also remind participants, and those you invite to the decision, 24 hours before the closing deadline.
 
-**Disagreeing and Blocking**
+#### Disagreeing and Blocking
 
-Disagreement is an indicator that someone wants to be listened to, and gives valuable information that can lead to new thinking. Give them an opportunity to explain themselves. Remember, everyone can change their mind while a decision is still open.
+Disagreement is an indicator that someone wants to be listened to, and typically gives valuable information that can lead to new thinking. It's useful to give them an opportunity to explain themselves, whether you reach out in the thread or more privately. Remember, everyone can change their mind while a decision is still open.
 
 ## Who's not present?
 
