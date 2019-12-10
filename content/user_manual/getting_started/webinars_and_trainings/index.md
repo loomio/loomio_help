@@ -7,7 +7,7 @@ menu:
     parent: getting_started
 ---
 
-Want to learn how to use Loomio or introduce it to your group? We're here to help.
+Want to learn how to use Loomio or  introduce it to your group? We're here to help.
 
 ## Currently there are no scheduled live trainings or webinars
 
