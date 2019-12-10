@@ -10,7 +10,8 @@ menu:
 
 Subgroups help you organize your communications and members so that the right people are engaged in their work together.
 
-For example, you can use subgroups for your organization's…
+For example, you can use subgroups for your organization's
+
 - governance board
 - working team or a project working group
 - a topic (such as 'strategy' or 'learning')
@@ -33,11 +34,19 @@ However, similar to [starting a group](/en/user_manual/getting_started/starting_
 
 [Invite people](/en/user_manual/getting_started/starting_a_group/#invite-people) just like you would in a group.
 
+### Who can see it
+
+Subgroups [privacy](/en/user_manual/getting_started/starting_a_group/#privacy) works the same as groups' do. A secret subgroup will not be visible to group members.
+
+Closed subgroups will be listed in the **Subgroups** tab, and, by default, members of the parent group can request and – upon approval by an admin – join them.
+
+See below for more on privacy.
+
 ## Manage your subgroups
 
 ### Permissions
 
-Subgroups can operate independently of the main group. For example, if the subgroup privacy setting is set to **Secret**, then only invited members can find this subgroup, see who is in it, and see threads. More on privacy below.
+Subgroups can operate independently of the main group. For example, if the subgroup privacy setting is set to **Secret**, then only invited members can find this subgroup, see who is in it, and see threads.
 
 Subgroups can have their own coordinators, and, thus, the coordinators of a subgroup may not be the same as the coordinators of the parent group.
 
@@ -54,6 +63,12 @@ Otherwise, the privacy settings are the same as those for groups; [learn anythin
 ### Invitations
 
 Invite people just like you would invite them into a group. If they're already in your parent group you can just type their name. You can also quickly select everyone from the parent group.
+
+#### Simultaneously invite people to subgroups and parent group
+
+If you use the **Invite people** button from your parent group's **Members** tab, you can invite people to multiple subgroups at the same time by ticking the boxes of those you would like them to join immediately.
+
+<iframe width="100%" height="380px" src="https://www.youtube-nocookie.com/embed/EZzTe6jJL7c" frameborder="0" allowfullscreen></iframe>
 
 ### Deactivate a subgroup
 
