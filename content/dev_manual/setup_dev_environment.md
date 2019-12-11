@@ -106,7 +106,7 @@ cd client; npm install && cd ..
 ## Create database.yml
 
 ```
-cp config/database.sample.yml config/database.yml
+cp config/database.example.yml config/database.yml
 ```
 
 On Linux you'll need to create a postgres user with the same name as your Linux user account. This is not required on MacOS as it's automatic.
