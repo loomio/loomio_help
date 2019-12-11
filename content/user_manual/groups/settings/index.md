@@ -1,10 +1,10 @@
 ---
-title: Permissions
-description: Who can change what, and advanced group settings.
+title: Admin and Settings
+description: Permissions and advanced group settings.
 weight: 20
 menu:
   main:
-    name: Permissions
+    name: Admin and Settings
     parent: 'groups'
 ---
 
@@ -15,6 +15,18 @@ Only a group's admin can edit group settings.
 As an admin of a Loomio group, you are responsible for guiding your group through the process of learning how to use a new piece of software, as well as learning new processes for collaborating more effectively and making good decisions together. The tasks outlined below can only be performed by group admin.
 
 To learn how to edit the basics such as your Group description or Cover photo, see [starting a group](/en/user_manual/getting_started/starting_a_group).
+
+## Group handle
+
+By default, Loomio will make this `your-group-name` but when you started your organization (or parent group) you were invited to change this to any unused, alphanumeric handle (hyphens optional) of your choice.
+
+![](new_group_handle.png)
+
+Navigating to the URL loomio.org/[your-group-handle] will take you directly to your group page.
+
+You can always change you group handle by navigating to the **Settings** tab of your group's page and choosing **Edit Group Settings**. For navigation guidance, see the video demonstration in the very next section.
+
+![](change_group_handle.png)
 
 # Advanced settings
 

@@ -48,6 +48,12 @@ Your Loomio group page is also a place to store all of the information, links, a
 
 **Tip:** Group descriptions are a great place to include reasons why you're using Loomio. Sharing why you're implementing Loomio can help motivate people to adopt it.
 
+### Group handle
+
+By default, Loomio will make this `your-group-name` but you can choose any unused, alphanumeric handle (hyphens optional). Navigating to the URL loomio.org/[your-group-handle] will take you directly to your group page.
+
+![](new_group_handle.png)
+
 ## Privacy
 
 Your privacy settings determine who can find your group, who can see the threads in your group, and how people join.
