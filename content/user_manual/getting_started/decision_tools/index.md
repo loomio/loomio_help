@@ -9,6 +9,7 @@ menu:
 ---
 
 <iframe width="100%" height="380px" src="https://www.youtube-nocookie.com/embed/ePILBTxgkmE" frameborder="0" allowfullscreen></iframe>
+
 _Above shows an older Loomio, but it's still a great explainer. We'll upgrade it soon!_
 
 Facilitation tools and decision tools are used within **threads**. Loomio does not make decisions for you; rather, the tool is designed to
