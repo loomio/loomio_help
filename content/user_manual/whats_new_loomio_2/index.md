@@ -117,6 +117,3 @@ More good news: we're moving quick to meet other big needs we've heard…
 - mobile app
 - email your group to start a thread
 - real-time collaborative editing
-
-### [Turn on Loomio 2.0](https://www.loomio.org/beta/?utm_campaign=whats-new-comp-help&utm_term=help) and see the new possibilities for yourself!
-While it's still in beta; you can toggle it on & off at [loomio.org/beta](https://loomio.org/beta/?utm_campaign=whats-new-comp-help&utm_term=help)
