@@ -11,9 +11,7 @@ menu:
 
 Email notifications are an important way for Loomio to keep people updated on what's happening in your group.
 
-<iframe width="100%" height="380px" src="https://www.youtube-nocookie.com/embed/np02ObWLpJM" frameborder="0" allowfullscreen></iframe>
-
-_Above shows an older Loomio, but it's still a great explainer. We'll upgrade it soon!_
+<iframe width="100%" height="380px" src="https://www.youtube-nocookie.com/embed/0Mb2_D74ktM" frameborder="0" allowfullscreen></iframe>
 
 When you (or your group members) start your account, by _default,_ Loomio will:
 
