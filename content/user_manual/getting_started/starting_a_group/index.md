@@ -30,9 +30,21 @@ Some people will be apprehensive about adopting a new piece of software for onli
 
 When you first start, you'll create a new **organization**. At this stage, organization is basically another way of saying "your group." The first thing to do is enter a name and a description for your group.
 
-## Group name and description
+## Group name
 
 It's best to keep your group name short and concise.
+
+### Group handle
+
+By default, Loomio will make this `your-group-name` but you can choose any unused, alphanumeric handle (hyphens optional). Navigating to the URL loomio.org/[your-group-handle] will take you directly to your group page.
+
+![](new_group_handle.png)
+
+## Group description
+
+It's important to add a description to help everyone get into the action and clear on what's happening.
+
+**Add a Group description** by navigating to the **Settings** tab on your group page. Click **Edit Group Settings** and use the form that appears (click save when done). If you're having trouble finding it from Edit Group Settings, double-check that you haven't switched tabs ("Profile" should be highlighted in yellow).
 
 The description should give members a clear understanding of what that group is for or intends to do. Some examples:
 
@@ -47,12 +59,6 @@ Your Loomio group page is also a place to store all of the information, links, a
 ![](group_description.png)
 
 **Tip:** Group descriptions are a great place to include reasons why you're using Loomio. Sharing why you're implementing Loomio can help motivate people to adopt it.
-
-### Group handle
-
-By default, Loomio will make this `your-group-name` but you can choose any unused, alphanumeric handle (hyphens optional). Navigating to the URL loomio.org/[your-group-handle] will take you directly to your group page.
-
-![](new_group_handle.png)
 
 ## Privacy
 
