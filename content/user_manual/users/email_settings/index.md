@@ -10,6 +10,10 @@ menu:
 
 Loomio sends emails to keep you updated on the activity in your groups. The default settings assume that you don't have a habit of using Loomio regularly so are designed to ensure you can stay up to date by checking your emails.
 
+<iframe width="100%" height="380px" src="https://www.youtube-nocookie.com/embed/0Mb2_D74ktM" frameborder="0" allowfullscreen></iframe>
+
+*Notifications 101*
+
 Emails we send out include:
 
 - A daily summary called **Yesterday on Loomio**. This includes activity from all your groups and threads, but only content which you have not read yet.
