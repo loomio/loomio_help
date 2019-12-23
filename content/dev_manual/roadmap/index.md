@@ -98,17 +98,17 @@ Also expect: improved group attachments page, simplifying and improving the sear
 - app based UX - eg: button on homescreen, download from app store
 - support refresh on reconnect
 
-## 2019-06 improved membership management and group organisation
-- parent group becomes "organisation", it does not have threads, just groups.
+## 2019-06 improved membership management and group organization
+- parent group becomes "organization", it does not have threads, just groups.
 - subgroups become groups, parent group renamed to "general". org admins can admin any group within the org.
 - starting a new group means choosing an existing org.
 - org page that shows recent activity from all groups. (see basecamp)
 - single membership page/directory for a whole org
 - we base your org handle on your work email address
-- when signing up we ask for the name of your organisation, then the group within it. eg: board or parents etc
+- when signing up we ask for the name of your organization, then the group within it. eg: board or parents etc
 - username is per org, so you can use common names like @michael.
 - no more parent/subgroup headaches.
-- organisation has handle, usually based on its official domain name
+- organization has handle, usually based on its official domain name
 - automatically join your org when you use your work email.
 
 ## 2019-06 Integrations page

@@ -4,7 +4,7 @@ title: Loomio product purpose, market identification
 
 ## What are we building?
 
-Loomio is a tool for governance, organisational management, working groups and engagement.
+Loomio is a tool for governance, organizational management, working groups and engagement.
 
 It's a place for having discussions, developing & recording decisions and keeping important records and documents all in one place.
 
@@ -54,17 +54,17 @@ Shared hosting on loomio.org or loomio.eu
   $99/USD for support, training and webinars
 - access to our regular onboarding webinars and you can join our regular consulting calls to learn more specific strategies for your needs
 - incredible data privacy and security, GDPR compliance, no third parties at all
-- ideal for small organisations, projects etc
+- ideal for small organizations, projects etc
 - export all your data at any time
 - discount for non profits
 - free for unfunded non profit groups (which you can see here.)
-- pricing is for your whole organisation, not just one group.
+- pricing is for your whole organization, not just one group.
 
 Private managed hosting
 - loomio for enterprise, use loomio with your activedirectory
 - custom domain name, colour scheme, feature set, language etc
 - custom training calls and access to our consultant services.
-- ideal for organisations of 200+ people with ongoing usage
+- ideal for organizations of 200+ people with ongoing usage
 - hosted in your choice of data center
 
 Open source

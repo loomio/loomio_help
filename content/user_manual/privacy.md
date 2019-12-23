@@ -45,7 +45,7 @@ Loomio software is constantly evolving. Software updates include release notes n
 ### Loomio.org
 
 #### Hosted service provider
-Heroku is a cloud application platform used by organisations of all sizes to deploy and operate applications throughout the world. Heroku’s platform provides infrastructure management, scaling, and security.
+Heroku is a cloud application platform used by organizations of all sizes to deploy and operate applications throughout the world. Heroku’s platform provides infrastructure management, scaling, and security.
 
 Heroku applies security best practices and manages platform security, protecting customers from threats. Heroku applies security controls at every layer from physical to application, isolating applications and data, and rapidly deploys security updates without customer interaction or service interruption.
 
@@ -76,7 +76,7 @@ Loomio software and service has been assessed by:
 ## Frequently Asked Questions about Privacy and Security
 
 ### Change Control
-_Q: The Loomio service is a shared platform and an open source application - does the organisation maintain a change control Policy with the maintenance of an audit trail of changes to the production environment?_
+_Q: The Loomio service is a shared platform and an open source application - does the organization maintain a change control Policy with the maintenance of an audit trail of changes to the production environment?_
 
 A: Loomio software is open source, owned and maintained by Loomio Cooperative Limited.
 
@@ -104,7 +104,7 @@ Please see the [Loomio User Manual](https://help.loomio.org/en/user_manual/users
 
 _Q: What is the timeout period for inactive sessions?_
 
-A: We don't have a session timeout. If an organisation has a timeout requirement, we recommend this is implemented at the computer session level rather than application session.
+A: We don't have a session timeout. If an organization has a timeout requirement, we recommend this is implemented at the computer session level rather than application session.
 
 ### Notifiable incidents
 
@@ -146,6 +146,6 @@ _Content entered into the platform is distributed to the appropriate members of 
 ### Accessibility
 Loomio complies with the New Zealand Web Accessibility Standard, which requires support of the Web Content Accessibility Guideline (WCAG) 2.0 conformance levels A and AA. Loomio also conforms with much of Level AAA.  
 
-Loomio is committed to accessibility. We work with recognised Canada-based web accessibility consultant [David Best](http://www.davebest.info/), and we regularly test core functions of the software for accessibility.  
+Loomio is committed to accessibility. We work with recognized Canada-based web accessibility consultant [David Best](http://www.davebest.info/), and we regularly test core functions of the software for accessibility.  
 
 “Loomio has done a great job with integrating the WCAG standards. However, screen reader user feedback is critical in measuring the usability of Loomio. The web pages are designed with a common look and feel layout of Regions and Heading hierarchy for ease of keyboard navigation. I believe Loomio should be compatible with most screen readers, and it was primarily tested with the JAWS screen reader. Please encourage your screen reader users to help improve Loomio with their feedback.” **David Best**

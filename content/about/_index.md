@@ -6,7 +6,7 @@ menu:
 
 Loomio is open source software, built by a worker-owned cooperative social enterprise. We are based in Aotearoa New Zealand, and are part of the [Enspiral Network.](http://enspiral.com/)
 
-We believe that more groups practicing effective, inclusive decision-making can change organisational dynamics at a global scale. Loomio exists to make it easy for anyone, anywhere, to participate in decisions that affect their lives.
+We believe that more groups practicing effective, inclusive decision-making can change organizational dynamics at a global scale. Loomio exists to make it easy for anyone, anywhere, to participate in decisions that affect their lives.
 
 [Handbook](https://loomio.coop)
 
@@ -16,7 +16,7 @@ We believe that more groups practicing effective, inclusive decision-making can 
 
 # Story
 
-Loomio began in 2011, when activists from Occupy Wall Street and social entrepreneurs from the Enspiral Network realised they needed to solve the same problem: fast, inclusive, effective decision-making without meetings. In 2012, we formed our cooperative and released a prototype (Loomio Beta). We found that many others around the world needed the same solution.
+Loomio began in 2011, when activists from Occupy Wall Street and social entrepreneurs from the Enspiral Network realized they needed to solve the same problem: fast, inclusive, effective decision-making without meetings. In 2012, we formed our cooperative and released a prototype (Loomio Beta). We found that many others around the world needed the same solution.
 
 In 2014, we ran a successful international [crowdfunding campaign](https://www.loomio.org/crowdfunding_celebration), enabling us to work on a new version of the software, Loomio 1.0, which was released the following year. In 2015, we raised a round of ethical capital, and are working to bring collaborative decision-making to millions more people around the world.
 
@@ -166,7 +166,7 @@ We’re backed by an Advisory Council with some of the brightest minds in democr
 
 **The Loomio Co-operative exists to create a world where it’s easy for anyone to participate in decisions that affect them**
 
-With the right collaborative process, groups generate better ideas, decisions and actions than any individual would by themselves. The Loomio Co-operative aims to break down the barriers to participation in decision-making at every level: in neighbourhoods, community organisations, businesses, social movements, and local and national governance.
+With the right collaborative process, groups generate better ideas, decisions and actions than any individual would by themselves. The Loomio Co-operative aims to break down the barriers to participation in decision-making at every level: in neighbourhoods, community organizations, businesses, social movements, and local and national governance.
 
 **Co-operative social enterprise**
 
