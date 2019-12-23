@@ -16,12 +16,12 @@ Most Loomio groups need a champion to help them get going, and then they build t
 Have a discussion with your group about using Loomio.
 
 - **What problem** are you trying to solve with a new tool? _For example: Including people who can't attend meetings, better documentation, or to keep making progress between meetings._
-- **What is Loomio for?** How are we going to use it, _eg, decisions, input, or just reporting?_
-- **Who's involved?** Does everyone in the group need to use it?
+- **What is Loomio for?** How are you going to use it, _eg, decisions, reporting, mass engagement, or just input?_
+- **Who's involved?** Who will support conversations to be productive, or facilitate?
 - What kind of **behaviour** is welcome, and what's not ok?
 - How will Loomio complement your **existing processes**?
 
-Some people will be apprehensive about adopting a new piece of software for online decision-making. Talk to people in your group to work through any concerns.
+Some people will be apprehensive about adopting a new piece of software for online decision making. Talk to people in your group to work through any concerns.
 
 - Starting simple can help, especially with pre-existing **routines**
 - Agree on the **scope** and trial it; offer a date when it will be reviewed.
@@ -44,8 +44,6 @@ By default, Loomio will make this `your-group-name` but you can choose any unuse
 
 It's important to add a description to help everyone get into the action and clear on what's happening.
 
-**Add a Group description** by navigating to the **Settings** tab on your group page. Click **Edit Group Settings** and use the form that appears (click save when done). If you're having trouble finding it from Edit Group Settings, double-check that you haven't switched tabs ("Profile" should be highlighted in yellow).
-
 The description should give members a clear understanding of what that group is for or intends to do. Some examples:
 
 "_A public group for us to approve requests for use of the gallery space_"
@@ -53,6 +51,10 @@ The description should give members a clear understanding of what that group is 
 "_The space for our board members to consider budget proposals_"
 
 With a clear purpose, people can make judgment calls about what's best for the group. Understanding group context helps people get oriented.
+
+**Add a Group description** by navigating to the **Settings** tab on your group page. Click **Edit Group Settings** and use the form that appears (click save when done). If you're having trouble finding it from Edit Group Settings, double-check that you haven't switched tabs ("Profile" should be highlighted in yellow).
+
+### Group description is also a Resource hub
 
 Your Loomio group page is also a place to store all of the information, links, and files that everyone in your group needs. Update the Group description field and attach files from your computer or from the cloud.
 
@@ -64,19 +66,19 @@ Your Loomio group page is also a place to store all of the information, links, a
 
 Your privacy settings determine who can find your group, who can see the threads in your group, and how people join.
 
-The recommended privacy setting for new groups is **Closed**. This means people can find your group and ask to join, but the content of your discussions and decisions is private.
+The recommended privacy setting for new groups is **Closed**. This means it is possible for people to find your group and ask to join, but the content of your discussions and decisions is private.
 
 If you want the content of your discussions and decisions to be public, change your group privacy to **Open**. The members list will only be visible to other members.
 
 If you want to hide your group, set your group privacy to **Secret**. This will mean only invited members will be able to see the group name, description, members list, and threads.
 
-**NOTE:** If you have a **Secret** group and change it to **Open**, all threads will become public. Changing an **Open** group to **Secret** will make all threads private.
+**NOTE:** If you have a **Closed** or **Secret** group and change it to **Open**, all threads will become public. Changing an **Open** group to **Closed** or **Secret** will make all threads private.
 
 ## Upload a profile photo
 
 Seeing someone's face next to the text they've written can make it feel more human. It's especially important if you're the one welcoming everyone in.
 
-Upload your profile photo before sending invitations to join the group, so that your friendly image is included.
+Upload your [profile photo](/en/user_manual/getting_started/notifications_settings) before sending invitations to join the group, so that your friendly image is included.
 
 ## Upload a group photo
 
@@ -103,7 +105,7 @@ You're ready to invite people into the group! Loomio is a group collaboration to
 
 <iframe width="100%" height="380px" src="https://www.youtube-nocookie.com/embed/EZzTe6jJL7c" frameborder="0" allowfullscreen></iframe>
 
-Follow up on people who don't make it into the group and give them a nudge. You don't want to leave people out of key conversations or decisions. You can see pending invitations – when people have yet to accept the invitation you sent – by clicking the drop down that reads  **everyone** by default, and then click **invitations**.
+Follow up on people who don't make it into the group and give them a nudge. You don't want to leave people out of key conversations or decisions. You can see pending invitations from the Members tab.
 
 If people join but don't begin to participate right away, you might like to welcome them to the group with an @mention, for example:
 

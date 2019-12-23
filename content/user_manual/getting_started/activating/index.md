@@ -33,4 +33,4 @@ Proposals are a flexible tool to turn conversations into action; learn how.
 
 ---
 
-Have more questions on how to take the next step in your collaboration journey? Not sure how to best get the value out of moving some discussion or decisions online? [Get in touch](https://loomio.org/contact/?utm_campaign=getting_started_guide_help&utm_term=help  "opens in new tab")
+Have more questions on how to take the next step in your collaboration journey? Not sure how to best get the value out of moving some discussion or decisions online? [Get in touch](https://loomio.org/contact/?utm_campaign=getting_started_guide_help&utm_term=help  "opens in new tab").

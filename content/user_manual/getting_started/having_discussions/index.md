@@ -33,16 +33,6 @@ Making the thread title and context clear and engaging is the best way to ensure
 
 Make an invitation of thread/group participants, letting them know the quickest way to engage and where it goes next.
 
-## Maintain a safe environment
-
-> A [study of more than 180 teams within Google](https://rework.withgoogle.com/blog/five-keys-to-a-successful-google-team/) tells us that the number one factor in team performance is **psychological safety**.
-
-Respectful disagreement is essential to finding the best solution for the group, but it can be challenging work. For real discussion to happen, you must hold space for differing opinions. Help people express themselves, in a way that allows others to express themselves too.
-
-**Raise the bandwidth:** If someone is distressed, being too disruptive, or is in a minority opinion they feel strongly about, it’s a good indication that a phone conversation – or, even better, a face-to-face – might help.
-
-For more guidance, see the section of our handbook on [conflict](https://loomio.coop/conflict_resolution.html/?utm_campaign=having-discussions-help-pg&utm_term=help).
-
 ## Getting attention
 
 Effective use of Loomio means knowing how and when to get attention from the group.
@@ -85,11 +75,21 @@ The most powerful way to get attention from your group. Ensure that you have a c
 
 Disagreement is an indicator that someone wants to be listened to, and typically gives valuable information that can lead to new thinking. It's useful to give them an opportunity to explain themselves, whether you reach out in the thread or more privately. Remember, everyone can change their mind while a decision is still open.
 
+## Maintain a safe environment
+
+> A [study of more than 180 teams within Google](https://rework.withgoogle.com/blog/five-keys-to-a-successful-google-team/) tells us that the number one factor in team performance is **psychological safety**.
+
+Respectful disagreement is essential to finding the best solution for the group, but it can be challenging work. For real discussion to happen, you must hold space for differing opinions. Help people express themselves, in a way that allows others to express themselves too.
+
+**Raise the bandwidth:** If someone is distressed, being too disruptive, or is in a minority opinion they feel strongly about, it’s a good indication that a phone conversation – or, even better, a face-to-face – might help.
+
+For more guidance, see the section of our handbook on [conflict](https://loomio.coop/conflict_resolution.html/?utm_campaign=having-discussions-help-pg&utm_term=help).
+
 ## Who's not present?
 
 If someone's missing, invite them!
 
-Bring group members into a specific discussion by mentioning them: type “@” followed by their name. Try to notice people who have not participated and invite their input.
+Bring group members into a specific discussion by getting their attention (as mentioned above; _eg, mention them by typing "@" before their name_). Try to notice people who have not participated and invite their input.
 
 High quality decisions come from gathering the right inputs. Are there other people the decision affects, who have not shared an opinion? Are there experts in the field that you could bring into the room?
 
@@ -107,7 +107,7 @@ Loomio threads are designed to evolve with a discussion, which is why the title 
 
 Double-clicking on the context is the quickest way to edit a thread context and title.
 
-<iframe width="100%" height="380px" src="https://www.youtube-nocookie.com/embed/0A3XRLwibRs" frameborder="0" allowfullscreen></iframe>
+<iframe width="100%" height="380px" src="https://www.youtube-nocookie.com/embed/eD4NyVJEjB0" frameborder="0" allowfullscreen></iframe>
 
 Here’s an example in which the facilitator has made a note so that 1.) those coming late to this thread know that the agenda is basically finalized, and 2.) those who contributed understand what has happened as a result of their agenda suggestions.
 
@@ -117,7 +117,7 @@ Here’s an example in which the facilitator has made a note so that 1.) those c
 
 **Working Groups or Committees**
 
-Sometimes an issue is helped by delegating a small group to do background research, frame up options, or summarise data. They can work together and then come back to the larger group when they're ready to present a decision. Or you can decide to mandate them to move forward autonomously.
+Sometimes an issue is helped by delegating a small group to do background research, frame up options, or summarise data. They can work together and then come back to the larger group when they're ready to present a decision. Or you can decide to mandate them to move forward autonomously. *Loomio's [subgroups](../../groups/subgroups) are a big help here.*
 
 **Mutiple threads or sequential proposals**
 
@@ -125,7 +125,7 @@ If a complex discussion is raised, think about breaking it down into multiple th
 
 **Subgroups**
 
-If you have an area of collaboration requiring many threads and ongoing collaboration, but it only affects certain people, you can create a [subgroup](../../groups/settings/#create-sub-groups). For example, offices in different geographical locations, teams working on different projects, or groups with a specific mandate like a governance board.
+If you have an area of collaboration requiring many threads and ongoing collaboration, but it only affects certain people, you can create a [subgroup](../../groups/subgroups). For example, offices in different geographical locations, teams working on different projects, or groups with a specific mandate like a governance board.
 
 ## Going in-depth on Facilitation
 
@@ -133,4 +133,4 @@ See the [Facilitators Guide to Loomio](../../../guides/facilitators_guide/) for 
 
 ## Next up
 
-Having great conversations online is one thing, but how does Loomio help your group be agile & inclusive, effective & efficient... [→ Proposals and polls](../decision_tools)
+The best tool for making decisions is good discussion; it's the best way to frame the topic, seek input, and gather ideas. Often you'll find that you can make progress with comments and replies. Other times, in order to bring the discussion to a clear outcome, you will want the clear calls to engagement and facilitation support of… <br>[→ Proposals and polls](../decision_tools)

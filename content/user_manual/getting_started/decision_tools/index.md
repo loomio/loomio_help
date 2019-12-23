@@ -25,11 +25,11 @@ It's up to each group to decide how to interpret the results. For instance, [her
 
 ## All Loomio decision tools follow a common pattern
 
-You want to move a conversation towards a clear outcome...
+If you need some support to move a conversation to a clear outcome, you might…
 
-1. You choose to use a poll or proposal (within a thread)
-2. You name it, describe the question or proposal it represents, and set its duration
-3. You notify group members (typically all, but you may select none or specific...)
+1. Choose to use a poll or proposal (within a thread)
+2. Name it, describe the question or proposal it represents, and set its duration
+3. Notify group members (typically all, but you may select none or specific...)
 3. Group members participate and share a tweet-length message with their selection
 4. They can change their minds as understanding develops; live results are available
 5. A reminder is sent out the day before closing

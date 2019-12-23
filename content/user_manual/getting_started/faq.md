@@ -13,9 +13,16 @@ If you don’t receive an email confirming your group registration, you might ne
 If you’ve forgotten your password click the **"Forgot your password?"** link on the [Log in page](https://www.loomio.org/users/sign_in "opens in new tab"). You will be asked to enter the email address associated with your Loomio account and password reset instructions will be sent to this email address.
 
 ## How can I stop my signature being included in email replies to threads?
-There is currently no official standard for distinguishing email signatures from the rest of the email body. To a computer the whole email is just a block of text. The easiest method we have for marking the end of the email body and the beginning of the signature is the double-dash method popularised by Gmail, which involves inserting a double-dash ('--') on its own line between the body of an email and the signature. Other common formats are recognised too, but Gmail's method is very easy to implement. Most programs trying to separate email body from signature (including Loomio) will correctly ignore email signatures if these dashes are included in the right place.
 
 To be sure that your email signature is not included in your comment when you reply by email, you need to begin your signature with a double hyphen on its own line.
+
+_For example:_
+
+> Best Wishes, John<br> \-\-<br>SIGNATURE<br>CONTACT<br>LOGOS ETC
+
+_…emailed in reply to Loomio emails (that invite a reply) will appear as:_
+
+> Best Wishes, John
 
 ## How can I reactivate my account?
 To have your account reactivated, [contact us](https://loomio.org/contact "opens in new tab").
