@@ -18,11 +18,11 @@ To be sure that your email signature is not included in your comment when you re
 
 _For example:_
 
-> Best Wishes, John<br> \-\-<br>SIGNATURE<br>CONTACT<br>LOGOS ETC
+> Best Wishes,<br> \-\-<br>SIGNATURE<br>CONTACT<br>LOGOS ETC
 
 _…emailed in reply to Loomio emails (that invite a reply) will appear as:_
 
-> Best Wishes, John
+> Best Wishes,
 
 ## How can I reactivate my account?
 To have your account reactivated, [contact us](https://loomio.org/contact "opens in new tab").
