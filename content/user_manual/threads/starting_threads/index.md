@@ -19,8 +19,10 @@ Use the thread **context** to introduce the topic. Give background information o
 ## Thread privacy
 If your group privacy is **Closed** or **Secret** then your threads will be **private**. Private means that only members of the group are able to view the threads started in this group _unless_ you **invite people** such as an expert (or any guest not currently part of your group).
 
-![](thread_privacy_label.png)
+![](private_thread_label.png)
 
-![](edit_thread_privacy_modal.png)
+If your group is "Open" then all your threads will be public, meaning that anyone with the URL can view the thread.
 
-If your group is "Open" then all your threads will be public, meaning that anyone with the URL can view the thread. For more on this subject… [→ Group privacy](/en/user_manual/getting_started/starting_a_group/#privacy)
+![](open_thread_label.png)
+
+For more on this subject… [→ Group privacy](/en/user_manual/getting_started/starting_a_group/#privacy)

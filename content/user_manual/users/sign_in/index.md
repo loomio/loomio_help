@@ -35,7 +35,7 @@ When you sign in via email, you'll be sent an email with a link (or a code) to s
 3. Retrieve the code that Loomio sends to your email (Subject, "Sign in to Loomio") and paste that into the form that appeared.<br> ***Now you're logged in. Change your password by…***
 4. Go to [edit profile](https://www.loomio.org/profile "open in new tab") and change your password; you can [follow these instructions](https://help.loomio.org/en/user_manual/getting_started/notifications_settings/#resetting-your-password).
 
-![](forgot_your_password.png)
+![](forgot_my_password.png)
 
 ## Tips for a better experience
 

@@ -63,6 +63,8 @@ While search can be a quick way to navigate directly to something, there's a num
 - Unread threads
 - Group pages
 
+<iframe width="100%" height="380px" src="https://www.youtube-nocookie.com/embed/s_q8zyzlnJw" frameborder="0" allowfullscreen></iframe>
+
 These can all be accessed from the sidebar, and each display a different list of threads, or more specifically, **Thread previews**; learn more about the previews and high-level actions you can use to manage these [below](#understanding-thread-previews), as it's important to first understand the different pages that help with navigation:
 
 ## Recent threads

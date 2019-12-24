@@ -28,14 +28,14 @@ Once you have it installed, **it's easy to associate additional groups** or subg
 ## Microsoft Teams
 
 Navigate to your group's Settings tab (similar to the above [video clip](#set-up-slack-integration)) and click **Integrate Microsoft Teams**
-![](markdown-img-paste-20190125133608957.png)
 
 From Microsoft teams you need to add a new connector. See [this page](https://kb.itglue.com/hc/en-us/articles/115001798191-Setting-up-Microsoft-Teams-webhook-notifications) for help with that.
 
 Hopefully from your time in the MS teams connector interface, you'll have a Webhook URL that you can put into Loomio.
 
 Enter the webhook URL and select which events you'd like to see mentioned within the microsoft teams interface.
-![](markdown-img-paste-20190125133709837.png)
+
+![](ms_teams_integration.png)
 
 You'll receive a success message in Loomio as well as a message within Teams saying you're connected.
 
