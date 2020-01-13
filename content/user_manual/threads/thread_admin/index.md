@@ -35,6 +35,13 @@ It shows
 
 You can access a number of options by selecting the three horizontal dots (**⋯**) to the right of a thread's title , opening the **thread preview options**. The following administrative actions are taken from those options (only on pages that list threads).
 
+### Pin thread
+If you are a coordinator, you can pin comments to order them and make them easier to find. Pinned threads will appear above your other threads and will be ordered alphanumerically within their group and organization.
+
+You can easily  **pin** or **un-pin** from the thread preview options, but **only from the Group page**.
+
+![](pin_thread.png)
+
 ### Close thread
 
 To keep the list of discussions on your group page relevant, you can close threads which people don't need to see.
