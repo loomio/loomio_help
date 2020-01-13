@@ -49,12 +49,9 @@ Choose "closed" to view all your closed threads in the thread filter.
 
 ![](closed_threads.png)
 
-### Pin thread
-If you are a coordinator, you can pin comments to order them and make them easier to find. Pinned threads will appear above your other threads and will be ordered alphanumerically within their group and organization.
+#### Re-open thread
 
-You can easily  **pin** or **un-pin** from the thread preview options, but **only from the Group page**.
-
-![](pin_thread.png)
+Re-opening a closed thread is done from within the thread's page – again, the three horizontal dots (**⋯**). See [organizing threads](#organizing-threads) for a depiction.
 
 # Options within threads
 
