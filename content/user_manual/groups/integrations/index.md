@@ -5,13 +5,13 @@ weight: 40
 menu:
   main:
     name: Integrations
+    identifier: integrations
     parent: groups
 ---
 
 ## Slack integration
 LoomioBot publishes activity from your Loomio group into your Slack channel so people can participate directly from Slack.
 
-### Set up Slack integration
 From your group page's **Settings** tab, click **Integrate Slack** and follow the prompts in order to connect the LoomioBot Slack integration to your Slack team.
 
 <iframe width="100%" height="380px" src="https://www.youtube-nocookie.com/embed/ZwZD4ecfaM4" frameborder="0" allowfullscreen></iframe>
@@ -38,6 +38,18 @@ Enter the webhook URL and select which events you'd like to see mentioned within
 ![](ms_teams_integration.png)
 
 You'll receive a success message in Loomio as well as a message within Teams saying you're connected.
+
+## Single Sign On (SAML)
+
+If your organization uses an authentication service such as OneLogin, Auth0, or Microsoft Teams, you can integrate this with your Loomio group.
+
+This feature is available to all organizations with a Pro subscription and is
+in a public beta.
+
+![](sso_from_settings_tab.png)
+![](sso_form.png)
+
+As this is a beta release we are currently working on documenting the setup proces for each Sign on Provider. Please email contact@loomio.org for support to connect your specific provider to your Loomio group.
 
 ---
 
