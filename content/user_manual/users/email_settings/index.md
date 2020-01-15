@@ -12,8 +12,6 @@ Loomio sends emails to keep you updated on the activity in your groups. The defa
 
 <iframe width="100%" height="380px" src="https://www.youtube-nocookie.com/embed/0Mb2_D74ktM?start=2" frameborder="0" allowfullscreen></iframe>
 
-*Notifications 101*
-
 Emails we send out include:
 
 - A daily summary called **Yesterday on Loomio**. This includes activity from all your groups and threads, but only content which you have not read yet.
