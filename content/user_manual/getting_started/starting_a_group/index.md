@@ -105,7 +105,7 @@ You're ready to invite people into the group! Loomio is a group collaboration to
 
 <iframe width="100%" height="380px" src="https://www.youtube-nocookie.com/embed/EZzTe6jJL7c" frameborder="0" allowfullscreen></iframe>
 
-Follow up on people who don't make it into the group and give them a nudge. You don't want to leave people out of key conversations or decisions. You can see pending invitations from the Members tab.
+Follow up on people who don't make it into the group and give them a nudge. You don't want to leave people out of key conversations or decisions. (_You can get a sense of who is participating by looking at your thread's [Seen by](/en/user_manual/threads/thread_admin/#seen-by), and many elements of Loomio have [Notification history](/en/user_manual/threads/thread_admin/#notification-history)_)
 
 If people join but don't begin to participate right away, you might like to welcome them to the group with an @mention, for example:
 

@@ -1,10 +1,11 @@
 ---
-title: Thread administration
+title: Thread administration & Tracking engagement
 weight: 50
 description: Manage your threads and the information therein.
 menu:
   main:
     parent: threads
+    name: Admin & Who's engaged
 ---
 
 To get the most out of the effectiveness and efficiency that Loomio offers, you may want to manage the discussion threads and the communications they contain.
