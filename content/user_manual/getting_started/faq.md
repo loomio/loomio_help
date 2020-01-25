@@ -7,10 +7,7 @@ menu:
 ---
 
 ## Not receiving emails from Loomio?
-If you cannot find your email code in the email inbox of the account you signed up with – or you started a group and haven't heard from us – **you will likely find it in your spam or junk mail folder.** Then, please white list loomio.org with your email service. You can do this in your email provider settings.
-
-## I’ve forgotten my password, what do I do?
-If you’ve forgotten your password click **Forgot your password?** from the [Log in page](https://www.loomio.org/users/sign_in "opens in new tab"). You will be asked to enter the email address associated with your Loomio account and password reset instructions will be sent to this email address.
+If you cannot find your email code in the email inbox of the account you signed up with – or you started a group and haven't heard from us – **you will likely find it in your spam or junk mail folder.** Then, please white list loomio.org with your email service, or add notifications@loomio.org to your contacts.
 
 ## How can I stop my signature being included in email replies to threads?
 
