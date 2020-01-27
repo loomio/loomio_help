@@ -1,5 +1,5 @@
 ---
-title: Consent decision making ft. Round Sky's remix of holacracy
+title: Consent decision making: better decisions, easier
 description: A simple 'how to' for groups to use Integrative Consent on & off Loomio
 menu:
   main:
