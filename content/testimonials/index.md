@@ -16,7 +16,7 @@ _– James Bloemendal, [Ian Martin Group](https://ianmartin.com/), Canada._
 *– Paul Martin, Director, The Low Carbon Society, UK. <br> &ensp; [Read Paul's story](https://blog.loomio.org/2019/06/19/funding-community-renewable-projects/?utm_campaign=testimonial&utm_term=help)*
 
 "We agreed that top-down structure wasn't working, but didn't know how to change. Loomio helped us transition so we can make the big decisions with better results."<br>
-*–Alex Rodriguez, Bhumisparsha, USA._
+*–Alex Rodriguez, Bhumisparsha, USA.*
 
 ### Governance
 
