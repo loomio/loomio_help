@@ -7,18 +7,24 @@ hideTOC: true
 ## Trusted by thousands of groups worldwide
 
 “Loomio has led to better decisions, higher engagement, fewer meetings, and faster implementation.”<br>
-_– James Bloemendal, [Ian Martin Group](https://ianmartin.com/), Canada_
+_– James Bloemendal, [Ian Martin Group](https://ianmartin.com/), Canada._
 
 “Decisions that would take a month now take days.”<br>
 *– Kirsten Ruffoni, mondora, Italy. <br> &ensp; [Read Kirsten's story](https://blog.loomio.org/2019/02/13/leading-italy-into-the-future-of-work/?utm_campaign=testimonial&utm_term=help)*
 
 “We run our entire loan assessment process through Loomio, saving many hours we would otherwise need to spend in meetings.”<br>
-*– Paul Martin, Director, The Low Carbon Society, United Kingdom. <br> &ensp; [Read Paul's story](https://blog.loomio.org/2019/06/19/funding-community-renewable-projects/?utm_campaign=testimonial&utm_term=help)*
+*– Paul Martin, Director, The Low Carbon Society, UK. <br> &ensp; [Read Paul's story](https://blog.loomio.org/2019/06/19/funding-community-renewable-projects/?utm_campaign=testimonial&utm_term=help)*
+
+"We agreed that top-down structure wasn't working, but didn't know how to change. Loomio helped us transition so we can make the big decisions with better results."<br>
+*–Alex Rodriguez, Bhumisparsha, USA._
 
 ### Governance
 
 “Loomio saves us thousands of pounds every year!”<br>
 *– Austen Cordasco, Director, Co-operative Assistance Network Limited, UK. <br> &ensp; [Read Austen's story](https://blog.loomio.org/2019/03/27/helping-uk-cooperatives-thrive/?utm_campaign=testimonial&utm_term=help)*
+
+"Loomio helps us prepare for and organize director and member meetings. It is valuable because it provides a separate digital space for directors and members, which means less email threads and searching endlessly for stuff in the Google Drive during a meeting."<br>
+*– Devan McClelland, Shift Delivery Co-operative, Canada.*
 
 "Using Loomio helped our group be much more communicative in between in-person meetings."<br>
 *– Mark Simmonds, Co-operative Development Forum, UK.*
