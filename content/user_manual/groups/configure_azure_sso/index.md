@@ -2,7 +2,7 @@
 title: Configure Microsoft Azure Active Directory with Loomio
 ---
 
-This is a great reference for setting up the enterprise application and getting to the SAML configuration screen: [Configure SAML-based single sign-on to non-gallery applications](https://docs.microsoft.com/en-us/azure/active-directory/manage-apps/configure-single-sign-on-non-gallery-applications)
+Setup your Active Directory enterprise application and start your SAML configuration by following this guide: [Configure SAML-based single sign-on to non-gallery applications](https://docs.microsoft.com/en-us/azure/active-directory/manage-apps/configure-single-sign-on-non-gallery-applications)
 
 Once your enterprise application has been setup, here are the Loomio-specific steps.
 
