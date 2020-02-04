@@ -43,13 +43,16 @@ You'll receive a success message in Loomio as well as a message within Teams say
 
 If your organization uses an authentication service such as OneLogin, Auth0, or Microsoft Teams, you can integrate this with your Loomio group.
 
-This feature is available to all organizations with a Pro subscription and is
-in a public beta.
+This feature is available to all organizations with a Pro subscription and is in a public beta.
 
 ![](sso_from_settings_tab.png)
 ![](sso_form.png)
 
 As this is a beta release we are currently working on documenting the setup proces for each Sign on Provider. Please email contact@loomio.org for support to connect your specific provider to your Loomio group.
+
+We provide instructions specific to each provider. If your provider isn't listed, please contact us.
+
+[Microsoft Azure Active Directory](../configure_azure_sso)
 
 ---
 
