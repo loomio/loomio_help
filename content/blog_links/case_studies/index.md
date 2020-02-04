@@ -1,10 +1,6 @@
 ---
 title: Case studies & User Stories
 description: Stories from people using Loomio for everything from company governance, citizen engagement, event management, to grassroots political organising.
-menu:
-  main:
-    name: Studies & Stories
-    parent: guides_and_inspiration
 ---
 
 ## Businesses & Co-ops
@@ -12,7 +8,7 @@ menu:
 <p><strong>Conscious Consumers</strong> use Loomio for good governance. CEO Ben Gleisner explains the value of keeping all their information in one place, and including people along the way to a decision:</p>
 
 <div class="video-wrapper">
-  <iframe src="https://www.youtube.com/embed/lOUm0qpgDAA?list=PLfeqYbxvuD29MfdIvQ7hnzg0LMcK4DEDZ" frameborder="0" allowfullscreen></iframe>
+  <iframe width="100%" height="380px" src="https://www.youtube.com/embed/lOUm0qpgDAA?list=PLfeqYbxvuD29MfdIvQ7hnzg0LMcK4DEDZ" frameborder="0" allowfullscreen></iframe>
 </div>
 
 <div class="tile tile-33pc">
@@ -49,7 +45,7 @@ menu:
 <p><strong>Statistics New Zealand</strong> used Loomio to refine the questions in the 2018 Census with members of the public. In this video, they explain how Loomio allowed them to reach a greater number and diversity of people, compared to traditional citizen engagement methods.</p>
 
 <div class="video-wrapper">
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/HBfO62TXZSo?list=PLfeqYbxvuD29MfdIvQ7hnzg0LMcK4DEDZ" frameborder="0" allowfullscreen></iframe>
+  <iframe width="100%" height="380px" src="https://www.youtube.com/embed/HBfO62TXZSo?list=PLfeqYbxvuD29MfdIvQ7hnzg0LMcK4DEDZ" frameborder="0" allowfullscreen></iframe>
 </div>
 
 <div class="tile tile-33pc">
@@ -63,7 +59,7 @@ menu:
   <a href="http://blog.loomio.org/2018/02/16/building-workforce-capability-to-address-family-violence-and-sexual-violence/" target="_blank">
   <img src="nz_gov_framework.png" alt="logo"/></a>
 
-  <p>The <strong>New Zealand Government</strong> used Loomio for producing a Workforce Capability Framework. <a href="http://blog.loomio.org/2018/02/16/building-workforce-capability-to-address-family-violence-and-sexual-violence/" target="_blank">In this story,</a> Giselle Wansa-Harvey tells how Loomio was used in online consultation to reach wide range of people and organisations in the sector.
+  <p>The <strong>New Zealand Government</strong> used Loomio for producing a Workforce Capability Framework. <a href="http://blog.loomio.org/2018/02/16/building-workforce-capability-to-address-family-violence-and-sexual-violence/" target="_blank">In this story,</a> Giselle Wansa-Harvey tells how Loomio was used in online consultation to reach wide range of people and organizations in the sector.
   </p>
  </div>
 
@@ -91,28 +87,28 @@ menu:
 </p>
 
 <div class="video-wrapper">
-  <iframe src="https://www.youtube.com/embed/4zVCUOVbv6g?list=PLfeqYbxvuD29MfdIvQ7hnzg0LMcK4DEDZ" frameborder="0" allowfullscreen></iframe>
+  <iframe width="100%" height="380px" src="https://www.youtube.com/embed/4zVCUOVbv6g?list=PLfeqYbxvuD29MfdIvQ7hnzg0LMcK4DEDZ" frameborder="0" allowfullscreen></iframe>
 </div>
 
 <div class="tile tile-50pc">
-  <div class="video-wrapper"><iframe src="https://www.youtube.com/embed/KLKU9JbPel4?list=PLfeqYbxvuD29MfdIvQ7hnzg0LMcK4DEDZ" frameborder="0" allowfullscreen></iframe></div>
+  <div class="video-wrapper"><iframe width="100%" height="380px" src="https://www.youtube.com/embed/KLKU9JbPel4?list=PLfeqYbxvuD29MfdIvQ7hnzg0LMcK4DEDZ" frameborder="0" allowfullscreen></iframe></div>
   <p>The <strong>P2P Foundation</strong> is a global network of researchers in open design, open hardware and free software. They use Loomio to delegate responsibility for an individual to act on behalf of the collective. Check out the video, or <a href="http://blog.loomio.org/2016/02/15/p2p/" target="_blank">read more here.</a></p>
 </div>
 
 <div class="tile tile-50pc">
-  <div class="video-wrapper"><iframe src="https://www.youtube.com/embed/IVJyc5WnsE0?list=PLfeqYbxvuD29MfdIvQ7hnzg0LMcK4DEDZ" frameborder="0" allowfullscreen></iframe></div>
+  <div class="video-wrapper"><iframe width="100%" height="380px" src="https://www.youtube.com/embed/IVJyc5WnsE0?list=PLfeqYbxvuD29MfdIvQ7hnzg0LMcK4DEDZ" frameborder="0" allowfullscreen></iframe></div>
   <p>The <strong>Red Victorian</strong> is a co-living hotel and community gathering space. With Loomio they can document every voice and every thought that goes into a decision. <a href="http://blog.loomio.org/2016/02/04/redvic/" target="_blank">Read more...</a></p>
 </div>
 
 <div class="clear">&nbsp;</div>
 
 <div class="tile tile-50pc">
-  <div class="video-wrapper"><iframe src="https://www.youtube.com/embed/NTmpzY6cahI?list=PLfeqYbxvuD29MfdIvQ7hnzg0LMcK4DEDZ" frameborder="0" allowfullscreen></iframe></div>
+  <div class="video-wrapper"><iframe width="100%" height="380px" src="https://www.youtube.com/embed/NTmpzY6cahI?list=PLfeqYbxvuD29MfdIvQ7hnzg0LMcK4DEDZ" frameborder="0" allowfullscreen></iframe></div>
   <p><strong>Gängeviertel</strong> is a 200-person artist collective occupying 12 buildings in Hamburg, Germany. They use Loomio for in-depth discussions that can’t be decided in their in-person general assembly meetings. <a href="http://blog.loomio.org/2016/02/22/gaengeviertel/" target="_blank">Read more...</a></p>
 </div>
 
 <div class="tile tile-50pc">
-  <div class="video-wrapper"><iframe src="https://www.youtube.com/embed/a8-FWXOkEBk?list=PLfeqYbxvuD29MfdIvQ7hnzg0LMcK4DEDZ" frameborder="0" allowfullscreen></iframe></div>
+  <div class="video-wrapper"><iframe width="100%" height="380px" src="https://www.youtube.com/embed/a8-FWXOkEBk?list=PLfeqYbxvuD29MfdIvQ7hnzg0LMcK4DEDZ" frameborder="0" allowfullscreen></iframe></div>
   <p>The <strong>Ouishare Network</strong> is an international community focusing on the collaborative economy and open source. They use Loomio to grow shared understanding around complex decisions. <a href="http://blog.loomio.org/2016/01/21/ouishare/" target="_blank">Read their story here.</a></p>
 </div>
 

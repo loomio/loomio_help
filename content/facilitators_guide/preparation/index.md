@@ -1,10 +1,11 @@
 ---
 title: Preparation
 weight: 10
-description: Understand Purpose, Rearrange the Furniture, Supplies, Tools, Materials, Design the Experience, Contextualise the Moment, The Role of the Facilitator.
+description:
 menu:
   main:
     parent: facilitators_guide
+    weight: 10
 ---
 ![](cover.jpg)
 
@@ -94,7 +95,7 @@ On Loomio
 
 Good facilitation requires self-awareness on an individual and collective level. Lack of understanding of the role can lead to misunderstandings, conflict, or unsafe situations.
 
-> Have the power handed over to you. When you’re invited into a new group or organisation, everybody will be thinking: Who’s this joker? Why should we listen to them? Get somebody who the participants know and trust to introduce you. This builds you up in the participants' minds and helps to hand over the power over to you. — Silvia Zuur
+> Have the power handed over to you. When you’re invited into a new group or organization, everybody will be thinking: Who’s this joker? Why should we listen to them? Get somebody who the participants know and trust to introduce you. This builds you up in the participants' minds and helps to hand over the power over to you. — Silvia Zuur
 
 ### Consent
 It’s critical that the group consents to be facilitated. Attempting to facilitate otherwise can be at worst coercive (unfair to the group) and dangerous (unfair to the facilitator) — and will face resistance and confusion. Facilitators put themselves in a vulnerable position; they must have mandate or they should not agree to engage. Consent is critical for both the facilitator and participants.

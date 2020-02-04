@@ -6,8 +6,9 @@ defaultContentLanguageInSubdir: true
 theme: loomio-hugo-theme
 params:
   repoName: loomio/loomio_help
-  matomoId: 1
+  matomoId: 3
   useCategories: false
+  canEdit: true
 languages:
   en:
     languageName: English
@@ -18,3 +19,21 @@ languages:
   fr:
     languageName: Français
     weight: 3
+
+markup:
+  goldmark:
+    extensions:
+      definitionList: true
+      footnote: true
+      linkify: true
+      strikethrough: true
+      table: true
+      taskList: true
+      typographer: true
+    parser:
+      attribute: true
+      autoHeadingID: true
+      autoHeadingIDType: github
+    renderer:
+      hardWraps: false
+      unsafe: true

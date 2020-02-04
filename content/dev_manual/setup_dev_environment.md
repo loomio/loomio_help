@@ -11,7 +11,7 @@ There are 3 parts to this document: MacOS X system setup, Ubuntu system setup, a
 First install [homebrew](http://brew.sh)
 
 ```
-$ ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
+ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
 ```
 
 You then need to install __Command Line Tools for XCode__ from https://developer.apple.com/downloads.
@@ -19,9 +19,9 @@ You then need to install __Command Line Tools for XCode__ from https://developer
 With that done, use Homebrew to install Git and PostgreSQL
 
 ```
-$ brew install git postgresql pkgconfig
-$ brew install ImageMagick --with-perl
-$ brew services start postgresql
+brew install git postgresql pkgconfig
+brew install ImageMagick --with-perl
+brew services start postgresql
 ```
 
 And that's it. You can jump to 'Install ruby'
@@ -29,11 +29,11 @@ And that's it. You can jump to 'Install ruby'
 ## Ubuntu system setup
 
 ```
-$ sudo apt-get update
-$ sudo apt-get install postgresql postgresql-contrib build-essential \
-                       libssl-dev libreadline-dev zlib1g-dev \
-                       libpq-dev libffi-dev libmagickwand-dev \
-                       imagemagick python
+sudo apt-get update
+sudo apt-get install postgresql postgresql-contrib build-essential \
+                     libssl-dev libreadline-dev zlib1g-dev \
+                     libpq-dev libffi-dev libmagickwand-dev \
+                     imagemagick python
 ```
 
 ## Install ruby
@@ -57,9 +57,9 @@ cd "$(rbenv root)"/plugins/ruby-build && git pull
 At the time of writing 2.5.3 is the version of ruby that Loomio uses. To check what the current version required is, see [.ruby-version](https://github.com/loomio/loomio/blob/master/.ruby-version)
 
 ```
-$ rbenv install 2.5.3
-$ rbenv global 2.5.3
-$ gem install bundler
+rbenv install 2.5.3
+rbenv global 2.5.3
+gem install bundler
 ```
 
 ## Install node
@@ -80,7 +80,7 @@ nvm alias default 8.12.0
 ## Install two packages required for this project
 
 ```
-$ npm install -g yarn gulp
+npm install -g gulp
 ```
 
 ## Fork and clone the Loomio git repo
@@ -100,13 +100,13 @@ From you freshly checked out Loomio repo:
 
 ```
 bundle install
-cd client; yarn && cd ..
+cd client; npm install && cd ..
 ```
 
 ## Create database.yml
 
 ```
-cp config/database.sample.yml config/database.yml
+cp config/database.example.yml config/database.yml
 ```
 
 On Linux you'll need to create a postgres user with the same name as your Linux user account. This is not required on MacOS as it's automatic.
@@ -133,6 +133,9 @@ And in a new terminal instance
 cd client; gulp dev
 ```
 
+You can view Loomio in your browser by visiting http://localhost:3000, however, you will not be able to move past the initial authentication without navigating through the /dev/ route. To view Loomio's features and changes to your source code, visit any of the dev routes listed at http://localhost:3000/dev/ (be sure to include the trailing slash).  A good place to start might be http://localhost:3000/dev/setup_group.  
+
+
 ## Other things to know
 Rails stuff
 
@@ -144,7 +147,7 @@ Gulp stuff (run from the client folder)
 
 - `gulp nightwatch`: Run the automated frontend tests
 - `npm rebuild node-sass` has been known to be very useful
-- if you ever get into problems with node libraries: `rm -rf node_modules && yarn`
+- if you ever get into problems with node libraries: `rm -rf node_modules && npm install`
 
 ### Having trouble?
 Let us know in the [product development](https://www.loomio.org/g/GN7EFQTK/loomio-community-product-development) group on Loomio.

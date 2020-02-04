@@ -1,69 +1,77 @@
 ---
-title: Group settings
-description: What they are and how to change them.
+title: Admin and Settings
+description: Permissions and advanced group settings.
+weight: 20
 menu:
   main:
-    name: Settings
+    name: Admin and Settings
     parent: 'groups'
 ---
 
-Only group coordinators can edit group settings.
+# Admin
 
-As a coordinator of a Loomio group you’re responsible for guiding your group through the process of learning how to use a new piece of software, as well as learning new processes for collaborating more effectively and making good decisions together. The tasks outlined below can only be performed by group coordinators.
+Only a group's admin can edit group settings.
 
-# Adding a cover photo
+As an admin of a Loomio group, you are responsible for guiding your group through the process of learning how to use a new piece of software, as well as learning new processes for collaborating more effectively and making good decisions together. The tasks outlined below can only be performed by group admin.
 
-When you first arrive in your new Loomio group, there will be a randomly selected cover photo, and a placeholder for your group logo. You can customise how your group looks by adding your own cover photo and logo. You can upload a new cover photo or logo by selecting the upload button (camera icon) in either section.
+To learn how to edit the basics such as your Group description or Cover photo, see [starting a group](/en/user_manual/getting_started/starting_a_group).
 
+## Group handle
 
-To edit your group settings, open the _Options_ menu on the group page and select _Edit Group Settings_.
+By default, Loomio will make this `your-group-name` but when you started your organization (or parent group) you were invited to change this to any unused, alphanumeric handle (hyphens optional) of your choice.
 
-![](group_settings_modal.png)
+![](new_group_handle.png)
 
-# Group name and description
+Navigating to the URL loomio.org/[your-group-handle] will take you directly to your group page.
 
-It's best to keep your group name short and concise.
+You can always change you group handle by navigating to the **Settings** tab of your group's page and choosing **Edit Group Settings**. For navigation guidance, see the video demonstration in the very next section.
 
-The description should give members a clear understanding of what that group is for or intends to do. Some examples:
-
-"_A public group for us to approve requests for use of the gallery space_"
-
-"_The space for our board members to consider budget proposals_"
-
-# Privacy
-Your privacy settings determine who can find your group, who can see the threads in your group, and how people join.
-
-The default privacy setting for new groups is **Closed**. This means people can find your group and ask to join, but the content of your discussions and decisions is private, unless you allow specifc threads to be public (explained in the **Group permissions** section below).
-
-If you want the content of your discussions and decisions to be public, change your group privacy to **Open**. The members list will only be visible to other members.
-
-If you want to hide your group, set your group privacy to **Secret**. This will mean only invited members will be able to see the group name, description, members list, and threads.
-
-NB: If you have a **Secret** group and change it to **Open**, all threads will become public. Changing an **Open** group to **Secret** will make all threads private.
+![](change_group_handle.png)
 
 # Advanced settings
 
-Coordinators set the group permissions to configure what members can do in their group.
+Admin can change group permissions and configure what members can do in their group (and/or subgroups) by
 
-## Allow public threads
+1. navigating to the **Settings** tab of your group's page
+2. selecting **Edit Group Settings**
+3. clicking a tab (**Privacy** or **Permissions** options are described below)
 
-In **Closed** groups, you can use this option to allow public and private threads in your group. When you start a thread, you can decide whether it will be public or private.
+<iframe width="100%" height="380px" src="https://www.youtube-nocookie.com/embed/ye08QEnP1_A" frameborder="0" allowfullscreen></iframe>
+
+## Privacy
+
+Group's [basic privacy settings are described here](/en/user_manual/getting_started/starting_a_group/#privacy), as you can make your group **open**, **closed**, or **secret** without visiting **Advanced settings** (unlike the following options).
+
+### Anyone can join (Open groups)
+
+In _open groups_ you can use the option, **Anyone can join**, in order for the public to be able to join without any action by any member of the group.
+
+### Requiring approval of membership requests (Open groups)
+
+If you select this option, rather than letting people walk in the door voluntarily, then admin will have the option to approve or ignore people's requests to join.
+
+- You can also give group members the permission to approve requests, also via the **Advanced settings**.
+
+### Allow members of parent group to see threads
+
+In _closed subgroups_ you can allow members of the parent group to see discussions within the subgroup.
+Select, **Members of [parent group] can see private threads** to enable this feature. This feature is off by default. For more on subgroups, [see here](../subgroups).
 
 ## Invite and approve new members
 
-This allows everyone in your group to invite new people in, and approve any membership requests. When it is deselected only group coordinators will be able to invite and approve new members.
+This allows everyone in your group to invite new people in, and approve any membership requests. When it is deselected only group admin will be able to invite and approve new members.
 
-## Create sub-groups
+## Create subgroups
 
-This allows everyone in your group to create subgroups. When it is deselected only group coordinators will be able to create subgroups.
+This allows everyone in your group to create subgroups. When it is deselected only group admin will be able to create subgroups.
 
 ## Start threads
 
-This allows everyone in your group to start new threads. When it is deselected only group coordinators will be able to start discussions.
+This allows everyone in your group to start new threads. When it is deselected only group admin will be able to start discussions.
 
 ## Edit the context of any thread in the group
 
-This allows everyone in your group to edit the context of any thread. When it is deselected only group coordinators and the thread author will be able to edit the thread context.
+This allows everyone in your group to edit the context of any thread. When it is deselected only group admin and the thread author will be able to edit the thread context.
 
 ## Edit their comments at any time
 
@@ -71,12 +79,12 @@ This allows everyone in your group to [edit their comments](../../threads/#editi
 
 ## Raise proposals
 
-This allows anyone in your group to start a proposal within a thread. When this box is deselected only group coordinators will be able to raise proposals.
+This allows anyone in your group to start a proposal within a thread. When this box is deselected only group admin will be able to raise proposals.
 
 ## Vote on proposals
 
-This allows everyone in your group to state their position on proposals. When it is deselected only group coordinators will be able to state their position on proposals.
+This allows everyone in your group to state their position on proposals. When it is deselected only group admin will be able to state their position on proposals.
 
 # Deactivating/archiving a group
 
-Deactivating your group means that you and the rest of the group members will no longer be able to access the group. If you wish to deactivate your group you can do so by selecting **Deactivate Group** from the **Options** menu on the group page. To reactivate your deactivated group, contact the Loomio team by sending an email to [contact@loomio.org](mailto:contact@loomio.org).
+Deactivating your group means that you and the rest of the group members will no longer be able to access the group. If you wish to deactivate your group you can do so by selecting **Deactivate Group** from the **Options** menu on the group page. To reactivate your deactivated group, [contact Loomio support](https://www.loomio.org/contact).

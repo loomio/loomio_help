@@ -1,10 +1,11 @@
 ---
 title: Ongoing Practice
 weight: 50
-description: Continuous Improvement, Distributed Facilitation / Self-facilitation, The Art of Being Facilitated, Culture Change.
+description:
 menu:
   main:
     parent: facilitators_guide
+    weight: 50
 ---
 
 ![](cover.jpg)
@@ -51,7 +52,7 @@ Consciously decide when peer facilitation is a good choice, and when a specific 
 * The online space is uniquely suited to distributed facilitation. Different people can come along at different points depending on what they notice and their skill set.
 * An online discussion is by default a distributed collaboration among peers. Any other setup requires explicit design. This is the opposite of offline spaces where the default is that someone called a meeting and distributing the role requires proactivity.
 * Loomio is designed with a group of equals in mind. In many ways, a distributed facilitation approach is the best fit for the tool.
-* Current Loomio users do peer facilitation all the time, whether they realise that’s what they are doing or not. Simple things like suggesting someone raise a proposal, tagging people, summarising the process so far, etc, are all acts of facilitation.
+* Current Loomio users do peer facilitation all the time, whether they realize that’s what they are doing or not. Simple things like suggesting someone raise a proposal, tagging people, summarising the process so far, etc, are all acts of facilitation.
 
 ## The Art of Being Facilitated
 
@@ -74,11 +75,11 @@ A collaborative, participatory culture is something that emerges over time, with
 
 Is the company party participatory? Does the office potluck just happen like magic? Are ideas able to emerge from anywhere, evolve through many brains and hands, and get implemented in a way better than anyone first imagined?
 
-Deep culture change is when the culture of collaboration starts to leak out of specific “collaboration” spaces and shows up in every aspect of the organisation. Collaboration is not about post-it notes and check-ins, but the very timbre of organisational life.
+Deep culture change is when the culture of collaboration starts to leak out of specific “collaboration” spaces and shows up in every aspect of the organization. Collaboration is not about post-it notes and check-ins, but the very timbre of organizational life.
 
 On Loomio
 
-* The [theory of change of Loomio](http://www.loomio.org/about) is that more groups practicing effective, inclusive decision-making can change organisational dynamics at a global scale. This shows up in everything about how the tool is designed and [how we run as a co-op](http://loomio.coop). Ultimately, it’s about culture change through collaborative practice.
+* The [theory of change of Loomio](http://www.loomio.org/about) is that more groups practicing effective, inclusive decision-making can change organizational dynamics at a global scale. This shows up in everything about how the tool is designed and [how we run as a co-op](http://loomio.coop). Ultimately, it’s about culture change through collaborative practice.
 * Loomio groups have experienced evolving culture through the tool. Like groups that already has a collaborative culture scale while holding onto that, or a participatory group continuing to exists instead of imploding due to challanges around inclusive decicion-making.
 * Loomio makes a certain kind of “new normal” of collaborative practice possible, through making collaborative practice more accessible and achievable.
 

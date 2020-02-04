@@ -5,7 +5,7 @@ weight: 10
 ---
 You're here because you want to learn how to translate Loomio. Yay!
 
-If you have questions, join the [Loomio Community - Translation](https://www.loomio.org/g/cpaM3Hsv/loomio-community-translation) group.
+If you have questions, please join the [Loomio Community - Translation](https://www.loomio.org/g/cpaM3Hsv/loomio-community-translation) group.
 
 ## We use Transifex
 
@@ -33,6 +33,16 @@ Visit the [Loomio Transifex page](https://www.transifex.com/projects/p/loomio-1/
 - read the english text
 - enter your translation
 - save and repeat
+
+Please use the informal or personal form if your language has the option.
+
+## Guidelines
+
+If your language distinguishes between personal and impersonal, use the more personal!
+
+Make sure that you understand the different type of polls and activities that groups can do and that these are translated in way that is logical in your language.
+
+Bear in mind the hyperlinks! The can be moved depending on the sentence structure of your language, so put them in place where you think it makes sense, not where they are placed in English.
 
 ## How to correctly translate code:
 

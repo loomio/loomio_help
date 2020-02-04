@@ -1,10 +1,11 @@
 ---
 title: Commencing
 weight: 20
-description: Invitation, Arrival, Who’s in the Room, Who’s NOT in the Room, Culture, Protocol, Expectations.
+description:
 menu:
   main:
     parent: facilitators_guide
+    weight: 20
 ---
 
 ![](cover.jpg)

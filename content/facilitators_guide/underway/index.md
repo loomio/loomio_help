@@ -1,10 +1,11 @@
 ---
 title: Underway
 weight: 30
-description: Where are we on the Map, The Art of Noticing, Hearing Diverse Voices, Counter Cognitive Bias, Balancing Divergent / Convergent, Working with Scope, Pacing and Timing, Managing the Attention Economy, Facilitation Interventions.
+description:
 menu:
   main:
     parent: facilitators_guide
+    weight: 30
 ---
 
 ![](cover.jpg)

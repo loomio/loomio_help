@@ -1,6 +1,7 @@
 ---
 title: Deleting your Loomio account
 description: How to delete your user account.
+weight: 100
 ---
 ## To delete your account entirely:
 
@@ -12,7 +13,9 @@ description: How to delete your user account.
 
 ## I've deleted my account - what does this mean?
 
-Loomio takes privacy and data protection very seriously. Here is a link to our [policy](https://www.loomio.org/privacy) - if you have any questions about our policy, you can [get in touch](https://www.loomio.org/contact) with us.
+Deleting your account will _not_ cancel your subscription; to stop your payments see [Subscriptions](/en/subscriptions/management).
+
+**Loomio takes privacy and data protection very seriously**. Here is a link to our [policy](https://www.loomio.org/privacy) - if you have any questions about our policy, you can [get in touch](https://www.loomio.org/contact) with us.
 
 When your account is deleted, we remove all of your personal information, permanently. Comments, proposals and discussions you’ve made will remain but your name will be removed from them. We do this because we have an obligation to groups to keep threads and proposals coherent.
 

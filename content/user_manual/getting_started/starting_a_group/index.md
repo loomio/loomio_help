@@ -1,5 +1,5 @@
 ---
-title: Starting a group
+title: 2. Starting a group
 weight: 20
 description: Create your Loomio group and ensure everyone is ready to participate.
 menu:
@@ -7,9 +7,7 @@ menu:
     parent: getting_started
 ---
 
-
-Getting started on Loomio means getting everyone signed up, familiar with the tool, and comfortable making decisions together. When done well, the group will come to life as people take the initiative to start discussions and raise proposals.
-
+Getting started on Loomio means getting everyone signed up, familiar with the tool, and comfortable communicating or coordinating with one another. When done well, the group will come to life as people take the initiative to start discussions and raise proposals.
 
 Most Loomio groups need a champion to help them get going, and then they build their own momentum. If you're reading this, that champion is probably you!
 
@@ -17,74 +15,105 @@ Most Loomio groups need a champion to help them get going, and then they build t
 
 Have a discussion with your group about using Loomio.
 
-- **What problem** are you trying to solve with a new tool? (For example, including people who can't attend meetings, better documentation, or to keep making progress between meetings.)
-- **What kind of decisions** do you want to make on Loomio?
-- **Who's involved?** Does everyone in the group need to use it?
+- **What problem** are you trying to solve with a new tool? _For example: Including people who can't attend meetings, better documentation, or to keep making progress between meetings._
+- **What is Loomio for?** How are you going to use it, _eg, decisions, reporting, mass engagement, or just input?_
+- **Who's involved?** Who will support conversations to be productive, or facilitate?
 - What kind of **behaviour** is welcome, and what's not ok?
 - How will Loomio complement your **existing processes**?
 
-Some people will be apprehensive about adopting a new piece of software for online decision-making. Talk to people in your group to work through any concerns.
+Some people will be apprehensive about adopting a new piece of software for online decision making. Talk to people in your group to work through any concerns.
 
-## Have a look around
+- Starting simple can help, especially with pre-existing **routines**
+- Agree on the **scope** and trial it; offer a date when it will be reviewed.
 
-You need a good understanding of how to use Loomio, so you can assist others.
+# Starting a new group
 
-Make sure you understand the [group settings](https://loomio.gitbooks.io/manual/content/en/group_settings.html), especially privacy. Have a look through the menus and sections to familiarise yourself with the software.
+When you first start, you'll create a new **organization**. At this stage, organization is basically another way of saying "your group." The first thing to do is enter a name and a description for your group.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xwE0IM1k64E" frameborder="0" allowfullscreen></iframe>
+## Group name
 
+It's best to keep your group name short and concise.
 
-## Update your group description
+### Group handle
 
-With a clear purpose, people can make judgement calls about what's best for the group. Understanding group context helps people get oriented.
+By default, Loomio will make this `your-group-name` but you can choose any unused, alphanumeric handle (hyphens optional). Navigating to the URL loomio.org/[your-group-handle] will take you directly to your group page.
 
-Your Loomio group page has a space for information. Update this field so that everyone can see it when they visit the group. If you're unsure, start a discussion with your group about what you want to achieve together and what information people want on the group page.
+![](new_group_handle.png)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/asZEbbiHH-s" frameborder="0" allowfullscreen></iframe>
+## Group description
+
+It's important to add a description to help everyone get into the action and clear on what's happening.
+
+The description should give members a clear understanding of what that group is for or intends to do. Some examples:
+
+"_A public group for us to approve requests for use of the gallery space_"
+
+"_The space for our board members to consider budget proposals_"
+
+With a clear purpose, people can make judgment calls about what's best for the group. Understanding group context helps people get oriented.
+
+**Add a Group description** by navigating to the **Settings** tab on your group page. Click **Edit Group Settings** and use the form that appears (click save when done). If you're having trouble finding it from Edit Group Settings, double-check that you haven't switched tabs ("Profile" should be highlighted in yellow).
+
+### Group description is also a Resource hub
+
+Your Loomio group page is also a place to store all of the information, links, and files that everyone in your group needs. Update the Group description field and attach files from your computer or from the cloud.
+
+![](group_description.png)
+
+**Tip:** Group descriptions are a great place to include reasons why you're using Loomio. Sharing why you're implementing Loomio can help motivate people to adopt it.
+
+## Privacy
+
+Your privacy settings determine who can find your group, who can see the threads in your group, and how people join.
+
+The recommended privacy setting for new groups is **Closed**. This means it is possible for people to find your group and ask to join, but the content of your discussions and decisions is private.
+
+If you want the content of your discussions and decisions to be public, change your group privacy to **Open**. The members list will only be visible to other members.
+
+If you want to hide your group, set your group privacy to **Secret**. This will mean only invited members will be able to see the group name, description, members list, and threads.
+
+**NOTE:** If you have a **Closed** or **Secret** group and change it to **Open**, all threads will become public. Changing an **Open** group to **Closed** or **Secret** will make all threads private.
 
 ## Upload a profile photo
 
 Seeing someone's face next to the text they've written can make it feel more human. It's especially important if you're the one welcoming everyone in.
 
-Upload your profile photo before sending invitations to join the group, so that your friendly image is included.
+Upload your [profile photo](/en/user_manual/getting_started/notifications_settings) before sending invitations to join the group, so that your friendly image is included.
 
 ## Upload a group photo
 
-Uploading a photo that has some meaning to your group significantly improves the sense of belonging. You can customise both the small square photo (eg, with a logo), and the big cover image (eg, with a group photo).
+Uploading a photo that has some meaning to your group significantly improves the sense of belonging. You can customize both the small square photo (eg, with a logo), and the big cover image (eg, with a group photo) by clicking on the placeholder images. _You can always change it again by going to Group Settings._
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8cdGR7FaGYg" frameborder="0" allowfullscreen></iframe>
+![](edit_group_photo.png)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/F2r2tKi3pxM" frameborder="0" allowfullscreen></iframe>
+## Encourage introductions
 
-## Encourage Introductions
+A round of introductions is a great way for people to get to know a bit about each other and to feel more comfortable. Even if people are already acquainted, they can share more specifically about their role or perspective in the Loomio group or project at hand.
 
-A round of introductions is a great way for people to get to know a bit about each other and to feel more comfortable. Even if people are already acquainted, they can share more specifically about their role or perspective in the Loomio group.
-
-New groups start with an introductions thread automatically. We recommend you edit the thread to make it yours, with a prompt relevant to your group.
-
-To edit the introductions thread, click into it and select the edit option in the context box.
-<iframe width="560" height="315" src="https://www.youtube.com/embed/CGUH3UJrxfQ" frameborder="0" allowfullscreen></iframe>
+![](example_introduction_thread.png)
 
 ## Invite people
 
 You're ready to invite people into the group! Loomio is a group collaboration tool, so this is an important step.
 
-Visit your group page and click the “Invite people” button.
+1. Visit your group page and click the **Members** tab to access member management
 
-* If you have their email addresses, you can send invitations to each member of your group.
-* Or you can share the invitation link via email or however your team communicates.
+2. Click one of two options
 
-Follow up on people who don't make it into the group and give them a nudge. You don't want to leave people out of decision-making.
+* **Invite people:** If you have their email addresses, you can send invitations to each member of your group.
+* **Shareable link:** Or you can share the invitation link via email or however your team communicates.
 
-If people join but don't introduce themselves, you might like to welcome them to the group with an @mention in the introductions thread:
+<iframe width="100%" height="380px" src="https://www.youtube-nocookie.com/embed/EZzTe6jJL7c" frameborder="0" allowfullscreen></iframe>
+
+Follow up on people who don't make it into the group and give them a nudge. You don't want to leave people out of key conversations or decisions. (*You can get a sense of who is participating by looking at your thread's [Seen by](/en/user_manual/threads/thread_admin/#seen-by), and many elements of Loomio have [Notification history](/en/user_manual/threads/thread_admin/#notification-history)*.)
+
+If people join but don't begin to participate right away, you might like to welcome them to the group with an @mention, for example:
 
 > “Welcome to the group @Jane :) It's great to have you here! Would you saying a little bit about your work in this space?”
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nm9hoOofblw" frameborder="0" allowfullscreen></iframe>
-
 ## Champion the use of Loomio
 
-If you model behaviour for others  to emulate, your group will be more inclusive and engaging. You can help decisions progress constructively.
+If you model behavior for others  to emulate, your group will be more inclusive and engaging. You can help deliberation/communications progress constructively.
 
 For example:
 
@@ -92,8 +121,19 @@ For example:
 - “We haven’t heard from @Bill and @Ngaire … what are your thoughts?”
 - “We might be getting off topic here. I've started another Loomio discussion about that [here](http://www.loomio.org). Let's bring this back to the original focus.”
 
-## If discussions happen via email
-Remind the group you've agreeed to use Loomio and request people move the discussion over there. Sometimes it can be helpful to copy and paste what's been said so far and directly give everyone the Loomio link.
+## Developing a productive Loomio habit
 
-## If decisions are being made in-person
-Recall why you wanted to use Loomio, and ask if the group wants to move the discussion online before concluding a decision. Common reasons are to include people who aren't in the room, and create documentation for future reference.
+**If discussions happen via email,** remind the group you've agreed to use Loomio and request people move the discussion over there. Sometimes it can be helpful to copy and paste what's been said so far and directly give everyone the Loomio link.
+
+**If decisions are being made in-person,** invite the group to move the discussion online before concluding the decision with an outcome.
+
+It's good to name one or more reasons _why_ you're moving back to Loomio. A couple common reasons:
+
+- to include people who aren't in the room
+- to create documentation for future reference.
+
+**Raising the stakes** is another strategy for accelerating the adoption of Loomio. An example illustrates it best: _"Want to participate in the decision? You'll have to voice your position on Loomio"_. When taking this approach it is, of course, good to accompany this candor with _care_. Kindness – _and, again, a reminder of the reason you're using Loomio_ – can help at most steps of your journey.
+
+## Next up
+
+Now that you're on Loomio, how to get those clear outcomes… [→ Having discussions](../having_discussions)

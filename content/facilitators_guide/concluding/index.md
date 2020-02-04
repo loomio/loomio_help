@@ -1,10 +1,11 @@
 ---
 title: Concluding
 weight: 40
-description: Outcomes & Next Steps, Reporting & Harvesting, Turning Discussion into Action, It Ain’t Over Til It’s Over
+description:
 menu:
   main:
     parent: facilitators_guide
+    weight: 40
 ---
 ![](cover.jpg)
 
@@ -45,7 +46,7 @@ On Loomio
 
 There comes a moment when you have to re-engage with the reality outside the room. Occasionally, the need is simply to work with ideas and feelings, without worrying about implementation. But usually a group will not reach its goals without applying its conclusions to real-world action. This transition is part of the total facilitated experience.
 
-It’s at this point that a collaborative process intersects with other organisational systems, and the facilitator has to help figure out how it will work. These other systems might include:
+It’s at this point that a collaborative process intersects with other organizational systems, and the facilitator has to help figure out how it will work. These other systems might include:
 
 * **Power** — Who actually makes decisions? What has to happen for ideas to turn into reality here?
 * **Management** — How does this fit into other priorities? What dependencies might exist?
@@ -59,14 +60,14 @@ If there are any blocks around these issues, it can be damaging to leave this re
 On Loomio
 
 * You can @mention the names of people who will take actions out of a decision.
-* Many users accomplish integrating Loomio content into other organisational systems through other channels like reviewing Loomio decisions in regular offline meetings, or transferring outcomes to their task tracking process.
+* Many users accomplish integrating Loomio content into other organizational systems through other channels like reviewing Loomio decisions in regular offline meetings, or transferring outcomes to their task tracking process.
 * Making an explicit decision naturally leads people to ask, “OK, but how are we going to take this forward?”
 * Forming a Loomio group often surfaces important questions like, “Who needs to participate here to turn these decisions into action?” If you're missing key stakeholders, leaders, or administrators, you'll get stuck.
 
 
 ## It Ain’t Over Til It’s Over
 
-Ending well is important. There’s a ritual to closing a process, and if it’s missed people will feel unsettled. Sometimes the end is determined by running out of time, and sometimes it’s when certain goals are achieved. Recognise implicit and explicit cues indicating if the individuals, and the group as a whole, can feel completion of a process or phase.
+Ending well is important. There’s a ritual to closing a process, and if it’s missed people will feel unsettled. Sometimes the end is determined by running out of time, and sometimes it’s when certain goals are achieved. Recognize implicit and explicit cues indicating if the individuals, and the group as a whole, can feel completion of a process or phase.
 
 Participants often look to the leader or facilitator for confirmation of when it’s actually over, and it usually pays to be explicit. Sometimes the signal is a clear statement that the session is wrapping up, a recap of decisions or next steps, and bidding everyone goodbye. Other times groups have established practices like a check-out. Letting a session vaguely trail off will leave a bad taste.
 
@@ -75,4 +76,4 @@ On Loomio
 * The clearest indication of conclusion on Loomio is publishing a decision outcome.
 * Some groups make use of [Thread Archive](http://blog.loomio.org/2016/04/23/organise/) subgroups to move old discussions to.
 * Deactivating a group is the strongest possible “closure” move. No one can say anything else after that.
-* Since Loomio groups can remain while group activity goes up and down, it can be useful to recognise milestones like the conclusion of a particular phase, even if the group will reactivate in the future.
+* Since Loomio groups can remain while group activity goes up and down, it can be useful to recognize milestones like the conclusion of a particular phase, even if the group will reactivate in the future.
