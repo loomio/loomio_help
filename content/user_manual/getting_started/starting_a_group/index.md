@@ -66,11 +66,11 @@ Your Loomio group page is also a place to store all of the information, links, a
 
 Your privacy settings determine who can find your group, who can see the threads in your group, and how people join.
 
-The recommended privacy setting for new groups is **Closed**. This means it is possible for people to find your group and ask to join, but the content of your discussions and decisions is private.
+The recommended privacy setting for new groups is **Closed**. This means it is possible for people to find your group and ask to join, but the content of your discussions and decisions is private. _The Group Description and Name are public for Closed groups._
 
 If you want the content of your discussions and decisions to be public, change your group privacy to **Open**. The members list will only be visible to other members.
 
-If you want to hide your group, set your group privacy to **Secret**. This will mean only invited members will be able to see the group name, description, members list, and threads.
+If you want to hide your group, set your group privacy to **Secret**. Secret groups are similar to Closed groups, but only invited members will be able to see the group name and description.
 
 **NOTE:** If you have a **Closed** or **Secret** group and change it to **Open**, all threads will become public. Changing an **Open** group to **Closed** or **Secret** will make all threads private.
 
@@ -104,6 +104,8 @@ You're ready to invite people into the group! Loomio is a group collaboration to
 * **Shareable link:** Or you can share the invitation link via email or however your team communicates.
 
 <iframe width="100%" height="380px" src="https://www.youtube-nocookie.com/embed/EZzTe6jJL7c" frameborder="0" allowfullscreen></iframe>
+
+_Closed groups_ can choose to share their loomio.org address [`loomio.org/handle`] and then approve requests to join. _Reminder: Closed groups are basically private, but – unlike Secret groups – disclose their Group Name and Group Description publicly._
 
 Follow up on people who don't make it into the group and give them a nudge. You don't want to leave people out of key conversations or decisions. (*You can get a sense of who is participating by looking at your thread's [Seen by](/en/user_manual/threads/thread_admin/#seen-by), and many elements of Loomio have [Notification history](/en/user_manual/threads/thread_admin/#notification-history)*.)
 
