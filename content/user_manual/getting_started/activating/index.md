@@ -8,7 +8,7 @@ menu:
     parent: getting_started
 ---
 
-You can review key Getting Started lessons with our [Overview & How to video series](/en/overview-and-how-tos)
+You can review – ___and share!___ – key 'getting started' lessons via our [Overview & How-to video series](/en/overview-and-how-tos), which can bring a newcomer up to speed in no time.
 
 ## Step-by-step guides
 _To help you step forward towards achieving your purpose with less time and effort:_
