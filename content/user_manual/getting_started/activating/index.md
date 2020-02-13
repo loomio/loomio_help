@@ -8,6 +8,8 @@ menu:
     parent: getting_started
 ---
 
+You can review key Getting Started lessons with our [Overview & How to video series](/en/overview-and-how-tos)
+
 ## Step-by-step guides
 _To help you step forward towards achieving your purpose with less time and effort:_
 
