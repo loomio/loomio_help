@@ -75,38 +75,6 @@ We’re a passionate team with deep expertise in group process facilitation, soc
   </tr>
   <tr style="border-bottom: 15px solid transparent; border-top: 15px solid transparent;">
     <td>
-      <img src="rob.png" />
-    </td>
-    <td style="width: 50%;">
-      <strong>Robert Guthrie</strong>
-      <p>Senior developer, DevOps, architecture. Thinks up ideas and writes them into software</p>
-    </td>
-    <td>
-      <img src="jody.png" />
-    </td>
-    <td style="width: 50%;">
-      <strong>Jody Connor</strong>
-      <p>Customer support, Board support, animal lover, proof-reader, occasional provider of cookies</p>
-    </td>
-  </tr>
-  <tr style="border-bottom: 15px solid transparent; border-top: 15px solid transparent;">
-    <td>
-      <img src="iain.png" />
-    </td>
-    <td style="width: 50%;">
-      <strong>Iain Kirkpatrick</strong>
-      <p>Software developer, old cartographer, new systems dreamer, basketball fanatic</p>
-    </td>
-    <td>
-      <img src="kathleen.png" />
-    </td>
-    <td style="width: 50%;">
-      <strong>Kathleen Wright</strong>
-      <p>Customer carer, facilitator , connector for good and cycle tourer</p>
-    </td>
-  </tr>
-  <tr style="border-bottom: 15px solid transparent; border-top: 15px solid transparent;">
-    <td>
       <img src="greg.png" />
     </td>
     <td style="width: 50%;">
@@ -119,6 +87,15 @@ We’re a passionate team with deep expertise in group process facilitation, soc
     <td style="width: 50%;">
       <strong>John Gieryn</strong>
       <p>Caring for customer experience, uplifting generative patterns of practice. Loves community</p>
+    </td>
+  </tr>
+  <tr style="border-bottom: 15px solid transparent; border-top: 15px solid transparent;">
+    <td>
+      <img src="rob.png" />
+    </td>
+    <td style="width: 50%;">
+      <strong>Robert Guthrie</strong>
+      <p>Senior developer, DevOps, architecture. Thinks up ideas and writes them into software</p>
     </td>
   </tr>
 </table>
