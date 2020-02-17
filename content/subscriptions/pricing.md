@@ -94,9 +94,11 @@ To access these special rates, [apply for our Volunteer & Community plan](https:
 When you have completed the form, you may purchase the special rates plan immediately.  You do not need to wait for a response from us. We will contact you if we need to query your application.
 
 ### Variable Pricing
-When you invite new people into your group, you will be charged for the new people at a pro-rated amount for the current billing cycle. Payment will be drawn at the next billing renewal date. 
+When new people join your Loomio group, you will be charged for the new people at a pro-rated amount for the current billing cycle. 
 
 Loomio checks the number of people in your group daily for monthly plans, and weekly for annual plans. 
+
+Loomio counts the total number of people by unique user accounts who have joined your group and any subgroups.  A person with a unique user account is counted only once. 
 
 > **Example:** Mary has a Basic monthly plan for her group of 20 people, with billing of $20.00 due on the 1st of the month.
 

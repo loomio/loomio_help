@@ -28,9 +28,9 @@ You can always change you group handle by navigating to the **Settings** tab of 
 
 ![](change_group_handle.png)
 
-# Advanced settings
+# Advanced Group Settings
 
-Admin can change group permissions and configure what members can do in their group (and/or subgroups) by
+Admin can change group permissions and configure what members can do in any group or subgroup by
 
 1. navigating to the **Settings** tab of your group's page
 2. selecting **Edit Group Settings**
@@ -40,7 +40,9 @@ Admin can change group permissions and configure what members can do in their gr
 
 ## Privacy
 
-Group's [basic privacy settings are described here](/en/user_manual/getting_started/starting_a_group/#privacy), as you can make your group **open**, **closed**, or **secret** without visiting **Advanced settings** (unlike the following options).
+Group's [basic privacy settings are described here](/en/user_manual/getting_started/starting_a_group/#privacy).
+
+## Permissions
 
 ### Anyone can join (Open groups)
 
@@ -48,36 +50,36 @@ In _open groups_ you can use the option, **Anyone can join**, in order for the p
 
 ### Requiring approval of membership requests (Open groups)
 
-If you select this option, rather than letting people walk in the door voluntarily, then admin will have the option to approve or ignore people's requests to join.
+If you select this option, rather than letting people walk in the door voluntarily (self-select to join your group), then admin will have the option to approve or ignore people's requests to join.
 
-- You can also give group members the permission to approve requests, also via the **Advanced settings**.
+- You can also give group members the permission to approve requests, also in the **Permissions** tab of Group Settings.
 
 ### Allow members of parent group to see threads
 
 In _closed subgroups_ you can allow members of the parent group to see discussions within the subgroup.
 Select, **Members of [parent group] can see private threads** to enable this feature. This feature is off by default. For more on subgroups, [see here](../subgroups).
 
-## Invite and approve new members
+### Invite and approve new members
 
 This allows everyone in your group to invite new people in, and approve any membership requests. When it is deselected only group admin will be able to invite and approve new members.
 
-## Create subgroups
+### Create subgroups
 
 This allows everyone in your group to create subgroups. When it is deselected only group admin will be able to create subgroups.
 
-## Start threads
+### Start threads
 
 This allows everyone in your group to start new threads. When it is deselected only group admin will be able to start discussions.
 
-## Edit the context of any thread in the group
+### Edit the context of any thread in the group
 
 This allows everyone in your group to edit the context of any thread. When it is deselected only group admin and the thread author will be able to edit the thread context.
 
-## Edit their comments at any time
+### Edit their comments at any time
 
 This allows everyone in your group to [edit their comments](../../threads/#editing-comments) at any time. When it is deselected, a comment can only be edited until someone else participates in the thread.
 
-## Raise proposals
+### Raise proposals
 
 This allows anyone in your group to start a proposal within a thread. When this box is deselected only group admin will be able to raise proposals.
 

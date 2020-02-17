@@ -12,4 +12,6 @@ menu:
 
 <iframe width="100%" height="380px" src="https://www.youtube-nocookie.com/embed/Zlzuqsunpxc" frameborder="0" allowfullscreen></iframe>
 
-For a video-tour – synthesizing getting started guide into most of its nuts & bolts – there's just a [few more 2min. videos](/en/overview-and-how-tos) to cover all the basics.
+## VIDEO: Overview and How-to series
+
+Learn everything you need in under 20 minutes. [These short videos (click here)](/en/overview-and-how-tos) cover all the basics.

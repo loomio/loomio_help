@@ -106,7 +106,7 @@ cd client; npm install && cd ..
 ## Create database.yml
 
 ```
-cp config/database.sample.yml config/database.yml
+cp config/database.example.yml config/database.yml
 ```
 
 On Linux you'll need to create a postgres user with the same name as your Linux user account. This is not required on MacOS as it's automatic.
@@ -132,6 +132,9 @@ And in a new terminal instance
 ```
 cd client; gulp dev
 ```
+
+You can view Loomio in your browser by visiting http://localhost:3000, however, you will not be able to move past the initial authentication without navigating through the /dev/ route. To view Loomio's features and changes to your source code, visit any of the dev routes listed at http://localhost:3000/dev/ (be sure to include the trailing slash).  A good place to start might be http://localhost:3000/dev/setup_group.  
+
 
 ## Other things to know
 Rails stuff

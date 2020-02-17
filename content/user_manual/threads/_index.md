@@ -11,5 +11,5 @@ Discussion threads (usually just called _threads_) are where your group can disc
 
 Threads keep everything about a topic in the same place. Over time you'll create a useful archive of your group's discussions and decisions.
 
-<iframe width="100%" height="380px" src="https://www.youtube-nocookie.com/embed/MtpDOtmwXGI" frameborder="0" allowfullscreen></iframe>
+<iframe width="100%" height="380px" src="https://www.youtube-nocookie.com/embed/1qxGl8MBA88" frameborder="0" allowfullscreen></iframe>
 _Above shows an older Loomio, but it's still a great explainer. We'll upgrade it soon!_

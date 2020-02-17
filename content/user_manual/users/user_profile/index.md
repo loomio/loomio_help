@@ -8,7 +8,7 @@ menu:
     parent: users
 ---
 
-<iframe width="100%" height="380px" src="https://www.youtube-nocookie.com/embed/np02ObWLpJM" frameborder="0" allowfullscreen></iframe>
+<iframe width="100%" height="380px" src="https://www.youtube-nocookie.com/embed/0Mb2_D74ktM" frameborder="0" allowfullscreen></iframe>
 
 Your profile page lets you customize your Loomio identity. To visit your profile page select the **Edit profile** option in the user menu, which is found by clicking on your name in the top-left of the screen; _if it is closed, click on the menu icon (top-left) to open it._
 
