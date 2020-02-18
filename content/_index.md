@@ -3,18 +3,14 @@ title: Loomio Help
 ---
 # Loomio Help
 
-<div class="subtitle"><p>Loomio is an online tool used by thousands of groups around the world to increase transparency and inclusion, decrease meetings and emails, and make better decisions together.</p><p>Loomio 2.0 has its first stable release. <a href="/en/user_manual/whats_new_loomio_2">See what's new</a>.</p></div>
+Loomio is a discussion and decision-making platform used by thousands of organizations around the world. Using Loomio you can decrease meetings and emails, increase transparency and participation, and make better decisions together.
 
 ***
+## [User Manual](user_manual)
+Everything from Getting started, right through to in-depth explanations of all the features and troubleshooting.
 
-## [Getting Started Guide](user_manual/getting_started)
-Start here to learn how to use Loomio and introduce it to your group.
-
-## [Loomio User Manual](user_manual)
-In depth explanations of all the features and all other troubleshooting.
-
-## [Guides & Inspiration](guides)
-Guides to using Loomio in various situations. Stories from our users and more.
+## [Guides & How to's](guides)
+Guides to using Loomio in various situations.
 
 ## [Pricing and subscriptions](subscriptions)
 How our pricing works and how to update, modify or cancel a subscription.

@@ -1,5 +1,5 @@
 ---
-title: 2. Starting a group
+title: Starting a group
 weight: 20
 description: Create your Loomio group and ensure everyone is ready to participate.
 menu:

@@ -7,11 +7,7 @@ menu:
     name: Getting started
     description: All you need to get your group going in six quick lessons.
     identifier: getting_started
-    parent: user_manual
+    parent: guides
 ---
 
 <iframe width="100%" height="380px" src="https://www.youtube-nocookie.com/embed/Zlzuqsunpxc" frameborder="0" allowfullscreen></iframe>
-
-## VIDEO: Overview and How-to series
-
-Learn everything you need in under 20 minutes. [These short videos (click here)](/en/overview-and-how-tos) cover all the basics.

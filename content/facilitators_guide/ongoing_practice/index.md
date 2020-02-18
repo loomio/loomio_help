@@ -2,10 +2,10 @@
 title: Ongoing Practice
 weight: 50
 description:
-menu:
-  main:
-    parent: facilitators_guide
-    weight: 50
+# menu:
+#   main:
+#     parent: facilitators_guide
+#     weight: 50
 ---
 
 ![](cover.jpg)

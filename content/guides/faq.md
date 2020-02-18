@@ -3,7 +3,7 @@ title: Troubleshooting
 description: Questions people often ask when they're learning about Loomio.
 menu:
   main:
-    parent: getting_started
+    parent: guides
 ---
 
 ## Not receiving emails from Loomio?

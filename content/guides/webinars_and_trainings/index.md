@@ -5,7 +5,7 @@ description: Learn to use Loomio with a friendly expert.
 hidetoc: true
 menu:
   main:
-    parent: getting_started
+    parent: guides
 ---
 
 Want to learn how to use Loomio or introduce it to your group? We're here to help.

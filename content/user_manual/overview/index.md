@@ -1,19 +1,20 @@
 ---
-title: 1. What is Loomio?
+title: Overview
 weight: 10
-description: An overview of Loomio and how it works.
+description: What Loomio is, and how it works.
 menu:
   main:
-    parent: getting_started
+    parent: user_manual
+hidetoc: true
 ---
 
-Loomio makes is easy for groups of all shapes and sizes to collaborate and make decisions across time and space. Simple to use and easy to get started with, Loomio can save you hundreds of hours and thousands of dollars, supporting your group to be more effective in your decision-making and collaboration with our simple, online tool.
+Loomio makes is easy for groups of all shapes and sizes to collaborate and make decisions across time and space.
 
 <iframe width="100%" height="380px" src="https://www.youtube-nocookie.com/embed/Zlzuqsunpxc" frameborder="0" allowfullscreen></iframe>
 
 ## The big picture
 
-To start using Loomio well, you just need to understand four main elements.
+There are four main elements to a typical Loomio process:
 
 ![Group → Thread → Proposal → Outcome](loomio_app_ia.png)
 
@@ -25,11 +26,9 @@ Finally, you'll use an **outcome** to share what's going to happen next so every
 
 At its most basic, Loomio is a forum with tools that help you facilitate conversations and decisions, helping you start and hold conversations that move to clear outcomes.
 
-## Next up
-
 With the overview under your belt, it's time... [→ Start your group](../starting_a_group)
 
----
+<!-- ---
 
 ## About us
-Loomio is a cooperative social enterprise based in Wellington, Aotearoa New Zealand. Our mission is to empower anyone, anywhere to participate in decisions that affect their lives. [Find out more](https://www.loomio.org/about).
+Loomio is a cooperative social enterprise based in Wellington, Aotearoa New Zealand. Our mission is to empower anyone, anywhere to participate in decisions that affect their lives. [Find out more](https://www.loomio.org/about). -->

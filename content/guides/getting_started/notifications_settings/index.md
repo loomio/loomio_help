@@ -1,5 +1,5 @@
 ---
-title: 5. Email and User settings
+title: Email and User settings
 weight: 50
 description: Set your basic profile and email notification preferences.
 menu:
@@ -70,17 +70,7 @@ Loomio will detect your browser’s language settings, but you can manually set 
 
 <iframe width="100%" height="380px" src="https://www.youtube-nocookie.com/embed/0llDGzowrXU" frameborder="0" allowfullscreen></iframe>
 
-## Resetting your password
-You can change your password by visiting your profile page and clicking _Reset Password_. The profile page is located via the user menu; the video just above will show you where.
+## Setting a password
+You can set or change your password by visiting your profile page and clicking _Reset Password_. The profile page is located via the user menu; the video just above will show you where.
 
 ![](reset_password.png)
-
-## Deactivating your account
-
-For more information on deactivating, or recovering, your account, go to the [Your Profile article](/en/user_manual/users/user_profile)
-
----
-
-## Next up
-
-Now that you have the basics under your belt... [→ Activate your group](../activating)

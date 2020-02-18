@@ -2,10 +2,10 @@
 title: Concluding
 weight: 40
 description:
-menu:
-  main:
-    parent: facilitators_guide
-    weight: 40
+# menu:
+#   main:
+#     parent: facilitators_guide
+#     weight: 40
 ---
 ![](cover.jpg)
 

@@ -1,11 +1,11 @@
 ---
-title: 6. Activating your group
+title: Activating your group
 weight: 60
 description: Start and hold conversations that get clear outcomes.
 hidetoc: true
 menu:
   main:
-    parent: getting_started
+    parent: guides
 ---
 
 You can review – ___and share!___ – key 'getting started' lessons via our [Overview & How-to video series](/en/overview-and-how-tos), which can bring a newcomer up to speed in no time.

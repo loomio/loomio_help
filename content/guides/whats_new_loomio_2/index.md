@@ -4,7 +4,7 @@ weight: 10
 description: Allow us to walk you through the biggest improvements.
 menu:
   main:
-    parent: user_manual
+    parent: guides
 ---
 
 Everything is new!

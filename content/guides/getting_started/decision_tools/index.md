@@ -1,5 +1,5 @@
 ---
-title: 4. Proposals and polls
+title: Proposals and polls
 description: Use Loomio's facilitation tools to move towards clear outcomes.
 hidetoc: true
 weight: 40
