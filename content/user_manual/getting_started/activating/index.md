@@ -8,7 +8,7 @@ menu:
     parent: getting_started
 ---
 
-You can review – ___and share!___ – key 'getting started' lessons via our [Overview & How-to video series](/en/overview-and-how-tos), which can bring a newcomer up to speed in no time.
+Review and share the keys for anyone to get started – our [Loomio Basics **video** series](/en/overview_and_how_tos) – to bring newcomers up to speed in about 15 minutes.
 
 ## Step-by-step guides
 _To help you step forward towards achieving your purpose with less time and effort:_

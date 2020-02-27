@@ -13,7 +13,7 @@ Want to learn how to use Loomio or introduce it to your group? We're here to hel
 
 ## Videos and recordings
 
-Everything you need to get started, and maybe some features you hadn't noticed:<br> [How-to and Overview (20 minute) video series](/en/overview-and-how-tos).
+Everything you need to get started, and maybe some features you hadn't noticed, in about 15 minutes:<br> [Loomio Basics video series](/en/overview-and-how-tos).
 
 ### Live support
 
