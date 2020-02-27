@@ -6,15 +6,17 @@ hidetoc: true
 menu:
   main:
     parent: guides
+    name: Onboarding resources
 ---
 
 ## Onboarding resources
+_Master the basics and share with anyone who is not picking up Loomio as quickly:_
 
 ### [Loomio Basics **video** series](/en/overview-and-how-tos)
-Review and share the keys to _Getting Started_ for anyone to get started to bring newcomers up to speed in less than 20 minutes.
+Review and share key lessons from the [Getting Started guide](/en/guides/getting_started) to bring newcomers up to speed in as little as 15 minutes.
 
 ### [Recordings and Live Support](dummy.link)
-These webinars and recordings are especially useful as you get going. If your 'getting started' question is not covered in our [Getting Started guide](/en/guides/getting_started), this article or there, then [contact us](https://loomio.org/contact).
+These webinars and recordings are especially useful as you get going. If your 'getting started' question is not covered here, then [contact us](https://loomio.org/contact).
 
 ## Foundational lessons
 _To guide you if your team needs more clarity, a reboot, or some strong examples:_

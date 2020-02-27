@@ -1,10 +1,11 @@
 ---
-title: Starting a group
+title: 1. Starting a group
 weight: 20
 description: Create your Loomio group and ensure everyone is ready to participate.
 menu:
   main:
     parent: getting_started
+    name: Starting a group
 ---
 
 Getting started on Loomio means getting everyone signed up, familiar with the tool, and comfortable communicating or coordinating with one another. When done well, the group will come to life as people take the initiative to participate and engage.

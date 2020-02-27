@@ -1,10 +1,11 @@
 ---
-title: Email and User settings
+title: 4. Email and User settings
 weight: 50
 description: Set your basic profile and email notification preferences.
 menu:
   main:
     parent: getting_started
+    name: Email and User settings
 ---
 
 ## Configure your email settings
@@ -22,21 +23,9 @@ When you (or your group members) start your account, by _default,_ Loomio will:
 
 This helps to keep people engaged in the early stages of a group. We set this default assuming that you and your group members will not yet have a habit of using Loomio regularly. For this reason, the default makes it easier for you to stay up to date via your email inbox.
 
-To change these settings, go to your [notification settings](https://www.loomio.org/email_preferences), where all of your overarching notification settings live. Find it in the user menu by clicking on your name in the top-left; _if it is closed, click on the menu icon (top-left) to open it._ Then click the cog icon / **Notification settings**.
+To change these settings, go to your [notification settings](https://www.loomio.org/email_preferences). This is where you can change your notification preferences for all groups at once. [Learn more](/en/user_manual/users/email_settings/#group-email-preferences).
 
-<iframe width="100%" height="380px" src="https://www.youtube-nocookie.com/embed/VMhTAL5oXI8?rel=0" frameborder="0" allowfullscreen></iframe>
-
-### Notification preferences: all groups
-
-In this section of the overarching **Notification settings** page, you can select the defaults that affect all your groups:
-
-- receive emails **whenever there is activity** (subscribed)
-- use the **normal** setting (again, **when someone asks for your attention**)
-- choose to receive **no notifications** (ignore)
-
-### Notification preferences: a specific group
-
-Notification settings for each specific group are found in your Loomio group. To find it
+You can also set notification settings specific to any group or subgroup.
 
 1. Click on your group page
 2. Click on the tab, **Settings**
@@ -51,35 +40,25 @@ Your profile page lets you customize your Loomio identity. To visit your profile
 ![](edit_profile.png)
 
 ## Uploading a profile photo
-When you first create a Loomio account, your initials will be the default image associated with your profile. You can upload a profile photo by clicking on your picture on the profile page. If you have a [Gravatar](https://en.gravatar.com/) you can set that as your profile picture by selecting **Use Gravatar**. You can also choose for Loomio to use the photo you use for other common platforms/tools.
+It helps people to know who they are speaking to, and put a face to a name. In getting started, you will want to choose or upload a [profile photo](/en/user_manual/users/user_profile/#uploading-a-profile-photo).
 
 ## Update your personal info
 
-You can update:
-
-* **your name**
-* **your email address** - this email receives your Loomio notifications (on, by default)
-* **your username** - your username is a name people can use to alert you with an @mention in threads
-* **your introduction** - a few lines to let others in your group know more about you
-* **your location** - useful for distributed or remote groups so people can get an idea of where others are
+Updating your [introduction](/en/user_manual/users/user_profile/#update-your-personal-info), perhaps including skills or roles, and your location (especially for remote teams) can help build your teams.
 
 ## Language settings
 Loomio is developed in English, but [is translated by volunteers into many languages](https://www.loomio.org/g/cpaM3Hsv/loomio-community-translation).
 
-Loomio will detect your browser’s language settings, but you can manually set your preferred language from the profile page.
-
-<iframe width="100%" height="380px" src="https://www.youtube-nocookie.com/embed/0llDGzowrXU?rel=0" frameborder="0" allowfullscreen></iframe>
+Loomio will detect your browser’s language settings, but you can manually [set your preferred language](/en/user_manual/users/user_profile/#language-settings) from the profile page.
 
 ## Setting a password
-You can set or change your password by visiting your profile page and clicking _Reset Password_. The profile page is located via the user menu; the video just above will show you where.
-
-![](reset_password.png)
+You can set or change your password by visiting your profile page and clicking [**Reset Password**](/en/user_manual/users/user_profile/#resetting-your-password).
 
 ---
 
 ## To recap
 
-Check out the [Loomio Basics **video** series](/en/overview-and-how-tos) and review most of the Getting Started Guide in about 15 minutes.
+Check out the [Loomio Basics **video** series](/en/overview-and-how-tos) and review most of the Getting Started Guide in as little as 15 minutes.
 
 ## Convincing your group
 

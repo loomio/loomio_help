@@ -10,7 +10,9 @@ menu:
 
 <iframe width="100%" height="380px" src="https://www.youtube-nocookie.com/embed/0Mb2_D74ktM?rel=0" frameborder="0" allowfullscreen></iframe>
 
-Your profile page lets you customize your Loomio identity. To visit your profile page select the **Edit profile** option in the user menu, which is found by clicking on your name in the top-left of the screen; _if it is closed, click on the menu icon (top-left) to open it._
+## Your profile
+
+Your profile page lets you customize your Loomio identity. To visit your profile page select the **Edit profile** option in the user menu, which is found by clicking on your name at the top of the sidebar; _if sidebar is closed, click on the menu icon_ (**☰**) _to open it._
 
 ## Uploading a profile photo
 When you first create a Loomio account, your initials will be the default image associated with your profile. You can upload a profile photo by clicking on your picture on the profile page. If you have a [Gravatar](https://en.gravatar.com/) you can set that as your profile picture by selecting **Use Gravatar**. You can also choose for Loomio to use the photo you use for other common platforms/tools.
@@ -19,11 +21,11 @@ When you first create a Loomio account, your initials will be the default image 
 
 You can update:
 
-* **your name**
-* **your email address** - this email receives your Loomio notifications (on, by default)
-* **your username** - your username is a name people can use to alert you with an @mention in threads
-* **your introduction** - a few lines to let others in your group know more about you
-* **your location** - useful for distributed or remote groups so people can get an idea of where others are
+* **Your name**
+* **Your email address** - this email receives your Loomio notifications (on, by default)
+* **Your username** - your username is a name people can use to alert you with an @mention in threads
+* **Your introduction** - a few lines to let others in your group know more about you
+* **Your location** - useful for distributed or remote groups so people can get an idea of where others are.
 
 ## Language settings
 Loomio is developed in English, but [is translated by volunteers into many languages](https://www.loomio.org/g/cpaM3Hsv/loomio-community-translation).

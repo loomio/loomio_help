@@ -9,6 +9,6 @@ menu:
     identifier: getting_started
     parent: guides
 ---
-## VIDEO: Overview and How-to series
+## Learn by video: Loomio Basics playlist
 
-Learn everything you need in about 15 minutes with [these short videos (click here)](/en/overview_and_how_tos).
+Learn everything you will need in as little as 15 minutes with [these short videos (click here)](/en/overview_and_how_tos). The only topic covered in this guide, but not by video, is [Starting your group](starting_a_group).

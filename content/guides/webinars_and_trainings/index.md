@@ -1,29 +1,34 @@
 ---
-title: Webinars and Trainings
+title: Recordings and Live Support
 weight: 70
-description: Learn to use Loomio with a friendly expert.
+description: Learn to use Loomio with our friendly experts.
 hidetoc: true
 menu:
   main:
-    parent: guides
+    parent: getting_started
+    name: Recordings & Live Support
 ---
 
 Want to learn how to use Loomio or introduce it to your group? We're here to help.
 
-## Live webinars and trainings
+## Recorded trainings
 
-**Cooperative Decision-Making for Distributed Teams**<br>
-_February 18th at 2pm [EST](https://www.timeanddate.com/worldclock/converter.html?iso=20200218T190000&p1=179)_&nbsp; |&nbsp; _Co-presented by Loomio and Round Sky Solutions_<br>
-Facilitate a meaningfully democratic process for efficient and innovative decisions.<br>
-[Register here.](https://www.roundskysolutions.com/webinar-series/?utm_source=Loomio&utm_medium=social&utm_campaign=FoWDecisionMaking20)
+### Cooperative Decision Making for Distributed Teams
+Facilitate a meaningfully democratic process for efficient and innovative decisions.
 
+<iframe width="100%" height="380px" src="https://www.youtube-nocookie.com/embed/eGpWgwooYpI" frameborder="0" allowfullscreen></iframe>
 
-## Recorded webinars and trainings
+Learn more about the Round Sky's "Integrative" consent process, and learn to use it on Loomio, in [this guide](/en/guides/consent_process).
 
-Everything you need to get started, and maybe some features you hadn't noticed:<br> [How-to and Overview (20 minute) video series](/en/overview-and-how-tos).
+### Advice process
+A simple guide to consultative decision making on & off Loomio:
 
-### Looking for live support?
+<iframe width="100%" height="380px" src="https://www.youtube-nocookie.com/embed/qfpHnyyiIU0?rel=0" frameborder="0" allowfullscreen></iframe>
+
+Or read the written companion [guide](en/guides/advice_process).
+
+### Live support
 
 If you have a subscription, [let us know](https://loomio.org/contact/?utm_campaign=webi-trainings-help&utm_term=help) if you are looking for some support or hoping to connect live.
 
-If you are evaluating whether Loomio is for you, [don't hesitate to reach out](https://loomio.org/contact/?utm_campaign=webi-trainings-help&utm_term=help) and request a product tour.
+If you are evaluating whether Loomio is for you, [don't hesitate to reach out](https://loomio.org/contact/?utm_campaign=webi-trainings-help&utm_term=help)

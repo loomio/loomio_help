@@ -1,10 +1,11 @@
 ---
-title: Having discussions
+title: 2. Having discussions
 weight: 30
 description: Tips for inclusive and effective discussions on Loomio.
 menu:
   main:
     parent: getting_started
+    name: Having discussions
 ---
 
 Use Loomio's **threads** to have discussions that result in clear outcomes.
@@ -53,11 +54,11 @@ If you choose to **reply** you will notify the user you replied to.
 
 ### Reacting
 
-On any comment or thread's context you can **react** to quickly respond with an apt emoji. You might use a reaction when you want to share how you feel, a brief opinion, or indicate that you have seen the comment. Reactions are helpful because they are less disruptive than mentions, replies, or comments.
+On any comment or thread's context you can **[react](/en/user_manual/threads/engaging_with_threads/#reactions)** to quickly respond with an apt emoji. You might use a reaction when you want to share how you feel, a brief opinion, or indicate that you have seen the comment. Reactions are helpful because they are less disruptive than mentions, replies, or comments.
 
 ### Invite people
 
-When you start a thread, your whole group can access it immediately. If you want more people's participation, or want their participation sooner, you can additionally send them an alert via the box that immediately appears when you start the thread. You can also alert people in this way later on with the **invite people** feature.
+When you start a thread, your whole group can access it immediately. If you want more people's participation, or want their participation sooner, you can additionally send them an alert via the box that immediately appears when you start the thread. You can also alert people in this way later on with the **[invite people](/en/user_manual/threads/thread_admin/#invite-guests-to-thread)** feature.
 
 !["Invite people" feature in thread context](invite_people.png)
 
