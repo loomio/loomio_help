@@ -1,6 +1,6 @@
 ---
 title: Getting Started with Loomio
-description: All you need to get your group going in six quick lessons.
+description: All you need to get your group going in four quick lessons.
 weight: 10
 menu:
   main:

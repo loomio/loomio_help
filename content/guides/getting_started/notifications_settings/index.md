@@ -74,3 +74,13 @@ Loomio will detect your browser’s language settings, but you can manually set 
 You can set or change your password by visiting your profile page and clicking _Reset Password_. The profile page is located via the user menu; the video just above will show you where.
 
 ![](reset_password.png)
+
+---
+
+## To recap
+
+Check out the [Loomio Basics **video** series](/en/overview-and-how-tos) and review most of the Getting Started Guide in about 15 minutes.
+
+## Convincing your group
+
+Our [onboarding resources](../../activating) can help you get everyone on board to adopt Loomio.

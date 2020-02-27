@@ -1,37 +1,26 @@
 ---
-title: Activating your group
-weight: 60
-description: Start and hold conversations that get clear outcomes.
+title: Adopting Loomio & Onboarding Resources
+weight: 20
+description: Get everyone on board and get your group's first outcome on Loomio.
 hidetoc: true
 menu:
   main:
     parent: guides
 ---
 
-You can review – ___and share!___ – key 'getting started' lessons via our [Overview & How-to video series](/en/overview-and-how-tos), which can bring a newcomer up to speed in no time.
+## Onboarding resources
 
-## Step-by-step guides
-_To help you step forward towards achieving your purpose with less time and effort:_
+### [Loomio Basics **video** series](/en/overview-and-how-tos)
+Review and share the keys to _Getting Started_ for anyone to get started to bring newcomers up to speed in less than 20 minutes.
 
-### [Consent decision making with Loomio](/en/guides/consent_process)
-A simple 'how to' for groups to use consent process on and off Loomio, co-written by fellow decision-making experts RoundSky Solutions (also a co-op!).
-
-### [Advice Process with Loomio](/en/guides/advice_process)
-Learn to use advice process on and off Loomio to make faster, quality decisions.
-
-### [Governance workflows](/en/guides/governance)
-Processes and workflows for boards and committees, and ways to save on meetings.
-
-### [Supercharging your meetings](/en/guides/governance/#supercharge-your-meetings)
+### [Recordings and Live Support](dummy.link)
+These webinars and recordings are especially useful as you get going. If your 'getting started' question is not covered in our [Getting Started guide](/en/guides/getting_started), this article or there, then [contact us](https://loomio.org/contact).
 
 ## Foundational lessons
 _To guide you if your team needs more clarity, a reboot, or some strong examples:_
 
 ### [Four keys to high-performing groups](/en/guides/four-patterns-of-success)
 How successful groups collaborate to achieve great outcomes.
-
-### [9 ways to use a proposal](https://blog.loomio.org/2015/09/18/9-ways-to-use-a-loomio-proposal-to-turn-a-conversation-into-action/ "opens in new tab")
-Proposals are a flexible tool to turn conversations into action; learn how.
 
 ---
 

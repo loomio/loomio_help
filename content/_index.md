@@ -7,10 +7,10 @@ Loomio is a discussion and decision-making platform used by thousands of organiz
 
 ***
 ## [User Manual](user_manual)
-Everything from Getting started, right through to in-depth explanations of all the features and troubleshooting.
+Get an overview of what Loomio is, master every feature, and troubleshoot.
 
-## [Guides & How to's](guides)
-Guides to using Loomio in various situations.
+## [Guides & How to](guides)
+Get started, Activate your group, and practical ways to better discuss and decide.
 
 ## [Pricing and subscriptions](subscriptions)
 How our pricing works and how to update, modify or cancel a subscription.

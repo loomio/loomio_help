@@ -14,19 +14,25 @@ Loomio makes is easy for groups of all shapes and sizes to collaborate and make 
 
 ## The big picture
 
-There are four main elements to a typical Loomio process:
+There are four main elements to understand.
 
 ![Group → Thread → Proposal → Outcome](loomio_app_ia.png)
 
-**Groups** hold everything in one place for a specific set of people.
+There are some other details along the way, but understanding just these four is often enough to get your first successful outcome.
 
-Discussion **threads** are where you go to discuss topics and make decisions, using tools such as the **proposal** – or other **polls** – which help you visualize where the group is at on a given proposal, question, or topic.
+1. **Groups** hold everything in one place for a specific set of people
 
-Finally, you'll use an **outcome** to share what's going to happen next so everyone has a clear understanding and there's a useful record.
+2. Discussion **threads** are where you go to discuss topics and make decisions
+
+3. Use tools such as the **proposal** or other **polls** to help you visualize the group's input and feelings about a given proposal, question, or topic.
+
+4. Finally, set an **outcome** to share what's going to happen next so everyone has a clear understanding and there's a useful record.
 
 At its most basic, Loomio is a forum with tools that help you facilitate conversations and decisions, helping you start and hold conversations that move to clear outcomes.
 
-With the overview under your belt, it's time... [→ Start your group](../starting_a_group)
+---
+
+Ready to create your group's place online? Try it with your group for free [here](https://loomio.org/).
 
 <!-- ---
 
