@@ -17,6 +17,8 @@ Write your comment and press **Post** to have your say.
 
 Replies are like comments except in that the author of the original comment will be notified of your reply. Click **reply** on the comment you would like to associate your comment with, as it will be nested underneath theirs by default.
 
+> **Tip:** You can reply to your _own_ comment in order to nest your reply underneath the comment. Click the hree horizontal dots (**⋯**) to find **reply** in this case.
+
 If Loomio has emailed you a comment and says you can reply to the email, you can reply directly from your email and your message will appear in the thread.
 
 ## Formatting comments

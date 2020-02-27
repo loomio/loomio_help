@@ -29,6 +29,8 @@ Some groups choose [permissions](/en/user_manual/groups/settings/) that allow an
 
 While editing the context, click the **X** to the right of the attachment's name.
 
+![](delete_context_attachment.png)
+
 ## Timeline
 
 The timeline helps you and your group to quickly access content (conversations, questions, decisions…). It is a visual, interactive history of key events, processes, or milestones that helps your group to understand how a conversation evolved over time or to review how a given outcome came about.
