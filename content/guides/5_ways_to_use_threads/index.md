@@ -5,7 +5,7 @@ description: Tried and true practices for productive communication.
 hidetoc: true
 menu:
   main:
-    parent: getting_started
+    parent: guides
 ---
 
 ![](https://lh3.googleusercontent.com/bS4FpmIiJo-ZZVLl6ku4vShogAwMEos84mjZP7u7XOcjpKPwqQkIS5rXK6PlIOB8cvzvjLpf2WdIlKSgueSgItTfeBDFs1QxlDBjWqI_xnD8OEobZXESoQ4oheFzQMxgE_kAdZEgfg=w2400)

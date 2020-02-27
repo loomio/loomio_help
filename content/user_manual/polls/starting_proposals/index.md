@@ -4,7 +4,7 @@ description: Basics, tips, and tricks for writing and using decision tools.
 weight: 10
 menu:
   main:
-    parent: poll
+    parent: polls
 ---
 <iframe width="100%" height="380px" src="https://www.youtube-nocookie.com/embed/O-laa4di8kI" frameborder="0" allowfullscreen></iframe>
 

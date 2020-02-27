@@ -6,6 +6,7 @@ hidetoc: true
 menu:
   main:
     parent: getting_started
+    name: Recordings & Live Support
 ---
 
 Want to learn how to use Loomio or introduce it to your group? We're here to help.
