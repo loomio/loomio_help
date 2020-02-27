@@ -18,7 +18,7 @@ To add members to your group
 * **Invite people:** If you have their email addresses, you can send invitations to each member of your group.
 * **Shareable link:** Or you can share the invitation link via email or however your team communicates.
 
-<iframe width="100%" height="380px" src="https://www.youtube-nocookie.com/embed/EZzTe6jJL7c" frameborder="0" allowfullscreen></iframe>
+<iframe width="100%" height="380px" src="https://www.youtube-nocookie.com/embed/EZzTe6jJL7c?rel=0" frameborder="0" allowfullscreen></iframe>
 
 ### Invite people to subgroups
 
@@ -52,7 +52,7 @@ There is a limit to the number of invitation emails you can send. Any person can
 
 To manage invitations, open the filter/ drop down from the Members tab of your Group page and select **invitations**; choose the three dots to the right of the invitation/ person in question.
 
-<iframe width="100%" height="380px" src="https://www.youtube-nocookie.com/embed/BH0x494sZlU" frameborder="0" allowfullscreen></iframe>
+<iframe width="100%" height="380px" src="https://www.youtube-nocookie.com/embed/BH0x494sZlU?rel=0" frameborder="0" allowfullscreen></iframe>
 
 You can also make people coordinators or set their title (eg, "IT Support") within the group before they accept their invitation.
 

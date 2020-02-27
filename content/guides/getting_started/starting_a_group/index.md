@@ -7,7 +7,7 @@ menu:
     parent: getting_started
 ---
 
-Getting started on Loomio means getting everyone signed up, familiar with the tool, and comfortable communicating or coordinating with one another. When done well, the group will come to life as people take the initiative to start discussions and raise proposals.
+Getting started on Loomio means getting everyone signed up, familiar with the tool, and comfortable communicating or coordinating with one another. When done well, the group will come to life as people take the initiative to participate and engage.
 
 Most Loomio groups need a champion to help them get going, and then they build their own momentum. If you're reading this, that champion is probably you!
 
@@ -15,9 +15,9 @@ Most Loomio groups need a champion to help them get going, and then they build t
 
 Have a discussion with your group about using Loomio.
 
-- **What problem** are you trying to solve with a new tool? _For example: Including people who can't attend meetings, better documentation, or to keep making progress between meetings._
-- **What is Loomio for?** How are you going to use it, _eg, decisions, reporting, mass engagement, or just input?_
-- **Who's involved?** Who will support conversations to be productive, or facilitate?
+- **What problem** are you trying to solve with a new tool? _Eg, reducing meetings_
+- **What is Loomio for?** How will you use it, _eg, forum, decisions, or just input?_
+- **Who's involved?** Who will facilitate or support conversations to be productive?
 - What kind of **behaviour** is welcome, and what's not ok?
 - How will Loomio complement your **existing processes**?
 
@@ -34,29 +34,23 @@ When you first start, you'll create a new **organization**. At this stage, organ
 
 It's best to keep your group name short and concise.
 
-### Group handle
-
-By default, Loomio will make this `your-group-name` but you can choose any unused, alphanumeric handle (hyphens optional). Navigating to the URL loomio.org/[your-group-handle] will take you directly to your group page.
-
-![](new_group_handle.png)
-
 ## Group description
 
-It's important to add a description to help everyone get into the action and clear on what's happening.
+It's important to add a description to help people settle in and get engaged.
 
-The description should give members a clear understanding of what that group is for or intends to do. Some examples:
+The description should give members a clear understanding of the purpose or scope of the group. Some examples:
 
 "_A public group for us to approve requests for use of the gallery space_"
 
 "_The space for our board members to consider budget proposals_"
 
-With a clear purpose, people can make judgment calls about what's best for the group. Understanding group context helps people get oriented.
-
 **Add a Group description** by navigating to the **Settings** tab on your group page. Click **Edit Group Settings** and use the form that appears (click save when done). If you're having trouble finding it from Edit Group Settings, double-check that you haven't switched tabs ("Profile" should be highlighted in yellow).
 
-### Group description is also a Resource hub
+<iframe width="100%" height="380px" src="https://www.youtube-nocookie.com/embed/7z60BLLBLFU?rel=0" frameborder="0" allowfullscreen></iframe>
 
-Your Loomio group page is also a place to store all of the information, links, and files that everyone in your group needs. Update the Group description field and attach files from your computer or from the cloud.
+### A resource hub for your group
+
+Your Loomio **group page** is a place to store all of the information, links, and files that everyone in your group needs. Update the Group description field and attach files from your computer or from the cloud.
 
 ![](group_description.png)
 
@@ -86,12 +80,6 @@ Uploading a photo that has some meaning to your group significantly improves the
 
 ![](edit_group_photo.png)
 
-## Encourage introductions
-
-A round of introductions is a great way for people to get to know a bit about each other and to feel more comfortable. Even if people are already acquainted, they can share more specifically about their role or perspective in the Loomio group or project at hand.
-
-![](example_introduction_thread.png)
-
 ## Invite people
 
 You're ready to invite people into the group! Loomio is a group collaboration tool, so this is an important step.
@@ -103,7 +91,7 @@ You're ready to invite people into the group! Loomio is a group collaboration to
 * **Invite people:** If you have their email addresses, you can send invitations to each member of your group.
 * **Shareable link:** Or you can share the invitation link via email or however your team communicates.
 
-<iframe width="100%" height="380px" src="https://www.youtube-nocookie.com/embed/EZzTe6jJL7c" frameborder="0" allowfullscreen></iframe>
+<iframe width="100%" height="380px" src="https://www.youtube-nocookie.com/embed/EZzTe6jJL7c?rel=0" frameborder="0" allowfullscreen></iframe>
 
 _Closed groups_ can choose to share their loomio.org address [`loomio.org/handle`] and then approve requests to join. _Reminder: Closed groups are basically private, but – unlike Secret groups – disclose their Group Name and Group Description publicly._
 

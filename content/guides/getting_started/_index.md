@@ -9,5 +9,6 @@ menu:
     identifier: getting_started
     parent: guides
 ---
+## VIDEO: Overview and How-to series
 
-<iframe width="100%" height="380px" src="https://www.youtube-nocookie.com/embed/Zlzuqsunpxc" frameborder="0" allowfullscreen></iframe>
+Learn everything you need in about 15 minutes with [these short videos (click here)](/en/overview_and_how_tos).

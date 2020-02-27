@@ -8,7 +8,7 @@ menu:
     parent: users
 ---
 
-<iframe width="100%" height="380px" src="https://www.youtube-nocookie.com/embed/0Mb2_D74ktM" frameborder="0" allowfullscreen></iframe>
+<iframe width="100%" height="380px" src="https://www.youtube-nocookie.com/embed/0Mb2_D74ktM?rel=0" frameborder="0" allowfullscreen></iframe>
 
 Your profile page lets you customize your Loomio identity. To visit your profile page select the **Edit profile** option in the user menu, which is found by clicking on your name in the top-left of the screen; _if it is closed, click on the menu icon (top-left) to open it._
 
@@ -30,7 +30,7 @@ Loomio is developed in English, but [is translated by volunteers into many langu
 
 Loomio will detect your browser’s language settings, but you can manually set your preferred language from the profile page.
 
-<iframe width="100%" height="380px" src="https://www.youtube-nocookie.com/embed/0llDGzowrXU" frameborder="0" allowfullscreen></iframe>
+<iframe width="100%" height="380px" src="https://www.youtube-nocookie.com/embed/0llDGzowrXU?rel=0" frameborder="0" allowfullscreen></iframe>
 
 ## Resetting your password
 You can change your password by visiting your profile page and clicking **Reset Password**.

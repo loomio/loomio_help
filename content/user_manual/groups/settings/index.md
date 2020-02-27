@@ -36,7 +36,7 @@ Admin can change group permissions and configure what members can do in any grou
 2. selecting **Edit Group Settings**
 3. clicking a tab (**Privacy** or **Permissions** options are described below)
 
-<iframe width="100%" height="380px" src="https://www.youtube-nocookie.com/embed/ye08QEnP1_A" frameborder="0" allowfullscreen></iframe>
+<iframe width="100%" height="380px" src="https://www.youtube-nocookie.com/embed/ye08QEnP1_A?rel=0" frameborder="0" allowfullscreen></iframe>
 
 ## Privacy
 

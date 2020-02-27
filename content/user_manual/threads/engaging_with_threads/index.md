@@ -48,7 +48,7 @@ If you have new information or are coming back after an extended period of time,
 Click **react** on any thread context or comment to share how a comment made you feel, or acknowledge something someone has said, without writing a comment. They're a light-weight way to participate without interrupting the conversation, and they only send a notification within the app (not by email).
 
 ## Automatic translation
-<iframe width="100%" height="380px" src="https://www.youtube-nocookie.com/embed/ZI_ZxJKoiy0" frameborder="0" allowfullscreen></iframe>
+<iframe width="100%" height="380px" src="https://www.youtube-nocookie.com/embed/ZI_ZxJKoiy0?rel=0" frameborder="0" allowfullscreen></iframe>
 
 Loomio can translate a comment from one language into another automatically (with the help of Google Translate). If the author of a comment uses a language other than yours, **Translate comment** will be available in the drop-down options of the comment in question, from the three horizontal dots (**⋯**).
 

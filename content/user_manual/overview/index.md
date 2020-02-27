@@ -10,7 +10,7 @@ hidetoc: true
 
 Loomio makes is easy for groups of all shapes and sizes to collaborate and make decisions across time and space.
 
-<iframe width="100%" height="380px" src="https://www.youtube-nocookie.com/embed/Zlzuqsunpxc" frameborder="0" allowfullscreen></iframe>
+<iframe width="100%" height="380px" src="https://www.youtube-nocookie.com/embed/Zlzuqsunpxc?rel=0" frameborder="0" allowfullscreen></iframe>
 
 ## The big picture
 

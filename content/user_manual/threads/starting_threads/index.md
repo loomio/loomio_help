@@ -17,7 +17,7 @@ Give your thread a title; try to keep it short and to the point. You can always 
 Use the thread **context** to introduce the topic. Give background information or links that people will need to participate, and explain what kind of participation you're looking for. The context will always stay at the top of the thread, above the thread's comments, proposals and polls.
 
 ## Thread privacy
-If your group privacy is **Closed** or **Secret** then your threads will be **private**. Private means that only members of the group are able to view the threads started in this group _unless_ you **invite people** such as an expert (or any guest not currently part of your group).
+If your group privacy is **Closed** or **Secret** then your threads will be **private**. Private means that only members of the group are able to view the threads started in this group (*except* when you **invite people** such as an expert or any guest not currently part of your group).
 
 ![](private_thread_label.png)
 

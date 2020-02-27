@@ -11,7 +11,7 @@ menu:
 
 Email notifications are an important way for Loomio to keep people updated on what's happening in your group.
 
-<iframe width="100%" height="380px" src="https://www.youtube-nocookie.com/embed/0Mb2_D74ktM" frameborder="0" allowfullscreen></iframe>
+<iframe width="100%" height="380px" src="https://www.youtube-nocookie.com/embed/0Mb2_D74ktM?rel=0" frameborder="0" allowfullscreen></iframe>
 
 When you (or your group members) start your account, by _default,_ Loomio will:
 
@@ -24,7 +24,7 @@ This helps to keep people engaged in the early stages of a group. We set this de
 
 To change these settings, go to your [notification settings](https://www.loomio.org/email_preferences), where all of your overarching notification settings live. Find it in the user menu by clicking on your name in the top-left; _if it is closed, click on the menu icon (top-left) to open it._ Then click the cog icon / **Notification settings**.
 
-<iframe width="100%" height="380px" src="https://www.youtube-nocookie.com/embed/VMhTAL5oXI8" frameborder="0" allowfullscreen></iframe>
+<iframe width="100%" height="380px" src="https://www.youtube-nocookie.com/embed/VMhTAL5oXI8?rel=0" frameborder="0" allowfullscreen></iframe>
 
 ### Notification preferences: all groups
 
@@ -68,7 +68,7 @@ Loomio is developed in English, but [is translated by volunteers into many langu
 
 Loomio will detect your browser’s language settings, but you can manually set your preferred language from the profile page.
 
-<iframe width="100%" height="380px" src="https://www.youtube-nocookie.com/embed/0llDGzowrXU" frameborder="0" allowfullscreen></iframe>
+<iframe width="100%" height="380px" src="https://www.youtube-nocookie.com/embed/0llDGzowrXU?rel=0" frameborder="0" allowfullscreen></iframe>
 
 ## Setting a password
 You can set or change your password by visiting your profile page and clicking _Reset Password_. The profile page is located via the user menu; the video just above will show you where.

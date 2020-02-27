@@ -47,7 +47,7 @@ There are many ways you can use a check, but only one or two ways to respond: a 
 
 You can choose to use just one or the other if that makes more sense; _eg, it may not help to receive_ ***No*** _responses for an opt-in or volunteer opportunity, in which case you will select the_ ***Yes*** _option only_
 
-<iframe width="100%" height="380px" src="https://www.youtube-nocookie.com/embed/b28F7mciATA" frameborder="0" allowfullscreen></iframe>
+<iframe width="100%" height="380px" src="https://www.youtube-nocookie.com/embed/b28F7mciATA?rel=0" frameborder="0" allowfullscreen></iframe>
 
 Other examples:
 

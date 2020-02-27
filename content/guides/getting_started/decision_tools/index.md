@@ -8,7 +8,7 @@ menu:
     parent: getting_started
 ---
 
-<iframe width="100%" height="380px" src="https://www.youtube-nocookie.com/embed/ePILBTxgkmE" frameborder="0" allowfullscreen></iframe>
+<iframe width="100%" height="380px" src="https://www.youtube-nocookie.com/embed/ePILBTxgkmE?rel=0" frameborder="0" allowfullscreen></iframe>
 
 *Above shows an older Loomio, but it's still a great explainer. We'll upgrade it soon!*
 

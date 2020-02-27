@@ -103,7 +103,7 @@ Once all objections have been surfaced then we can complete integration. This in
 
 As we mentioned, there’s a number of benefits from doing some of your consent processes online. Here's how (on Loomio):
 
-<iframe width="100%" height="380px" src="https://www.youtube-nocookie.com/embed/uoXpHsiNOqQ" frameborder="0" allowfullscreen></iframe>
+<iframe width="100%" height="380px" src="https://www.youtube-nocookie.com/embed/uoXpHsiNOqQ?rel=0" frameborder="0" allowfullscreen></iframe>
 
 ## Key Pitfalls
 
@@ -127,7 +127,7 @@ To learn what to do to resolve these common pitfalls, check out Round Sky’s De
 
 ## VIDEO: quick guide
 
-<iframe width="100%" height="380px" src="https://www.youtube-nocookie.com/embed/54XZeFmtnyw" frameborder="0" allowfullscreen></iframe>
+<iframe width="100%" height="380px" src="https://www.youtube-nocookie.com/embed/54XZeFmtnyw?rel=0" frameborder="0" allowfullscreen></iframe>
 
 ## Safe to try
 

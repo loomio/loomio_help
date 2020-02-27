@@ -30,7 +30,7 @@ Click the **New subgroup** button, give it a meaningful title and decide on the 
 
 However, similar to [starting a group](/en/user_manual/getting_started/starting_a_group), you may want to 'prepare the space,' so to speak, for those you will soon invite. A group description, and adjusting any settings including the banner image, can help people feel comfortable in the Loomio group and with the others who will be participating here. Again, this supports psychological safety – proven to improve performance.
 
-<iframe width="100%" height="380px" src="https://www.youtube-nocookie.com/embed/U4qmHlEMq8E" frameborder="0" allowfullscreen></iframe>
+<iframe width="100%" height="380px" src="https://www.youtube-nocookie.com/embed/U4qmHlEMq8E?rel=0" frameborder="0" allowfullscreen></iframe>
 
 [Invite people](/en/user_manual/getting_started/starting_a_group/#invite-people) just like you would in a group.
 
@@ -68,7 +68,7 @@ Invite people just like you would invite them into a group. If they're already i
 
 If you use the **Invite people** button from your parent group's **Members** tab, you can invite people to multiple subgroups at the same time by ticking the boxes of those you would like them to join immediately.
 
-<iframe width="100%" height="380px" src="https://www.youtube-nocookie.com/embed/EZzTe6jJL7c" frameborder="0" allowfullscreen></iframe>
+<iframe width="100%" height="380px" src="https://www.youtube-nocookie.com/embed/EZzTe6jJL7c?rel=0" frameborder="0" allowfullscreen></iframe>
 
 ### Deactivate a subgroup
 

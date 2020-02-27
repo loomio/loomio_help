@@ -17,7 +17,7 @@ The bell icon in the top-right is where notifications are accessed within the ap
 
 If you want to get the attention of a specific person, type **@** followed by their name to _mention_ them.  As you type, a menu will appear, listing the members in your group that match that name. Select the member you want and then click post or start. You can mention people in comments, thread contexts, or in the details of a decision. They will be notified that you’ve mentioned them.
 
-<iframe width="100%" height="380px" src="https://www.youtube-nocookie.com/embed/VzM1AWnNP7c" frameborder="0" allowfullscreen></iframe>
+<iframe width="100%" height="380px" src="https://www.youtube-nocookie.com/embed/VzM1AWnNP7c?rel=0" frameborder="0" allowfullscreen></iframe>
 
 ## Replies
 
@@ -37,9 +37,7 @@ If the thread is an important announcement and contains information that's ready
 
 > **Tip:** You can use the PREVIEW EMAIL button to check what will arrive to their inbox (if they have not turned off their email notifications).
 
-### Inviting guests and experts to the thread.
-If you want to involve people who are not in your group (or not on Loomio yet) you can invite them into the thread by entering their email address after clicking **invite people**. They won't get access to the rest of the threads in your group, just this one. _If you_ do _want them to be in the group, then invite them to join from the group page._
-
+You can use **invite people** to invite [guests and experts (read more)](../thread_admin/#invite-guests-to-thread).
 
 ### Notify the right people every time
 
