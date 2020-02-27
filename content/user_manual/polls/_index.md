@@ -9,5 +9,3 @@ menu:
 ---
 
 <iframe width="100%" height="380px" src="https://www.youtube-nocookie.com/embed/O-laa4di8kI" frameborder="0" allowfullscreen></iframe>
-
-*Above shows an older Loomio, but it's still a great explainer. We'll upgrade it soon!*
