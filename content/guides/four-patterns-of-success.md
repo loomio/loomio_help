@@ -1,6 +1,6 @@
 ---
 title: Four patterns of high-functioning groups
-weight: 20
+weight: 100
 description: How successful groups collaborate to achieve great outcomes.
 author: Michael Elwood-Smith
 categories:

@@ -1,11 +1,12 @@
 ---
 title: 5 powerful ways to use threads
-weight: 0
+weight: 30
 description: Tried and true practices for productive communication.
 hidetoc: true
 menu:
   main:
     parent: guides
+    name: 5 ways to use threads
 ---
 
 ![](https://lh3.googleusercontent.com/bS4FpmIiJo-ZZVLl6ku4vShogAwMEos84mjZP7u7XOcjpKPwqQkIS5rXK6PlIOB8cvzvjLpf2WdIlKSgueSgItTfeBDFs1QxlDBjWqI_xnD8OEobZXESoQ4oheFzQMxgE_kAdZEgfg=w2400)

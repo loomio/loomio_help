@@ -1,6 +1,6 @@
 ---
 title: Recordings and Live Support
-weight: 70
+weight: 120
 description: Learn to use Loomio with our friendly experts.
 hidetoc: true
 menu:

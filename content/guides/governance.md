@@ -1,5 +1,6 @@
 ---
 title: Governance
+weight: 80
 description: Processes and workflows for boards and committees.
 menu:
   main:

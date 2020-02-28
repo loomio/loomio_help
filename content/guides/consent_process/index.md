@@ -1,5 +1,6 @@
 ---
-title: Consent decision making improves group outcomes
+title: Consent decision making
+weight: 60
 description: A simple 'how to' for groups to use Integrative Consent on & off Loomio
 menu:
   main:

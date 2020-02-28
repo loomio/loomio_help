@@ -1,10 +1,6 @@
 ---
 title: What's new in Loomio 2.0
-weight: 100
 description: Allow us to walk you through the biggest improvements.
-menu:
-  main:
-    parent: guides
 ---
 
 Everything is new!

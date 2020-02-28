@@ -10,20 +10,33 @@ menu:
 ---
 
 ## Onboarding resources
-_Master the basics and share with anyone who is not picking up Loomio as quickly:_
 
-### [Loomio Basics **video** series](/en/overview-and-how-tos)
-Review and share key lessons from the [Getting Started guide](/en/guides/getting_started) to bring newcomers up to speed in as little as 15 minutes.
+### [Loomio Basics video series](/en/overview-and-how-tos)
+Review and share key lessons from the [Getting Started guide](/en/guides/getting_started) to bring newcomers up to speed in as little as 15 minutes with these [**videos**](/en/overview-and-how-tos).
 
-### [Recordings and Live Support](dummy.link)
-These webinars and recordings are especially useful as you get going. If your 'getting started' question is not covered here, then [contact us](https://loomio.org/contact).
+## Adopting Loomio
+
+Top tips & tricks for adoption:
+
+- ***Agree on the scope,*** **and trial it**
+ - How are we going to use Loomio? (eg, discussion, decisions, input, or just reporting?)
+ - What shall we first use Loomio for, and when will we evaluate success?
+
+
+- ***Start small,*** **routine tasks** (eg, approve minutes) can be a great start
+
+
+- ***Raise the stakes,*** **move the action:** want to participate? Join Loomio
+
+
+- ***Recall why,*** **remind the group** you’ve agreed to use Loomio, and why
+ - Conversation by e-mail? Copy & paste discussion back into Loomio
+ - Deciding in person? Invite the group to move the decision online
 
 ## Foundational lessons
-_To guide you if your team needs more clarity, a reboot, or some strong examples:_
-
 ### [Four keys to high-performing groups](/en/guides/four-patterns-of-success)
 How successful groups collaborate to achieve great outcomes.
 
----
+## For all else
 
-Have more questions on how to take the next step in your collaboration journey? Not sure how to best get the value out of moving some discussion or decisions online? [Get in touch](https://loomio.org/contact/?utm_campaign=getting_started_guide_help&utm_term=help  "opens in new tab").
+If your questions aren't covered in our [User Manual](/) or these [guides](/en/guides), then [contact us](https://loomio.org/contact?utm_campaign=getting_started_guide_help&utm_term=help  "opens in new tab").

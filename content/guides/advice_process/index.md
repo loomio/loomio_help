@@ -1,5 +1,6 @@
 ---
 title: Advice process
+weight: 70
 description: A simple guide to consultative decision making on & off Loomio
 menu:
   main:

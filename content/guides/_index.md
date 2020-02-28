@@ -38,8 +38,19 @@ A simple guide to consultative decision making on & off Loomio
 
 # Less meetings
 
-### [Governance workflows](/en/guides/governance)
+## [Governance workflows](/en/guides/governance)
 Processes for boards and committees to simplify work and save on meetings.
 
-### [Supercharging your meetings](/en/guides/governance/#supercharge-your-meetings)
+## [Supercharging your meetings](/en/guides/governance/#supercharge-your-meetings)
 Get more with less by communicating online and preparing on people's own time.
+
+# More practical guides
+
+## [4 patterns of high-performing groups](/en/guides/four-patterns-of-success)
+How successful groups collaborate to achieve great outcomes.
+
+## [More practical examples](/en/guides/practical_examples)
+We've tested and documented a number of other methods you can use.
+
+## [Recordings and Live Support](/en/guides/webinars_and_trainings/)
+Learn to use Loomio with our friendly experts.

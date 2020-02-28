@@ -12,7 +12,7 @@ Use Loomio's **threads** to have discussions that result in clear outcomes.
 
 <iframe width="100%" height="380px" src="https://www.youtube-nocookie.com/embed/1qxGl8MBA88?rel=0" frameborder="0" allowfullscreen></iframe>
 
-**Facilitation** means “to make easier, to help forward." You don't have to be a pro facilitator to help your group have productive discussions. In fact, anyone in a group can make little acts of facilitation. There are many ways to improve your online communications and collaboration. We've also written about the [5 different ways to use threads](/en/guides/5_ways_to_use_threads). This thread is a 101 course on Loomio's discussion threads and facilitation.
+**Facilitation** means “to make easier, to help forward." You don't have to be a pro facilitator to help your group have productive discussions. In fact, anyone in a group can make little acts of facilitation. There are many ways to improve your online communications and collaboration. We've also written about the [5 different ways to use threads](/en/guides/5_ways_to_use_threads). This article is a 101 course on Loomio's discussion threads and facilitation.
 
 ## What makes up a thread
 
@@ -127,9 +127,9 @@ Sometimes an issue is helped by delegating a small group to do background resear
 
 If you have an area of collaboration requiring many threads and ongoing collaboration, but it only affects certain people, you can create a [subgroup](../../groups/subgroups). For example, offices in different geographical locations, teams working on different projects, or groups with a specific mandate like a governance board.
 
-## Going in-depth on Facilitation
+## Scaffolding productive discussions
 
-See the [Facilitators Guide to Loomio](../../../guides/facilitators_guide/) for more information on this topic and more.
+See [**5 different ways to use threads**](/en/guides/5_ways_to_use_threads) to learn about tried and true templates and best practices for conversations that lead to better outcomes.
 
 ## Next up
 
