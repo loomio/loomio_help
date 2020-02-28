@@ -85,6 +85,10 @@ To apply a tag to a thread, go into the thread's options and choose Category tag
 
 <iframe width="100%" height="380px" src="https://www.youtube-nocookie.com/embed/X40wuMaZ-8E" frameborder="0" allowfullscreen></iframe>
 
+#### Removing category tags
+
+Access the Category tags in the same way as above, but then click the **x** to remove the tags you do not want and then **save**.
+
 ### Move thread
 
 You may want to move threads between groups and subgroups to keep things organised. To do this, select **move to group** from the additional options

@@ -25,6 +25,10 @@ You can click **edit** at the bottom of the context to edit it if you started th
 
 Some groups choose [permissions](/en/user_manual/groups/settings/) that allow any group member to edit the context, so that anyone can clarify the top-most information, instructions, or framing to help people jump right in (eg, someone late to the discussion).
 
+#### Add attachments
+
+Use the paper clip icon, just below the text form, to add attachments from your computer.
+
 #### Remove attachments
 
 While editing the context, click the **X** to the right of the attachment's name.
