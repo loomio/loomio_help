@@ -23,7 +23,7 @@ If you want to get the attention of a specific person, type **@** followed by th
 
 When you reply to a comment, the author of the original comment will be notified. Find the **reply** button on the bottom of the comment to which you wish to associate your reply (it will indented or nested under the comment you replied to, by default).
 
-![where to click reply on a comment](/en/user_manual/getting_started/having_discussions/reply.png)
+![where to click reply on a comment](/en/guides/getting_started/having_discussions/reply.png)
 
 ## Reactions
 
