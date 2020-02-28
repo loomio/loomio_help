@@ -1,14 +1,37 @@
 ---
 title: Engaging with threads
-weight: 40
+weight: 30
 description: Comments and tools such as thread translation and thread emails.
 menu:
   main:
     parent: threads
 ---
 
+## Thread context
+
+The thread **context** has special status within a thread. It's always at the top, and it's always visible on the page.
+
+![](context_panel.png)
+
+Like a comment, you can format your text and attach files or images. Unlike a comment, anyone in the group can update the context (and the title of the thread) by default. This means you can enable anyone to pitch in and help keep things easy to understand and easy to find.
+
+> **Tip:** As the thread grows, update the context with key understandings and information so new people can catch up and participate easily.
+
+The context is like the whiteboard in your meeting room, where you can write the agenda, the hopeful outcomes and how you aim to get there, and take group notes. *Learn more about preparing threads and groups for success [in our Facilitator's Guide](/en/facilitators_guide).*
+
+### Add attachments
+
+Use the paper clip icon, just below the text form, to add attachments from your computer.
+
+### Remove attachments
+
+While editing the context, click the **X** to the right of the attachment's name.
+
+![](delete_context_attachment.png)
+
+
 ## Comments and replies
-The most common activity in a thread is commenting. First look for **Comment** and your user photo/initials.
+The most common activity in a thread is commenting. First look for **Comment** and your user photo (or initials).
 
 ![](comments_and_facilitation_box.png)
 _Make sure that Comment is highlighted, not Proposal or Poll._
@@ -44,6 +67,7 @@ Changes you've made will be visible _to others_ via the **edited** button, so yo
 ![](comment_history_modal.png)
 
 If you have new information or are coming back after an extended period of time, just make a new comment, then people who have already read your comment will see that there is new information.
+
 
 ## Reactions
 ![](reactions.png)

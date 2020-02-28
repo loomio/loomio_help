@@ -69,7 +69,7 @@ Threads are easily updated and edited by those with permission to by clicking **
 
 > **Tip:** Double-clicking a thread context also opens the context editor.
 
-Learn more about thread contexts [here](../navigating_threads).
+Learn more about thread contexts [here](../engaging_with_threads/#thread-context).
 
 ## Organizing threads
 
