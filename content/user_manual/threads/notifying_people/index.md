@@ -25,6 +25,8 @@ When you reply to a comment, the author of the original comment will be notified
 
 ![where to click reply on a comment](/en/user_manual/getting_started/having_discussions/reply.png)
 
+*Note: You can also [reply to yourself](../engaging_with_threads/#comments-and-replies), but it does not send a notification.*
+
 ## Reactions
 
 Reactions are for sharing how a comment made you feel, or acknowledging something someone has said, without writing a comment. React by clicking **react** beneath any comment or thread context. They're a simple way to participate without interrupting the conversation.
