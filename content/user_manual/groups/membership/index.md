@@ -9,20 +9,26 @@ menu:
 
 ## Inviting people
 
-To add members to your group
+To add members to your group…
 
-1. visit your group page and click the **Members** tab to access member management
+First, visit your group page and click the **Members** tab to access member management
 
-2. click one of two options
+Second, click one of two options
 
-* **Invite people:** If you have their email addresses, you can send invitations to each member of your group.
-* **Shareable link:** Or you can share the invitation link via email or however your team communicates.
+1. **Invite**: If you have their email addresses, you can send invitations to each member of your group.
+2. **Share**: Or you can share the **Reusable invitation link** via email or however your team communicates.
 
-<iframe width="100%" height="380px" src="https://www.youtube-nocookie.com/embed/EZzTe6jJL7c" frameborder="0" allowfullscreen></iframe>
+<iframe width="100%" height="380px" src="https://www.youtube-nocookie.com/embed/RGv0Yq6sv8g?rel=0" frameborder="0" allowfullscreen></iframe>
+
+### Invite people to Closed groups
+
+If your group's privacy is **closed** then you can additionally invite people by sharing your `loomio.org/handle`. When people arrive at your group page, they will see the title, the description, and a button **Join group** to request membership. They become a group member when their request is approved.
+
+> Reminder: Closed groups are basically private, but – unlike Secret groups – disclose their Group Name and Group Description publicly.
 
 ### Invite people to subgroups
 
-You will follow the same process above.
+You will follow the same process as above.
 
 You can invite people to an organization, or parent group, and one or more subgroups simultaneously when you invite them with the **Invite people** button. Tick the boxes next to the subgroups you want them to immediately be a part of when they join the group. See it demonstrated in the video clip [just above](#inviting-people).
 
