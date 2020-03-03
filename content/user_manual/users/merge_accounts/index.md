@@ -2,6 +2,10 @@
 title: Merging your accounts
 description: How to merge two accounts together
 weight: 100
+menu:
+  main:
+    name: Merging accounts
+    parent: users
 ---
 ## I have two Loomio accounts under two different email addresses, and I would like to merge them into a single account
 
