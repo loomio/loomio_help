@@ -1,11 +1,11 @@
 ---
 title: Adopting Loomio & Onboarding Resources
-weight: 20
+weight: 70
 description: Get everyone on board and get your group's first outcome on Loomio.
 hidetoc: true
 menu:
   main:
-    parent: guides
+    parent: getting_started
     name: Onboarding resources
 ---
 

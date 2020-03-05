@@ -1,6 +1,6 @@
 ---
 title: The Facilitator's Guide
-weight: 40
+weight: 20
 description: |
   An in-depth guide to applying key facilitation concepts in the online space.
 menu:

@@ -1,6 +1,6 @@
 ---
 title: 5 powerful ways to use threads
-weight: 30
+weight: 20
 description: Tried and true practices for productive communication.
 hidetoc: true
 menu:

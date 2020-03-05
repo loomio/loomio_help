@@ -5,7 +5,7 @@ description: Learn to use Loomio with our friendly experts.
 hidetoc: true
 menu:
   main:
-    parent: getting_started
+    parent: guides
     name: Recordings & Live Support
 ---
 
