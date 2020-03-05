@@ -73,7 +73,7 @@ If you want to hide your group, set your group privacy to **Secret**. Secret gro
 
 Seeing someone's face next to the text they've written can make it feel more human. It's especially important if you're the one welcoming everyone in.
 
-Upload your [profile photo](/en/user_manual/getting_started/notifications_settings) before sending invitations to join the group, so that your friendly image is included.
+Upload your [profile photo](/en/guides/getting_started/notifications_settings) before sending invitations to join the group, so that your friendly image is included.
 
 ## Upload a group photo
 

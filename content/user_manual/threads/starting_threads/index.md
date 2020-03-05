@@ -25,4 +25,4 @@ If your group is "Open" then all your threads will be public, meaning that anyon
 
 ![](open_thread_label.png)
 
-For more on this subject… [→ Group privacy](/en/user_manual/getting_started/starting_a_group/#privacy)
+For more on this subject… [→ Group privacy](/en/guides/getting_started/starting_a_group/#privacy)

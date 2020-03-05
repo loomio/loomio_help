@@ -60,7 +60,7 @@ There are a selection of **facilitation tools** and **decision tools** available
 - Polls are useful to understand preferences of the group.
 - Use a time poll if you need to get everyone together, and want to find the best time for that meeting to happen.
 
-Find out more about [decision tools](../getting_started/decision_tools).
+Find out more about [decision tools](en/guides/getting_started/decision_tools).
 
 ## Email notifications
 By default
