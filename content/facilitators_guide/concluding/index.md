@@ -2,10 +2,10 @@
 title: Concluding
 weight: 40
 description:
-menu:
-  main:
-    parent: facilitators_guide
-    weight: 40
+# menu:
+#   main:
+#     parent: facilitators_guide
+#     weight: 40
 ---
 ![](cover.jpg)
 
@@ -23,7 +23,7 @@ Sometimes the answers to these questions are very concrete, such as action point
 
 On Loomio
 
-* Decision [outcome statements](../../user_manual/getting_started/decision_tools/) are a very important tool. A proposal ending is not quite the end: there’s a need to sum up conclusively. That's what the outcome feature is for.
+* Decision [outcome statements](../../guides/getting_started/decision_tools/) are a very important tool. A proposal ending is not quite the end: there’s a need to sum up conclusively. That's what the outcome feature is for.
 * Many Loomio discussions come to a natural end without even using proposals or publishing outcomes. These discussions still provide a lot of value, and it can be helpful to update the context box with an outcome summary for later reference.
 * If specific people have action points, you can @mention their names and they will be notified.
 

@@ -11,7 +11,7 @@ We believe that more groups practicing effective, inclusive decision-making can 
 [Handbook](https://loomio.coop)
 
 <div class="video-wrapper">
-  <iframe width="100%" height="380px" src="//www.youtube.com/embed/wSj81OxhdBg" frameborder="0" allowfullscreen></iframe>
+  <iframe width="100%" height="380px" src="//www.youtube.com/embed/wSj81OxhdBg?rel=0" frameborder="0" allowfullscreen></iframe>
 </div>
 
 # Story

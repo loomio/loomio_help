@@ -14,7 +14,7 @@ LoomioBot publishes activity from your Loomio group into your Slack channel so p
 
 From your group page's **Settings** tab, click **Integrate Slack** and follow the prompts in order to connect the LoomioBot Slack integration to your Slack team.
 
-<iframe width="100%" height="380px" src="https://www.youtube-nocookie.com/embed/ZwZD4ecfaM4" frameborder="0" allowfullscreen></iframe>
+<iframe width="100%" height="380px" src="https://www.youtube-nocookie.com/embed/ZwZD4ecfaM4?rel=0" frameborder="0" allowfullscreen></iframe>
 *Setting up my first Slack integration.*
 
 This associates the chosen Slack team with your user account.
@@ -23,7 +23,7 @@ Only one Slack team may be associated to any given user account. If you wish to 
 
 Once you have it installed, **it's easy to associate additional groups** or subgroups to different channels of your Slack team.
 
-<iframe width="100%" height="380px" src="https://www.youtube-nocookie.com/embed/u2H3HEsvTAQ" frameborder="0" allowfullscreen></iframe>
+<iframe width="100%" height="380px" src="https://www.youtube-nocookie.com/embed/u2H3HEsvTAQ?rel=0" frameborder="0" allowfullscreen></iframe>
 
 ## Microsoft Teams
 

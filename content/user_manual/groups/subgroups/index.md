@@ -26,17 +26,17 @@ To add a subgroup in your group, go to the **Subgroups** tab.
 
 ![](subgroups_tab.png)
 
-Click the **New subgroup** button, give it a meaningful title and decide on the desired [privacy](/en/user_manual/getting_started/starting_a_group/#privacy)) setting, and click **Start subgroup**. You can now start threads and invite people in.
+Click the **New subgroup** button, give it a meaningful title and decide on the desired [privacy](/en/guides/getting_started/starting_a_group/#privacy)) setting, and click **Start subgroup**. You can now start threads and invite people in.
 
-However, similar to [starting a group](/en/user_manual/getting_started/starting_a_group), you may want to 'prepare the space,' so to speak, for those you will soon invite. A group description, and adjusting any settings including the banner image, can help people feel comfortable in the Loomio group and with the others who will be participating here. Again, this supports psychological safety – proven to improve performance.
+However, similar to [starting a group](/en/guides/getting_started/starting_a_group), you may want to 'prepare the space,' so to speak, for those you will soon invite. A group description, and adjusting any settings including the banner image, can help people feel comfortable in the Loomio group and with the others who will be participating here. Again, this supports psychological safety – proven to improve performance.
 
-<iframe width="100%" height="380px" src="https://www.youtube-nocookie.com/embed/U4qmHlEMq8E" frameborder="0" allowfullscreen></iframe>
+<iframe width="100%" height="380px" src="https://www.youtube-nocookie.com/embed/U4qmHlEMq8E?rel=0" frameborder="0" allowfullscreen></iframe>
 
-[Invite people](/en/user_manual/getting_started/starting_a_group/#invite-people) just like you would in a group.
+[Invite people](/en/guides/getting_started/starting_a_group/#invite-people) just like you would in a group.
 
 ### Who can see it
 
-Subgroups [privacy](/en/user_manual/getting_started/starting_a_group/#privacy) works the same as groups' do. A secret subgroup will not be visible to group members.
+Subgroups [privacy](/en/guides/getting_started/starting_a_group/#privacy) works the same as groups' do. A secret subgroup will not be visible to group members.
 
 Closed subgroups will be listed in the **Subgroups** tab, and, by default, members of the parent group can request and – upon approval by an admin – join them.
 
@@ -56,7 +56,7 @@ Any coordinator of the parent group may independently make themselves coordinato
 
 **Closed** subgroups have an additional **Advanced setting** that allow members of its parent group to see private threads, or not.
 
-Otherwise, the privacy settings are the same as those for groups; [learn anything else you need to know here](/en/user_manual/getting_started/starting_a_group/#privacy).
+Otherwise, the privacy settings are the same as those for groups; [learn anything else you need to know here](/en/guides/getting_started/starting_a_group/#privacy).
 
 ![arrow pointing to the option for "Members of [Group name] can see private threads"](parent_group_can_see_private_threads.png)
 
@@ -68,7 +68,7 @@ Invite people just like you would invite them into a group. If they're already i
 
 If you use the **Invite people** button from your parent group's **Members** tab, you can invite people to multiple subgroups at the same time by ticking the boxes of those you would like them to join immediately.
 
-<iframe width="100%" height="380px" src="https://www.youtube-nocookie.com/embed/EZzTe6jJL7c" frameborder="0" allowfullscreen></iframe>
+<iframe width="100%" height="380px" src="https://www.youtube-nocookie.com/embed/EZzTe6jJL7c?rel=0" frameborder="0" allowfullscreen></iframe>
 
 ### Deactivate a subgroup
 

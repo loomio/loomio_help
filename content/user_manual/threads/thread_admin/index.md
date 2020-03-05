@@ -83,7 +83,7 @@ The following administrative actions may be taken from within the thread, and in
 
 To apply a tag to a thread, go into the thread's options and choose Category tags. Select the desired tag(s) from the dropdown list of tags that your group already uses, or type in a new tag and press the enter key. Finally, click **Save**.
 
-<iframe width="100%" height="380px" src="https://www.youtube-nocookie.com/embed/X40wuMaZ-8E" frameborder="0" allowfullscreen></iframe>
+<iframe width="100%" height="380px" src="https://www.youtube-nocookie.com/embed/X40wuMaZ-8E?rel=0" frameborder="0" allowfullscreen></iframe>
 
 #### Removing category tags
 
@@ -93,13 +93,17 @@ Access the Category tags in the same way as above, but then click the **x** to r
 
 You may want to move threads between groups and subgroups to keep things organised. To do this, select **move to group** from the additional options
 
-<iframe width="100%" height="380px" src="https://www.youtube-nocookie.com/embed/59T3xCK-jys" frameborder="0" allowfullscreen></iframe>
+<iframe width="100%" height="380px" src="https://www.youtube-nocookie.com/embed/59T3xCK-jys?rel=0" frameborder="0" allowfullscreen></iframe>
 
 ### Delete thread
 
 If you're the admin of a group you can delete any thread – or comments in any of the threads – in the group.
 
 If you started a thread, you can delete that thread, but only your comments within it.
+
+## Invite guests to thread
+
+Consult an expert or external party while keeping relevant communications all in one place: Invite them to a specific thread by using **invite people**, at the bottom of the thread's context. They won't get access to any other threads in your group, just this one. They do not need to already have a Loomio account, and they can participate by email just like all Loomio users.  _If you_ do _want them to be in the group, then invite them to join from the group page._
 
 ## Administering comments and decisions
 
@@ -112,12 +116,12 @@ Again, an admin can delete any comment.
 
 Select **delete** from the comment's options (**⋯**).
 
-<iframe width="100%" height="380px" src="https://www.youtube-nocookie.com/embed/cGc8_1zWrzE" frameborder="0" allowfullscreen></iframe>
+<iframe width="100%" height="380px" src="https://www.youtube-nocookie.com/embed/cGc8_1zWrzE?rel=0" frameborder="0" allowfullscreen></iframe>
 
 ### Moving comments
 Sometimes a comment is useful, but off-topic for the thread; _it may be a short conversation took place that would have been better held in another thread or subgroup._ In this case you will want to **move** comment(s) by selecting this option in the comment's options (**⋯**). If the topic of these comments does not pertain to a current thread, then you may wish to first start a new thread and _then_ move the comment(s).
 
-<iframe width="100%" height="380px" src="https://www.youtube-nocookie.com/embed/qaaQkA2myRc" frameborder="0" allowfullscreen></iframe>
+<iframe width="100%" height="380px" src="https://www.youtube-nocookie.com/embed/qaaQkA2myRc?rel=0" frameborder="0" allowfullscreen></iframe>
 
 ### Pin to timeline
 
@@ -135,7 +139,7 @@ To edit the words used in the timeline: unpin and then pin it again; this will g
 
 > **Tip:** Highlight the words that you would like to use as the text in the timeline
 
-<iframe width="100%" height="380px" src="https://www.youtube-nocookie.com/embed/Dy8Hi_QM-Gw" frameborder="0" allowfullscreen></iframe>
+<iframe width="100%" height="380px" src="https://www.youtube-nocookie.com/embed/Dy8Hi_QM-Gw?rel=0" frameborder="0" allowfullscreen></iframe>
 
 ## Tracking engagement
 
@@ -152,12 +156,12 @@ You can check if someone has been sent an email notification about a thread, dec
 #### For comments and threads
 In the extra options you find from the three horizontal dots (**⋯**), click **Notification history**.
 
-<iframe width="100%" height="380px" src="https://www.youtube-nocookie.com/embed/rk1r7bkuiMo" frameborder="0" allowfullscreen></iframe>
+<iframe width="100%" height="380px" src="https://www.youtube-nocookie.com/embed/rk1r7bkuiMo?rel=0" frameborder="0" allowfullscreen></iframe>
 
 #### For proposals and polls
 Click on **invite people to vote** under the Results section of your proposal or poll, and then click **History** to see who has been invited to – and who has viewed the notification of – your proposal or poll.
 
-<iframe width="100%" height="380px" src="https://www.youtube-nocookie.com/embed/0fR3TAeBS6I" frameborder="0" allowfullscreen></iframe>
+<iframe width="100%" height="380px" src="https://www.youtube-nocookie.com/embed/0fR3TAeBS6I?rel=0" frameborder="0" allowfullscreen></iframe>
 
 Here's how it looks if you sent some notifications:
 

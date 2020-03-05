@@ -2,10 +2,10 @@
 title: Preparation
 weight: 10
 description:
-menu:
-  main:
-    parent: facilitators_guide
-    weight: 10
+# menu:
+#   main:
+#     parent: facilitators_guide
+#     weight: 10
 ---
 ![](cover.jpg)
 

@@ -1,9 +1,10 @@
 ---
 title: Troubleshooting
+weight: 20
 description: Questions people often ask when they're learning about Loomio.
 menu:
   main:
-    parent: getting_started
+    parent: user_manual
 ---
 
 ## Not receiving emails from Loomio?

@@ -14,7 +14,7 @@ Only a group's admin can edit group settings.
 
 As an admin of a Loomio group, you are responsible for guiding your group through the process of learning how to use a new piece of software, as well as learning new processes for collaborating more effectively and making good decisions together. The tasks outlined below can only be performed by group admin.
 
-To learn how to edit the basics such as your Group description or Cover photo, see [starting a group](/en/user_manual/getting_started/starting_a_group).
+To learn how to edit the basics such as your Group description or Cover photo, see [starting a group](/en/guides/getting_started/starting_a_group).
 
 ## Group handle
 
@@ -36,11 +36,11 @@ Admin can change group permissions and configure what members can do in any grou
 2. selecting **Edit Group Settings**
 3. clicking a tab (**Privacy** or **Permissions** options are described below)
 
-<iframe width="100%" height="380px" src="https://www.youtube-nocookie.com/embed/ye08QEnP1_A" frameborder="0" allowfullscreen></iframe>
+<iframe width="100%" height="380px" src="https://www.youtube-nocookie.com/embed/ye08QEnP1_A?rel=0" frameborder="0" allowfullscreen></iframe>
 
 ## Privacy
 
-Group's [basic privacy settings are described here](/en/user_manual/getting_started/starting_a_group/#privacy).
+Group's [basic privacy settings are described here](/en/guides/getting_started/starting_a_group/#privacy).
 
 ## Permissions
 
@@ -77,7 +77,7 @@ This allows everyone in your group to edit the context of any thread. When it is
 
 ### Edit their comments at any time
 
-This allows everyone in your group to [edit their comments](../../threads/#editing-comments) at any time. When it is deselected, a comment can only be edited until someone else participates in the thread.
+This allows everyone in your group to edit their comments at any time. When it is deselected, a comment can only be edited until someone else participates in the thread.
 
 ### Raise proposals
 

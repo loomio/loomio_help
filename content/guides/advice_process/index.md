@@ -1,5 +1,6 @@
 ---
 title: Advice process
+weight: 70
 description: A simple guide to consultative decision making on & off Loomio
 menu:
   main:
@@ -62,7 +63,7 @@ You’ll notice that Sam has made a decision that calls for others to execute th
 
 ## **How it works** online
 
-<iframe width="100%" height="380px" src="https://www.youtube-nocookie.com/embed/_CYI45mDn5I" frameborder="0" allowfullscreen></iframe>
+<iframe width="100%" height="380px" src="https://www.youtube-nocookie.com/embed/_CYI45mDn5I?rel=0" frameborder="0" allowfullscreen></iframe>
 
 ## Tips and Challenges
 ### Common challenges
@@ -121,7 +122,7 @@ Cheers! Happy world-changing to you and your groups!
 ## Video companion
 We've turned this guide into a video!
 
-<iframe width="100%" height="380px" src="https://www.youtube-nocookie.com/embed/qfpHnyyiIU0" frameborder="0" allowfullscreen></iframe>
+<iframe width="100%" height="380px" src="https://www.youtube-nocookie.com/embed/qfpHnyyiIU0?rel=0" frameborder="0" allowfullscreen></iframe>
 
 ---
 ## Credits

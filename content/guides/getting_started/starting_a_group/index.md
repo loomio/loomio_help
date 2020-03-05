@@ -1,13 +1,14 @@
 ---
-title: 2. Starting a group
+title: 1. Starting a group
 weight: 20
 description: Create your Loomio group and ensure everyone is ready to participate.
 menu:
   main:
     parent: getting_started
+    name: Starting a group
 ---
 
-Getting started on Loomio means getting everyone signed up, familiar with the tool, and comfortable communicating or coordinating with one another. When done well, the group will come to life as people take the initiative to start discussions and raise proposals.
+Getting started on Loomio means getting everyone signed up, familiar with the tool, and comfortable communicating or coordinating with one another. When done well, the group will come to life as people take the initiative to participate and engage.
 
 Most Loomio groups need a champion to help them get going, and then they build their own momentum. If you're reading this, that champion is probably you!
 
@@ -15,9 +16,9 @@ Most Loomio groups need a champion to help them get going, and then they build t
 
 Have a discussion with your group about using Loomio.
 
-- **What problem** are you trying to solve with a new tool? _For example: Including people who can't attend meetings, better documentation, or to keep making progress between meetings._
-- **What is Loomio for?** How are you going to use it, _eg, decisions, reporting, mass engagement, or just input?_
-- **Who's involved?** Who will support conversations to be productive, or facilitate?
+- **What problem** are you trying to solve with a new tool? _Eg, reducing meetings_
+- **What is Loomio for?** How will you use it, _eg, forum, decisions, or just input?_
+- **Who's involved?** Who will facilitate or support conversations to be productive?
 - What kind of **behaviour** is welcome, and what's not ok?
 - How will Loomio complement your **existing processes**?
 
@@ -46,19 +47,23 @@ By default, Loomio will make this `your-group-name` but you can choose any unuse
 
 ### Group description
 
-It's important to add a description to help everyone get into the action and clear on what's happening.
+It's important to add a description to help people settle in and get engaged.
 
-The description should give members a clear understanding of what that group is for or intends to do. Some examples:
+The description should give members a clear understanding of the purpose or scope of the group. Some examples:
 
 "_A public group for us to approve requests for use of the gallery space_"
 
 "_The space for our board members to consider budget proposals_"
 
+**Add a Group description** by navigating to the **Settings** tab on your group page. Click **Edit Group Settings** and use the form that appears (click save when done). If you're having trouble finding it from Edit Group Settings, double-check that you haven't switched tabs ("Profile" should be highlighted in yellow).
+
+<iframe width="100%" height="380px" src="https://www.youtube-nocookie.com/embed/7z60BLLBLFU?rel=0" frameborder="0" allowfullscreen></iframe>
+
 With a clear purpose, people can make judgment calls about what's best for the group. Understanding group context helps people get oriented.
 
 ### Group description is also a Resource hub
 
-Your Loomio group page is also a place to store all of the information, links, and files that everyone in your group needs. Update the Group description field and attach files from your computer or from the cloud.
+Your Loomio **group page** is a place to store all of the information, links, and files that everyone in your group needs. Update the Group description field and attach files from your computer or from the cloud.
 
 ![](group_description.png)
 
@@ -80,19 +85,13 @@ If you want to hide your group, set your group privacy to **Secret**. Secret gro
 
 Seeing someone's face next to the text they've written can make it feel more human. It's especially important if you're the one welcoming everyone in.
 
-Upload your [profile photo](/en/user_manual/getting_started/notifications_settings) before sending invitations to join the group, so that your friendly image is included.
+Upload your [profile photo](/en/guides/getting_started/notifications_settings) before sending invitations to join the group, so that your friendly image is included.
 
 ## Upload a group photo
 
 Uploading a photo that has some meaning to your group significantly improves the sense of belonging. You can customize both the small square photo (eg, with a logo), and the big cover image (eg, with a group photo) by clicking on the placeholder images. _You can always change it again by going to Group Settings._
 
 ![](edit_group_photo.png)
-
-## Encourage introductions
-
-A round of introductions is a great way for people to get to know a bit about each other and to feel more comfortable. Even if people are already acquainted, they can share more specifically about their role or perspective in the Loomio group or project at hand.
-
-![](example_introduction_thread.png)
 
 ## Invite people
 

@@ -1,5 +1,6 @@
 ---
 title: Other practical examples
+weight: 110
 description: Best practices for better collaboration on Loomio.
 menu:
   main:

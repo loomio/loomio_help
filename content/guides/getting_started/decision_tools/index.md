@@ -1,18 +1,19 @@
 ---
-title: 4. Proposals and polls
+title: 3. Proposals and polls
 description: Use Loomio's facilitation tools to move towards clear outcomes.
 hidetoc: true
 weight: 40
 menu:
   main:
     parent: getting_started
+    name: Proposals and polls
 ---
 
 <iframe width="100%" height="380px" src="https://www.youtube-nocookie.com/embed/O-laa4di8kI" frameborder="0" allowfullscreen></iframe>
 
 Facilitation tools and decision tools are used within **threads**. Loomio does not make decisions for you; rather, the tool is designed to
 
-* **clarify where the group is at** in regards to a topic, question or proposal
+* **clarify how the group feels or thinks** about a topic, question or proposal
 * communicate what decision is being made
 * simplify and make it easy to participate
 * highlight agreement and surface disagreement
