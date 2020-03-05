@@ -48,7 +48,7 @@ Remember to use the same email address each time you login, or you may end up wi
 Sometimes people think they need two Loomio accounts because they have two groups and they want to keep things separated; However, Loomio is designed to support belonging to multiple groups with one user account.
 
 #### Merging user accounts
-If you do find yourself with more than one user account, we can merge your accounts. [Contact us](https://www.loomio.org/contact) and include both email addresses that you have accounts under, and specify which one you want to hold on to.
+If you do find yourself with more than one user account, you can [merge them](../merge_accounts).
 
 ### You can accept an invitation sent to another email address
 Invitations are not tied to the email they are sent to. If someone sends you an invitation to an email address other than the one you use for your Loomio user account, you do not need to create a new user account or get the invitation re-sent.
