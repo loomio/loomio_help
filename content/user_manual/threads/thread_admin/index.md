@@ -37,7 +37,7 @@ It shows
 You can access a number of options by selecting the three horizontal dots (**⋯**) to the right of a thread's title , opening the **thread preview options**. The following administrative actions are taken from those options (only on pages that list threads).
 
 ### Pin thread
-If you are a coordinator, you can pin comments to order them and make them easier to find. Pinned threads will appear above your other threads and will be ordered alphanumerically within their group and organization.
+If you are a coordinator, you can pin comments to order them and make them easier to find. Pinned threads will appear above your other threads and will be ordered by latest activity within their group and organization.
 
 You can easily  **pin** or **un-pin** from the thread preview options, but **only from the Group page**.
 
@@ -69,7 +69,7 @@ Threads are easily updated and edited by those with permission to by clicking **
 
 > **Tip:** Double-clicking a thread context also opens the context editor.
 
-Learn more about thread contexts [here](../navigating_threads).
+Learn more about thread contexts [here](../engaging_with_threads/#thread-context).
 
 ## Organizing threads
 
@@ -84,6 +84,10 @@ The following administrative actions may be taken from within the thread, and in
 To apply a tag to a thread, go into the thread's options and choose Category tags. Select the desired tag(s) from the dropdown list of tags that your group already uses, or type in a new tag and press the enter key. Finally, click **Save**.
 
 <iframe width="100%" height="380px" src="https://www.youtube-nocookie.com/embed/X40wuMaZ-8E?rel=0" frameborder="0" allowfullscreen></iframe>
+
+#### Removing category tags
+
+Access the Category tags in the same way as above, but then click the **x** to remove the tags you do not want and then **save**.
 
 ### Move thread
 

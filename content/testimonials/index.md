@@ -18,6 +18,9 @@ _– James Bloemendal, [Ian Martin Group](https://ianmartin.com/), Canada._
 "We agreed that top-down structure wasn't working, but didn't know how to change. Loomio helped us transition so we can make the big decisions with better results."<br>
 *–Alex Rodriguez, Bhumisparsha, USA.*
 
+"Loomio is suitably flexible to adapt to your needs."<br>
+*–Luke Howard, [Plan Vivo Foundation](https://planvivo.org), Global*
+
 ### Governance
 
 “Loomio saves us thousands of pounds every year!”<br>

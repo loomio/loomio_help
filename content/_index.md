@@ -3,7 +3,7 @@ title: Loomio Help
 ---
 # Loomio Help
 
-Loomio is a discussion and decision-making platform used by thousands of organizations around the world. Using Loomio you can decrease meetings and emails, increase transparency and participation, and make better decisions together.
+<div class="subtitle"><p>Loomio is an online tool used by thousands of groups around the world to increase transparency and inclusion, decrease meetings and emails, and make better decisions together.</p></div>
 
 ***
 ## [What is Loomio](/en/user_manual/overview)

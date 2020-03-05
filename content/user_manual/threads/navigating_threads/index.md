@@ -1,33 +1,13 @@
 ---
 title: Navigating threads
-weight: 30
+weight: 40
 description: Find what you need, when you need it.
 menu:
   main:
     parent: threads
 ---
 ## Context
-The thread **context** has special status within a thread. It's always at the top, and it's always visible on the page.
-
-![](context_panel.png)
-
-Like a comment, you can format your text and attach files or images. Unlike a comment, the admin can allow for anyone in the group to update the context (and the title of the thread). This means you can enable anyone to pitch in and help keep things easy to understand and easy to find.
-
-> **Tip:** As the thread grows, update the context with key understandings and information so new people can catch up and participate easily.
-
-The context is like the whiteboard in your meeting room, where you write the agenda (the hopeful outcome and how you aim to get there) and take group notes. *Learn more about preparing (your threads) for success [in our Facilitator's Guide](/en/facilitators_guide).*
-
-### Edit context
-
-You can click **edit** at the bottom of the context to edit it if you started thread or are an admin of the group to which the thread belongs.
-
-> **Tip:** Double click on the thread context to quickly access the editor!
-
-Some groups choose [permissions](/en/user_manual/groups/settings/) that allow any group member to edit the context, so that anyone can clarify the top-most information, instructions, or framing to help people jump right in (eg, someone late to the discussion).
-
-#### Remove attachments
-
-While editing the context, click the **X** to the right of the attachment's name.
+The thread **context** has special status within a thread. It's always at the top, and it's always visible on the page. It's typically used to frame the discussion or decision and provide necessary context. Learn more about engaging with the thread context [here](../engaging_with_threads/#thread-context).
 
 ## Timeline
 
@@ -35,9 +15,9 @@ The timeline helps you and your group to quickly access content (conversations, 
 
 ![timeline with key meetup dates by month](https://help.loomio.org/en/user_manual/whats_new_loomio_2/new_timeline.png)
 
-To facilitate this, comments with headers, proposals, and polls are automatically added to the timeline as links. Clicking these links take you directly to this item in the thread. Learn how to edit thread items… [→ Thread administration](../thread_admin).
+To facilitate this, comments with headers, proposals, and polls are automatically added to the timeline as links. Clicking these links take you directly to this item in the thread. Learn how to edit timeline items [here](../thread_admin/#pin-to-timeline).
 
-The date of the earliest thread activity, and the latest, are not blue but **can be clicked to quickly navigate, too!** They, and "Context" can be clicked to navigate to the earliest or latest comment or to the top (the context).
+The date of the earliest thread activity, and the latest, are not blue but **can be clicked to quickly navigate, too!** Click on the dates or "**Context**" to navigate to the earliest or latest comment or to the top (the context).
 
 ## Navigating activity and Thread format
 

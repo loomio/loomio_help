@@ -31,11 +31,21 @@ Some people will be apprehensive about adopting a new piece of software for onli
 
 When you first start, you'll create a new **organization**. At this stage, organization is basically another way of saying "your group." The first thing to do is enter a name and a description for your group.
 
-## Group name
+## Group details
+
+You can always return to change these by visiting **Edit group settings** on the **Settings** tab of your group page.
+
+### Group name
 
 It's best to keep your group name short and concise.
 
-## Group description
+### Group handle
+
+By default, Loomio will make this `your-group-name` but you can choose any unused, alphanumeric handle (hyphens optional). Navigating to the URL loomio.org/[your-group-handle] will take you directly to your group page.
+
+![](new_group_handle.png)
+
+### Group description
 
 It's important to add a description to help people settle in and get engaged.
 
@@ -49,7 +59,9 @@ The description should give members a clear understanding of the purpose or scop
 
 <iframe width="100%" height="380px" src="https://www.youtube-nocookie.com/embed/7z60BLLBLFU?rel=0" frameborder="0" allowfullscreen></iframe>
 
-### A resource hub for your group
+With a clear purpose, people can make judgment calls about what's best for the group. Understanding group context helps people get oriented.
+
+### Group description is also a Resource hub
 
 Your Loomio **group page** is a place to store all of the information, links, and files that everyone in your group needs. Update the Group description field and attach files from your computer or from the cloud.
 
@@ -85,16 +97,18 @@ Uploading a photo that has some meaning to your group significantly improves the
 
 You're ready to invite people into the group! Loomio is a group collaboration tool, so this is an important step.
 
-1. Visit your group page and click the **Members** tab to access member management
+First, visit your group page and click the **Members** tab to access member management
 
-2. Click one of two options
+Second, click one of two options
 
-* **Invite people:** If you have their email addresses, you can send invitations to each member of your group.
-* **Shareable link:** Or you can share the invitation link via email or however your team communicates.
+1. **Invite**: If you have their email addresses, you can send invitations to each member of your group.
+2. **Share**: Or you can share the **Reusable invitation link** via email or however your team communicates.
 
-<iframe width="100%" height="380px" src="https://www.youtube-nocookie.com/embed/EZzTe6jJL7c?rel=0" frameborder="0" allowfullscreen></iframe>
+<iframe width="100%" height="380px" src="https://www.youtube-nocookie.com/embed/RGv0Yq6sv8g?rel=0" frameborder="0" allowfullscreen></iframe>
 
-_Closed groups_ can choose to share their loomio.org address [`loomio.org/handle`] and then approve requests to join. _Reminder: Closed groups are basically private, but – unlike Secret groups – disclose their Group Name and Group Description publicly._
+If your group's privacy is **closed** then you can additionally invite people by sharing your `loomio.org/handle`. When people arrive at your group page, they will see the title, the description, and a button **Join group** to request membership. They become a group member when their request is approved.
+
+> Reminder: Closed groups are basically private, but – unlike Secret groups – disclose their Group Name and Group Description publicly.
 
 Follow up on people who don't make it into the group and give them a nudge. You don't want to leave people out of key conversations or decisions. (*You can get a sense of who is participating by looking at your thread's [Seen by](/en/user_manual/threads/thread_admin/#seen-by), and many elements of Loomio have [Notification history](/en/user_manual/threads/thread_admin/#notification-history)*.)
 
