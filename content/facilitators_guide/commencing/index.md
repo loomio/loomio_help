@@ -30,7 +30,7 @@ On Loomio
 
 * The tool has a built-in function to [invite users](../../user_manual/groups/membership/) by email or by sending them a special link. Users can also request to join your group if your settings allow.
 * The invitation tools built into the software are very basic, and getting an unexpected login request for new software without context isn't very inviting, so group creators often introduce people to the idea of Loomio through a separate process.
-* Many aspects of Loomio are already designed to create a safe and respectful space users would want to enter — such as thoughtful [privacy options](../../user_manual/groups/settings/#privacy).
+* Many aspects of Loomio are already designed to create a safe and respectful space users would want to enter — such as thoughtful [privacy options](../../guides/getting_started/starting_a_group/#privacy).
 * The design of the software itself is meant to be friendly, simple, and professional, hopefully putting out a trustworthy vibe.
 * Loomio has accessibility features, for people who use assistive technology like screen readers, and translation features for people who speak different languages. Emphasising these aspects in an invitation can make some people feel more welcome.
 

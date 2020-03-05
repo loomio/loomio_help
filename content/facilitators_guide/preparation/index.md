@@ -22,10 +22,10 @@ Clarification of purpose is one of the highest value offerings of a skilled faci
 
 On Loomio
 
-* The app offers space for explication of purpose, such as the [group description](../../user_manual/groups/settings/) and [discussion context](../../user_manual/threads/) fields.
+* The app offers space for explication of purpose, such as the [group description](../../guides/getting_started/starting_a_group/#group-description) and [discussion context](../../guides/getting_started/having_discussions/#what-makes-up-a-thread) fields.
 * A Loomio discussion *about* purpose is a great place to start with your group, if it's not already clear.
 * Our analytics (stats about how people use the software) show that groups with a clear shared purpose are more successful.
-* [User interviews and case studies](../../blog_links/case_studies) we've collected emphasise the importance of setting a collective purpose.
+* [Customer stories and case studies](https://blog.loomio.org/?utm_campaign=facilitators_guide_help&utm_term=help) we've collected emphasise the importance of setting a collective purpose.
 
 
 ## Rearrange the Furniture
@@ -37,8 +37,8 @@ In offline spaces, literally rearranging the furniture is a habit that helps fac
 On Loomio
 
 * Inviting people into a new digital space specifically for decision-making is powerful — there’s a “threshold crossing” experience making it as distinct from other online spaces (which might be for socialising or other functions).
-* [Customising your group photo](../../user_manual/groups/settings/#adding-a-cover-photo) is a prime opportunity to craft the feeling of the space.
-* The group description is a main piece of “furniture” on the group page, and [you can customise it](http://blog.loomio.org/2016/04/23/organise/) to suit.
+* [Customising your group photo](../../guides/getting_started/starting_a_group/#upload-a-group-photo) is a prime opportunity to craft the feeling of the space.
+* The group description is a main piece of “furniture” on the group page, and [you can customise it](../../guides/getting_started/starting_a_group/#group-description) to suit.
 
 
 ## Supplies, Tools, Materials
@@ -66,8 +66,8 @@ On Loomio
 ![](../collaboration-process.png)
 
 * Skilled users are already adapting Loomio for various experience designs — such as a multi-step consultation processes, signing off documents, etc. Each job, when facilitated effectively, takes a certain repeatable shape.
-* Online collaboration design doesn't have to reinvent the wheel. Trust what you know works, and translate it. Many tried and tested offline processes can be adapted to the online space (ex: the [Advice Process](http://blog.loomio.org/2016/11/09/advice-process/)).
-* [Case studies](../../blog_links/case_studies) of thoughtfully designed processes could be used as “recipes” — if you're not sure what design to use, start by seeing what others have tried.
+* Online collaboration design doesn't have to reinvent the wheel. Trust what you know works, and translate it. Many tried and tested offline processes can be adapted to the online space (ex: the [Advice Process](../../guides/advice_process)).
+* [Case studies](https://blog.loomio.org/?utm_campaign=facilitators_guide_help&utm_term=help) of thoughtfully designed processes could be used as “recipes” — if you're not sure what design to use, start by seeing what others have tried.
 
 
 

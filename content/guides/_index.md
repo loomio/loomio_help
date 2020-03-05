@@ -7,3 +7,5 @@ menu:
   main:
     identifier: guides
 ---
+## [The Facilitator's Guide](../facilitators_guide)
+An in-depth guide to applying key facilitation concepts in the online space.
