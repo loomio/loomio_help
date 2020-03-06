@@ -63,7 +63,11 @@ To manage invitations, open the filter/ drop down from the Members tab of your G
 You can also make people coordinators or set their title (eg, "IT Support") within the group before they accept their invitation.
 
 ### Cancelling invitations
-If you entered the wrong email address, or have changed your mind about inviting someone, you can cancel an invitation from the Members tab on your Group page. Select **Cancel Invitation** from the same drop down (**⋮**) as demonstrated [just above](/#managing-invitations).
+If you entered the wrong email address, or have changed your mind about inviting someone, you can cancel an invitation from the Members tab on your Group page. Select **Cancel Invitation** from the same drop down (**⋮**) as demonstrated [just above](/#managing-invitations). To cancel invitations shared by **reusable invitation link**…
+
+### Reset invitation link
+
+To cancel your previous invitation link and generate a new one, click **Share** and then **Reset**. This will disallow any further people from joining using that previous link. You can share the new [reusable invitation link](#inviting-people) as before.
 
 ## Managing memberships
 ![](remove_from_group.png)

@@ -46,14 +46,38 @@ If Loomio has emailed you a comment and says you can reply to the email, you can
 
 ## Formatting comments
 
-Use the formatting tools underneath the space in which you write. Hover the mouse/cursor over each item to know what it is. You can
+Use the formatting tools underneath the space in which you write (any form). Hover the mouse/cursor over each item to know what it is. There's a number of format options listed below, and a few are explained in more detail further down.
 
 - stylize (bold, italics, code block…)
-- create lists (eg, check-lists)
+- create lists (eg, checklists)
 - turn text into hyperlinks - _links icon_
 - add attachments (from your device) - _paper clip icon_
 - embed video - _play button icon_
 - create and modify tables - _icon with four squares_.
+
+### Embed videos
+
+Click the video icon from the formatting tools listed underneath any form (comment, thread…) and paste the link of most modern video hosting websites (ie, Youtube, Vimeo…).
+
+![](embed_video.png)
+
+### Markdown
+
+To revert to markdown editing, click **M↓**. _If you click this while there is text in the form, some formatting may be lost upon conversion._
+
+#### WYSIWYG
+
+Click **WYSIWYG** to return to the formatting tools. This will convert any text and markdown formatting to display how it will appear when posted. ***PREVIEW*** _also shows you how your text will appear, but without converting._
+
+### Checklist
+
+From the lists dropdown, choose **Checklist**.
+
+![](lists.png)
+
+Click on the checklist/ tick boxes in order to cross out that to-do from the edit form of any context or thread you have permission to edit. _I.e., you cannot tick boxes in someone elses comment._
+
+<iframe width="100%" height="380px" src="https://www.youtube-nocookie.com/embed/uWNHwl7_gPo?rel=0" frameborder="0" allowfullscreen></iframe>
 
 ## Editing comments
 If you've made a typo, or want to add a bit more information to your comment shortly after you've posted it, click **edit** on your comment. Editing does not take anyone else's attention with notifications nor unread signals.
