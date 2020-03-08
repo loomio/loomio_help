@@ -13,7 +13,7 @@ What Loomio is, and how it works.
 In-depth explanations of all the features and troubleshooting.
 
 ## [Guides & How to](guides)
-Activate your group and practical ways to better discuss and decide.
+Getting Started guides and practical ways to better discuss and decide.
 
 ## [Pricing and subscriptions](subscriptions)
 How our pricing works and how to update, modify or cancel a subscription.
