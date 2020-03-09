@@ -79,7 +79,7 @@ Deep culture change is when the culture of collaboration starts to leak out of s
 
 On Loomio
 
-* The [theory of change of Loomio](http://www.loomio.org/about) is that more groups practicing effective, inclusive decision-making can change organizational dynamics at a global scale. This shows up in everything about how the tool is designed and [how we run as a co-op](http://loomio.coop). Ultimately, it’s about culture change through collaborative practice.
+* The [theory of change of Loomio](http://www.loomio.org/about) is that more groups practicing effective, inclusive decision making can change organizational dynamics at a global scale. This shows up in everything about how the tool is designed and [how we run as a co-op](http://loomio.coop). Ultimately, it’s about culture change through collaborative practice.
 * Loomio groups have experienced evolving culture through the tool. Like groups that already has a collaborative culture scale while holding onto that, or a participatory group continuing to exists instead of imploding due to challanges around inclusive decicion-making.
 * Loomio makes a certain kind of “new normal” of collaborative practice possible, through making collaborative practice more accessible and achievable.
 

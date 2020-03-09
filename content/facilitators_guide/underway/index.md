@@ -46,7 +46,7 @@ On Loomio
 
 In our society, multiple layers of history, power dynamics, culture, and psychology conspire to amplify certain voices and suppress others. This plays out at every level of experience, from our innermost subconscious beliefs to our political system and laws.
 
-But the best ideas do not always come from the loudest voices, and the role of facilitation is to counteract these biases. It’s important to be aware of the dynamics we are collectively grappling with if our goals are social justice, group effectiveness, and high quality decision-making.
+But the best ideas do not always come from the loudest voices, and the role of facilitation is to counteract these biases. It’s important to be aware of the dynamics we are collectively grappling with if our goals are social justice, group effectiveness, and high quality decision making.
 
 {{%expert_advice "../rich_200.png"%}}
   > If you want to innovate, you have to make space for different points of view — luckily, this is also what you need to do if you want a team where everyone is empowered. All kinds of cultural and technical factors conspire to privilege some voices at the expense of others. There are many practices you can implement to systematically challenge that bias, but just being aware of it is a good starting point. — Richard Bartlett
@@ -89,7 +89,7 @@ Human brains have evolved over millions of years to balance quick, efficient “
 
 But sometimes we get it wrong. In fact, there are well-known “bugs” in the human cognition program, which can keep people from making the best decisions. This is further complicated in group situations. We need to be aware of these dynamics.
 
-There is a huge [range of cognitive biases](https://en.wikipedia.org/wiki/List_of_cognitive_biases) (this list is really worth a read), all of which have potential impacts on decision-making and collaboration. Facilitation can be an important tool to deal with them, to raise awareness of their existence, encourage proactive choices about them. For example, asking when is it more important to move quickly and when is it more important to be accurate.
+There is a huge [range of cognitive biases](https://en.wikipedia.org/wiki/List_of_cognitive_biases) (this list is really worth a read), all of which have potential impacts on decision making and collaboration. Facilitation can be an important tool to deal with them, to raise awareness of their existence, encourage proactive choices about them. For example, asking when is it more important to move quickly and when is it more important to be accurate.
 
 One powerful tool to counter cognitive bias and increase quality of decisions is structured processes and communication. The challenge of following a process instead of the “path of least resistance” can help highlight thinking errors and bias. Facilitators sometimes push for things that feel challenging or trigger resistance, precisely because brains are being asked to step out of familiar patterns. Discipline in this area can help groups achieve their deeper goals, which can be worth some temporary discomfort.
 
@@ -105,7 +105,7 @@ On Loomio
 * Diverse information and inputs can disrupt assumptions or bias. This is built into Loomio’s basic design: by enabling more voices to contribute to a discussion on a more equitable basis, you have a chance to escape “groupthink”.
 * Loomio gives participants the ability to dissent constructively. Safe and valued dissent is essential for a culture of critical thinking.
 * Communicating asynchronously in writing slows conversation down and lets it be more carefully considered, giving people a chance to think more carefully and avoid cognitive errors.
-* Loomio invites people into a semi-structured process that leads to more considered decision-making. Loomio can be used for a huge range of different processes, but simply having *some* structure in a discussion enables other possibilities.
+* Loomio invites people into a semi-structured process that leads to more considered decision making. Loomio can be used for a huge range of different processes, but simply having *some* structure in a discussion enables other possibilities.
 
 
 ## Balancing Divergent & Convergent

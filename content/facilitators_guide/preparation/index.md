@@ -36,7 +36,7 @@ In offline spaces, literally rearranging the furniture is a habit that helps fac
 
 On Loomio
 
-* Inviting people into a new digital space specifically for decision-making is powerful — there’s a “threshold crossing” experience making it as distinct from other online spaces (which might be for socialising or other functions).
+* Inviting people into a new digital space specifically for decision making is powerful — there’s a “threshold crossing” experience making it as distinct from other online spaces (which might be for socialising or other functions).
 * [Customising your group photo](../../guides/getting_started/starting_a_group/#upload-a-group-photo) is a prime opportunity to craft the feeling of the space.
 * The group description is a main piece of “furniture” on the group page, and [you can customise it](../../guides/getting_started/starting_a_group/#group-description) to suit.
 

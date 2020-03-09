@@ -32,7 +32,7 @@ _– James Bloemendal, [Ian Martin Group](https://ianmartin.com/), Canada._
 "Using Loomio helped our group be much more communicative in between in-person meetings."<br>
 *– Mark Simmonds, Co-operative Development Forum, UK.*
 
-“Loomio creates a space for people to practice democratic decision-making on things that are both high and low stakes.”<br>
+“Loomio creates a space for people to practice democratic decision making on things that are both high and low stakes.”<br>
 *– Matt Cropp, Full Barrel Co-op and Vermont Solidarity Investing Club. <br> &ensp; [Read Matt's story](https://blog.loomio.org/2019/07/11/brewery-cooperative-using-loomio-to-bring-everyone-to-the-table/?utm_campaign=testimonial&utm_term=help) or the [Investing Club's](https://blog.loomio.org/2019/06/14/investing-in-community/?utm_campaign=testimonial&utm_term=help)*
 
 ### Collaboration
@@ -66,5 +66,5 @@ _– James Bloemendal, [Ian Martin Group](https://ianmartin.com/), Canada._
 “We can’t possibly make decisions with only a small group. We need diverse input from many people around the world, that Loomio enables.”<br>
 *– Anne-Marie Brooke, Human Rights Measurement Initiative, Global. <br> &ensp; [Read Anne's story](https://blog.loomio.org/2019/07/02/making-the-invisible-visible-measuring-human-rights/)*
 
-“Loomio bundles all of the functionalities we need for communication, engagement and decision-making into a single place.”<br>
+“Loomio bundles all of the functionalities we need for communication, engagement and decision making into a single place.”<br>
 *– Matt Cropp, Full Barrel Co-op and Vermont Solidarity Investing Club. <br> &ensp; [Read Matt's story](https://blog.loomio.org/2019/07/11/brewery-cooperative-using-loomio-to-bring-everyone-to-the-table/) or the [Investing Club's](https://blog.loomio.org/2019/06/14/investing-in-community/)*

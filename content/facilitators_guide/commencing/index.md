@@ -1,4 +1,4 @@
----
+decision making---
 title: Commencing
 weight: 20
 description:
@@ -15,7 +15,7 @@ description:
 How participants are invited into a facilitated space is incredibly important. People understand huge amounts of information from the invitation, and use it to judge how a space will be held and if they belong there. The moment of invitation is in many ways the defining opportunity to set the tone and establish trust.
 
 {{%expert_advice "../rich_200.png"%}}
-  > Decision-making is all about communication: your group can only make good decisions together if there’s a foundation of good communication in place first. This means being clear about what the purpose of a discussion or meeting is, who needs to be involved, what the time-frame is, and what people can expect. — Richard Bartlett
+  > Decision making is all about communication: your group can only make good decisions together if there’s a foundation of good communication in place first. This means being clear about what the purpose of a discussion or meeting is, who needs to be involved, what the time-frame is, and what people can expect. — Richard Bartlett
 {{%/expert_advice%}}
 
 Key aspects to an invitation:
@@ -73,7 +73,7 @@ On Loomio
 
 ## Who’s NOT in the Room
 
-Diversity is critical for quality group decision-making. The “wisdom of the crowd effect” (collective intelligence) only works by combining a variety of viewpoints. Outcomes of collaboration processes depend heavily on which voices are, and are not, represented. It’s impossible to have perfect representative inclusion, but you need to take into account who might be missing.
+Diversity is critical for quality group decision making. The “wisdom of the crowd effect” (collective intelligence) only works by combining a variety of viewpoints. Outcomes of collaboration processes depend heavily on which voices are, and are not, represented. It’s impossible to have perfect representative inclusion, but you need to take into account who might be missing.
 
 It’s extremely common for people to have blind spots around privilege. Humans are not great at intuiting bias, and are a lot better at noticing the presence of something, rather than the absence. Our minds trick us. For example, when women and men are deliberately given an equal amount of talking time there is often a perception that women are getting more than their fair share, due to different ideas about how much they “should” talk ([more details](https://www.quora.com/Do-women-tend-to-talk-more-than-men)). It can be necessary to actually measure or count to get an accurate picture, instead of relying on intuition.
 
