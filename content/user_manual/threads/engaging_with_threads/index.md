@@ -31,14 +31,14 @@ While editing the context, click the **X** to the right of the attachment's name
 
 
 ## Comments and replies
-The most common activity in a thread is commenting. First look for **Comment** and your user photo (or initials).
+The most common activity in a thread is commenting. Comments are shared with everyone in the thread – usually this is just the members of your group. First look for **Comment** and your user photo (or initials).
 
 ![](comments_and_facilitation_box.png)
 _Make sure that Comment is highlighted, not Proposal or Poll._
 
 Write your comment and press **Post** to have your say.
 
-Replies are like comments except in that the author of the original comment will be notified of your reply. Click **reply** on the comment you would like to associate your comment with, as it will be nested underneath theirs by default.
+Replies are like comments except in that the author of the original comment will be notified of your reply. Click **reply** on the comment you would like to associate your comment with, as it will be nested underneath theirs – by default – in the thread in which you replied.
 
 You can reply to your _own_ comment in order to nest your reply underneath the comment. Click the three horizontal dots (**⋯**) to find **reply** in this case.
 
