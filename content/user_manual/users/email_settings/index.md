@@ -8,6 +8,16 @@ menu:
     name: Notifications
 ---
 
+When you are notified, Loomio will send a notification within the app and, by default, to your email.
+
+## In-app notifications
+
+![](notification_bell.png)
+
+The bell icon in the top-right is where notifications are accessed within the app; a prominent number will display the number of notifications you have yet to read.
+
+## Emails
+
 Loomio sends emails to keep you updated on the activity in your groups. The default settings assume that you don't have a habit of using Loomio regularly so are designed to ensure you can stay up to date by checking your emails.
 
 <iframe width="100%" height="380px" src="https://www.youtube-nocookie.com/embed/0Mb2_D74ktM?start=2?rel=0" frameborder="0" allowfullscreen></iframe>
