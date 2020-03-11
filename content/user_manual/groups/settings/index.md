@@ -59,9 +59,13 @@ If you select this option, rather than letting people walk in the door voluntari
 In _closed subgroups_ you can allow members of the parent group to see discussions within the subgroup.
 Select, **Members of [parent group] can see private threads** to enable this feature. This feature is off by default. For more on subgroups, [see here](../subgroups).
 
-### Invite and approve new members
+### Members can invite people and approve requests to join
 
 This allows everyone in your group to invite new people in, and approve any membership requests. When it is deselected only group admin will be able to invite and approve new members.
+
+### Members can notify everyone in group
+
+When ticked, any Member will be able to use features such as **invite people** to send a notification to everyone in the group. By default, group members receive emails for these kinds of notifications.
 
 ### Create subgroups
 
