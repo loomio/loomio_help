@@ -83,9 +83,15 @@ The **Unread threads** page shows all threads and proposals that have new conten
 
 Loomio is a place for your group, and this is made most obvious when you look at the **Group page**, Loomio's hub for your group.
 
-> And not just Loomio's hub... we often see groups adopt it as their one-stop-shop.
+> And not just the hub for your Loomio activity... we often see groups adopt it as their one-stop-shop for all key tools and links.
 
-Groups hold everything in one place for a specific set of people. There's lots to say about them so, for more… [→ Groups](/en/user_manual/groups)
+Group pages are where you start threads.
+
+![](new_thread.png)
+
+Groups hold everything in one place for a specific set of people.
+
+There's lots to say about them so, for more… [→ Groups](/en/user_manual/groups)
 
 ### Viewing your groups
 All the groups you belong to are listed in the sidebar on the left-hand side. This allows you to easily navigate to or between them by clicking their name or logo.
