@@ -31,7 +31,7 @@ High-functioning groups know exactly what they are set up to achieve and what th
 
 #### Group spotlight
 
-*Zero Waste France’s vision is a sustainable planet without disposable plastic packaging, where citizens and society are mobilized to action.  Zero Waste France use Loomio to organize campaigns, raise awareness and take action, achieving real outcomes in the process.*
+*[Zero Waste France’s](https://blog.loomio.org/2019/07/30/catalyzing-the-zero-waste-movement-in-france/) vision is a sustainable planet without disposable plastic packaging, where citizens and society are mobilized to action.  Zero Waste France use Loomio to organize campaigns, raise awareness and take action, achieving real outcomes in the process. [Read more…](https://blog.loomio.org/2019/07/30/catalyzing-the-zero-waste-movement-in-france/)*
 
 ## 3. They are action-oriented
 
