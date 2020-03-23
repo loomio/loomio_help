@@ -71,17 +71,9 @@ The subscription is activated immediately and your group automatically upgraded.
 
 ## Change your plan
 
-[Click here to change your plan.](https://www.loomio.org/upgrade/)
+You can change your plan at any time. For example you can change from a Basic plan to a Pro plan, or from monthly payment to annual payment.
 
-You will see a list of all the groups you belong to.
-
-Find the group you wish to change and click the 'Change' link.
-
-This link takes you to the Loomio billing portal operated by Chargify where you can change your subscription plan. You may need to enter your email address to receive a secure link to the portal.   
-
-Click on the 'Change Plan' link and select your new plan. 
-
-Check the details of plan, price and payment frequency in the Plan Summary table are correct.
+Please [contact us](https://www.loomio.org/contact) if you wish to change your plan. 
 
 ## Cancel your plan
 If you would like to cancel your Loomio subscription, you can do this via your billing portal. A link to this portal is included at the bottom of your Loomio invoice/statements called ‘Account management’.
