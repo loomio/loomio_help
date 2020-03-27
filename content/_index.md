@@ -9,6 +9,9 @@ title: Loomio Help
 ## [What is Loomio](/en/user_manual/overview)
 What Loomio is, and how it works.
 
+## [Transitioning to remote work](https://blog.loomio.org/2020/03/19/remote-work-kit/?utm_campaign=help_front_page_revis&utm_term=email)
+Get up and running in 10 minutes (if your team is new to Loomio and starting to work from home)
+
 ## [User Manual](user_manual)
 In-depth explanations of all the features and troubleshooting.
 
