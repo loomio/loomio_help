@@ -58,15 +58,19 @@ Introducing yourself and being introduced to others is one of the most basic and
 
 As a facilitator, if you don’t give people a chance to introduce themselves and find out who is around them, they will generally subvert whatever else you’re trying to point their attention at until you allow this process to occur. Consciously design introductions as a feature, and use them as an opportunity to further the overall goals of the interaction.
 
-Even among groups who already know each other well, this introduction process continues with “checking in” and other good practices for team cohesion. People have a multitude of identities, which change based on the context. People answer and re-answer “who am I for this moment” all the time, and that is what allows them to orient around one another.
+### Check in
+
+Even among groups who already know each other well, this introduction process continues with “checking in” – where everyone has a chance to speak at the beginning of a meeting (often to a question of "what is on top for you", "how are you", or "is there anything preventing you from being present") and other good practices for team cohesion. People have a multitude of identities, which change based on the context. People answer and re-answer “who am I for this moment” all the time, and that is what allows them to orient around one another.
 
 People's expression does not occur in a vaccuum, but in the context of who they are. A multi-faceted view of someone’s identity is an essential aspect of interpreting their contributions.
 
-> We start many of our meetings with everyone “checking in” before we get to the agenda. These check-ins are focused not on your work tasks, but on how you’re doing as a human being. If you’re going through a rough patch at home, or you’re sick, or you have exciting positive news, understanding your state of mind will help the entire group have the right context to interpret how you’re communicating. — Richard Bartlett
+{{%expert_advice "../rich_200.png"%}}
+  > We start many of our meetings with everyone “checking in” before we get to the agenda. These check-ins are focused not on your work tasks, but on how you’re doing as a human being. If you’re going through a rough patch at home, or you’re sick, or you have exciting positive news, understanding your state of mind will help the entire group have the right context to interpret how you’re communicating. — Richard Bartlett
+{{%/expert_advice%}}
 
 On Loomio
 
-* Introduction threads began as a user-created “hack” of discussion threads. They were so widespread that now new Loomio groups automatically start with an intro thread pre-loaded. You can edit this thread to best suit your group's needs. It provides a useful first “call to action” everyone coming in will understand: introduce yourself.
+* Create a thread called "Introduce yourself" or "Check in". It provides a useful first _call to action_ everyone coming in will understand.
 * For “request to join” groups, we have a function that allows the requestor to introduce themselves to the coordinator, to get access to the group. Some groups have a process of re-posting this content in the intro thread to welcome people in.
 * Upload profile photos! Photos of faces are one of the most powerful ways of feeling like you know who is in the room with you online.
 
