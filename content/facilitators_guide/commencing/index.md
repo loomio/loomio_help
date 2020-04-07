@@ -7,7 +7,6 @@ description:
 #     parent: facilitators_guide
 #     weight: 20
 ---
-
 ![](cover.jpg)
 
 ## Invitation
