@@ -58,7 +58,7 @@ Other examples:
 
 A benefit of Count is that it automatically notifies those people who forget to participate, giving people a little encouragement to get the job done.
 
-## Poll
+## Choose
 
 _Measure popularity or offer a choice_
 
@@ -79,7 +79,7 @@ Examples:
 
 Select the tick box, **Multiple choice**, if you wish for people to be able to choose multiple options rather than just a single choice off of the list of options.
 
-## Score poll
+## Score
 
 _Express the degree of preference for each option_
 
