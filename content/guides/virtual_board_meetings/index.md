@@ -1,13 +1,14 @@
 ---
 title: How to run a virtual Board meeting
 weight: 80
-description: Step-by-steps to help your meeting and run other board processes.
-hidetoc: true
+description: "Step-by-step to improve board meetings & simplify other board work."
 menu:
   main:
     parent: guides
     name: Run a virtual Board meeting
 ---
+
+_Read time: 8 minutes_.
 
 In times of crisis, good governance and clear communication within your board are more important than ever. However, doing this can be challenging when some or all of your board members are remote.
 

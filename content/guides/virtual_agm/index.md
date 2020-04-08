@@ -1,11 +1,13 @@
 ---
 title: How to run your AGM online
 weight: 80
-description: Improve remote formal meetings with this Loomio guide.
+description: Improve remote and formal meetings with this Loomio guide.
 menu:
   main:
     parent: guides
 ---
+
+_Read time: 7 minutes._
 
 In times of instability and uncertainty, and especially now, we can’t always gather in the same place at the same time. But life goes on and many organizations are still needing to continue running their formal meetings, to discuss and make decisions as a board or even run an AGM.
 
