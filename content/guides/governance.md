@@ -2,27 +2,32 @@
 title: Governance
 weight: 80
 description: Processes and workflows for boards and committees.
+hidetoc: true
 menu:
   main:
     parent: guides
 ---
 
-If you are using Loomio for governance in your board, committee or trust—or in many 'formal' or 'structured' group settings—here are some simple processes you can use to improve communication and make timely decisions.
+Simple guides to improve communication, deliberation and decisions, especially when using Loomio for governance or in any 'formal' or 'structured' setting.
 
-<br>
+### [Better board meetings and simplifying board work online](../virtual_board_meetings/)
+**How to run a board meeting, remote** or in-person, in a way that is truly effective – giving everyone a voice, working through items on the agenda and creating space for meaningful discussions. Ensure quality governance by preparing…
 
-<iframe width="100%" height="380px" src="https://www.youtube-nocookie.com/embed/FITqrhLuh8I?rel=0" frameborder="0" allowfullscreen></iframe>
-*Above shows an older Loomio, but it's still a great explainer. You can find this [video's script here](/en/transcript_board_processes)*
+### [How to run a virtual AGM](../virtual_agm)
+This guide will help keep your business moving even when you can’t gather in person. It can also help any group have more effective formal meetings.
 
-The above video covers these key workflows:
-
-- Ratify or approve meeting minutes (this can save a lot of time in your meetings)
-- Better prepare for meeting (checks if material has been read and remind group to do so)
-- Make a decision between meetings (especially time sensitive ones)
+### [Video demonstration of easy wins for better meetings & governance](/en/overview-and-how-tos/#simplify-your-board-work)
+Learn to ratify or approve meeting minutes (saving precious face-to-face time), better prepare for meetings by checking context and tracking engagement, and how to make a decision between meetings (especially time sensitive ones).
 
 ---
 
-## Create a place for your board
+### Supercharge your meetings
+
+See our new guide, [Better board meetings & simplifying board work online](../virtual_board_meetings/).
+
+### Create a place for your board
+
+Just trying to learn how to write a useful introduction/ Group Description for your group? Read on. Otherwise our new [virtual board meetings guide](../virtual_board_meetings/) will take you through all the steps for setting up.
 
 A Loomio group is a secure online place for your board. A Loomio group helps you increase communication and continue work between meetings, connecting your members wherever they are and at a time that suits them.
 
@@ -42,57 +47,3 @@ For example; _"We will use Loomio to set the board meeting agenda, prepare and u
 For example:
 
 ![](../gov_guide1.png)
-
-## Supercharge your meetings
-
-Engage your board by announcing the next meeting and inviting contribution to agenda items.  This is a great way to help board members to prepare and arrive at the meeting in context.
-
-**1) A week before your meeting, start a [discussion thread](/en/user_manual/discussion_threads/starting_threads/) to announce the meeting details.**
-
-Attach any documents and include all relevant details, links, and files so that people have them all in one place. Putting this information in the thread's context, which always remains at the top of the discussion, makes them easy for everyone to find.
-
-You may also invite members to ask any questions prior to the meeting.  This is helpful to gain some insight about any concerns and what people are thinking.
-
-For example;
-
-![](../gov_guide2.png)
-
-**2) Invite agenda points from your board by starting a [Check](/en/user_manual/polls/proposal_types/#check).**
-
-Set the Check to close at the time the meeting starts; this way everyone will get a reminder 24 hours beforehand.
-
-For example;
-
-![](../gov_guide3.png)
-
-**3) During the meeting, continue discussion topics on Loomio**
-
-During notice which topics require more space than time allows in the meeting.  Start a Loomio thread about each topic and invite members to continue discussion beyond the meeting.
-
-For example; _"In our last board meeting, we had little time to discuss our insurance options…"_
-
-**4) After the meeting sign off minutes with Check**
-
-After the meeting, update the meeting thread with a summary and note action items agreed.
-
-Create another Check in the same thread, and attach or link to the meeting minutes document. Give people a few days to sign off the minutes and confirm their action points.
-
-**5) Make a decision between meetings**
-
-From time to time you may need to make a decision between meetings.  Loomio makes this easy.
-
-Set up a thread with the topic; for example _"Directors and Officers Liability Insurance for 2019"_
-
-Add any relevant documents and supporting materials; for example _"Please see last year's insurance schedule and an offer for renewal from our insurance provider."_  
-
-Start a Proposal to make a decision; for example _"I accept the D&O insurance offer from ABC Insurance Co."_
-
-Invite members to vote and comment.  A reminder will be sent from Loomio 24 hours before the decision closes.
-
-When the poll closes, set an outcome; for example _"Thanks for voting, our decision is to accept the offer. I will now complete the paperwork."_
-
-The decision can then be acknowledged and ratified at the next board meeting.
-
-**6) Review history and build an auditable archive**
-
-Loomio stores a record of your meeting and the work between meetings, developing a searchable archive, with auditable decision trail.

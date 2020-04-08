@@ -35,7 +35,7 @@ When you are selecting your times, Loomio will display your team’s most used t
 
 If the times don't work, participants can suggest alternatives using the message field. You can then update the poll with new times.
 
-## Count
+## Check
 
 _Count how many people have completed a task, or ask for volunteers_
 
