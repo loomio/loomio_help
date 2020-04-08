@@ -1,5 +1,5 @@
 ---
-title: How to run your AGM online
+title: How to run a virtual AGM
 weight: 80
 description: Improve remote and formal meetings with this Loomio guide.
 menu:

@@ -218,7 +218,7 @@ Find everything you need, when you need it, all in one place – great for audit
 
 ## Onwards
 
-Now that you know how to get better outcomes from your virtual AGM with Loomio, **start your [free trial](http://loomio.org/?utm_campaign=virtual_board_guide&utm_term=help/)** so you’re ready when the time comes!
+Now that you know how to get better outcomes from your virtual board meeting with Loomio, **start your [free trial](http://loomio.org/?utm_campaign=virtual_board_guide&utm_term=help/)** so you’re ready when the time comes!
 
 Have you run an AGM or Board meeting online?
 
