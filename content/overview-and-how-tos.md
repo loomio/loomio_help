@@ -21,4 +21,4 @@ hidetoc: true
 
 _Above shows an older Loomio, but it's still a great explainer._
 
-Any kind of group may benefit from understanding these step-by-step workflows in further depth; [click here for the guide](/en/guides/governance).
+Any kind of group may benefit from understanding these step-by-step workflows in further depth; [click here for the guide](/en/guides/virtual_board_meetings).
