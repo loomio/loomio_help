@@ -16,7 +16,7 @@ Simple guides to improve communication, deliberation and decisions, especially w
 ### [How to run a virtual AGM](../virtual_agm)
 This guide will help keep your business moving even when you can’t gather in person. It can also help any group have more effective formal meetings.
 
-### [Video demonstration of easy wins for better meetings & governance](/en/overview-and-how-tos/#simplify-your-board-work)
+### [Video demonstration of easy wins for better meetings & governance](/en/overview-and-how-tos/#supercharge-your-meetings-simplify-work)
 Learn to ratify or approve meeting minutes (saving precious face-to-face time), better prepare for meetings by checking context and tracking engagement, and how to make a decision between meetings (especially time sensitive ones).
 
 ---
