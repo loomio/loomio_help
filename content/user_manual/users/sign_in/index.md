@@ -15,7 +15,7 @@ Creating a new user account and signing into an existing account both start from
 ## User accounts are identified by email address
 Loomio user accounts are identified by an email address. If you sign in via a third party such as Google, we'll use the email address of your Google account.
 
-This means you can login via email (or password) even if you login via a third party to begin with.
+This means you can login via email even if you login via a third party to begin with.
 
 ## Creating a new user account
 It's recommended to sign in via Google or Facebook (if you use those services) because for most people it's faster, more secure, and less complex than using a password. Another benefit is that you won't need to manually upload a profile photo. Loomio does not read other information from your sign in provider (see our [privacy policy](https://www.loomio.org/privacy)).
