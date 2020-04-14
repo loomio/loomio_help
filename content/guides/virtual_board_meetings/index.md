@@ -1,5 +1,5 @@
 ---
-title: How to run a virtual Board meeting
+title: "How to run a board meeting & make decisions online"
 weight: 80
 description: "Step-by-step to improve board meetings & simplify other board work."
 menu:

@@ -10,7 +10,7 @@ menu:
 
 Simple guides to improve communication, deliberation and decisions, especially when using Loomio for governance or in any 'formal' or 'structured' setting.
 
-### [How to run a virtual board meeting](../virtual_board_meetings/)
+### [How to run a board meeting & make decisions online](../virtual_board_meetings/)
 **How to run a board meeting in-person** or remote, in a way that is truly effective – giving everyone a voice, working through items on the agenda and creating space for meaningful discussions. Ensure quality governance by preparing on Loomio. Also includes **How to make some decisions between meetings.**
 
 ### [How to run a virtual AGM](../virtual_agm)
@@ -23,11 +23,11 @@ Learn to ratify or approve meeting minutes (saving precious face-to-face time), 
 
 ### Supercharge your meetings
 
-Our new guide, [How to run a virtual board meeting](../virtual_board_meetings/) steps you through **processes to improve your meetings** and some **decisions, preparation, and follow-up actions** you can improve via Loomio.
+Our new guide, [How to run a board meeting & make decisions online](../virtual_board_meetings/) steps you through **processes to improve your meetings** and some **decisions, preparation, and follow-up actions** you can improve via Loomio.
 
 ### Create a place for your board
 
-Just trying to learn how to write a useful introduction/ Group Description for your group? Read on. Otherwise, we recommend our [How to run a virtual board meeting](../virtual_board_meetings/) guide which includes all the steps for starting your group.
+> Just trying to learn how to write a useful introduction/ Group Description for your group? Read on. Otherwise, we again recommend our [How to run a board meeting…](../virtual_board_meetings/) guide which includes all the steps for starting your group.
 
 A Loomio group is a secure online place for your board. A Loomio group helps you increase communication and continue work between meetings, connecting your members wherever they are and at a time that suits them.
 
