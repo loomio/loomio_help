@@ -57,8 +57,8 @@ cd "$(rbenv root)"/plugins/ruby-build && git pull
 At the time of writing 2.5.1 is the version of ruby that Loomio uses. To check what the current version required is, see [.ruby-version](https://github.com/loomio/loomio/blob/master/.ruby-version)
 
 ```
-rbenv install 2.5.1
-rbenv global 2.5.1
+rbenv install 2.6.6
+rbenv global 2.6.6
 gem install bundler
 ```
 
@@ -67,20 +67,14 @@ gem install bundler
 You'll need Node.js and I recommend you use [nvm](https://github.com/creationix/nvm) to install it. Just run:
 
 ```
-curl -o- https://raw.githubusercontent.com/creationix/nvm/v0.33.11/install.sh | bash
+curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.35.3/install.sh | bash
 ```
 
 You'll need to restart your terminal, then run:
 
 ```
-nvm install 8.12.0
-nvm alias default 8.12.0
-```
-
-## Install two packages required for this project
-
-```
-npm install -g gulp
+nvm install stable
+nvm alias default stable
 ```
 
 ## Fork and clone the Loomio git repo
@@ -100,7 +94,7 @@ From you freshly checked out Loomio repo:
 
 ```
 bundle install
-cd client; npm install && cd ..
+cd vue; npm install && cd ..
 ```
 
 ## Create database.yml
@@ -125,16 +119,18 @@ rake db:setup
 Rails run the Loomio server, gulp builds the javascript client, and automatically rebuilds it when you make changes
 
 ```
-rails s
+USE_VUE=1 rails s
 ```
 
 And in a new terminal instance
 ```
-cd client; gulp dev
+cd vue
+npm run serve
 ```
 
-You can view Loomio in your browser by visiting http://localhost:3000, however, you will not be able to move past the initial authentication without navigating through the /dev/ route. To view Loomio's features and changes to your source code, visit any of the dev routes listed at http://localhost:3000/dev/ (be sure to include the trailing slash).  A good place to start might be http://localhost:3000/dev/setup_group.  
+You can view Loomio in your browser by visiting http://localhost:8080.
 
+To view Loomio's features and changes to your source code, visit any of the dev routes listed at http://localhost:8080/dev/ (be sure to include the trailing slash). A good place to is http://localhost:8080/dev/setup_group.  
 
 ## Other things to know
 Rails stuff
@@ -142,12 +138,6 @@ Rails stuff
 - sometimes `rails s` and similar commands will fail. Try with `bundle exec rails s` and that can help.
 - `rails c` will bring up a rails console
 - 'rspec' will run the rails tests
-
-Gulp stuff (run from the client folder)
-
-- `gulp nightwatch`: Run the automated frontend tests
-- `npm rebuild node-sass` has been known to be very useful
-- if you ever get into problems with node libraries: `rm -rf node_modules && npm install`
 
 ### Having trouble?
 Let us know in the [product development](https://www.loomio.org/g/GN7EFQTK/loomio-community-product-development) group on Loomio.

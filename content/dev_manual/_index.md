@@ -10,5 +10,3 @@ menu:
 ## [Loomio on Github](https://github.com/loomio/loomio)
 
 ## [Loomio Community - Product development](https://www.loomio.org/g/GN7EFQTK/loomio-community-product-development)
-
-## [Zapier Integration](https://www.loomio.org/d/lO7PfvdU/loomio-s-zapier-integration)
