@@ -10,13 +10,13 @@ menu:
 
 Simple guides to improve communication, deliberation and decisions, especially when using Loomio for governance or in any 'formal' or 'structured' setting.
 
-### [How to run a board meeting & make decisions online](../virtual_board_meetings/)
-**How to run a board meeting in-person** or remote, in a way that is truly effective – giving everyone a voice, working through items on the agenda and creating space for meaningful discussions. Ensure quality governance by preparing on Loomio. Also includes **How to make some decisions between meetings.**
+### [How to run a board meeting & make decisions **online**](../virtual_board_meetings/)
+How to run a board meeting in-person or remote _effectively_ – give everyone a voice, work through items on the agenda and create space for meaningful discussions. Ensure quality governance by preparing on Loomio _and_ make some decisions between meetings.
 
-### [How to run a virtual AGM](../virtual_agm)
-This guide will help keep your business moving even when you can’t gather in person. It can also help any group have more effective formal meetings.
+### [How to run a virtual AGM (assembly or…](../virtual_agm)
+This guide will help keep your business moving even when you can’t gather in person. It can also help any group have more effective big or formal meetings, especially those that happen infrequently.
 
-### [Video demonstration of easy wins for better meetings & governance](/en/overview-and-how-tos/#supercharge-your-meetings-simplify-work)
+### [VIDEO: easy wins, processes for better meetings & governance](/en/overview-and-how-tos/#supercharge-your-meetings-simplify-work)
 Learn to ratify or approve meeting minutes (saving precious face-to-face time), better prepare for meetings by checking context and tracking engagement, and how to make a decision between meetings (especially time sensitive ones).
 
 ---

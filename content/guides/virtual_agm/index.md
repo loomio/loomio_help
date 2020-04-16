@@ -9,9 +9,9 @@ menu:
 
 _Read time: 7 minutes._
 
-In times of instability and uncertainty, and especially now, we can’t always gather in the same place at the same time. But life goes on and many organizations are still needing to continue running their formal meetings, to discuss and make decisions as a board or even run an AGM.
+In times of instability and uncertainty, and especially now, we can’t always gather in the same place at the same time. But life goes on and many organizations are still needing to continue running their big or formal meetings, to discuss and [make decisions as a board](../virtual_board_meetings) or even run an AGM.
 
-This guide will help keep your business moving even while you can’t gather in person.
+This guide will help keep your business moving even while you can’t gather in person by helping you run productive AGMs, assemblies, and other big, formal or infrequent meetings.
 
 ## What you need to know before you begin
 
