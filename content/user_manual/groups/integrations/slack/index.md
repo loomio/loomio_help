@@ -36,4 +36,4 @@ Go to Webhooks in your Loomio group settings
 Select Slack, give it a name, paste the URL, and save. You're done!
 ![](s9.png)
 
-_Loomio is not created by, affiliated with, or supported by Microsoft._
+_Loomio is not created by, affiliated with, or supported by Slack._

@@ -2,7 +2,6 @@
 title: Mattermost integration
 description: Connecting your Loomio group notifications to your Mattermost team chat.
 weight: 40
-listMenu: true
 menu:
   main:
     name: Mattermost

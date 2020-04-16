@@ -1,5 +1,10 @@
 ---
-title: Configure Microsoft Azure Active Directory with Loomio
+title: Microsoft Azure Active Directory
+menu:
+  main:
+    name: Azure
+    identifier: azure
+    parent: sso
 ---
 
 Setup your Active Directory enterprise application and start your SAML configuration by following this guide: [Configure SAML-based single sign-on to non-gallery applications](https://docs.microsoft.com/en-us/azure/active-directory/manage-apps/configure-single-sign-on-non-gallery-applications)
