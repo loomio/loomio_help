@@ -58,7 +58,7 @@ Other examples:
 
 A benefit of Count is that it automatically notifies those people who forget to participate, giving people a little encouragement to get the job done.
 
-## Choose
+## Poll
 
 _Measure popularity or offer a choice_
 
@@ -79,7 +79,7 @@ Examples:
 
 Select the tick box, **Multiple choice**, if you wish for people to be able to choose multiple options rather than just a single choice off of the list of options.
 
-## Score
+## Score Poll
 
 _Express the degree of preference for each option_
 
@@ -97,11 +97,11 @@ Examples:
 * How important is each of these principles to you when considering our team vision?
 * How much would you like to see each of the following speakers at the next conference?
 
-## Allocate
+## Dot vote
 
 _Prioritise options together by allocating a 'budget' of points_
 
-Also called dot voting, this style of poll is useful for groups trying to allocate a limited resource (even time) to a number of options (eg, agenda items, or budget line-items)
+This style of poll is useful for groups trying to allocate a limited resource (even time) to a number of options (eg, agenda items, or budget line-items)
 
 ![](dot-vote.png)
 
