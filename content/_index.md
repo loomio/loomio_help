@@ -3,7 +3,7 @@ title: Loomio Help
 ---
 # Loomio Help
 
-<div class="subtitle"><p>Loomio is an online tool used by thousands of groups around the world to increase transparency and inclusion, decrease meetings and emails, and make better decisions together.</p><p><b>Suddenly remote?</b> Get your team on Loomio <a href="https://blog.loomio.org/2020/03/19/remote-work-kit/?utm_campaign=help_front_page_revis&utm_term=email" target="_blank">with a 10 minute guide.</a></p></div>
+<div class="subtitle"><p>Loomio is an online tool used by thousands of groups around the world to increase transparency and inclusion, decrease meetings and emails, and make better decisions together. <a href="https://translate.google.com/translate?hl=auto&sl=en&tl=auto&u=help.loomio.org">Translate Help into your language.</a></p><p><b>Suddenly remote?</b> Get your team on Loomio <a href="https://blog.loomio.org/2020/03/19/remote-work-kit/?utm_campaign=help_front_page_revis&utm_term=email" target="_blank">with a 10 minute guide.</a></p></div>
 
 ***
 ## [What is Loomio](/en/user_manual/overview)
