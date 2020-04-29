@@ -19,7 +19,7 @@ Before we begin, we will make a couple points about the tools you might need and
 
 ### Real-time is not always best
 
-You can have some or even all of the interactions and engagement you would normally have at a formal meeting on Loomio. Loomio may not be the only tool you want to use – we also use Zoom teleconferencing and Google Drive for file sharing – but it can help you and your group to reduce real-time meetings by achieving some decisions or processes solely on Loomio.
+You can have some or even all of the interactions and engagement you would normally have at a formal meeting on Loomio. Loomio may not be the only tool you want to use – we also use [Jitsi](https://meet.jit.si)'s open source teleconferencing, or Zoom, and Google Drive for file sharing – but it can help you and your group to reduce real-time meetings by achieving some decisions or processes solely on Loomio.
 
 > **Example:** This investment group prefers to meet online rather than in-person to discuss their [loan allocation](https://blog.loomio.org/2019/06/14/investing-in-community/#our-most-essential-tool) process.
 

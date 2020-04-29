@@ -28,11 +28,11 @@ So what happens when you can’t meet in person? How do you maintain clear commu
 
 Firstly, you will need to consider the tools you will need to help members communicate and record decisions made.
 
-- Loomio works well alongside real time video conference tools like Zoom and tools for sharing or storing files.
+- Loomio works well alongside real time video conference tools like [Jitsi](https://meet.jit.si) (open source, privacy-oriented), Zoom, or Skype, as well as tools for sharing or storing files.
 
 ### Video Conferencing
 
-- Zoom video conferencing is great for meeting together online, assuming everyone is equipped with a camera, microphone and a broadband internet service
+- [Jitsi](https://meet.jit.si) or Zoom video conferencing is great for meeting together online, assuming everyone is equipped with a camera, microphone and a broadband internet service
  - However it can still be hard to get everyone together at the same time
  - to keep attention in the face of other distractions at home or office
  - and the concentration required for members can be exhausting - _how do you feel in long, back-to-back calls?_
@@ -61,7 +61,7 @@ Get your board started with Loomio in less than 10 minutes with these five simpl
 4. Agree on the agenda
 5. Set an outcome
 
-These steps are detailed below with some examples. It is a great way to help your board members prepare for the Zoom conference meeting, while becoming familiar with Loomio.
+These steps are detailed below with some examples. It is a great way to help your board members prepare for the teleconference meeting, while becoming familiar with Loomio.
 
 ## Preparing for your virtual Board meeting
 
@@ -121,7 +121,7 @@ Setting an Outcome lets everyone know what has been decided and what to expect, 
 
 ## During your meeting
 
-Run the board meeting at the appointed time on Zoom or Skype as usual, following the agreed agenda and accessing board papers as needed.
+Run the board meeting at the appointed time on Jitsi or Zoom as usual, following the agreed agenda and accessing board papers as needed.
 
 Chairing a remote board meeting takes real energy. Richard Westlake observes;
 
