@@ -1,11 +1,11 @@
 ---
 title: Subscription management
 description: How to upgrade, manage or cancel your Loomio subscription.
+weight: 10
 menu:
   main:
     parent: subscriptions
     name: Management
-    weight: 100
 ---
 
 ## Introduction
@@ -14,7 +14,7 @@ Loomio uses the Chargify billing and subscription management service to manage s
 Prices are based on debit/credit card payment via an automated billing portal.
 
 ## Upgrading your group
-To continue to use Loomio beyond your free trial, you can upgrade your group to Basic or Pro plans, or apply for special rates available for Community & Volunteer member groups. 
+To continue to use Loomio beyond your free trial, you can upgrade your group to Basic or Pro plans, or apply for special rates available for Community & Volunteer member groups.
 
 You may upgrade your group at any time.
 
@@ -33,7 +33,7 @@ If Chargify is unable to process a payment to your card when due, an email notif
 
 The billing system will issue an alert via email when your credit card is nearing expiry.
 
-Card payment problems are sometimes caused by bank restrictions. Please make sure your credit or debit card is authorized for  "international payments" and "internet transactions" ("Prch" and "Auth"). 
+Card payment problems are sometimes caused by bank restrictions. Please make sure your credit or debit card is authorized for  "international payments" and "internet transactions" ("Prch" and "Auth").
 
 ## Alternate payment options
 Alternate payment options are only available for annual Basic and Pro plan subscriptions.
@@ -79,7 +79,7 @@ Find the group you wish to change and click the 'Change' link.
 
 This link takes you to the Loomio billing portal operated by Chargify where you can change your subscription plan. You may need to enter your email address to receive a secure link to the portal.   
 
-Click on the 'Change Plan' link and select your new plan. 
+Click on the 'Change Plan' link and select your new plan.
 
 Check the details of plan, price and payment frequency in the Plan Summary table are correct.
 
@@ -89,7 +89,7 @@ If you would like to cancel your Loomio subscription, you can do this via your b
 Follow that link to the billing portal, then:
 
 1. Find ‘Plan Details’, click on ‘Cancel’ (on the right).
-2. Tell us why you are canceling the plan. 
+2. Tell us why you are canceling the plan.
 3. Choose 'Cancel Now' or 'Cancel At End of Period'.
 
 If you’re having issues finding your billing portal link, please contact us.

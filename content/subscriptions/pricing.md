@@ -1,11 +1,11 @@
 ---
 title: Subscription pricing
 description: How we price Loomio to make it available to everyone.
+weight: 10
 menu:
   main:
     parent: subscriptions
     name: Pricing
-    weight: 0
 ---
 
 ## Overview
@@ -89,16 +89,16 @@ Volunteer & Community plan includes:
 
 These rates are only available as annual payments. Minimum price is $10.00 per year.
 
-To access these special rates, [apply for our Volunteer & Community plan](https://www.loomio.org/special_pricing). 
+To access these special rates, [apply for our Volunteer & Community plan](https://www.loomio.org/special_pricing).
 
 When you have completed the form, you may purchase the special rates plan immediately.  You do not need to wait for a response from us. We will contact you if we need to query your application.
 
 ### Variable Pricing
-When new people join your Loomio group, you will be charged for the new people at a pro-rated amount for the current billing cycle. 
+When new people join your Loomio group, you will be charged for the new people at a pro-rated amount for the current billing cycle.
 
-Loomio checks the number of people in your group daily for monthly plans, and weekly for annual plans. 
+Loomio checks the number of people in your group daily for monthly plans, and weekly for annual plans.
 
-Loomio counts the total number of people by unique user accounts who have joined your group and any subgroups.  A person with a unique user account is counted only once. 
+Loomio counts the total number of people by unique user accounts who have joined your group and any subgroups.  A person with a unique user account is counted only once.
 
 > **Example:** Mary has a Basic monthly plan for her group of 20 people, with billing of $20.00 due on the 1st of the month.
 
@@ -113,4 +113,4 @@ If the number of people in your group decreases, the price will reduce according
 Annual plans operate in a similar way. Loomio checks for new people in the group weekly and automatically charges the card on file.
 
 ### 25% discount for annual plans if upgrade during free trial period
-The 25% discount for annual plans applies at the time of upgrade, and then for each new member joining your group throughout the first year of subscription. 
+The 25% discount for annual plans applies at the time of upgrade, and then for each new member joining your group throughout the first year of subscription.

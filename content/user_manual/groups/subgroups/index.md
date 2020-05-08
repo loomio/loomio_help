@@ -16,9 +16,9 @@ For example, you can use subgroups for your organization's
 - working team or a project working group
 - a topic (such as 'strategy' or 'learning')
 
-Unlike tags, subgroups create a separate space for a group of people. [Tags](/en/user_manual/threads/thread_admin/#using-category-tags) are a way to organize your threads. Subgroups allows you to change the permissions, notifications, and more for a set of threads and people.
+Unlike tags, subgroups create a separate space for a specific group of people. [Tags](/en/user_manual/threads/thread_admin/#using-category-tags) are a way to organize your threads. Subgroups allows you to change the permissions, notifications, and more for a set of threads and people.
 
-Subgroups work just like groups do, but are located within your group/organization, which we call the "parent group". Most of the features and settings are the same as what you encounter in your parent group.
+Subgroups work just like groups do, but are located within your group/organization, which we call the "parent group". Most of the features and settings are the same as what you encounter in your parent group. This also means that someone can be part of your subgroup (eg, your board) but not your parent group.
 
 ## Add a subgroup
 
@@ -36,7 +36,7 @@ However, similar to [starting a group](/en/guides/getting_started/starting_a_gro
 
 ### Who can see it
 
-Subgroups [privacy](/en/guides/getting_started/starting_a_group/#privacy) works the same as groups' do. A secret subgroup will not be visible to group members.
+Subgroups [privacy](/en/guides/getting_started/starting_a_group/#privacy) works the same as groups' do. A secret subgroup will not be visible to group members who are not invited to the subgroup.
 
 Closed subgroups will be listed in the **Subgroups** tab, and, by default, members of the parent group can request and – upon approval by an admin – join them.
 

@@ -2,11 +2,20 @@
 title: Mattermost integration
 description: Connecting your Loomio group notifications to your Mattermost team chat.
 weight: 40
+hidetoc: true
 menu:
   main:
     name: Mattermost
     identifier: mattermost
     parent: integrations
+---
+
+Integrate Loomio groups into one or more Mattermost channels to get key updates, at the right time, on the discussions and decisions that move your efforts forward.
+
+Choose the channels you want to receive notifications from which Loomio groups or subgroups and choose which kinds of events you want that channel to be notified of (comments, polls, outcomes... [see below](#select-notifications)).
+
+_These webhook integrations are currently in public beta testing, we would like to hear your [feedback](https://loomio.org/contact/?utm_campaign=mattermost-integration-help&utm_term=help) about how it works for your group._
+
 ---
 
 Start from your Mattermost team in your browser. Then open the Integrations settings page.
@@ -29,5 +38,11 @@ Visit your Loomio group Settings page, then click Webhooks, then Add Webhook.
 
 Select "Markdown (For Mattermost..)", give it a name, paste your URL from above, and click Save.
 ![](mm7.png)
+
+## Select notifications
+
+Along with the ability to choose which events in Loomio will create a post in your chosen channel, you can also choose whether you'd like a snippet of the text from the comment, proposal, outcome, etc. by using the first option.
+
+![](../slack_teams_notifications_from_loomio.png)
 
 _Loomio is not created by, affiliated with, or supported by Mattermost._
