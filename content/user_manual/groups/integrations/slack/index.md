@@ -14,7 +14,7 @@ Integrate Loomio groups into one or more Slack channels to get key updates, at t
 
 Choose the Slack channels you want to receive notifications from which Loomio groups or subgroups and choose which kinds of events you want that channel to be notified of (comments, polls, outcomes... [see below](#select-notifications)).
 
-_These webhook integrations are currently in public beta testing, we would like to hear your [feedback](https://loomio.org/contact/?utm_campaign=slack-integration-help&utm_term=help) about how it works for your group._
+*These webhook integrations are currently in public beta testing, we would like to hear your [feedback](https://loomio.org/contact/?utm_campaign=slack-integration-help&utm_term=help) about how it works for your group.*
 
 ---
 
