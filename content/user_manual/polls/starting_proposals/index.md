@@ -8,6 +8,8 @@ menu:
 ---
 <iframe width="100%" height="380px" src="https://www.youtube-nocookie.com/embed/O-laa4di8kI" frameborder="0" allowfullscreen></iframe>
 
+There are a number of [types of proposals](../starting_proposals), but the basics remain the same for all of them.
+
 ## Title and Details
 
 **Writing proposals**
@@ -63,11 +65,11 @@ Similar to the **invite people** feature, if you input the email of someone outs
 4. They can change their minds as understanding develops; live results are available
 5. A reminder is sent out the day before closing
 6. The poll closes, and everyone can see the results
-7. The author sets an outcome, notifying everyone of what will happen next.
+7. The author sets an [outcome](../outcomes), notifying everyone of what will happen next.
 
 ## Proposal options
 
-There are some universal options that apply to most of the proposals and polls that Loomio offers. If you're interested in a specific tool's options (eg, the time poll's **if need be** option) see the section on the relevant tool… [→ Types of facilitation tools](../proposal_types)
+There are some universal options that apply to most of the proposals and polls that Loomio offers. If you're interested in a specific tool's options (eg, the time poll's **if need be** option) see the section on the relevant tool… [→ Types of proposals and polls](../proposal_types)
 
 ### Anonymous voting
 
@@ -94,3 +96,9 @@ When users add options the person who created the poll will be notified.
 ## Proposals can help in many situations
 
 Don't hesitate to start a proposal just because you're not sure everyone will agree - proposals are not only for when you have consensus, they're designed to surface issues that need resolving and are useful for clarifying disagreements. We have identified a number of ways to take advantage and step towards clear, shared outcomes, from a 'series of small yeses' to 'temperature checks'… [→ Ways of using proposals](../proposal_types/#ways-of-using-proposals)
+
+---
+
+To keep learning how to best use proposals and polls, read on…
+- [Using outcomes](../outcomes)
+- [Types of proposals and polls](../proposal_types)

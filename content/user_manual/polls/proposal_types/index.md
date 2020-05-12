@@ -1,5 +1,5 @@
 ---
-title: Types of facilitation tools
+title: Types of polls and proposals
 description: You can use several kinds of polls or proposals to get group outcomes.
 weight: 50
 menu:
