@@ -141,6 +141,14 @@ To edit the words used in the timeline: unpin and then pin it again; this will g
 
 <iframe width="100%" height="380px" src="https://www.youtube-nocookie.com/embed/Dy8Hi_QM-Gw?rel=0" frameborder="0" allowfullscreen></iframe>
 
+## Archiving threads
+
+In addition to [closing threads](#close-thread) or [moving threads](#move-thread), you can also archive the thread to your local device.
+
+### Print thread
+
+From the thread options (**⋯**), choose **print**. Then use your browser's ability to "save to pdf", or copy and paste it into the file or repository of your choosing.
+
 ## Tracking engagement
 
 ### Seen by

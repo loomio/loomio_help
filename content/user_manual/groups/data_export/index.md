@@ -8,6 +8,8 @@ menu:
     parent: groups
 ---
 
+A simple way to export all of your group's data. You can export it to a CSV, HTML, or JSON file.
+
 ## Export
 
 Open the **Settings** tab on the group page and select **Export Group Data**.
