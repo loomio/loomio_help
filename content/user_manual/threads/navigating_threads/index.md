@@ -1,5 +1,5 @@
 ---
-title: Navigating threads
+title: Navigating in threads
 weight: 40
 description: Find what you need, when you need it.
 menu:
