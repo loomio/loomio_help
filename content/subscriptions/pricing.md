@@ -116,6 +116,3 @@ Loomio counts the total number of people by unique user accounts who have joined
 If the number of people in your group decreases, the price will reduce accordingly at the next billing cycle (monthly or annually). All payments are in advance and no credit is provided.
 
 Annual plans operate in a similar way. Loomio checks for new people in the group weekly and automatically charges the card on file.
-
-### 25% discount for annual plans if upgrade during free trial period
-The 25% discount for annual plans applies at the time of upgrade, and then for each new member joining your group throughout the first year of subscription.
