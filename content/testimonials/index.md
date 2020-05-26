@@ -47,15 +47,15 @@ _– James Bloemendal, [Ian Martin Group](https://ianmartin.com/), Canada._
 *– James Carlin, 3SG, UK. <br> &ensp; [Read James' story](https://blog.loomio.org/2019/05/09/uniting-charities-for-a-common-cause/?utm_campaign=testimonial&utm_term=help)*
 
 "Loomio has been invaluable to us as an organization. It is the perfect tool to allow distributed (time and place) discussion and decision making to take place and provide a repository for decisions that have been made."<br>
-*— Mark Johnston, [Vancouver Community Lab](http://vancommunitylab.com/), CA*
+*— Mark Johnston, Vancouver Community Lab, CA. <br> &ensp; [Read Mark's story](https://blog.loomio.org/2019-08-06-building-community-with-vancouver-maker-space/)*
 
 ### Engagement
 
 “I save $100s not having to round people up.“<br>
-*– Cheyenne O'Brien, [Free Cuppa for the Driver](freecuppa.com.au/), Australia*
+*– Cheyenne O'Brien, [Free Cuppa for the Driver](https://freecuppa.com.au/), Australia*
 
 "Loomio helps us organize information in a very structured way. Loomio is very intuitive…" Loomio was very useful in helping [us] build [and] organize over 2,000 events in the last two years.<br>
-*– Manon Cuille, [Zero Waste France](https://www.zerowastefrance.org)*
+*– Manon Cuille, Zero Waste France. <br> &ensp; [Read Manon's story](https://blog.loomio.org/2019/07/30/catalyzing-the-zero-waste-movement-in-france/)*
 
 “We gained quality feedback, participants had time to hear other points of view and consider theirs.“<br>
 *– Charmaine Thompson, [NZEI Te Riu Roa](https://www.nzei.org.nz/) (early childhood and primary education union), NZ*
