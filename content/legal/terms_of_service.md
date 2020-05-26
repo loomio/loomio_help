@@ -43,11 +43,11 @@ As a user, you may deactivate your account at any time. Personally identifying i
 
 ### General Terms
 
-By selecting a subscription you agree to pay Loomio the monthly subscription fees indicated for that service. When payments begin, they will be charged on a pre-pay basis and will cover the use of that service for the following subscription period as indicated. If you wish to increase your group size limit you must change your subscription plan accordingly. Subscription fees are not refundable. The name that will appear on your statement will be Loomio Co-operative.
+By selecting a subscription you agree to pay Loomio the monthly subscription fees indicated for that service. When payments begin, they will be charged on a pre-pay basis and will cover the use of that service for the following subscription period as indicated. Subscription fees are not refundable. The name that will appear on your statement will be Loomio Limited.
 
 ### Automatic Renewal
 
-Unless you notify Loomio before the end of the applicable subscription period that you want to cancel a subscription, your subscription will automatically renew and you authorize us to collect the then-applicable fee for such subscription (as well as any taxes) using any credit card or other payment mechanism we have on record for you. Subscriptions can be canceled at any time by contacting the payment provider or emailing accounts@loomio.org.
+Unless you notify Loomio before the end of the applicable subscription period that you want to cancel a subscription, your subscription will automatically renew and you authorize us to collect the then-applicable fee for such subscription (as well as any taxes) using any credit card or other payment mechanism we have on record for you. Subscriptions can be canceled at any time via the billing portal or emailing contact@loomio.org.
 
 ## Changes
 
@@ -59,7 +59,7 @@ Users and group coordinators may request data related to their personal account 
 
 ## Termination
 
-Loomio may terminate your access to all or any part of the Service at any time, with or without cause, with or without notice, effective immediately. If you wish to terminate this Agreement or your Loomio account (if you have one), you may simply discontinue using the Service. All provisions of this Agreement which by their nature should survive termination shall survive termination, including, without limitation, ownership provisions, warranty disclaimers, indemnity and limitations of liability.
+Loomio may terminate your access to all or any part of the Service at any time, with or without cause, with or without notice, effective immediately. If you wish to terminate this Agreement or your Loomio account (if you have one), you may deactivate or delete your Loomio account. All provisions of this Agreement which by their nature should survive termination shall survive termination, including, without limitation, ownership provisions, warranty disclaimers, indemnity and limitations of liability.
 
 ## Disclaimer of Warranties
 
@@ -95,13 +95,12 @@ This Agreement constitutes the entire agreement between Loomio and you concernin
 3. The relationship we have with you under these terms is governed by New Zealand law. You and Loomio submit to the exclusive jurisdiction of the New Zealand arbitral tribunals and courts (for the purposes of that arbitration) and the parties agree to enforcement of the arbitral award and orders in New Zealand and any other country.
 4. If any part of this Agreement is held invalid or unenforceable, that part will be construed to reflect the parties’ original intent, and the remaining portions will remain in full force and effect. A waiver by either party of any term or condition of this Agreement or any breach thereof, in any one instance, will not waive such term or condition or any subsequent breach thereof. You may assign your rights under this Agreement to any party that consents to, and agrees to be bound by, its terms and conditions; Loomio may assign its rights under this Agreement without condition. This Agreement will be binding upon and will inure to the benefit of the parties, their successors and permitted assigns.
 
-Loomio is made by the Loomio Co-operative Limited, a worker-owned and New Zealand registered co-operative company located at:
+Loomio is made by Loomio Limited, a New Zealand registered subsidary of worker-owned Loomio Co-operative Limited. 
 
-```
-PO Box 27-529
-Marion Square
-Wellington 6141
+Our postal address is:
+PO Box 27-529,
+Marion Square,
+Wellington 6141,
 New Zealand
-```
 
 Delivery is instantaneous, and no refunds will be given.
