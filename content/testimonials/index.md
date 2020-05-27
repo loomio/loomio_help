@@ -54,7 +54,7 @@ _– James Bloemendal, [Ian Martin Group](https://ianmartin.com/), Canada._
 “I save $100s not having to round people up.“<br>
 *– Cheyenne O'Brien, [Free Cuppa for the Driver](https://freecuppa.com.au/), Australia*
 
-"Loomio helps us organize information in a very structured way. Loomio is very intuitive…" Loomio was very useful in helping [us] build [and] organize over 2,000 events in the last two years.<br>
+"Loomio helps us organize information in a very structured way. Loomio is very intuitive… Loomio was very useful in helping [us] build [and] organize over 2,000 events in the last two years."<br>
 *– Manon Cuille, Zero Waste France. <br> &ensp; [Read Manon's story](https://blog.loomio.org/2019/07/30/catalyzing-the-zero-waste-movement-in-france/)*
 
 “We gained quality feedback, participants had time to hear other points of view and consider theirs.“<br>
