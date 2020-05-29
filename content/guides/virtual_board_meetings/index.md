@@ -188,13 +188,16 @@ Save valuable time in meetings by pushing administrative decisions onto Loomio, 
 
 Loomio is also great for making time-sensitive decisions when action is needed before your next board meeting. For example, you may need to approve a special budget change, to deal with a problem or take advantage of an opportunity.  
 
-Start a thread and open a discussion with clear context, relevant information and your request. When ready, raise a [Proposal](https://help.loomio.org/en/user_manual/polls/starting_proposals), and invite members to vote. You will soon hear if members need more information to vote.
+1. Start a thread and open a discussion with clear context, relevant information and your request.
+2. When ready, raise a [Proposal](https://help.loomio.org/en/user_manual/polls/starting_proposals), and invite members to vote. You will soon hear if members need more information to vote.
 
-[Loomio guides](https://help.loomio.org/en/guides) include detailed information about decision-making processes you can use.
+[Our other guides](https://help.loomio.org/en/guides) include detailed information about decision-making processes you can use.
 
 <img src="choose_liability_insurance_on_loomio.png" class="border-orange">
 
 <img src="quote_accepted_outcome.png" class="border-orange">
+
+3. Publish an outcome that includes key documents for your records, making it easy to find that contract you signed off on or check the terms and conditions.
 
 ### 3. Agree on a time for your next meeting
 

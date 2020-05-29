@@ -115,7 +115,7 @@ You can also prepare by getting input, or even completing some decisions on Loom
 
 Elections and appointments are easy with Loomio.
 
-Loomio’s polls include [Ranked choice](/en/user_manual/polls/proposal_types/#ranked-choice) for ‘run-off voting;’ a popular election method.
+Loomio’s polls include [Ranked choice](/en/user_manual/polls/proposal_types/#ranked-choice) for ‘run-off voting’ – a popular election method.
 
 <img src="elections_online.png" class="border-orange">
 
