@@ -98,7 +98,7 @@ Community and volunteer groups are supported by members to achieve a purpose. Th
 
 Price: $30.00 per year for the first 10 active users.
 
-Additional active users at $US 30.00 per year.
+Additional active users at $US 3.00 per year.
 
 These rates are only available as annual payments.
 
