@@ -40,11 +40,6 @@ Free trials are for 14 days, limited to 20 people and 20 threads.
 
 At the end of the trial period you will be asked to upgrade to a paid subscription plan.
 
-### Active plan
-Loomio Active plan has been designed for maximum flexibility and scalability. You only pay for members in your group who start polls and threads, or who comment or vote in them. These are __active users__.
-
-Users who read content, but do not post, are considered __passive users__, and will not be considered in the charge. This means you can invite everyone in your organization into the group, but will only be charged for those who are active.
-
 ### Basic plan
 Loomio Basic plan will suit most people getting started, and will grow as you engage more people.
 
