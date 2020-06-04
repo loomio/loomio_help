@@ -2,10 +2,6 @@
 title: Subscription pricing
 description: How we price Loomio to make it available to everyone.
 weight: 10
-menu:
-  main:
-    parent: subscriptions
-    name: Pricing
 ---
 
 ## Overview
