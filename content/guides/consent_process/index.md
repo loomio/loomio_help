@@ -38,7 +38,7 @@ Given that we are currently emerging out of a long history of top down leadershi
 
 ## Rewriting the rules
 
-One of the best ways we’ve found to overcome these obstacles is to make decisions using **consent-based decision making**, or just **consent**. There are, of course, many different kinds of collective decision-making processes, including different versions of consent, but we’ve found **Integrative Consent** – a model developed by Round Sky Solutions – to be a simple and effective starting place for a team wanting to learn a consent process. We hope you’ll use this as a template, iterate variations on it that fit your unique team, and pass what you learn back to us!
+One of the best ways we’ve found to overcome these obstacles is to make decisions using **consent-based decision making**, or just **consent**. There are, of course, many different kinds of collective decision-making processes, (eg, [advice process](../advice_process),) including different versions of consent, but we’ve found **Integrative Consent** – a model developed by Round Sky Solutions – to be a simple and effective starting place for a team wanting to learn a consent process. We hope you’ll use this as a template, iterate variations on it that fit your unique team, and pass what you learn back to us!
 
 ![Decision-making types: Autocratic (and Delegation) | Advice (or Consultative) | Consent (or Consensus)](decision_making_types.png)
 
@@ -143,6 +143,8 @@ Cheers! Happy world-changing to you and your groups!
 ---
 
 ## Glossary
+
+**Advice Process:** A faster, consultative style of decision-making that can still grow buy-in, trust, and collective intelligence. [Learn how, here](../advice_process).
 
 **Open Discussion:** a discussion style where all members of the team contribute as they have something to offer in a popcorn style.
 
