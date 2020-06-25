@@ -124,7 +124,7 @@ We've turned this guide into a video!
 
 <iframe width="100%" height="380px" src="https://www.youtube-nocookie.com/embed/qfpHnyyiIU0?rel=0" frameborder="0" allowfullscreen></iframe>
 
-For more guides on group process and decisions, check out our how-to on [Integrative Consent](../consent_process), which can help any group to get the most of their decisions by growing your group's engagement and buy-in, trust, and collective intelligence.
+For more guides on group process and decisions, check out our how-to on [Integrative Consent](../consent_process), which can help any group to get the most of their decisions by strengthening your group's engagement and buy-in, trust, and collective intelligence.
 
 ---
 ## Credits
