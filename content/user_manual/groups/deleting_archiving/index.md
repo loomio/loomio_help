@@ -1,25 +1,17 @@
 ---
 title: Deleting and archiving
 weight: 70
-description: How to deactivate and erase data of your group.
+description: How to deactivate and erase all your group's data.
 hidetoc: true
 menu:
   main:
     parent: groups
 ---
 
-From the **Settings** tab of your group page you can either deactivate or delete your group.
+From the **Settings** tab of your group page you can use the **Delete group** option to remove access and eventually delete all the data from our records. When you delete group, it will be archived from view immediately and is scheduled for permanent deletion in 2 weeks. You and your users will immediately lose access, but may contact us within that two week period if a mistake was made.
 
-## Deactivate group
+Select Delete group from the group's Settings tab, and type the name of your group (*case sensitive*) as suggested by form's grey, pre-populated text.
 
-Deactivating means that you and the rest of the group members will no longer be able to access the group.
+## When a group is deleted
 
-Find this option near the bottom of your group's Settings, click **Deactivate group** and then **OK**.
-
-To reactivate your deactivated group, [contact Loomio support](https://loomio.org/contact).
-
-## Delete group
-
-All threads, polls, files and other group content will be permanently deleted when you **delete group**. It is recommended that you [export](../data_export) the group data and manually download any important files you have uploaded before you continue.
-
-From Settings: **Delete group**, type in your group's name, and click **OK**. ***This is non-reversible!***
+Two weeks after you use **delete group**, all the threads, polls, files and other group content will be permanently deleted. ***This is non-reversible!*** It is recommended that you [export](../data_export) the group data and manually download any important files you have uploaded before you continue.
