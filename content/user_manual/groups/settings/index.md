@@ -46,7 +46,7 @@ Group's [basic privacy settings are described here](/en/guides/getting_started/s
 
 ## Permissions
 
-Many of the below
+Many of the below only affect **members** permissions. Members are the users in your group who are _not_ [Admins](#admin).
 
 ### Anyone can join (Open groups)
 
