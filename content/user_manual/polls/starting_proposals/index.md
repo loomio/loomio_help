@@ -99,6 +99,12 @@ The poll will appear as below until the poll closes.
 
 Once the poll is closed, you will see the results and be invited to leave an [outcome](../outcomes) as normal.
 
+## Export poll
+
+Export the stances and outcome of a poll as a spreadsheet (.csv) file. Click the three horizontal dots (**⋯**) at the bottom of the poll or proposal – you will find it to the right of **invite people to vote** – and click **Export**.
+
+<img class="border-orange" width=250 src="export_poll.png">
+
 ## Proposals can help in many situations
 
 Don't hesitate to start a proposal just because you're not sure everyone will agree - proposals are not only for when you have consensus, they're designed to surface issues that need resolving and are useful for clarifying disagreements. We have identified a number of ways to take advantage and step towards clear, shared outcomes, from a 'series of small yeses' to 'temperature checks'… [→ Ways of using proposals](../proposal_types/#ways-of-using-proposals)

@@ -59,7 +59,7 @@ Choose "closed" to view all your closed threads in the thread filter.
 
 #### Re-open thread
 
-Re-opening a closed thread is done from within the thread's page – again, the three horizontal dots (**⋯**). See [organizing threads](#organizing-threads) for a depiction.
+Re-opening a closed thread is done from within the thread's page – again, the three horizontal dots (**⋯**). See [organizing threads](#thread-options-and-organizing-threads) for a depiction.
 
 # Options within threads
 
@@ -71,7 +71,7 @@ Threads are easily updated and edited by those with permission to by clicking **
 
 Learn more about thread contexts [here](../engaging_with_threads/#thread-context).
 
-## Organizing threads
+## Thread Options and Organizing threads
 
 The following administrative actions may be taken from within the thread, and in some cases from pages that list threads (thread preview options). To find these options, go to the page of the thread in question and use the **⋯** three horizontal dots to the right of the basic thread actions at the bottom of the context.
 
@@ -88,6 +88,10 @@ To apply a tag to a thread, go into the thread's options and choose Category tag
 #### Removing category tags
 
 Access the Category tags in the same way as above, but then click the **x** to remove the tags you do not want and then **save**.
+
+#### Navigating using category tags
+
+You can click on tags from within threads or use them from your group page; learn more about [sorting threads by tag](../../users/navigation/#Category-Tags-help-you-sort-threads).
 
 ### Move thread
 
@@ -143,11 +147,11 @@ To edit the words used in the timeline: unpin and then pin it again; this will g
 
 ## Archiving threads
 
-In addition to [closing threads](#close-thread) or [moving threads](#move-thread), you can also archive the thread to your local device.
+In addition to [closing threads](#close-thread) or [moving threads](#move-thread), you can also archive the thread to your local device:
 
 ### Print thread
 
-From the thread options (**⋯**), choose **print**. Then use your browser's ability to "save to pdf", or copy and paste it into the file or repository of your choosing.
+From the [thread options](#Thread-Options-and-Organizing-threads) (**⋯**), choose **print**. Then use your browser's ability to "save to pdf", or copy and paste it into the file or repository of your choosing.
 
 ## Tracking engagement
 

@@ -1,7 +1,7 @@
 ---
 title: Navigating in threads
 weight: 40
-description: Find what you need, when you need it.
+description: Find what you need, when you need it, in a thread.
 menu:
   main:
     parent: threads
@@ -45,3 +45,13 @@ Similar to switching oldest for newest first, change how replies are displayed b
 
 ## Unread activity
 When you open a thread on Loomio you will first be taken to unread (or unseen) activity. When activity items are displayed on your screen, Loomio will take note that they have been read, _just like if you see the activity via an email._ Unread content is displayed with a yellow stripe on the left side and threads with unread content display bold within thread lists.
+
+## Finding the right thread
+
+If you're looking for a thread of the same kind, try clicking the [Category tag](../thread_admin/#category-tags) if there is one to the right of the title of the thread.
+
+Otherwise, you can always use the [search](../../users/navigation/#search).
+
+---
+
+**Not certain which thread to look in?** … [→ Navigating Loomio](../../users/navigation)
