@@ -12,6 +12,6 @@ From the **Settings** tab of your group page you can use the **Delete group** op
 
 Select Delete group from the group's Settings tab, and type the name of your group (*case sensitive*) as suggested by form's grey, pre-populated text to delete your group.
 
-## When a group is deleted
+### When a group is deleted
 
 Two weeks after you use **delete group**, all the threads, polls, files and other group content will be permanently deleted. ***This is non-reversible!*** It is recommended that you [export](../data_export) the group data and manually download any important files you have uploaded before you continue.
