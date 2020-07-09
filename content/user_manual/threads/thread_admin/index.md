@@ -81,7 +81,7 @@ The following administrative actions may be taken from within the thread, and in
 
 **Category tags** (or just "tags") let you group any number of threads by categories that you define. You can use them to make it easy to find threads of a certain type or topic.
 
-To apply a tag to a thread, go into the thread's options and choose Category tags. Select the desired tag(s) from the dropdown list of tags that your group already uses, or type in a new tag and press the enter key. Finally, click **Save**.
+To apply a tag to a thread, go into the thread's options and choose Category tags. Create a new tag by typing in the form, or select the desired tag(s) from the dropdown list of tags that your group already uses. Finally, click **Save**.
 
 <iframe width="100%" height="380px" src="https://www.youtube-nocookie.com/embed/X40wuMaZ-8E?rel=0" frameborder="0" allowfullscreen></iframe>
 
