@@ -20,6 +20,6 @@ Use of your referral is not limited, so share it widely and reduce your subscrip
 Referral offer conditions:
 
 - The code must be used when signing up to a new subscription.
-- The 25% discount applies to Basic and Pro plans at signup, and for the first 12 months of subscription.
+- The 25% discount applies to Active plans at signup, and for the first 12 months of subscription.
 - The $10.00 credit is applied to your subscription when your friend successfully signs up and makes the first payment.
 - The referral code can be used as many times as you want.

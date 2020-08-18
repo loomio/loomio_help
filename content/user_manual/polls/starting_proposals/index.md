@@ -10,6 +10,17 @@ menu:
 
 There are a number of [types of proposals](../starting_proposals), but the basics remain the same for all of them.
 
+## Step-by-step for all decision tools
+
+1. You choose to use a poll or proposal (within a thread)
+2. You name it, describe the question or proposal it represents, and set its duration
+3. You notify group members (typically all, but you may select none or specific...)
+3. Group members participate and share a tweet-length message with their selection
+4. They can change their minds as understanding develops; live results are available
+5. A reminder is sent out the day before closing
+6. The poll closes, and everyone can see the results
+7. The author sets an [outcome](../outcomes), notifying everyone of what will happen next.
+
 ## Title and Details
 
 **Writing proposals**
@@ -36,16 +47,6 @@ Beyond considerations of inclusion (enough time) and urgency (deadlines), you ma
 
 You can extend the deadline of an open proposal. This can be a good idea if engagement is active and people are working through the issue, or if engagement has been sparse and you'd like to prompt more participation before concluding. To do so, edit the poll or proposal to change the closing time.
 
-### Reopen
-
-If a poll closes earlier than what is ideal for your group arriving to a clear shared outcome, you might want to **reopen** it, setting a new closing time.
-
-![](reopen.png)
-
-### Close
-
-Similarly, if you no longer need to let the poll or proposal continue, you can choose **close** to end it before its closing date. Don't forget to [set an outcome](../outcomes) so everyone is clear on where you got to and/or what's next!
-
 ## Invite Members
 
 It's good to let people know when you're taking a poll or a vote. After you start your proposal you will see a box allowing you to **Invite to vote**, where you will have the opportunity to select **Members of group** or **Members of thread**, or input the names of some of your group. You can select all and then remove some people from the list. This will send a notification to all those listed.
@@ -56,16 +57,15 @@ It's good to let people know when you're taking a poll or a vote. After you star
 
 Similar to the **invite people** feature, if you input the email of someone outside your group in the **invite people to vote** form they will be given permission to participate in _only_ that proposal or poll; _however_, they will be able to see the _whole_ thread in which their participation has been invited (but _not_ any of the group's content beyond that). They will not be able to comment or participate in other proposals or polls even though they can see those that are in the same thread.
 
-## Step-by-step for all decision tools
+### Reopen
 
-1. You choose to use a poll or proposal (within a thread)
-2. You name it, describe the question or proposal it represents, and set its duration
-3. You notify group members (typically all, but you may select none or specific...)
-3. Group members participate and share a tweet-length message with their selection
-4. They can change their minds as understanding develops; live results are available
-5. A reminder is sent out the day before closing
-6. The poll closes, and everyone can see the results
-7. The author sets an [outcome](../outcomes), notifying everyone of what will happen next.
+If a poll closes earlier than what is ideal for your group arriving to a clear shared outcome, you might want to **reopen** it, setting a new closing time.
+
+![](reopen.png)
+
+### Close
+
+Similarly, if you no longer need to let the poll or proposal continue, you can choose **close** to end it before its closing date. Don't forget to [set an outcome](../outcomes) so everyone is clear on where you got to and/or what's next!
 
 ## Proposal options
 
@@ -73,15 +73,9 @@ There are some universal options that apply to most of the proposals and polls t
 
 ### Anonymous voting
 
-If you tick the **Anonymous voters** box, participant info will not be shown with each response. This means that you will not know who chose which positions or shared which responses.
+If you tick the **Anonymous voters** box, participant information will not be recorded with each response. This means that you will never know who chose which positions or shared which responses.
 
-You can be certain the box was ticked by you, or the person who started it, when you see the text, "**Votes will be anonymous**".
-
-> **You will see your own name by your vote**; it's not visible to others if Anonymous voters was selected! This is so you can edit your own response, just like in any poll or proposal. Again, others will **not** be able to see **other participants' user names** nor **user photos** next to votes that are not their own.
-
-Upon choosing this option, an additional option becomes available, **Reveal voters after close**. When your poll or proposal closes, the data (photos and names) associated with each response will be visible to group members as with non-anonymous votes.
-
-![](reveal_voters_after_close.png)
+You can be certain the box was ticked by you, or the person who started it, when you see the text, "**Votes are anonymous**".
 
 ### Notify me when people participate
 
@@ -92,6 +86,24 @@ When selected, you will be notified whenever someone participates – within the
 For all polls except the **Count**. When selected, participants may add their own options when voting.
 
 When users add options the person who created the poll will be notified.
+
+### Hide results until closed
+
+Select this option if you want results to be hidden until the poll or proposal closes.
+
+<img src="results_hidden_until_closed_option.png" class=border-orange width=300px height=auto>
+
+The poll will appear as below until the poll closes.
+
+<img src="results_hidden_until_closed.png" class=border-orange>
+
+Once the poll is closed, you will see the results and be invited to leave an [outcome](../outcomes) as normal.
+
+## Export poll
+
+Export the stances and outcome of a poll as a spreadsheet (.csv) file. Click the three horizontal dots (**⋯**) at the bottom of the poll or proposal – you will find it to the right of **invite people to vote** – and click **Export**.
+
+<img class="border-orange" width=250 src="export_poll.png">
 
 ## Proposals can help in many situations
 

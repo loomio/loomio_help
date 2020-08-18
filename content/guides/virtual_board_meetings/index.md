@@ -10,7 +10,7 @@ menu:
 
 _Read time: 8 minutes_.
 
-In times of crisis, good governance and clear communication within your board are more important than ever. However, doing this can be challenging when some or all of your board members are remote.
+In times of crisis, good governance and clear communication within your board are more important than ever. However, doing this can be challenging when some or all of your board members are remote. In these times, many groups have been asking not just [how to hold their Annual General Meeting](../virtual_agm) (AGM, GMM…), but how to keep  organization moving by moving some decisions and regular meeting practices onto Loomio.
 
 In this guide, you will learn how to:
 
@@ -223,6 +223,6 @@ Find everything you need, when you need it, all in one place – great for audit
 
 Now that you know how to get better outcomes from your virtual board meeting with Loomio, **start your [free trial](http://loomio.org/?utm_campaign=virtual_board_guide&utm_term=help/)** so you’re ready when the time comes!
 
-Have you run an AGM or Board meeting online?
+Need to [run an AGM on Loomio](../virtual_agm) or Board meeting online?
 
 We’d love to hear about it – [connect with us](http://loomio.org/contact/?utm_campaign=virtual_board_guide&utm_term=help/).

@@ -16,6 +16,8 @@ As an admin of a Loomio group, you are responsible for guiding your group throug
 
 To learn how to edit the basics such as your Group description or Cover photo, see [starting a group](/en/guides/getting_started/starting_a_group).
 
+Admin of [subgroups](../subgroups) have very similar permissions, but only for that subgroup. More details on how subgroups are administered, and by whom, [here](../subgroups).
+
 ## Group handle
 
 By default, Loomio will make this `your-group-name` but when you started your organization (or parent group) you were invited to change this to any unused, alphanumeric handle (hyphens optional) of your choice.
@@ -43,6 +45,8 @@ Admin can change group permissions and configure what members can do in any grou
 Group's [basic privacy settings are described here](/en/guides/getting_started/starting_a_group/#privacy).
 
 ## Permissions
+
+Many of the below only affect **members** permissions. Members are the users in your group who are _not_ [Admins](#admin).
 
 ### Anyone can join (Open groups)
 
@@ -85,11 +89,11 @@ This allows everyone in your group to edit their comments at any time. When it i
 
 ### Raise proposals
 
-This allows anyone in your group to start a proposal within a thread. When this box is deselected only group admin will be able to raise proposals.
+This allows anyone in your group to start a proposal within a thread. When this box is deselected only group admin will be able to raise proposals and polls.
 
-## Vote on proposals
+### Vote on proposals
 
-This allows everyone in your group to state their position on proposals. When it is deselected only group admin will be able to state their position on proposals.
+This allows everyone in your group to state their position on proposals. When it is deselected only group admin will be able to state their position on proposals and polls.
 
 # Deactivating/archiving a group
 

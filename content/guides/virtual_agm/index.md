@@ -161,6 +161,6 @@ Keep track of follow-on actions by commenting with status updates (or completion
 
 Now that you know how to get better outcomes from your virtual AGM with Loomio, **start your [free trial](http://loomio.org/?utm_campaign=virtual_board_guide&utm_term=help/)** so you’re ready when the time comes! (You could even find the best date using Loomio’s time poll).
 
-Have you run an AGM, Assembly, or Board meeting online?
+Need to run an AGM, Assembly, or [Board meeting online](../virtual_board_meetings)?
 
 We’d love to hear about it – [connect with us](http://loomio.org/contact/?utm_campaign=virtual_board_guide&utm_term=help/ "open in new tab").

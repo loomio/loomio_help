@@ -22,6 +22,7 @@ There are 4 top level navigation tools within Loomio.
 When you first arrive or log in you will arrive to your **Group page**, or – if you are a member of multiple groups or subgroups – you will arrive to the **Recent threads** page described below.
 
 ## Search
+
 The search field is easy to find above the list of discussion threads where you first arrive or on most pages. It will display threads containing your keyword(s) in their context, comments or decisions.
 
 **From a Group page:** If you are on your group or subgroup's page, you can search _within_ that group. The search will exclude results from other groups or subgroups. _If you are unsure how to get to your Group page
@@ -81,19 +82,35 @@ The **Unread threads** page shows all threads and proposals that have new conten
 
 ## Group pages
 
-Loomio is a place for your group, and this is made most obvious when you look at the **Group page**, Loomio's hub for your group.
+Because Loomio is a place for your group, we have designed the **Group page** to be the hub and dashboard for your group.
 
-> And not just the hub for your Loomio activity... we often see groups adopt it as their one-stop-shop for all key tools and links.
-
-Group pages are where you start threads.
+Group pages are where you start threads, where most of the action happens.
 
 ![](new_thread.png)
 
-Groups hold everything in one place for a specific set of people.
+By default, your group page lists all of the open threads in your group. You can use the thread filter on the left to show…
 
-There's lots to say about them so, for more… [→ Groups](/en/user_manual/groups)
+- threads that are archived or [closed](../../threads/thread_admin/#close-thread)
+- only the unread threads
+- all of the threads, open or closed.
 
-### Viewing your groups
+![](../../threads/thread_admin/sort_threads_on_group_page.png)
+
+### Category Tags help you sort threads
+
+View all the threads that belong to a category by using the other thread filter. These options are created when people [tag threads](../../threads/thread_admin/#category-tags).
+
+![](sort_by_category.png)
+
+You can also access this filtered view from within any tagged thread; simply click the tag (the category you're interested in) from the thread's [page](../../threads/navigating_threads/#finding-the-right-thread).
+
+You can always select **All tags** to exit the filtered view you accessed by choosing a tag from the filter menu.
+
+### Search in your group
+
+You can search the threads and polls in your group; read [more above](#search).
+
+## Viewing your groups
 All the groups you belong to are listed in the sidebar on the left-hand side. This allows you to easily navigate to or between them by clicking their name or logo.
 
 Subgroups will not have a logo, but will appear directly under the organization, or parent group, that they belong to. Click their name to see their page just like you would for a group.

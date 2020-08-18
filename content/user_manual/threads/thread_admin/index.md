@@ -59,7 +59,23 @@ Choose "closed" to view all your closed threads in the thread filter.
 
 #### Re-open thread
 
-Re-opening a closed thread is done from within the thread's page – again, the three horizontal dots (**⋯**). See [organizing threads](#organizing-threads) for a depiction.
+Re-opening a closed thread is done from within the thread's page – again, the three horizontal dots (**⋯**). See [organizing threads](#thread-options-and-organizing-threads) for a depiction.
+
+### Category tags
+
+**Category tags** (or just "tags") let you group any number of threads by categories that you define. You can use them to make it easy to find threads of a certain type or topic.
+
+To apply a tag to a thread, go into the thread's options (from the thread preview (**⋯**) or from within [Thread Options](/#thread-options-and-organizing-threads))  and choose Category tags. Create a new tag by typing in the form, or select the desired tag(s) from the dropdown list of tags that your group already uses. Finally, click **Save**.
+
+<iframe width="100%" height="380px" src="https://www.youtube-nocookie.com/embed/X40wuMaZ-8E?rel=0" frameborder="0" allowfullscreen></iframe>
+
+#### Removing category tags
+
+Access the Category tags in the same way as above, but then click the **x** to remove the tags you do not want and then **save**.
+
+#### Navigating using category tags
+
+You can click on tags from within threads or use them from your group page; learn more about [sorting threads by tag](../../users/navigation/#Category-Tags-help-you-sort-threads).
 
 # Options within threads
 
@@ -71,23 +87,11 @@ Threads are easily updated and edited by those with permission to by clicking **
 
 Learn more about thread contexts [here](../engaging_with_threads/#thread-context).
 
-## Organizing threads
+## Thread Options and Organizing threads
 
 The following administrative actions may be taken from within the thread, and in some cases from pages that list threads (thread preview options). To find these options, go to the page of the thread in question and use the **⋯** three horizontal dots to the right of the basic thread actions at the bottom of the context.
 
 ![](options_from_thread_context.png)
-
-### Category tags
-
-**Category tags** (or just "tags") let you group any number of threads by categories that you define. You can use them to make it easy to find threads of a certain type or topic.
-
-To apply a tag to a thread, go into the thread's options and choose Category tags. Select the desired tag(s) from the dropdown list of tags that your group already uses, or type in a new tag and press the enter key. Finally, click **Save**.
-
-<iframe width="100%" height="380px" src="https://www.youtube-nocookie.com/embed/X40wuMaZ-8E?rel=0" frameborder="0" allowfullscreen></iframe>
-
-#### Removing category tags
-
-Access the Category tags in the same way as above, but then click the **x** to remove the tags you do not want and then **save**.
 
 ### Move thread
 
@@ -143,11 +147,11 @@ To edit the words used in the timeline: unpin and then pin it again; this will g
 
 ## Archiving threads
 
-In addition to [closing threads](#close-thread) or [moving threads](#move-thread), you can also archive the thread to your local device.
+In addition to [closing threads](#close-thread) or [moving threads](#move-thread), you can also archive the thread to your local device:
 
 ### Print thread
 
-From the thread options (**⋯**), choose **print**. Then use your browser's ability to "save to pdf", or copy and paste it into the file or repository of your choosing.
+From the [thread options](#Thread-Options-and-Organizing-threads) (**⋯**), choose **print**. Then use your browser's ability to "save to pdf", or copy and paste it into the file or repository of your choosing.
 
 ## Tracking engagement
 
