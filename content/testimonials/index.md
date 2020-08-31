@@ -26,6 +26,8 @@ _– James Bloemendal, [Ian Martin Group](https://ianmartin.com/), Canada._
 “Loomio saves us thousands of pounds every year!”<br>
 *– Austen Cordasco, Director, Co-operative Assistance Network Limited, UK. <br> &ensp; [Read Austen's story](https://blog.loomio.org/2019/03/27/helping-uk-cooperatives-thrive/?utm_campaign=testimonial&utm_term=help)*
 
+Loomio's help and support features are easy to access and the platform is clear and intuitive to use. *–Lisa Canar, [Green Party Washington](http://www.greenpartywashington.org/), USA.*
+
 "Loomio helps us prepare for and organize director and member meetings. It is valuable because it provides a separate digital space for directors and members, which means less email threads and searching endlessly for stuff in the Google Drive during a meeting."<br>
 *– Devan McClelland, Shift Delivery Co-operative, Canada.*
 
