@@ -9,7 +9,7 @@ menu:
     name: 5 ways to use threads
 ---
 
-![](https://lh3.googleusercontent.com/bS4FpmIiJo-ZZVLl6ku4vShogAwMEos84mjZP7u7XOcjpKPwqQkIS5rXK6PlIOB8cvzvjLpf2WdIlKSgueSgItTfeBDFs1QxlDBjWqI_xnD8OEobZXESoQ4oheFzQMxgE_kAdZEgfg=w2400)
+![](best_practice_types_of_discussion_threads.jpg)
 
 This article will guide you through **five powerful ways to use threads** that have been tried and tested over the years by groups around the world.
 
