@@ -11,6 +11,12 @@ menu:
 
 ## Onboarding resources
 
+### Launch you group, expertly
+
+Some groups find great value in expert guidance as they get started, so they hire one of our Loomio experts:
+
+[Ask about our personalised onboarding service.](https://loomio.org/contact)
+
 ### [Loomio Basics video series](/en/overview-and-how-tos)
 Review and share key lessons from the [Getting Started guide](/en/guides/getting_started) to bring newcomers up to speed in as little as 15 minutes with these [**videos**](/en/overview-and-how-tos).
 
