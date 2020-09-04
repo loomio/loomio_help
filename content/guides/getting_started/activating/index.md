@@ -11,7 +11,7 @@ menu:
 
 ## Onboarding resources
 
-### Get a running start
+### A running head start
 
 Some groups find great value in expert guidance as they get started, so they take advantage of the vast experience our Group Success team has developed working with hundreds of groups.
 

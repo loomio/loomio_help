@@ -9,7 +9,7 @@ menu:
     identifier: getting_started
     parent: guides
 ---
-## 🙋 ‍For a running headstart…
+## 🙋 ‍For a running head start…
 
 Leverage expert guidance as you get started; take advantage of the vast experience our Group Success team has developed working with hundreds of groups.
 
