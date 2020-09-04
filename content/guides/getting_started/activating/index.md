@@ -11,9 +11,9 @@ menu:
 
 ## Onboarding resources
 
-### Launch you group, expertly
+### Get a running start
 
-Some groups find great value in expert guidance as they get started, so they hire one of our Loomio experts:
+Some groups find great value in expert guidance as they get started, so they take advantage of the vast experience our Group Success team has developed working with hundreds of groups.
 
 [Ask about our personalised onboarding service.](https://loomio.org/contact)
 
