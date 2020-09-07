@@ -67,6 +67,10 @@ Note that the _subscribe on participation_ setting affects your thread email set
 
 ![thread email settings](thread_email_settings.png)
 
+To _mute_ a thread, use the **no notifications (ignore)** option.
+
+To keep up-to-date with _all activity_ by email, tick the **(subscribe)** option.
+
 
 ## Turn off all notifications
 
