@@ -9,11 +9,11 @@ menu:
     identifier: getting_started
     parent: guides
 ---
-## 🙋 ‍For a running head start…
+## 🙋 ‍Want setup help from someone who has done this?
 
-Leverage expert guidance as you get started; take advantage of the vast experience our Group Success team has developed working with hundreds of groups.
+No one wants to spin their wheels, and sometimes its important to get it right the first time. Don't worry, we've done this before. We offer a streamlined experience of getting started delivered by Loomio experts:
 
-[Ask about our personalised onboarding service.](https://loomio.org/contact)
+[Ask about our bespoke, guided onboarding.](https://loomio.org/contact)
 
 
 ## 📹 Loomio Basics (3min on-demand training modules)

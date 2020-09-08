@@ -12,11 +12,11 @@ Getting started on Loomio means getting everyone signed up, familiar with the to
 
 Most Loomio groups need a champion to help them get going, and then they build their own momentum. If you're reading this, that champion is probably you!
 
-## Get a running head start
+## ‍Want setup help from someone who has done this?
 
-Some groups find great value in **expert guidance** as they get started, so they lean on us and our experience developed working with hundreds of groups.
+No one wants to spin their wheels, and sometimes its important to get it right the first time. Don't worry, we've done this before. We offer a streamlined experience of getting started delivered by Loomio experts:
 
-[Ask about our personalised onboarding service.](https://loomio.org/contact)
+[Ask about our bespoke, guided onboarding.](https://loomio.org/contact)
 
 ## Introduce Loomio
 

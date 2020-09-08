@@ -11,13 +11,13 @@ menu:
 
 ## Onboarding resources
 
-### A running head start
+### A helping hand (with a human face)
 
-Some groups find great value in expert guidance as they get started, so they take advantage of the vast experience our Group Success team has developed working with hundreds of groups.
+No one wants to spin their wheels, and sometimes its important to get it right the first time. Don't worry, we've done this before. We offer a streamlined experience of getting started delivered by Loomio experts:
 
-[Ask about our personalised onboarding service.](https://loomio.org/contact)
+[Ask about our bespoke, guided onboarding.](https://loomio.org/contact)
 
-### [Loomio Basics video series](/en/overview-and-how-tos)
+### Loomio Basics video series
 Review and share key lessons from the [Getting Started guide](/en/guides/getting_started) to bring newcomers up to speed in as little as 15 minutes with these [**videos**](/en/overview-and-how-tos).
 
 ## Adopting Loomio
