@@ -38,7 +38,7 @@ At its most basic, Loomio is a forum with tools that help you facilitate convers
 
 ### Want the quickest and smoothest transition onto Loomio for your team?
 
-[Get setup help from Loomio experts (we've done this before)](https://help.loomio.org/en/guides/getting_started/‍Want-setup-help-from-someone-who-has-done-this)
+[Get setup help from Loomio experts (we've done this before)](https://help.loomio.org/en/guides/getting_started/#-want-setup-help-from-someone-who-has-done-this)
 
 <!-- ---
 
