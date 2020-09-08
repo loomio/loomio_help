@@ -32,11 +32,11 @@ At its most basic, Loomio is a forum with tools that help you facilitate convers
 
 ---
 
-Ready to create your group's place online?
+### Ready to create your group's place online?
 
 [Try it with your group for free](https://loomio.org/).
 
-Want the quickest and smoothest transition onto Loomio for your team?
+### Want the quickest and smoothest transition onto Loomio for your team?
 
 [Get setup help from Loomio experts (we've done this before)](https://help.loomio.org/en/guides/getting_started/‍Want-setup-help-from-someone-who-has-done-this)
 
