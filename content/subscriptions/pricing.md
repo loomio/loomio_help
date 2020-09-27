@@ -8,11 +8,6 @@ menu:
     name: Pricing
 ---
 
-Updated 2020-06-04
-
-__Hi, We've recently updated our pricing__ if you have a trial from before 4th June you can choose if  you wish to use the old or the new pricing model. Please [contact us](https://www.loomio.org/contact) to discuss. 
-
-
 # Overview
 
 Loomio exists to make it easy for anyone, anywhere, to participate in decisions that affect their lives.
