@@ -86,7 +86,7 @@ We’re a passionate team with deep expertise in group process facilitation, soc
     </td>
     <td style="width: 50%;">
       <strong>John Gieryn</strong>
-      <p>Caring for customer experience, uplifting generative patterns of practice. Loves community</p>
+      <p>Product design engineer – connecting Loomio to your needs and better ways of working – loves community</p>
     </td>
   </tr>
   <tr style="border-bottom: 15px solid transparent; border-top: 15px solid transparent;">
