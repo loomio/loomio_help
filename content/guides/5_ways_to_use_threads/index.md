@@ -45,11 +45,11 @@ _Share, envision, benchmark…_
 
 ![](5_ways_ex_workers_wall.png)
 
-Threads can be **'walls'** or **'bulletin boards'** where your group posts info, news items and ideas you'd like to share with your group. Use one thread, **pin** it so that it sticks around even if used infrequently, and use **reactions** to keep it energized, letting people know you saw what they shared or how you felt about it.
+Threads can be **'walls'** or **'bulletin boards'** where your group posts info, news items and ideas you'd like to share with your group. Use one thread, [pin](../../user_manual/threads/thread_admin/#pin-thread) it so that it sticks around even if used infrequently, and use **reactions** to keep it energized, letting people know you saw what they shared or how you felt about it.
 
 **Tips:**
 
-- Organize comments to appear **newest first** – [here’s how](https://help.loomio.org/en/user_manual/threads/navigating_threads/#oldest-or-newest-first)
+- Organize comments to appear **newest first** – [here’s how](../../user_manual/threads/navigating_threads/#oldest-or-newest-first)
 - If this is new for your group, write a context!
 - If your group members are new to one another, create an **Introductions thread**.
 
@@ -92,4 +92,4 @@ Now that you’ve learned some of the best practices for discussion threads that
 
 ---
 
-¹ *Read Economic Democracy Advocates’ story [here](https://blog.loomio.org/2019/07/11/regenerating-the-earth-for-future-generations/)* <br> ² *Learn how to use outcomes [here](https://help.loomio.org/en/user_manual/polls/outcomes/)* <br> ³ *Learn how to track engagement [here](https://help.loomio.org/en/user_manual/threads/thread_admin/#tracking-engagement)*
+¹ *Read Economic Democracy Advocates’ story [here](https://blog.loomio.org/2019/07/11/regenerating-the-earth-for-future-generations/)* <br> ² *Learn how to use outcomes [here](https://help.loomio.org/en/user_manual/polls/outcomes/)* <br> ³ *Learn how to track engagement [here](../../user_manual/threads/thread_admin/#tracking-engagement)*
