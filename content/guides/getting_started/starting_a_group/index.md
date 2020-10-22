@@ -79,13 +79,19 @@ Your Loomio **group page** is a place to store all of the information, links, an
 
 Your privacy settings determine who can find your group, who can see the threads in your group, and how people join.
 
-The recommended privacy setting for new groups is **Closed**. This means it is possible for people to find your group and ask to join, but the content of your discussions and decisions is private. _The Group Description and Name are public for Closed groups._
+The recommended privacy setting for new groups is **Secret**. This means everything is private to those invited members of the group. No one will know about this group (or subgroup) unless you tell/ invite them.
 
 If you want the content of your discussions and decisions to be public, change your group privacy to **Open**. The members list will only be visible to other members.
 
-If you want to hide your group, set your group privacy to **Secret**. Secret groups are similar to Closed groups, but only invited members will be able to see the group name and description.
+Many groups also use **Closed**, because – while it is almost entirely private like Secret – it allows people to find your group and ask to join. Closed groups' **Name** and **Group description** – including links and attachments – are publicly accessible in Closed groups.
 
 **NOTE:** If you have a **Closed** or **Secret** group and change it to **Open**, all threads will become public. Changing an **Open** group to **Closed** or **Secret** will make all threads private.
+
+Open groups may contain secret and closed subgroups.
+
+_Member of an open group can see the closed subgroup but not the secret ones._
+
+`TODO: Screenshots`
 
 ## Upload a profile photo
 
