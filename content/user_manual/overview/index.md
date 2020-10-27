@@ -30,6 +30,8 @@ There are some other details along the way, but understanding just these four is
 
 At its most basic, Loomio is a forum with tools that help you facilitate conversations and decisions, helping you start and hold conversations that move to clear outcomes.
 
+✋ **[Click here for](https://help.loomio.org/en/guides/getting_started/) more tutorials and 'getting started' help.** Quick guides and two-minute videos make it even easier.
+
 ---
 
 ### Ready to create your group's place online?
