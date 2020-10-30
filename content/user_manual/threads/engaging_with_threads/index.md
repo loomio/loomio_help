@@ -100,7 +100,7 @@ Click **react** on any thread context or comment to share how a comment made you
 ## Automatic translation
 <iframe width="100%" height="380px" src="https://www.youtube-nocookie.com/embed/ZI_ZxJKoiy0?rel=0" frameborder="0" allowfullscreen></iframe>
 
-Loomio can translate a comment from one language into another automatically (with the help of Google Translate). If the author of a comment uses a language other than yours, **Translate comment** will be available in the drop-down options of the comment in question, from the three horizontal dots (**⋯**).
+Loomio can translate user content (eg, votes, comments…) from one language into another automatically (with the help of Google Translate). If the author of a comment uses a language other than yours, **Translate comment** will be available in the drop-down options of the comment in question, from the three horizontal dots (**⋯**).
 
 ## Facilitation and Decision tools
 ![](facilitation_tools_tabs.png)
