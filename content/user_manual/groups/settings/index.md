@@ -14,7 +14,9 @@ Only a group's admin can edit group settings.
 
 As an admin of a Loomio group, you are responsible for guiding your group through the process of learning how to use a new piece of software, as well as learning new processes for collaborating more effectively and making good decisions together. The tasks outlined below can only be performed by group admin.
 
-To learn how to edit the basics such as your Group description or Cover photo, see [starting a group](/en/guides/getting_started/starting_a_group).
+To learn how to edit the basics such as your **Group description** or **Cover photo**, see [starting a group](/en/guides/getting_started/starting_a_group).
+
+Users may be made [admins](https://help.loomio.org/en/user_manual/groups/membership/#admin) from the Members tab.
 
 Admin of [subgroups](../subgroups) have very similar permissions, but only for that subgroup. More details on how subgroups are administered, and by whom, [here](../subgroups).
 
