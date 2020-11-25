@@ -82,7 +82,10 @@ You can also apply a particular setting to all of your groups by checking **Appl
 
 ## Thread email settings & Subscribe
 
-The email settings for a thread are similar to those for a group. A thread will use the email settings for the group in which it resides unless you change it for that thread. To do so, go to the thread and click **subscribe** (at the bottom of the context).
+To _mute_ a thread, use the **no notifications (ignore)** option.
+
+To keep up-to-date with _all activity_ by email, tick the **(subscribe)** option.
+
 
 ![](subscribe_to_thread.png)
 

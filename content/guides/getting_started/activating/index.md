@@ -11,7 +11,13 @@ menu:
 
 ## Onboarding resources
 
-### [Loomio Basics video series](/en/overview-and-how-tos)
+### A helping hand (with a human face)
+
+No one wants to spin their wheels, and sometimes its important to get it right the first time. Don't worry, we've done this before. We offer a streamlined experience of getting started delivered by Loomio experts:
+
+[Ask about our bespoke, guided onboarding.](https://loomio.org/contact)
+
+### Loomio Basics video series
 Review and share key lessons from the [Getting Started guide](/en/guides/getting_started) to bring newcomers up to speed in as little as 15 minutes with these [**videos**](/en/overview-and-how-tos).
 
 ## Adopting Loomio
