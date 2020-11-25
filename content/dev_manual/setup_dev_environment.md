@@ -19,9 +19,10 @@ You then need to install __Command Line Tools for XCode__ from https://developer
 With that done, use Homebrew to install Git and PostgreSQL
 
 ```
-brew install git postgresql pkgconfig
+brew install git postgresql pkgconfig redis
 brew install ImageMagick --with-perl
 brew services start postgresql
+brew services start redis
 ```
 
 And that's it. You can jump to 'Install ruby'
@@ -33,12 +34,12 @@ sudo apt-get update
 sudo apt-get install postgresql postgresql-contrib build-essential \
                      libssl-dev libreadline-dev zlib1g-dev \
                      libpq-dev libffi-dev libmagickwand-dev \
-                     imagemagick python
+                     imagemagick python redis
 ```
 
 ## Install ruby
 
-I recommend that you install ruby via rbenv, this gives you the flexiblity required to install and switch between various versions of ruby.
+I recommend that you install ruby via `rbenv`, this gives you the flexibility required to install and switch between various versions of ruby.
 
 Follow the installation steps for rbenv from  [https://github.com/sstephenson/rbenv#installation](https://github.com/sstephenson/rbenv#installation).
 
@@ -54,7 +55,7 @@ When a new version of ruby is released, you can update ruby-build with
 cd "$(rbenv root)"/plugins/ruby-build && git pull
 ```
 
-At the time of writing 2.5.1 is the version of ruby that Loomio uses. To check what the current version required is, see [.ruby-version](https://github.com/loomio/loomio/blob/master/.ruby-version)
+At the time of writing 2.6.6 is the version of ruby that Loomio uses. To check what the current version required is, see [.ruby-version](https://github.com/loomio/loomio/blob/master/.ruby-version)
 
 ```
 rbenv install 2.6.6
@@ -67,7 +68,7 @@ gem install bundler
 You'll need Node.js and I recommend you use [nvm](https://github.com/creationix/nvm) to install it. Just run:
 
 ```
-curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.35.3/install.sh | bash
+curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.37.1/install.sh | bash
 ```
 
 You'll need to restart your terminal, then run:
@@ -79,13 +80,11 @@ nvm alias default stable
 
 ## Fork and clone the Loomio git repo
 
-I recommend you visit https://github.com/loomio/loomio then click "Fork" to create your own loomio repository to work from.
-
-In my case my forked repo is available at https://github.com/robguthrie/loomio and I use the SSH based url to clone the repo to my computer:
+I recommend you visit https://github.com/loomio/loomio then click "Fork" to create your own loomio repository to work from. Then clone that repo to your local computer:
 
 ```
 cd ~/projects # or wherever you like to keep your code
-git clone git@github.com:robguthrie/loomio.git && cd loomio
+git clone git@github.com:YOURUSERNAME/loomio.git && cd loomio
 ```
 
 ## Install ruby and node dependencies
@@ -115,7 +114,7 @@ sudo postgres -c 'createuser -P --superuser <username>'
 rake db:setup
 ```
 
-## Launch rails and gulp
+## Launch rails and npm serve
 Rails run the Loomio server, gulp builds the javascript client, and automatically rebuilds it when you make changes
 
 ```
