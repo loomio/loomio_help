@@ -82,7 +82,7 @@ Use one thread to report information to your group, such as weekly metric report
 
 Sometimes all you need to do is get the right information to the right people. You can use Loomio for your announcements, status updates, or even your newsletter. If you want everyone to receive it promptly, start your thread, choose your group members, and **send**.
 
-**Tip:** Not ready to email everyone? You can always click **invite people** to send it later. Loomio can help you make sure everyone receives it (use **Notification History**).³
+**Tip:** Not ready to email everyone? You can always click **members** to send it later. Loomio can help you make sure everyone receives it (use **see notifications**).³
 
 ---
 

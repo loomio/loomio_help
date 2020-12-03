@@ -107,7 +107,9 @@ If you started a thread, you can delete that thread, but only your comments with
 
 ## Invite guests to thread
 
-Consult an expert or external party while keeping relevant communications all in one place: Invite them to a specific thread by using **invite people**, at the bottom of the thread's context. They won't get access to any other threads in your group, just this one. They do not need to already have a Loomio account, and they can participate by email just like all Loomio users.  _If you_ do _want them to be in the group, then invite them to join from the group page._
+Consult an expert or external party while keeping relevant communications all in one place: Invite them to a specific thread by clicking **members**, at the bottom of the thread's context. They won't get access to any other threads in your group, just this one. They do not need to already have a Loomio account, and they can participate by email just like all Loomio users.  _If you_ do _want them to be in the group, then invite them to join from the group page._
+
+You can remove them (or give them permissions) by clicking the dots to the right of their name, again from the context's **members** button.
 
 ## Administering comments and decisions
 
@@ -169,7 +171,7 @@ You can check if someone has been sent an email notification about a thread, dec
 In the extra options you find from the three horizontal dots (**⋯**), click **See notifications**.
 
 #### For proposals and polls
-Click on **invite people to vote** under the Results section of your proposal or poll, and then click **See notifications** to see who has been invited to – and who has viewed the notification of – your proposal or poll.
+Click on the dots (**⋯**) under the Results section of your proposal or poll, and then click **See notifications** to see who has been invited to – and who has viewed the notification of – your proposal or poll.
 
 Here's how it looks if you sent some notifications:
 

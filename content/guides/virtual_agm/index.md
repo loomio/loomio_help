@@ -92,7 +92,7 @@ First give participants access to the group or subgroup:
 Immediately after that, send them the details so they know why they’ve been invited
 
 - Go to the thread you just started
-- Click invite people
+- Click **members**
  - Again, if they were not already a part of your group, copy and paste all their email addresses into the invite box.
 
 **You’ve got your group started! Great! Before we move on,** here is a quick overview of Loomio’s great tools for facilitating and achieving better decisions…

@@ -71,7 +71,7 @@ This allows everyone in your group to invite new people in, and approve any memb
 
 ### Members can notify everyone in group
 
-When ticked, any Member will be able to use features such as **send thread** and [invite people](../../threads/notifying_people/#send-thread) to send notifications immediately to some, or all, of the group. Unless your group is very big, Loomio recommends you leave this on.
+When ticked, any Member will be able to use **notify** and [**invite people**](../../threads/notifying_people/#send-thread), sending notifications immediately to some, or all, of the group. Unless your group is very big, Loomio recommends you leave this on.
 
 ### Create subgroups
 

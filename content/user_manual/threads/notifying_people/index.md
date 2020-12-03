@@ -39,19 +39,17 @@ The most powerful way to get attention from your group. Ensure that you have a c
 
 ## Starting a thread
 
-### Send Thread
+### Notify
 
 When you start a discussion, you can choose to select all members of a group, or a select number of them. When you select the whole group, you can assume it will get everyone's attention. People you invite will get a notification immediately.
 
-You can also invite guests now or via [invite people](#invite-people)
+You can also invite guests now (or later, as described just below).
 
 ### Invite People
 
-When you start a thread, your whole group can access it immediately. If you want more people's participation, or want their participation sooner, you can additionally send them an alert via the box that immediately appears when you start the thread. You can also alert people in this way later on with the **[invite people](/en/user_manual/threads/thread_admin/#invite-guests-to-thread)** feature. Exactly like **send thread**, invited parties will immediately receive a notification.
+When you start a thread, your whole group can access it immediately. If you want more people's participation, or want their participation sooner, you can additionally send them an alert via the box that immediately appears when you start the thread. You can also alert people in this way later on via the **[members](/en/user_manual/threads/thread_admin/#invite-guests-to-thread)** button at the thread context's bottom. Exactly like **notify**, invited parties will immediately receive a notification.
 
-!["Invite people" feature in thread context](invite_people.png)
-
-If, for example, the thread is an important announcement and contains information that's ready for the whole group to take notice of, then **invite people**.
+If, for example, the thread is an important announcement and contains information that's ready for the whole group to take notice of, then **notify** them when you start the thread.
 
  ___Tip:___ _We've made it quick to select all of the members of the relevant group; click the link with your group's name._
 
