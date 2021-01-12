@@ -102,7 +102,7 @@ For your first advice process experiment, you might want to check that the peopl
 
 <p style="margin-left:2em;margin-right:2em;margin-top:2em;margin-bottom:2em"><i><b>Example, Solution bias:</b> If you are biased towards a particular solution to the problem/opportunity you’re trying to solve, let your advisors know. If you are running an advice process about different software vendors and you think one vendor is the best fit, say it and explain why. This will help advisors ask better questions and give better advice.</i></p>
 
-**Who to invite feedback from** is not always clear, and there may be a limit to how many people you have time to engage. One simple tool you can consider is Peggy Holman’s acronym, “Invite those who **ARE IN**”. Invite those who have **A**uthority, **R**esponsibility, and **E**xpertise, those who are **I**mpacted and/or generally **N**eed the consultation or outcome.
+**Who to invite feedback from** is not always clear, and there may be a limit to how many people you have time to engage. One simple tool you can consider is the acronym from Janoff & Weisbord's Future Search, “Invite those who **ARE IN**”. Invite those who have **A**uthority, **R**esources, **E**xpertise, **I**nformation, or have a **N**eed in regards to the consultation or outcome – if someone is impacted, they should be involved.
 
 Let us know if you want any specifics on overcoming challenges and succeeding with Advice process online, with or without Loomio.
 
