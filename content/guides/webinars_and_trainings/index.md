@@ -25,7 +25,7 @@ A simple guide to consultative decision making on & off Loomio:
 
 <iframe width="100%" height="380px" src="https://www.youtube-nocookie.com/embed/qfpHnyyiIU0?rel=0" frameborder="0" allowfullscreen></iframe>
 
-Or read the written companion [guide](en/guides/advice_process).
+Or read the written companion [guide](/en/guides/advice_process).
 
 ### Live support
 
