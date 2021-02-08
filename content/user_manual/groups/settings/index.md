@@ -8,7 +8,7 @@ menu:
     parent: 'groups'
 ---
 
-# Admin
+## Admin
 
 Only a group's admin can edit group settings.
 
@@ -16,7 +16,7 @@ As an admin of a Loomio group, you are responsible for guiding your group throug
 
 To learn how to edit the basics such as your **Group description** or **Cover photo**, see [starting a group](/en/guides/getting_started/starting_a_group).
 
-Users may be made [admins](https://help.loomio.org/en/user_manual/groups/membership/#admin) from the Members tab.
+Users may be made admins from the Members tab. For explicit steps, [click here](https://help.loomio.org/en/user_manual/groups/membership/#admin).
 
 Admin of [subgroups](../subgroups) have very similar permissions, but only for that subgroup. More details on how subgroups are administered, and by whom, [here](../subgroups).
 
