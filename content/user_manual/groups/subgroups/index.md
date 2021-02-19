@@ -36,9 +36,9 @@ However, similar to [starting a group](/en/guides/getting_started/starting_a_gro
 
 ### Who can see it
 
-Subgroups [privacy](/en/guides/getting_started/starting_a_group/#privacy) works the same as groups' do. A secret subgroup will not be visible to group members who are not invited to the subgroup.
+The [privacy](/en/guides/getting_started/starting_a_group/#privacy) settings for subgroups follow the same logic as that of any group. A **secret subgroup** will not be visible to group members who are not invited to the subgroup.
 
-Closed subgroups will be listed in the **Subgroups** tab, and, by default, members of the parent group can request and – upon approval by an admin – join them.
+**Closed subgroups** will be listed in the Subgroups tab of the relevant parent group, and, by default, members of the parent group can request and – upon approval by an admin – join them.
 
 See below for more on privacy.
 
