@@ -37,6 +37,6 @@ You can apply tags upon starting your thread.
 
 Clicking the **add tag** button allows you to edit, order, color, and **add new** tags.
 
-![](category_tag_discussions.png)
+![](organize_with_category_tags)
 
 [Edit](https://help.loomio.org/en/guides/getting_started/having_discussions/#keep-the-title-and-context-relevant) threads to add or remove tags after they're started.
