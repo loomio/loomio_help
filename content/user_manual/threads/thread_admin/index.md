@@ -65,10 +65,6 @@ Re-opening a closed thread is done from within the thread's page – again, the 
 
 **Category tags** (or just "tags") let you group any number of threads by categories that you define. Use the thread context's **edit** button to add or remove tags once a thread has been started. Add tags as you start the thread, [learn all about it](../starting_threads/#category-tags).
 
-#### Removing category tags
-
-Access the Category tags in the same way as above, but then click the **x** to remove the tags you do not want and then **save**.
-
 #### Navigating using category tags
 
 You can click on tags from within threads or use them from your group page; learn more about [sorting threads by tag](../../users/navigation/#Category-Tags-help-you-sort-threads).
