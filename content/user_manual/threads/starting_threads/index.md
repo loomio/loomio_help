@@ -40,3 +40,5 @@ Clicking the **add tag** button allows you to edit, order, color, and **add new*
 ![](organize_with_category_tags.png)
 
 [Edit](https://help.loomio.org/en/guides/getting_started/having_discussions/#keep-the-title-and-context-relevant) threads to add or remove tags after they're started.
+
+<iframe width="100%" height="380px" src="https://www.youtube-nocookie.com/embed/ntauplSLsQE?rel=0" frameborder="0" allowfullscreen></iframe>
