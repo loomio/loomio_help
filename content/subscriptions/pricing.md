@@ -14,7 +14,7 @@ Loomio exists to make it easy for anyone, anywhere, to participate in decisions 
 
 As a social enterprise and worker cooperative, our values are reflected in both the design of the software and how we operate as a business.
 
-We do not monetize your data or attention. We will never sell your data or use it for advertising purposes. You are free to export your data at any time.
+We do not monetize your data or attention. We will never sell your data or use it for advertising purposes. You own your own content and you are free to export your data at any time.
 
 ## Inclusive pricing model
 Our goal is to provide Loomio to as many people as possible, while also developing the Loomio platform so it can better serve you.
@@ -25,88 +25,47 @@ We aim to offer a competitive price for enterprise organizations, an affordable 
 
 Loomio is open source software, and you are free to set up your own instance of Loomio.
 
-# Active use subscription plan
+# Loomio subscription plans
+Simple, easy to understand pricing to encourage regular Loomio use and allow your group to grow without restriction.  
 
-Simple, transparent pricing automatically adjusts to your changing needs.
+A Loomio subscription is one price per group, and there is no limit on the number of subgroups you can have.
 
-A Loomio subscription is one price per group, calculated according to the total number of unique __active users per month__ in your group and any subgroups.
-
-__Active users__ are people who start threads or polls, or comment or vote in your group.
-
-Any users who visit the group, read content or leave reactions are not charged for.
-
-This means you can invite everyone in your organization into your group, and will only be charged for those who are active.
-
-## How Active pricing works
-
-At time of upgrade to an Active plan, you will be charged for the number of active users in your group. The minimum price for the plan is charged if there are 10 or less active users.
-
-### For monthly Active plans
-
-Loomio charges for the number of active users in the previous month.
-
-__Example__: At time of upgrade, Mary has 10 active users in her group, and pays $30 for the first month subscription.
-
-At the next monthly billing renewal date, Loomio detects 15 active users over the period, so Mary’s account is charged 15 active users x $3.00 = $45.00.
-
-In the following month, Loomio detects 12 active users, so at the next monthly renewal date is charged 12 active users x $3.00 = $36.00.
-
-
-### For annual Active plans
-
-Loomio updates the number of active users in your subscription once per month.
-
-If there is an increase in active users, the additional active users are charged a pro-rated amount for the year and this is charged immediately.
-
-If there is a decrease in active users, the decreased number of active users is credited to your subscription.
-
-__Example__: At time of upgrade, Mary has 10 active users in her group, and pays $300 for an annual subscription.
-
-At the beginning of the second month, Loomio detects 15 active users in Mary’s group. A charge for the new active users is calculated as 5 new active users x $30.00 x 11/12 = $137.50.
-
-At the beginning of the third month, Loomio detects 10 active users - a decrease of 5 active users), so a credit is applied to Mary's subscription account. The credit is calculated as 5 active users x $30.00 x 10/12 = $125.00.
-Subscription account credit is used before future charges are made.
-
-In all cases, the minimum subscription payment of 10 active users applies.
-
+This means you can invite everyone in your organization into your group!
 
 ## Free trial
-
 All new groups start on a free trial, so you can evaluate Loomio with your group.
 
-Free trials are for 14 days, limited to 20 people and 20 threads.
+Free trials are for 30 days, limited to 20 people and 20 threads.
 
-Contact us if you need to extend your trial.
+[Contact us](https://www.loomio.org/contact) if you need to extend your trial.
 
 At the end of the trial period you will be asked to upgrade to a paid subscription plan.
 
-## Active plan
+## Loomio Starter plan
+Loomio Starter plan will suit most people getting started, and includes all Loomio standard features.
 
-Loomio Active plan will suit most people getting started, and will grow as you engage more people.
+Price: $US 25.00 per month or $US 199.00 per year.
 
-Price: $30.00 per month.
-
-Active plan includes:
-- 10 active users
+Starter plan includes:
+- Loomio standard features
+- Unlimited members
 - Unlimited threads and decisions
 - Unlimited subgroups
-- Integrate Slack and Microsoft Teams
-- Single Sign On (SAML)
-- Additional active users at $US 3.00 per person per month.
-
-Annual payment: $US 300.00 per year, additional active users at $US 30.00 per year.
 
 Loomio subscriptions are on a pre-pay basis and cover the use of the service for the selected subscription period.
 
-## Enterprise pricing
-Contact us to discuss pricing for:
-- Private host
-- White label
-- Custom domain name
-- Custom data center
-- Very large groups
-- Training packages & webinars
-- Priority support
+## Loomio Pro plan
+Loomio Pro plan is suited to organizations who need implementation support and basic training, priority support and access to premium features.
+
+Price: $US 149.00 per month or $US 1,299.00 per year.
+
+Pro plan includes:
+- Everything in Loomio Starter plus
+- Access to training and implementation support
+- SAML (Single Sign On) integration
+- Access to premium features (coming soon)
+- 24/7 priority support
+- 1 x $US 199 Loomio credit for a Community group of your choice
 
 ## Nonprofit Active plan discount
 

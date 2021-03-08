@@ -14,60 +14,51 @@ Loomio uses the Chargify billing and subscription management service to manage s
 Prices are based on debit/credit card payment via an automated billing portal.
 
 ## Upgrading your group
-To continue to use Loomio beyond your free trial, you can upgrade your group to Basic or Pro plans, or apply for special rates available for Community & Volunteer member groups.
+To continue to use Loomio beyond your free trial, you can upgrade your group to a paid subscription plan.
 
-You may upgrade your group at any time.
+You may upgrade your group at any time by clicking the __Buy now__ button.
 
-## Multiple group consolidation
-If you have several groups, you may wish to consolidate these under a single group subscription.  In most cases we can move groups to become subgroups of a parent group. To do this, please [contact us](https://www.loomio.org/contact).
+![The Buy now button](buy-now.png)
 
-Groups moved to become subgroups retain all privacy and member permissions.
+You'll then be able to choose the right plan for your group's needs and setup a subscription with your credit card.
+
+Complete the required fields to set up your subscription, including:
+- Customer Information (name and email address)
+- Billing Information (credit or debit card details)
+- Billing Address (to insure sales taxes are applied correctly)
+- Confirm details and click the ‘Place my order’ button.
+
+The subscription is activated immediately and your group automatically upgraded. You will receive a tax invoice/statement confirming successful payment.
 
 ## Automatic payment and statement generation
-Payments via Chargify are automatic either monthly or annually, and a statement is issued on successful payment.
-
-You can update card and contact details at any time using the secure Account Management link to the billing portal. Look for the  'Account Management'  link at the bottom of the statement.
+Your credit or debit card details are held securely by our subscription management service provider Chargify, PCI DSS Level 1 Compliant, for future recurring payments.
+Monthly or annual payments via Chargify are automatic, and an invoice/statement is issued on successful payment.
+You can access statements, and update card and contact details at any time using the secure Account Management link to the billing portal. Look for the ‘Account Management’ link at the bottom of your statement.
 
 ## Billing problems
-If Chargify is unable to process a payment to your card when due, an email notification will be sent to the email address we have on file, along with a link to the billing portal where you can update card details.   The billing system will continue to retry the payment once a week, and if payment is not successful after four (4) attempts, the subscription plan will be cancelled (day 28).
-
+Chargify may be unable to process a payment to your card when due.
+If a payment is unsuccessful, an email notification will be sent to the email address we have on file, along with a link to the billing portal where you can update card details. The billing system will continue to retry the payment once a week, and if payment is not successful after four (4) attempts, the subscription plan will be cancelled (day 28).
+Card payment problems are often caused by:
+- Insufficient funds
+- Expired card
+- Bank restrictions on new cards or changes to existing cards. Please make sure your credit or debit card is authorized for “international payments” and “internet transactions” (“Prch” and “Auth”).
 The billing system will issue an alert via email when your credit card is nearing expiry.
 
-Card payment problems are sometimes caused by bank restrictions. Please make sure your credit or debit card is authorized for  "international payments" and "internet transactions" ("Prch" and "Auth").
-
 ## Alternate payment options
-Alternate payment options are only available for annual Basic and Pro plan subscriptions.
+Alternate payment options are only available for annual plan subscriptions.
 
-### Bank transfer payment
-We accept payment via bank transfer for payment within 20 days of invoice.
+### Payment via invoice and bank transfer
+Contact us to set up payment via invoice and bank transfer.
 
-### Manual invoices
-There is a 10% administration charge for manual invoice and purchase order processing.
+### Payment via bank transfer must be made within 20 days of invoice.
+Bank and international transfer fees must be added to the payment so that the full subscription fee due is paid.
+
+There is an administration charge for manual invoice and purchase order processing.
+- 10% for transactions <$US 500
+- 5% for transactions >$US 500
 
 ### Other currencies
 Invoices raised in currencies other than in USD are converted at the daily Telegraphic Transfer rate plus 5%.
-
-## Upgrade your plan
-To upgrade from trial, go to your group page and click the 'Upgrade' button or [visit the upgrade page](https://www.loomio.org/upgrade).
-
-You will see a list of all the groups you belong to.
-
-Find the group you wish to upgrade and click the Upgrade link.
-
-Select the subscription plan you wish to purchase and click ‘Pay monthly’ or ‘Pay yearly’
-This link takes you to the Loomio billing portal operated by Chargify.  Here you can set up your subscription.  Check the details of plan, price and payment frequency in the Plan Summary table are correct.
-
-Enter or copy/paste a coupon code if applicable and confirm that the price has been adjusted accordingly.
-
-Complete the required fields to set up your subscription, including:
-
-- Customer Information (name and email address)
-- Billing Information (credit card details)
-- Billing Address (to insure sales taxes are applied correctly)
-
-Confirm details and click the ‘Place my order’ button.
-
-The subscription is activated immediately and your group automatically upgraded.  You will receive a tax invoice/statement confirming successful payment.
 
 ## Change your plan
 
@@ -77,7 +68,7 @@ You will see a list of all the groups you belong to.
 
 Find the group you wish to change and click the 'Change' link.
 
-This link takes you to the Loomio billing portal operated by Chargify where you can change your subscription plan. You may need to enter your email address to receive a secure link to the portal.   
+This link takes you to the Loomio billing portal operated by Chargify where you can change your subscription plan. You may need to enter your email address to receive a secure link to the portal.
 
 Click on the 'Change Plan' link and select your new plan.
 
@@ -100,7 +91,5 @@ Your group data and membership remain and you can continue to comment on existin
 
 You can reinstate the subscription at any time. If you no longer require the group, you may deactivate it.
 
-## No refund policy
-Loomio does not provide refunds for subscription payments.
-
-If you believe a payment has been made in error, contact us with details and we will assess the situation on a case by case basis.
+## Fair refund policy
+When it comes to refunds, we treat our customers how we ourselves would like to be treated. Please see our [Fair refund policy]()
