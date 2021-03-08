@@ -65,31 +65,43 @@ Pro plan includes:
 - SAML (Single Sign On) integration
 - Access to premium features (coming soon)
 - 24/7 priority support
-- 1 x $US 199 Loomio credit for a Community group of your choice
+- 1 x $US 199 Loomio credit for a another group of your choice
 
-## Nonprofit Active plan discount
+## Need something else?
+Contact us to discuss pricing and configuration of Loomio for:
+- Custom domain and custom branding
+- Multiple Loomio groups or very large groups (over 3,000 people)
+- Private host service. Your own instance of Loomio running on a server and location of your choice, tailored to your needs.
 
-If your organization is a non-profit, non-government, educational institution or cooperative, it qualifies for a 33% discount.
+## Community Lifetime plan
+We encourage community and volunteer groups with a special one-time price for lifetime use of Loomio for your group.
 
-Use coupon code __NPAP3333__ when setting up your subscription.
+The Community Lifetime plan is available for community groups and organizations run by volunteers who have no full-time paid staff.
 
-Nonprofit Active plan price: $20.00 per month for the first 10 active users.
+Price: $US 199.00 one-time price for life.
 
-Additional active users at $US 2.00 per person per month.
+Community Lifetime plan includes:
+- Loomio standard features
+- Unlimited members (Contact us if you need to go over 1,000 members)
+- Unlimited threads and decisions
+- Unlimited subgroups
 
-Annual payment: $US 200.00 per year, additional active users at $US 20.00 per year.
+To access these special rates, apply for our Community Lifetime plan when you upgrade your group.
 
-Nonprofit discounts are not available for government organizations or agencies.
+We will ask you to make a declaration that your group has no full-time staff.
 
-## Community Active plan
-Community and volunteer groups are supported by members to achieve a purpose. They do not have full-time paid staff.
+When you have completed the form, you may continue to set up the Community active plan immediately. You do not need to wait for a response from us. We trust you and will contact you if we need to query your application.
 
-Price: $30.00 per year for the first 10 active users.
+We will check in with you once a year, near the annual renewal date of your plan, to see if you are still actively using Loomio and if your organization still meets the criteria for the Community plan.
 
-Additional active users at $US 3.00 per year.
+If your group has acquired funding and at least one full-time staff member, we will invite you to upgrade to Loomio Starter or Pro plans.
 
-These rates are only available as annual payments.
+This plan is “self-service” with limited support. However you can learn all you need to use Loomio effectively with [Loomio Help](https://help.loomio.org) which includes the user manual and guides.
 
-To access these special rates, apply for our Community active plan.
+## Training
+Loomio Pro plan training and implementation support is delivered via webinar and/or video conference.
 
-When you have completed the form, you may upgrade to the Community active plan immediately. You do not need to wait for a response from us. We will contact you if we need to query your application.
+- Implementation support to help you get your Loomio group started and engage with members
+- On-demand webinars to refresh your use of Loomio, ask questions and introduce new features.
+
+Bespoke training for your organization is tailored to your needs or your group.
