@@ -9,7 +9,6 @@ menu:
 ---
 
 # Overview
-
 Loomio exists to make it easy for anyone, anywhere, to participate in decisions that affect their lives.
 
 As a social enterprise and worker cooperative, our values are reflected in both the design of the software and how we operate as a business.
@@ -21,7 +20,7 @@ Our goal is to provide Loomio to as many people as possible, while also developi
 
 To sustainably work towards our vision, we have structured our pricing based on the type of organization we serve.
 
-We aim to offer a competitive price for enterprise organizations, an affordable price for businesses, nonprofit organizations, and special rates for community groups.
+We aim to offer a competitive price for enterprise organizations, an affordable price for businesses, non-profit organizations, and special rates for community groups.
 
 Loomio is open source software, and you are free to set up your own instance of Loomio.
 
