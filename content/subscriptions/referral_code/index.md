@@ -15,10 +15,11 @@ Whatever plan they choose - they will start benefiting from all the key features
 
 ### Loomio Pro Referrals: How-to and Conditions
 
-Pro Plan customer’s unique code, the **Chargify referral code**, is found under **Subscription status** on the **Settings** tab (from your group page).
+"Loomio Pro" plan customer’s unique code, the **Chargify referral code**, is found under **Subscription status** on the **Settings** tab (from your group page).
 
 ¹ ___Referral offer conditions:___
 
 - _The code must be used when signing up to a new subscription._
 - _Pricing is based on USD and our standard terms and conditions apply._
+- _Loomio Nonprofit Pro plans do_ not _qualify._
 - _The referral code can be used only once._
