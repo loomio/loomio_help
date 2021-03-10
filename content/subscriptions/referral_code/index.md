@@ -1,6 +1,7 @@
 ---
 title: Referral code
 description: Pro users can give a friend $199 OFF of any new plan.
+hideTOC: true
 weight: 30
 menu:
   main:
@@ -9,7 +10,7 @@ menu:
 
 Many people share the benefits of Loomio with their friends in other organizations.
 
-We have a referral offer for **Pro** customers. If you purchase an annual Loomio Pro plan, we’ll give you a $199 Loomio credit to give to any group of your choice. Your chosen group can choose to use it to upgrade or purchase a new plan such as a Loomio Starter plan for $199. They can even put the credit towards their own Loomio Pro plan.¹
+If you purchase an annual Loomio Pro plan, we’ll give you a **$199 Loomio credit** to give to any group of your choice. Your chosen group can choose to use it to upgrade or purchase a new plan such as a Loomio Starter plan for $199. They can even put the credit towards their own Loomio Pro plan.¹
 
 Whatever plan they choose - they will start benefiting from all the key features that make Loomio a leading-edge decision making & communication platform – as a gift from you!
 
