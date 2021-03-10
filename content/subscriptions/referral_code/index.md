@@ -1,6 +1,6 @@
 ---
 title: Referral code
-description: Give a friend 25% discount on their group’s first year Loomio subscription, and get $10.00 credit on your account. Share your group’s unique code for your friend to use when they set up a new subscription.
+description: Pro users can give a friend $199 OFF of any new plan.
 weight: 30
 menu:
   main:
@@ -9,17 +9,16 @@ menu:
 
 Many people share the benefits of Loomio with their friends in other organizations.
 
-We now offer a referral program to help your friend with a 25% discount on their group’s first year subscription.
+We have a referral offer for **Pro** customers. If you purchase an annual Loomio Pro plan, we’ll give you a $199 Loomio credit to give to any group of your choice. Your chosen group can choose to use it to upgrade or purchase a new plan such as a Loomio Starter plan for $199. They can even put the credit towards their own Loomio Pro plan.¹
 
-Your group also benefits with a $10.00 credit on your subscription account.
+Whatever plan they choose - they will start benefiting from all the key features that make Loomio a leading-edge decision making & communication platform – as a gift from you!
 
-Your group’s unique code, your **Chargify referral code**, is found under **Subscription status** – click on the **Settings** tab from your group page.
+### Loomio Pro Referrals: How-to and Conditions
 
-Use of your referral is not limited, so share it widely and reduce your subscription payments.
+Pro Plan customer’s unique code, the **Chargify referral code**, is found under **Subscription status** on the **Settings** tab (from your group page).
 
-Referral offer conditions:
+¹ ___Referral offer conditions:___
 
-- The code must be used when signing up to a new subscription.
-- The 25% discount applies to Active plans at signup, and for the first 12 months of subscription.
-- The $10.00 credit is applied to your subscription when your friend successfully signs up and makes the first payment.
-- The referral code can be used as many times as you want.
+- _The code must be used when signing up to a new subscription._
+- _Pricing is based on USD and our standard terms and conditions apply._
+- _The referral code can be used only once._
