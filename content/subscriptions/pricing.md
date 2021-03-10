@@ -31,6 +31,8 @@ A Loomio subscription is one price per group, and there is no limit on the numbe
 
 This means you can invite everyone in your organization into your group!
 
+Loomio subscriptions are on a pre-pay basis and cover the use of the service for the selected subscription period.
+
 ## Free trial
 All new groups start on a free trial, so you can evaluate Loomio with your group.
 
@@ -50,21 +52,34 @@ Starter plan includes:
 - Unlimited members
 - Unlimited threads and decisions
 - Unlimited subgroups
-
-Loomio subscriptions are on a pre-pay basis and cover the use of the service for the selected subscription period.
+- Integrate Slack and Microsoft Teams
 
 ## Loomio Pro plan
-Loomio Pro plan is suited to organizations who need implementation support and basic training, priority support and access to premium features.
+Loomio Pro plan is suited to organizations who value implementation support, access to training, priority support and premium features.
 
 Price: $US 149.00 per month or $US 1,299.00 per year.
 
 Pro plan includes:
 - Everything in Loomio Starter plus
-- Access to training and implementation support
-- SAML (Single Sign On) integration
-- Access to premium features (coming soon)
+- Single Sign On (SAML)
+- Online training webinars
 - 24/7 priority support
-- 1 x $US 199 Loomio credit for a another group of your choice
+- Premium features (coming soon)
+- 1 x $US 199 Loomio credit for another group of your choice
+
+## Loomio Pro Non-Profit plan
+Loomio Pro Non-Profit plan is available to validated non-profit organizations who value implementation support, access to training, priority support and premium features.
+
+Non profit organizations can upgrade to this plan for immediate subscription to Loomio. You will then be asked to complete a short process to validate your organization’s non profit status via our partner TechSoup.
+
+Price: $US 75.00 per month or $US 649.00 per year.
+
+Pro Non-Profit plan includes:
+- Everything in Loomio Starter plus
+- Single Sign On (SAML)
+- Online training webinars
+- 24/7 priority support
+- Premium features (coming soon)
 
 ## Need something else?
 Contact us to discuss pricing and configuration of Loomio for:
@@ -75,9 +90,9 @@ Contact us to discuss pricing and configuration of Loomio for:
 ## Community Lifetime plan
 We encourage community and volunteer groups with a special one-time price for lifetime use of Loomio for your group.
 
-The Community Lifetime plan is available for community groups and organizations run by volunteers who have no full-time paid staff.
+The Community Lifetime plan is available for community groups and organizations run by volunteers who have **no full-time paid staff**.
 
-Price: $US 199.00 one-time price for life.
+Price: $US 199.00 one-time payment.
 
 Community Lifetime plan includes:
 - Loomio standard features
@@ -89,11 +104,11 @@ To access these special rates, apply for our Community Lifetime plan when you up
 
 We will ask you to make a declaration that your group has no full-time staff.
 
-When you have completed the form, you may continue to set up the Community active plan immediately. You do not need to wait for a response from us. We trust you and will contact you if we need to query your application.
+When you have completed the form, you may continue to set up the Community Lifetime plan immediately. You do not need to wait for a response from us. We trust you and will contact you if we need to query your application.
 
-We will check in with you once a year, near the annual renewal date of your plan, to see if you are still actively using Loomio and if your organization still meets the criteria for the Community plan.
+We will check in with you once a year, near the annual renewal date of your plan, to see if you are still actively using Loomio and if your group still meets the criteria for the Community Lifetime plan.
 
-If your group has acquired funding and at least one full-time staff member, we will invite you to upgrade to Loomio Starter or Pro plans.
+If your group has acquired funding and at least one full-time staff member, we will invite you to upgrade to the Loomio Starter or Loomio Pro plan.
 
 This plan is “self-service” with limited support. However you can learn all you need to use Loomio effectively with [Loomio Help](https://help.loomio.org) which includes the user manual and guides.
 
