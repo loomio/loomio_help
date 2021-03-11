@@ -20,7 +20,7 @@ Our goal is to provide Loomio to as many people as possible, while also developi
 
 To sustainably work towards our vision, we have structured our pricing based on the type of organization we serve.
 
-We aim to offer a competitive price for enterprise organizations, an affordable price for businesses, non-profit organizations, and special rates for community groups.
+We aim to offer a competitive price for enterprise organizations, an affordable price for businesses, nonprofit organizations, and special rates for community groups.
 
 Loomio is open source software, and you are free to set up your own instance of Loomio.
 
@@ -68,7 +68,7 @@ Pro plan includes:
 - 1 x $US 199 Loomio credit for another group of your choice
 
 ## Loomio Pro Non-Profit plan
-Loomio Pro Non-Profit plan is available to validated non-profit organizations who value implementation support, access to training, priority support and premium features.
+Loomio Pro Non-Profit plan is available to validated nonprofit organizations who value implementation support, access to training, priority support and premium features.
 
 Non profit organizations can upgrade to this plan for immediate subscription to Loomio. You will then be asked to complete a short process to validate your organization’s non profit status via our partner TechSoup.
 
