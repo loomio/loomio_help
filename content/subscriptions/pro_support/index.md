@@ -1,22 +1,25 @@
 ---
-title: Loomio Pro Support & Training
-description: A tailored implementation schedule with a dedicated Loomio expert, and ongoing priority support to insure you and key users are up to speed with Loomio and set up for success.
+title: Bespoke Implementation Packages & Pro
+description: Get a tailored implementation experience with a dedicated Loomio expert – ensure key users are up to speed and you are set for success with Pro priority support.
+hidetoc: true
 weight: 10
 menu:
   main:
     parent: subscriptions
-    name: Pro Support
+    name: Win with Loomio (Pro plus…)
 ---
 
 ## What is Loomio Pro support?
-You will have a dedicated Loomio expert to interact with for any ongoing support you might need.
+With the purchase of a Loomio Pro plan you will receive a dedicated Loomio expert to interact with for any ongoing support you might need.
 
 1. When you upgrade, you will be invited to a one-hour implementation session on how to get the most out of Loomio. It’s for you, and the people you would like included, to become confident in using Loomio to meet your needs.
 2. Within the first 90 days, having the opportunity to put into practice the steps identified in the first call, you can schedule another time to follow up with your dedicated Loomio expert to refine your use of Loomio.
 
 We’ll keep in contact with you with opportunities to see how Loomio could work better for you, and introduce new features. Pro plan customers enjoy priority support all year round, to answer questions, help onboard new users, and more.
 
-At any time, you can also choose to add-on our advanced Bespoke training package.
+**[Upgrade to Pro here.](https://loomio.org/upgrade)**
+
+At any time, you can also choose to accelerate your journey towards more effective and efficient outcomes with your group with the following package:
 
 ## ‘Win with Loomio’ Bespoke Implementation Package
 Tailored implementation and training to suit your organization’s needs.  Our bespoke implementation package starts by understanding your unique group needs, the current tools and processes your group use, so as to implement Loomio in the most useful way.
@@ -27,7 +30,7 @@ As your experience with Loomio builds, 1-2 follow up sessions are scheduled with
 
 Those based in New Zealand and Australia are welcome to inquire about half or full day in-person workshops. These may incur an additional cost.
 
-### What it looks like
+### The standard package
 
 Phase 1: Scoping. A half-hour session by teleconference (e.g. Zoom) to understand your organization needs in more detail, and map the ecosystem of digital and nondigital tools and processes you currently use to organize, communicate, record, & decide with your group.
 
@@ -43,4 +46,6 @@ Phase 3: Follow up workshops (2 x 60 minute online sessions), typically schedule
 
 Online workshops are usually recorded so a video is made available for your review and to share with people who couldn’t join the workshop.
 
-Also available: In-person workshops for customers in New Zealand and Australia by arrangement. These will be at a location of your choosing and highly tailored to your needs. There may be additional costs with this package, especially for travel, and we’re keen to discuss with you a plan that makes the most sense for you.
+_Also available:_ In-person workshops for customers in New Zealand and Australia by arrangement. These will be at a location of your choosing and highly tailored to your needs. There may be additional costs with this package, especially for travel, and we’re keen to discuss with you a plan that makes the most sense for you.
+
+**[Request your bespoke implementation.](https://loomio.org/contact)**
