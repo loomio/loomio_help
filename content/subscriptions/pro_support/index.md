@@ -39,7 +39,8 @@ Phase 2: Implementation and training workshops to build confidence to introduce 
 - The first session is typically for administrators and group coordinators to configure your Loomio group, set up first discussion threads, polls and proposals for initial engagement, and learn how to manage group members.
 - The second session can either be to assist you to introduce Loomio to your group users, or to dive deeper into Loomio features that can help administrators. The goal is for attendees to develop confidence and mastery in achieving outcomes with Loomio.
 
-Phase 3: Follow up workshops (2 x 60 minute online sessions), typically scheduled within 90 days. Workshops typically include:
+Phase 3: Follow up workshops (one or two 30 minute online sessions), typically scheduled within 90 days. Workshops typically include:
+
 - Review your experience of Loomio thus far, focusing on how well Loomio is integrating with your processes. Responding to questions arising and feedback from group members.
 - Adapting and further developing processes and refreshing use of Loomio features (or introducing newly developed features).
 - Mapping a path forwards.
