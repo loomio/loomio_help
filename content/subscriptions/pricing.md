@@ -63,22 +63,22 @@ Pro plan includes:
 - Everything in Loomio Starter plus
 - Single Sign On (SAML)
 - Online training webinars
-- 24/7 priority support
+- Priority support
 - Premium features (coming soon)
 - 1 x $US 199 Loomio credit for another group of your choice
 
-## Loomio Pro Non-Profit plan
-Loomio Pro Non-Profit plan is available to validated nonprofit organizations who value implementation support, access to training, priority support and premium features.
+## Loomio Pro Nonprofit plan
+Loomio Pro Nonprofit plan is available to validated nonprofit organizations who value implementation support, access to training, priority support and premium features.
 
-Non profit organizations can upgrade to this plan for immediate subscription to Loomio. You will then be asked to complete a short process to validate your organization’s non profit status via our partner TechSoup.
+Nonprofit organizations can upgrade to this plan for immediate subscription to Loomio. You will then be asked to complete a short process to validate your organization’s nonprofit status via our partner TechSoup.
 
 Price: $US 75.00 per month or $US 649.00 per year.
 
-Pro Non-Profit plan includes:
+Pro Nonprofit plan includes:
 - Everything in Loomio Starter plus
 - Single Sign On (SAML)
 - Online training webinars
-- 24/7 priority support
+- Priority support
 - Premium features (coming soon)
 
 ## Need something else?
