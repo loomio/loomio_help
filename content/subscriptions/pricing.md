@@ -70,7 +70,9 @@ Pro plan includes:
 ## Loomio Pro Nonprofit plan
 Loomio Pro Nonprofit plan is available to validated nonprofit organizations who value implementation support, access to training, priority support and premium features.
 
-Nonprofit organizations can upgrade to this plan for immediate subscription to Loomio. You will then be asked to complete a short process to validate your organization’s nonprofit status via our partner TechSoup.
+Nonprofit organizations can upgrade to this plan for immediate subscription to Loomio. We'll then send you an email with a link to validate your organization’s nonprofit status via our partner [TechSoup Global Network](https://meet.techsoup.org/about-us/techsoup-global-network.html).
+
+[Click on this link to check TechSoup's nonprofit validation criteria for your country.](https://www.techsoup.global/techsoup-local-ngo-definitions)
 
 Price: $US 75.00 per month or $US 649.00 per year.
 
