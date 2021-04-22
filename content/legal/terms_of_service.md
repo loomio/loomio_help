@@ -3,7 +3,7 @@ title: Loomio Terms of Service
 hidesidenav: true
 ---
 
-The following terms and conditions govern all use of the Loomio Application Service (the “Service”) and all content, services and products available at or through loomio.org (the “Site”). The Service is owned and operated by the Loomio Co-operative Ltd (“Loomio”). The Service is offered subject to your acceptance without modification of all of the terms and conditions contained herein and all other operating rules, policies (including, without limitation, Loomio’s [Privacy Policy](privacy)) and procedures that may be published from time to time on this Site by Loomio (collectively, the “Agreement”).
+The following terms and conditions govern all use of the Loomio Application Service (the “Service”) and all content, services and products available at or through loomio.org (the “Site”). The Service is owned and operated by the Loomio Co-operative Ltd (“Loomio”). The Service is offered subject to your acceptance without modification of all of the terms and conditions contained herein and all other operating rules, policies (including, without limitation, Loomio’s [Privacy Policy](https://help.loomio.org/en/legal/privacy/)) and procedures that may be published from time to time on this Site by Loomio (collectively, the “Agreement”).
 
 If you are entering into this agreement on behalf of a company or other legal entity, you represent that you have the authority to bind such entity, its affiliates and all users who access our services through your account to these terms and conditions, in which case the terms "you" or "your" shall refer to such entity, its affiliates and users associated with it. If you do not have such authority, or if you do not agree with these terms and conditions, you must not accept this agreement and may not use the Service.
 
@@ -55,7 +55,7 @@ We reserve the right to modify these terms at any time and modified terms are in
 
 ## Data
 
-Users and group coordinators may request data related to their personal account and group(s) respectively. Loomio has the right to refuse repetitive or technically difficult requests. For information about how we collect and share user information please refer to Loomio’s [Privacy Policy](privacy_policy).
+Users and group coordinators may request data related to their personal account and group(s) respectively. Loomio has the right to refuse repetitive or technically difficult requests. For information about how we collect and share user information please refer to Loomio’s [Privacy Policy](https://help.loomio.org/en/legal/privacy/).
 
 ## Termination
 
@@ -98,9 +98,7 @@ This Agreement constitutes the entire agreement between Loomio and you concernin
 Loomio is made by Loomio Limited, a New Zealand registered subsidary of worker-owned Loomio Co-operative Limited. 
 
 Our postal address is:
-PO Box 27-529,
-Marion Square,
-Wellington 6141,
+Level 2, 275 Cuba Street,
+Te Aro,
+Wellington 6011,
 New Zealand
-
-Delivery is instantaneous, and no refunds will be given.
