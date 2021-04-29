@@ -100,6 +100,8 @@ To leave a group go to the Group page's **Settings** tab and click **Leave group
 
 ### Assigning titles
 You can name the role someone has within the group, or identify which organization they represent using the **title** feature. You or an admin can change yours by clicking **set title** from the dropdown near your name in the desired group's Members tab.
+<img width="1119" alt="image" src="https://user-images.githubusercontent.com/486367/115946965-c520ee80-a518-11eb-9212-5c3236a4e05b.png">
+
 
 You can even have different titles in different subgroups.
 
