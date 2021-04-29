@@ -48,11 +48,7 @@ You only need to be sure that they go into their email inbox (or Loomio account)
 
 ### Invite many at once
 
-You can send multiple invitations by entering multiple email addresses into the who to invite field (separated by commas or spaces). When you submit the form (ie, click **Send**) an email will be sent to each of the email addresses you supplied, containing a unique invitation link that can only be used once. This email will be sent in your current language.
-
-There is a limit to the number of invitation emails you can send. Any person can only have 100 unaccepted invitations at any time. This is a necessary limit to prevent spam emails / malintent. If you need to send more than this to start your group, send everyone the shareable link.
-
-> For example: At first, you can send 100 invitations. After 50 people accept their invitations, you can send another 50 invitations.
+You can send multiple invitations by entering (or copy pasting) multiple email addresses into the who to invite field (separated by commas or spaces). When you submit the form (ie, click **Send**) an email will be sent to each of the email addresses you supplied, containing a unique invitation link that can only be used once. This email will be sent in your current language.
 
 ## Managing invitations
 
