@@ -53,9 +53,7 @@ Contact us to set up payment via invoice and bank transfer.
 ### Payment via bank transfer must be made within 20 days of invoice.
 Bank and international transfer fees must be added to the payment so that the full subscription fee due is paid.
 
-There is an administration charge for manual invoice and purchase order processing.
-- 10% for transactions <$US 500
-- 5% for transactions >$US 500
+There is an administration charge for manual invoice and purchase order processing of $US 25.00.
 
 ### Other currencies
 Invoices raised in currencies other than in USD are converted at the daily Telegraphic Transfer rate plus 5%.
